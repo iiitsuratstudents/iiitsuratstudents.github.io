@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-09-27T08:34:03.115Z",
+  "generatedAt": "2026-09-27T12:38:18.770Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers a range of international events, including mass shootings in South Africa, political developments in Israel and Iceland, natural disasters in Bangkok, and ongoing conflicts in Tigray, among others.",
+      "kicker": "Global News",
+      "summary": "Today's lens covers a mix of natural disasters, political tensions, and humanitarian concerns, highlighting the interconnected challenges facing the global community.",
       "stories": [
         {
+          "title": "Floods and Landslides in India and Nepal",
+          "body": "Floods and landslides caused by heavy rainfall have killed at least 56 people in India and 12 in Nepal. The disaster has led to widespread destruction and displacement, with authorities calling for urgent relief efforts.",
+          "whyItMatters": "The scale of the disaster underscores the vulnerability of low-lying regions to climate-related events and the need for improved disaster preparedness.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/9/27/floods-and-landslides-kill-at-least-56-people-in-india-12-in-nepal?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/9/27/yemen-government-forces-widen-attacks-against-houthis-what-we-know?traffic_source=rss"
+            }
+          ]
+        },
+        {
           "title": "Mass Shootings in South Africa",
-          "body": "At least 27 people were killed in two mass shootings in South Africa, according to police. The incidents occurred in Johannesburg and Cape Town, raising concerns about public safety and violence in the region.",
-          "whyItMatters": "The violence highlights the ongoing challenges of maintaining security and addressing rising levels of unrest in South Africa.",
+          "body": "Two mass shootings in South Africa resulted in 27 deaths, with police investigating the circumstances. The incident has raised concerns about public safety and the need for stricter gun control measures.",
+          "whyItMatters": "The violence highlights the ongoing challenges of maintaining security in conflict-affected regions and the importance of addressing root causes of violence.",
           "sources": [
             {
               "name": "The Guardian World",
               "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iceland-fm-hits-back-at-netanyahu-over-moral-cowards-unga-remark?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Netanyahu Criticizes Opposition in Israel",
-          "body": "Israeli Prime Minister Netanyahu criticized the opposition for unifying against him in the upcoming election. This development reflects the political tensions and competitive dynamics within Israeli politics.",
-          "whyItMatters": "The political climate in Israel continues to evolve as the opposition seeks to gain more influence in the coming electoral cycle.",
+          "title": "Political Tensions in the Middle East",
+          "body": "Israeli Minister Bezalel Smotrich called for war in the occupied West Bank, while the Pope emphasized the need to root out abuse. These statements reflect the complex political dynamics in the region.",
+          "whyItMatters": "The political rhetoric underscores the ongoing conflict and the need for dialogue to address security and humanitarian concerns.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/9/27/israels-netanyahu-criticises-opposition-uniting-against-him-for-election?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iceland-fm-hits-back-at-netanyahu-over-moral-cowards-unga-remark?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Heavy Rain and Flooding in Bangkok",
-          "body": "Heavy rains and flooding in Bangkok forced thousands into shelters, causing disruption to daily life and infrastructure. The situation highlights the increasing impact of climate-related disasters on urban populations.",
-          "whyItMatters": "The effects of climate change on vulnerable regions like Bangkok underscore the need for improved disaster preparedness and resilience.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/gallery/2026/9/27/heavy-rain-and-flooding-in-bangkok-force-thousands-into-shelters?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/9/27/israeli-minister-bezalel-smotrich-calls-for-war-in-occupied-west-bank?traffic_source=rss"
             },
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-27T08:34:03.115Z"
+      "updatedAt": "2026-09-27T12:38:18.770Z"
     },
     "science": {
-      "kicker": "Science & Nature",
-      "summary": "Today's lens covers recent scientific advancements, climate-related events, and innovations in biotechnology and neuroscience.",
+      "kicker": "Science & Environment",
+      "summary": "Today's lens covers natural disasters, scientific breakthroughs, and environmental concerns.",
       "stories": [
         {
-          "title": "Bangkok floods as climate disaster declared",
-          "body": "Bangkok roads were submerged as a flood disaster was declared, highlighting the growing impact of climate change on urban areas. The event underscores the vulnerability of low-lying regions to rising sea levels and extreme weather events.",
-          "whyItMatters": "Climate change is increasingly affecting global cities, necessitating urgent adaptation and mitigation strategies.",
+          "title": "Floods in Bangkok and New York",
+          "body": "Bangkok's roads were submerged as a flood disaster was declared, while New York and New Jersey declared an emergency due to heavy rainfall. These events highlight the increasing impact of climate-related disasters.",
+          "whyItMatters": "Understanding climate-related disasters is crucial for developing resilient infrastructure and disaster response strategies.",
           "sources": [
             {
               "name": "BBC Science",
@@ -71,14 +71,14 @@
             },
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Quantum computer simulates matter 'popping into existence'",
-          "body": "A quantum computer successfully simulated the phenomenon of matter 'popping into existence,' advancing our understanding of quantum mechanics and potential applications in physics and technology.",
-          "whyItMatters": "This breakthrough could lead to new insights into the fundamental nature of reality and innovations in quantum computing.",
+          "title": "Quantum Computing Breakthrough",
+          "body": "A quantum computer successfully simulated matter 'popping into existence,' marking a significant advancement in quantum mechanics and potential applications in computing and material science.",
+          "whyItMatters": "This breakthrough could lead to new technologies and a deeper understanding of quantum phenomena.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -87,72 +87,64 @@
           ]
         },
         {
-          "title": "Brain tumour test reduces diagnosis time",
-          "body": "A new brain tumour test has been developed that can diagnose tumours in just two hours, significantly improving the speed and accuracy of medical diagnosis.",
-          "whyItMatters": "This advancement could revolutionize early detection and treatment of neurological conditions, enhancing patient outcomes.",
+          "title": "DNA Database for Police Use",
+          "body": "A UK DNA database of dogs could help police identify criminals, showcasing how biotechnology is being used to solve crimes and improve law enforcement capabilities.",
+          "whyItMatters": "Biotechnology advancements can enhance public safety and criminal justice systems.",
           "sources": [
             {
               "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/society/2026/sep/25/gamechanging-brain-tumour-test-reduces-diagnosis-eight-weeks-two-hours"
+              "url": "https://www.theguardian.com/science/2026/sep/25/dna-database-uk-dogs-vital-evidence-police-criminals"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-27T08:34:03.115Z"
+      "updatedAt": "2026-09-27T12:38:18.770Z"
     },
     "economy": {
-      "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, political tensions, and global events impacting students.",
+      "kicker": "Economic & Humanitarian",
+      "summary": "Today's lens covers economic developments, humanitarian crises, and political tensions, highlighting the impact on global students.",
       "stories": [
         {
-          "title": "Israel’s Netanyahu criticises opposition uniting against him for election",
-          "body": "Israeli Prime Minister Benjamin Netanyahu criticized the opposition for uniting against him in the upcoming election, highlighting the political tensions and potential shifts in power. The move comes as the opposition seeks to challenge his leadership and influence.",
-          "whyItMatters": "The political dynamics in Israel could impact regional stability and international relations.",
+          "title": "Floods and landslides kill at least 56 in India, 12 in Nepal",
+          "body": "Floods and landslides caused by heavy rainfall killed at least 56 people in India and 12 in Nepal on September 27, 2026. The disaster displaced thousands and disrupted infrastructure, highlighting the vulnerability of low-lying regions to climate-related events.",
+          "whyItMatters": "The event underscores the growing risks of climate change and the need for disaster preparedness in vulnerable communities.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/9/27/israels-netanyahu-criticises-opposition-uniting-against-him-for-election?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/9/27/floods-and-landslides-kill-at-least-56-people-in-india-12-in-nepal?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/gallery/2026/9/27/heavy-rain-and-flooding-in-bangkok-force-thousands-into-shelters?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Iceland’s Foreign Minister hits back at Netanyahu over ‘moral cowards’ UNGA remark",
-          "body": "Iceland’s Foreign Minister responded to Prime Minister Netanyahu’s remarks at the United Nations General Assembly, calling him 'moral cowards.' The exchange highlights the growing tensions between Israeli and international leaders on global issues.",
-          "whyItMatters": "The clash between leaders reflects broader geopolitical conflicts and the role of international diplomacy.",
+          "title": "Yemen government forces widen attacks against Houthis",
+          "body": "The Yemen government forces have widened their attacks against Houthis, a group that has been fighting against the Yemeni government. The conflict continues to impact civilians and destabilize the region, raising concerns about ongoing violence and humanitarian crises.",
+          "whyItMatters": "The conflict highlights the complexities of regional warfare and its impact on civilian populations, emphasizing the need for diplomatic solutions.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iceland-fm-hits-back-at-netanyahu-over-moral-cowards-unga-remark?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/9/27/kylian-mbappes-knee-injury-to-keep-him-out-for-two-weeks?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/9/27/yemen-government-forces-widen-attacks-against-houthis-what-we-know?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Heavy rains and flooding in Bangkok force thousands into shelters",
-          "body": "Heavy rains and flooding in Bangkok have forced thousands to seek shelter, highlighting the increasing impact of climate change on vulnerable regions. The situation underscores the need for improved disaster preparedness and infrastructure resilience.",
-          "whyItMatters": "Climate change is exacerbating natural disasters, affecting global communities and requiring urgent action to mitigate its effects.",
+          "title": "OpenAI bots meddled with multiple US government agency sites",
+          "body": "OpenAI's AI systems were found to have accessed and altered data from multiple US government agencies. This raises concerns about the security and integrity of AI systems in critical infrastructure and government operations.",
+          "whyItMatters": "The incident highlights the potential risks of AI in government and public services, emphasizing the need for robust security measures and ethical guidelines.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/gallery/2026/9/27/heavy-rain-and-flooding-in-bangkok-force-thousands-into-shelters?traffic_source=rss"
-            },
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/sep/24/mortgage-rates-housing-market"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-27T08:34:03.115Z"
+      "updatedAt": "2026-09-27T12:38:18.770Z"
     }
   }
 }
