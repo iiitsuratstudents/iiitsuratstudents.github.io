@@ -1,104 +1,96 @@
 {
-  "generatedAt": "2026-09-27T04:34:41.360Z",
+  "generatedAt": "2026-09-27T08:34:03.115Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of regional crises, political developments, and cultural events, highlighting the impact of natural disasters, geopolitical tensions, and social movements.",
+      "summary": "Today's lens covers a range of international events, including mass shootings in South Africa, political developments in Israel and Iceland, natural disasters in Bangkok, and ongoing conflicts in Tigray, among others.",
       "stories": [
         {
-          "title": "Storms and Flooding in the US",
-          "body": "A powerful storm has battered the US Northeast, causing widespread power outages and disrupting travel. Similar flooding is affecting New York and New Jersey, with officials declaring an emergency. The storm has highlighted the vulnerability of infrastructure in the region, especially in the wake of prolonged weather patterns.",
-          "whyItMatters": "Natural disasters underscore the need for resilient infrastructure and climate adaptation strategies, particularly in vulnerable regions.",
+          "title": "Mass Shootings in South Africa",
+          "body": "At least 27 people were killed in two mass shootings in South Africa, according to police. The incidents occurred in Johannesburg and Cape Town, raising concerns about public safety and violence in the region.",
+          "whyItMatters": "The violence highlights the ongoing challenges of maintaining security and addressing rising levels of unrest in South Africa.",
           "sources": [
+            {
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iceland-fm-hits-back-at-netanyahu-over-moral-cowards-unga-remark?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Netanyahu Criticizes Opposition in Israel",
+          "body": "Israeli Prime Minister Netanyahu criticized the opposition for unifying against him in the upcoming election. This development reflects the political tensions and competitive dynamics within Israeli politics.",
+          "whyItMatters": "The political climate in Israel continues to evolve as the opposition seeks to gain more influence in the coming electoral cycle.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/9/27/israels-netanyahu-criticises-opposition-uniting-against-him-for-election?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iceland-fm-hits-back-at-netanyahu-over-moral-cowards-unga-remark?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Heavy Rain and Flooding in Bangkok",
+          "body": "Heavy rains and flooding in Bangkok forced thousands into shelters, causing disruption to daily life and infrastructure. The situation highlights the increasing impact of climate-related disasters on urban populations.",
+          "whyItMatters": "The effects of climate change on vulnerable regions like Bangkok underscore the need for improved disaster preparedness and resilience.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/gallery/2026/9/27/heavy-rain-and-flooding-in-bangkok-force-thousands-into-shelters?traffic_source=rss"
+            },
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/powerful-storm-batters-us-northeast-disrupting-power-and-travel?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Tunisian Activists Detained",
-          "body": "Tunisian flotilla activists detained by authorities have faced worsening health conditions and family anguish. The incident reflects broader tensions in the region, including political repression and the impact of international sanctions on local communities.",
-          "whyItMatters": "The detention of activists highlights the complex interplay between political repression, human rights, and regional stability.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/9/27/detained-tunisian-flotilla-activists-worsening-health-amid-family-anguish?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/9/27/german-russian-foreign-ministers-hold-rare-talks-amid-rising-tensions?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "German and Russian Foreign Ministers Hold Talks",
-          "body": "German and Russian foreign ministers held rare talks amid rising geopolitical tensions, signaling a potential shift in diplomatic engagement. The meeting occurred in the context of escalating conflicts in the Middle East and the broader European security landscape.",
-          "whyItMatters": "Diplomatic engagement between major powers can influence regional stability and the trajectory of global conflicts, particularly in volatile areas.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/9/27/german-russian-foreign-ministers-hold-rare-talks-amid-rising-tensions?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/bangkok-declared-disaster-zone-after-heavy-rains-submerge-roads?traffic_source=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-27T04:34:41.360Z"
+      "updatedAt": "2026-09-27T08:34:03.115Z"
     },
     "science": {
       "kicker": "Science & Nature",
-      "summary": "Today's lens covers climate disasters, scientific breakthroughs, and advancements in health and technology.",
+      "summary": "Today's lens covers recent scientific advancements, climate-related events, and innovations in biotechnology and neuroscience.",
       "stories": [
         {
-          "title": "New York and New Jersey flood emergency declared",
-          "body": "A nor'easter caused widespread flooding in New York and New Jersey, prompting emergency declarations. The BBC Science outlet reported the event, highlighting the impact on infrastructure and communities. The flood risk is expected to continue into the coming weeks, with authorities urging residents to prepare for potential further disruptions.",
-          "whyItMatters": "Understanding climate-related disasters is crucial for developing resilient infrastructure and emergency response plans.",
+          "title": "Bangkok floods as climate disaster declared",
+          "body": "Bangkok roads were submerged as a flood disaster was declared, highlighting the growing impact of climate change on urban areas. The event underscores the vulnerability of low-lying regions to rising sea levels and extreme weather events.",
+          "whyItMatters": "Climate change is increasingly affecting global cities, necessitating urgent adaptation and mitigation strategies.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "title": "Quantum computer simulates matter 'popping into existence'",
-          "body": "A quantum computer has simulated a process where matter appears to pop into existence, challenging current theories of physics. This breakthrough, reported by ScienceDaily, could lead to new insights into quantum mechanics and potential applications in computing and materials science. The simulation involved complex quantum states and entanglement, demonstrating the computer's advanced capabilities.",
-          "whyItMatters": "Advancements in quantum computing may revolutionize fields such as cryptography, materials science, and theoretical physics.",
+          "body": "A quantum computer successfully simulated the phenomenon of matter 'popping into existence,' advancing our understanding of quantum mechanics and potential applications in physics and technology.",
+          "whyItMatters": "This breakthrough could lead to new insights into the fundamental nature of reality and innovations in quantum computing.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/09/260925005416.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/09/260925005430.htm"
             }
           ]
         },
         {
-          "title": "DNA database of UK dogs could help police identify criminals",
-          "body": "A new DNA database of UK dogs has been created, offering a valuable tool for law enforcement to identify criminals. The database, reported by The Guardian Science, combines genetic information with behavioral data to create unique identifiers. This innovation could significantly enhance crime-solving efforts and improve public safety.",
-          "whyItMatters": "Advancements in genetic databases can have real-world applications in law enforcement and criminal justice systems.",
+          "title": "Brain tumour test reduces diagnosis time",
+          "body": "A new brain tumour test has been developed that can diagnose tumours in just two hours, significantly improving the speed and accuracy of medical diagnosis.",
+          "whyItMatters": "This advancement could revolutionize early detection and treatment of neurological conditions, enhancing patient outcomes.",
           "sources": [
-            {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/sep/25/dna-database-uk-dogs-vital-evidence-police-criminals"
-            },
             {
               "name": "The Guardian Science",
               "url": "https://www.theguardian.com/society/2026/sep/25/gamechanging-brain-tumour-test-reduces-diagnosis-eight-weeks-two-hours"
@@ -107,52 +99,60 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-27T04:34:41.360Z"
+      "updatedAt": "2026-09-27T08:34:03.115Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including a storm in the US, a housing crisis in Spain, and political talks between German and Russian foreign ministers.",
+      "summary": "Today's lens covers economic developments, political tensions, and global events impacting students.",
       "stories": [
         {
-          "title": "Tunisian Flotilla Activists Detained",
-          "body": "Tunisian activists detained by authorities faced worsening health conditions and family anguish, raising concerns about human rights and political repression. The incident highlights tensions in the region and the impact of restrictive policies on civilian populations.",
-          "whyItMatters": "The detention of activists underscores the potential for human rights violations and the broader implications for regional stability.",
+          "title": "Israel’s Netanyahu criticises opposition uniting against him for election",
+          "body": "Israeli Prime Minister Benjamin Netanyahu criticized the opposition for uniting against him in the upcoming election, highlighting the political tensions and potential shifts in power. The move comes as the opposition seeks to challenge his leadership and influence.",
+          "whyItMatters": "The political dynamics in Israel could impact regional stability and international relations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/9/27/detained-tunisian-flotilla-activists-worsening-health-amid-family-anguish?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/9/27/israels-netanyahu-criticises-opposition-uniting-against-him-for-election?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/bangkok-declared-disaster-zone-after-heavy-rains-submerge-roads?traffic_source=rss"
+              "url": "https://www.aljazeera.com/gallery/2026/9/27/heavy-rain-and-flooding-in-bangkok-force-thousands-into-shelters?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "US Storm Disrupts Power and Travel",
-          "body": "A powerful storm battered the US Northeast, causing power outages and disrupting travel. The impact of such weather events highlights the vulnerability of infrastructure and the need for robust disaster preparedness.",
-          "whyItMatters": "Natural disasters can have significant economic and social consequences, emphasizing the importance of resilient infrastructure and emergency response systems.",
+          "title": "Iceland’s Foreign Minister hits back at Netanyahu over ‘moral cowards’ UNGA remark",
+          "body": "Iceland’s Foreign Minister responded to Prime Minister Netanyahu’s remarks at the United Nations General Assembly, calling him 'moral cowards.' The exchange highlights the growing tensions between Israeli and international leaders on global issues.",
+          "whyItMatters": "The clash between leaders reflects broader geopolitical conflicts and the role of international diplomacy.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/powerful-storm-batters-us-northeast-disrupting-power-and-travel?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iceland-fm-hits-back-at-netanyahu-over-moral-cowards-unga-remark?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/9/27/kylian-mbappes-knee-injury-to-keep-him-out-for-two-weeks?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Spain's Housing Crisis Sparks Protests",
-          "body": "Thousands protested in Madrid against Spain's housing crisis, calling for reforms to address rising prices and limited access to affordable housing. The protests reflect growing public dissatisfaction with economic policies and the need for urgent action to stabilize the housing market.",
-          "whyItMatters": "Economic inequality and housing instability can lead to social unrest, highlighting the importance of policy reforms to support vulnerable populations.",
+          "title": "Heavy rains and flooding in Bangkok force thousands into shelters",
+          "body": "Heavy rains and flooding in Bangkok have forced thousands to seek shelter, highlighting the increasing impact of climate change on vulnerable regions. The situation underscores the need for improved disaster preparedness and infrastructure resilience.",
+          "whyItMatters": "Climate change is exacerbating natural disasters, affecting global communities and requiring urgent action to mitigate its effects.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/thousands-protest-in-madrid-against-spains-housing-crisis?traffic_source=rss"
+              "url": "https://www.aljazeera.com/gallery/2026/9/27/heavy-rain-and-flooding-in-bangkok-force-thousands-into-shelters?traffic_source=rss"
+            },
+            {
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/sep/24/mortgage-rates-housing-market"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-27T04:34:41.360Z"
+      "updatedAt": "2026-09-27T08:34:03.115Z"
     }
   }
 }
