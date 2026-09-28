@@ -1,69 +1,69 @@
 {
-  "generatedAt": "2026-09-28T16:36:47.444Z",
+  "generatedAt": "2026-09-28T20:35:06.584Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers global events impacting students, including health crises, military actions, and regional conflicts.",
+      "summary": "Today's lens covers a mix of international events, including political developments, natural disasters, and cultural incidents, highlighting the complex interplay of global issues.",
       "stories": [
         {
-          "title": "Ebola outbreak in DRC intensifies",
-          "body": "Ebola cases have surpassed 8,000 in the Democratic Republic of Congo (DRC), with the government struggling to control the outbreak. The situation has raised concerns about public health and the potential for further spread. The DRC has faced challenges in managing the crisis, including limited medical resources and logistical difficulties.",
-          "whyItMatters": "The outbreak highlights the importance of global health cooperation and the need for rapid response mechanisms in conflict zones.",
+          "title": "British comedian faces legal action after controversial stand-up",
+          "body": "A British comedian was convicted in absentia for insulting Turkish President Recep Tayyip Erdoğan, marking a significant legal development in the region. The case highlights the tension between artistic expression and national sensitivities, particularly in the context of international relations.",
+          "whyItMatters": "This incident underscores the challenges of balancing artistic freedom with cultural and political sensitivities in a globalized world.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/9/28/ebola-cases-surpass-8000-as-drc-struggles-to-control-outbreak?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/aje-onl-nf_nepal-hit-by-deadly-floods-landslides-avalanche-280926?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Israeli incursions at Al-Aqsa Mosque",
-          "body": "Israeli forces have carried out incursions at the Al-Aqsa Mosque, a significant religious site in Jerusalem. The actions have sparked tensions between Israeli and Palestinian communities, with concerns about security and the potential for escalation in the region. The situation reflects broader geopolitical tensions in the Middle East.",
-          "whyItMatters": "The incursions underscore the complex dynamics of regional security and the impact of military actions on civilian populations.",
+          "title": "US steel mill project sparks debate over trade and employment",
+          "body": "US President Trump announced a $15 billion steel mill project in Iowa, aiming to boost domestic manufacturing and reduce reliance on imported steel. The decision has sparked discussions about trade policies, job creation, and the impact on global supply chains.",
+          "whyItMatters": "The steel mill project reflects broader tensions in global trade and the role of domestic industries in shaping economic policy.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/jerusalem-daily-israeli-incursions-at-al-aqsa-mosque?traffic_source=rss"
+              "url": "https://www.aljazeera.com/economy/2026/9/28/trump-announces-15bn-steel-mill-project-in-iowa-before-us-midterms?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/at-least-33-killed-after-myanmar-military-air-strike-hits-market?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/9/28/nfl-asks-us-homeland-security-to-remove-video-with-former-star-player?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "UK pledges tougher stance on Israeli actions in Gaza",
-          "body": "The UK has committed to a more firm position on Israeli actions in Gaza and the West Bank, emphasizing the need for accountability and adherence to international law. The statement comes amid ongoing tensions and calls for a balanced approach to the conflict. The UK's position reflects its broader geopolitical interests and commitments.",
-          "whyItMatters": "The UK's stance highlights the importance of diplomatic engagement and the balance between security concerns and humanitarian obligations in conflict zones.",
+          "title": "Nepal faces severe natural disaster aftermath",
+          "body": "Nepal has been hit by deadly floods, landslides, and avalanches, causing widespread destruction and displacement. The disaster has strained local resources and highlighted the vulnerability of mountainous regions to climate-related events.",
+          "whyItMatters": "The impact of natural disasters on vulnerable populations and infrastructure underscores the need for resilience and disaster preparedness in developing countries.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/9/28/uk-pledges-tougher-stance-on-israeli-actions-in-gaza-west-bank?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/aje-onl-nf_nepal-hit-by-deadly-floods-landslides-avalanche-280926?traffic_source=rss"
             },
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-28T16:36:47.444Z"
+      "updatedAt": "2026-09-28T20:35:06.584Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers advancements in space exploration, genetic research, and environmental science, highlighting both scientific discoveries and their potential impacts.",
+      "summary": "Today's lens covers advancements in space exploration, genetic research, climate science, and other scientific discoveries.",
       "stories": [
         {
-          "title": "Starship splashdown ends in fireball",
-          "body": "A SpaceX Starship rocket successfully completed its first orbital flight, with the vehicle splashing down in the Pacific Ocean. The mission marked a significant milestone in space exploration, showcasing the potential for future deep-space travel.",
-          "whyItMatters": "This achievement demonstrates the progress being made in space technology and could inspire future missions and innovations.",
+          "title": "SpaceX Starship completes orbit test",
+          "body": "SpaceX's Starship rocket successfully completed its first orbit test, with the vehicle splashdown in a fireball. The test marked a significant milestone in space exploration, demonstrating the rocket's capability to carry heavy payloads and return to Earth. The event was covered by BBC Science and The Guardian Science.",
+          "whyItMatters": "This test highlights the progress in reusable rocket technology, which is crucial for reducing the cost of space travel and enabling future missions.",
           "sources": [
             {
               "name": "BBC Science",
@@ -77,8 +77,8 @@
         },
         {
           "title": "Gene-edited bananas that don’t go brown could hit UK supermarkets",
-          "body": "Scientists have developed genetically modified bananas that retain their color for longer, addressing a common issue in fruit preservation. This innovation could have implications for food supply chains and consumer preferences.",
-          "whyItMatters": "This development highlights the potential of genetic engineering to solve real-world problems and improve food quality and sustainability.",
+          "body": "Scientists have developed gene-edited bananas that do not brown when cut, a breakthrough in food science. The innovation could reduce food waste and improve shelf life, potentially impacting UK supermarkets. The development was reported by The Guardian Science.",
+          "whyItMatters": "This advancement could lead to more sustainable food systems and reduced environmental impact from food waste.",
           "sources": [
             {
               "name": "The Guardian Science",
@@ -87,54 +87,54 @@
           ]
         },
         {
-          "title": "Old hearts age backwards: transplanted organs adjust to host's biological age",
-          "body": "A study reveals that transplanted organs can adjust to the host's biological age, suggesting new possibilities for organ transplantation and regenerative medicine. This finding could lead to more effective and personalized medical treatments.",
-          "whyItMatters": "This discovery could revolutionize organ transplantation and improve patient outcomes by allowing for more accurate predictions and tailored treatments.",
+          "title": "New research on the universe's infinity",
+          "body": "Scientists have explored the concept of the universe being infinite, with new findings suggesting the universe may have a more complex structure than previously thought. The research was published in ScienceDaily and covered by BBC Science.",
+          "whyItMatters": "Understanding the nature of the universe's infinity could lead to breakthroughs in cosmology and our understanding of the cosmos.",
           "sources": [
             {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/d41586-026-03043-w"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260927225041.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-28T16:36:47.444Z"
+      "updatedAt": "2026-09-28T20:35:06.584Z"
     },
     "economy": {
-      "kicker": "Economic",
-      "summary": "The lens covers recent economic developments, including health crises, technological issues, political statements, and market trends.",
+      "kicker": "Economy",
+      "summary": "Today's lens covers economic developments in the US, including legal cases, political announcements, and market reactions, while also highlighting regional crises and business news.",
       "stories": [
         {
-          "title": "Ebola Cases Surpass 8,000 in DRC",
-          "body": "Ebola cases in the Democratic Republic of Congo (DRC) have surpassed 8,000, according to Al Jazeera. The outbreak remains a significant public health challenge, with efforts to control the spread intensifying. The situation highlights the ongoing struggle against infectious diseases in conflict-affected regions.",
-          "whyItMatters": "The outbreak underscores the importance of global health cooperation and resource allocation in fragile states.",
+          "title": "Apple Ordered to Pay $5.7bn in Patent Infringement Case",
+          "body": "Al Jazeera reported that Apple was ordered to pay $5.7 billion in a patent infringement case, highlighting the ongoing legal battles between tech companies. The case involves allegations that Apple's products infringe on patents held by other companies. This development could impact the tech industry's competitive landscape and raise questions about intellectual property rights.",
+          "whyItMatters": "This legal decision underscores the complexities of intellectual property in the tech sector and its potential implications for global competition.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/9/28/ebola-cases-surpass-8000-as-drc-struggles-to-control-outbreak?traffic_source=rss"
+              "url": "https://www.aljazeera.com/economy/2026/9/28/apple-ordered-to-pay-5-7bn-in-patent-infringement-case?traffic_source=rss"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/9/28/florida-authorities-ask-court-to-block-openais-chatgpt-over-safety-issues?traffic_source=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/sep/28/trump-us-economy-midterm-elections"
             }
           ]
         },
         {
-          "title": "UK Pledges Tougher Stance on Israeli Actions in Gaza",
-          "body": "Al Jazeera reports that the UK has pledged a tougher stance on Israeli actions in Gaza and the West Bank. This follows international pressure and concerns over civilian casualties and the impact of Israeli military operations. The UK's position reflects broader geopolitical tensions in the Middle East.",
-          "whyItMatters": "The UK's stance highlights the complex interplay between regional conflicts, international law, and political commitments.",
+          "title": "US Midterms and Trump's Economic Claims Fall Flat",
+          "body": "The Guardian Business reported that Trump's economic claims during the US midterms faced criticism, as voters questioned the accuracy of his economic forecasts. The article highlights the political and economic challenges faced by the Republican candidate, emphasizing the need for credible economic data in political discourse.",
+          "whyItMatters": "This story illustrates the importance of factual accuracy in political rhetoric and the impact of economic forecasts on public perception during elections.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/9/28/uk-pledges-tougher-stance-on-israeli-actions-in-gaza-west-bank?traffic_source=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/sep/28/trump-us-economy-midterm-elections"
             }
           ]
         },
         {
           "title": "UK Diesel Prices Hit All-Time High",
-          "body": "BBC Business reports that UK diesel prices have reached an all-time high, according to the Royal Automobile Club (RAC). This is attributed to increased fuel demand and supply constraints, reflecting broader economic and geopolitical factors affecting the energy market.",
-          "whyItMatters": "The rise in diesel prices underscores the impact of global economic conditions on consumer costs and energy policy decisions.",
+          "body": "BBC Business reported that UK diesel prices reached an all-time high, with the Road Safety Council citing supply and demand factors. The article explains the impact of the diesel export ban and the resulting economic strain on consumers and businesses.",
+          "whyItMatters": "The rising diesel prices highlight the vulnerability of the UK energy market and the effects of political decisions on everyday consumers.",
           "sources": [
             {
               "name": "BBC Business",
@@ -142,13 +142,13 @@
             },
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-28T16:36:47.444Z"
+      "updatedAt": "2026-09-28T20:35:06.584Z"
     }
   }
 }
