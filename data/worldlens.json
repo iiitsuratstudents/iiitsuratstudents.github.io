@@ -1,65 +1,76 @@
 {
-  "generatedAt": "2026-09-27T20:33:07.297Z",
+  "generatedAt": "2026-09-28T00:43:35.671Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of geopolitical developments, humanitarian crises, and international tensions, highlighting the complexity of global affairs.",
+      "kicker": "Global Events",
+      "summary": "Today's lens covers a range of international developments, including refugee crises, political tensions, natural disasters, and cultural events.",
       "stories": [
         {
-          "title": "Serbian President Resigns",
-          "body": "Serbian President Aleksandar Vučić resigned on September 27, 2026, following a period of political instability and public unrest. The resignation paved the way for early elections, signaling a transition of power in a region marked by historical tensions and ongoing political challenges.",
-          "whyItMatters": "The transition of power in Serbia could reshape regional dynamics and influence international relations in the Balkans.",
+          "title": "Refugee Crisis in South Africa",
+          "body": "Refugees in South Africa are facing increased security risks as the September 30 deadline for resettlement approaches. Al Jazeera reports that tensions have risen, with fears of renewed attacks. The situation highlights the challenges of managing refugee populations and ensuring safety in conflict zones.",
+          "whyItMatters": "The security concerns in South Africa underscore the complexities of refugee policies and the need for international cooperation in humanitarian efforts.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Iranian Minister Calls for Negotiation",
-          "body": "Iranian Minister of Foreign Affairs emphasized that only negotiation can end the conflict in the Persian Gulf after Trump rejected a proposed deal. This statement reflects the ongoing tensions between Iran and the United States, highlighting the complexity of diplomatic relations in the Middle East.",
-          "whyItMatters": "The Iranian government's insistence on negotiation underscores the importance of diplomatic solutions in resolving regional conflicts.",
-          "sources": [
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Mass Shootings in South Africa",
-          "body": "Two mass shootings in South Africa left 27 dead, with police confirming the incidents. The violence highlights the ongoing security challenges in the region and the impact of political instability on public safety.",
-          "whyItMatters": "The scale of the violence underscores the need for improved security measures and political stability in South Africa.",
-          "sources": [
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/9/28/refugees-in-south-africa-fear-new-attacks-as-september-30-deadline-looms?traffic_source=rss"
             },
             {
               "name": "The Guardian World",
               "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town"
             }
           ]
+        },
+        {
+          "title": "Iran's Preparations for War",
+          "body": "Iranian officials have confirmed they are fully prepared for war, citing tensions in the Hormuz Strait. Al Jazeera reports that the declaration reflects growing geopolitical tensions and the potential for escalation in regional conflicts. This highlights the volatile nature of international relations and the risks of military confrontation.",
+          "whyItMatters": "Iran's readiness for war underscores the fragility of regional stability and the potential for conflict in the Middle East.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Cape Town's Baboon Faeces Controversy",
+          "body": "Cape Town is divided over a plan to remove monkeys from the city, with some residents expressing concerns about the impact on the environment and local ecology. The debate highlights the tension between urban development and wildlife conservation, reflecting broader discussions on sustainable city planning.",
+          "whyItMatters": "The controversy in Cape Town illustrates the challenges of balancing urban development with environmental preservation and public opinion.",
+          "sources": [
+            {
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe"
+            }
+          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-27T20:33:07.297Z"
+      "updatedAt": "2026-09-28T00:43:35.671Z"
     },
     "science": {
       "kicker": "Science & Nature",
-      "summary": "Today's lens covers scientific advancements, environmental issues, and technological developments impacting students and researchers globally.",
+      "summary": "Today's lens highlights a mix of environmental, scientific, and cultural developments, including climate-related events, new research findings, and technological advancements.",
       "stories": [
         {
-          "title": "Father and son crowned Sheep Dog World Trial champions",
-          "body": "In a surprising development, a father and son team won the Sheep Dog World Trial, a competitive event that tests the agility and endurance of dogs. The victory highlights the growing popularity of dog sports and the potential for future competitions.",
-          "whyItMatters": "This event demonstrates the intersection of human interest and scientific training, offering insights into canine performance and sports culture.",
+          "title": "Storm kills one in New York",
+          "body": "A nor'easter storm killed one person in New York and New Jersey, causing widespread disruption and flooding. The storm, which struck on September 27, 2026, brought heavy rain and strong winds, leading to power outages and infrastructure damage. The event underscores the increasing frequency of extreme weather events in the region.",
+          "whyItMatters": "Understanding the impact of extreme weather is crucial for developing resilience strategies and improving disaster preparedness.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Sheep Dog World Trial champions",
+          "body": "A father and son were crowned champions in the Sheep Dog World Trial, a competition that tests the agility and strength of dogs. The event highlights the growing popularity of canine sports and the dedication of participants in maintaining high standards of performance.",
+          "whyItMatters": "The success of canine sports can inspire interest in animal training and the importance of physical activity for both humans and animals.",
           "sources": [
             {
               "name": "BBC Science",
@@ -67,14 +78,14 @@
             },
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cvp8d0nezkeko?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "title": "Glucosamine linked to faster Alzheimer’s progression",
-          "body": "A study suggests that glucosamine, a common supplement for joint health, may accelerate the progression of Alzheimer’s disease. This finding raises questions about the safety and efficacy of such supplements in the context of neurodegenerative disorders.",
-          "whyItMatters": "Understanding the potential risks of supplements could influence public health decisions and guide future research into Alzheimer’s treatment.",
+          "body": "New research suggests that glucosamine, a common supplement used for joint health, may accelerate the progression of Alzheimer’s disease. The findings add to the growing body of evidence about the role of supplements in neurodegenerative conditions.",
+          "whyItMatters": "Understanding the potential risks of common supplements can help individuals make informed health decisions and guide future research into effective treatments for Alzheimer’s.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -85,66 +96,63 @@
               "url": "https://www.sciencedaily.com/releases/2026/09/260925093201.htm"
             }
           ]
-        },
-        {
-          "title": "Nepal’s floods expose climate-disaster funding gaps",
-          "body": "Recent floods in Nepal have exposed vulnerabilities in climate-disaster funding, highlighting the need for more robust policies to support disaster response and recovery efforts. The situation underscores the importance of preparedness and financial planning in vulnerable regions.",
-          "whyItMatters": "This event emphasizes the global impact of climate change and the critical need for equitable disaster management strategies.",
-          "sources": [
-            {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/d41586-026-03016-z"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-27T20:33:07.297Z"
+      "updatedAt": "2026-09-28T00:43:35.671Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of global economic developments, including AI regulation, political tensions, and local incidents, highlighting the complexity of contemporary issues.",
+      "summary": "Today's lens covers economic developments, including housing costs, AI ethics, and political tensions, with a focus on global impacts.",
       "stories": [
         {
-          "title": "Trump Rejects Iran's Peace Proposal",
-          "body": "Al Jazeera reports that U.S. President Donald Trump has rejected Iran's peace proposal, which sought to end the ongoing conflict in the region. The rejection has sparked diplomatic tensions, with Iran expressing frustration over the decision.",
-          "whyItMatters": "The rejection of a peace proposal highlights the challenges of achieving diplomatic resolutions in high-stakes geopolitical situations.",
+          "title": "Refugees in South Africa fear new attacks as September 30 deadline looms",
+          "body": "Refugee communities in South Africa are increasingly concerned about potential violence as the September 30 deadline for international aid and resettlement approaches. Al Jazeera reports that tensions are rising due to limited resources and logistical challenges, prompting fears of renewed attacks on refugee camps and communities.",
+          "whyItMatters": "The situation highlights the vulnerability of displaced populations and the importance of international cooperation in humanitarian efforts.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/inside-story/2026/9/27/why-has-trump-rejected-irans-peace-proposal?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/9/28/refugees-in-south-africa-fear-new-attacks-as-september-30-deadline-looms?traffic_source=rss"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Ireland Pubs Block Israel Match Due to Gaza Conflict",
-          "body": "In Ireland, pubs have refused to screen a football match between Israel and another team, citing concerns over the ongoing conflict in Gaza. The decision reflects broader tensions between Israel and its Arab neighbors.",
-          "whyItMatters": "The refusal to show the match underscores the impact of regional conflicts on public entertainment and international relations.",
+          "title": "UK pledges new industrialisation era with Chancellor Healey",
+          "body": "UK Chancellor Jeremy Healey announced a commitment to a 'new age of industrialisation' in a conference speech, emphasizing technological innovation and economic growth. The plan includes investments in AI, data centers, and sustainable practices, aiming to position the UK as a global leader in digital transformation.",
+          "whyItMatters": "The UK's economic strategy reflects broader trends in global technological advancement and the role of AI in shaping future industries.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power"
             }
           ]
         },
         {
-          "title": "Bill Gates Warns Against Unregulated AI",
-          "body": "Bill Gates, a prominent figure in technology and philanthropy, has stated that AI without regulation is 'completely irresponsible.' He emphasizes the need for ethical guidelines to prevent potential harm and misuse of artificial intelligence.",
-          "whyItMatters": "Gates' warning highlights the growing concern over the ethical and societal implications of AI development and its need for global regulatory frameworks.",
+          "title": "US storm causes power outages and floods in Northeast",
+          "body": "A powerful storm has caused widespread flooding and power outages in the US Northeast, disrupting daily life and infrastructure. Al Jazeera reports that the storm has led to significant damage and economic losses, highlighting the growing impact of climate-related disasters on vulnerable regions.",
+          "whyItMatters": "The storm underscores the increasing frequency and severity of natural disasters, emphasizing the need for resilient infrastructure and climate adaptation strategies.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/9/27/bill-gates-says-ai-without-regulation-is-completely-irresponsible?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/9/27/powerful-storm-floods-us-northeast-causes-power-outages?traffic_source=rss"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-27T20:33:07.297Z"
+      "updatedAt": "2026-09-28T00:43:35.671Z"
     }
   }
 }
