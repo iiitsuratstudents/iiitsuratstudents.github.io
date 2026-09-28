@@ -1,118 +1,140 @@
 {
-  "generatedAt": "2026-09-28T12:43:01.502Z",
+  "generatedAt": "2026-09-28T16:36:47.444Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of geopolitical developments, natural disasters, and regional conflicts, highlighting the complexity of global dynamics.",
+      "summary": "Today's lens covers global events impacting students, including health crises, military actions, and regional conflicts.",
       "stories": [
         {
-          "title": "South Korea and Ukraine demand apology over North Korean POWs",
-          "body": "South Korea is demanding an apology from Ukraine over the treatment of North Korean prisoners of war, citing concerns about human rights and the integrity of international law. The demand comes as tensions in the region persist, with both countries emphasizing the importance of accountability and respect for captured soldiers.",
-          "whyItMatters": "The issue highlights the growing importance of human rights and international law in regional conflicts, and the role of diplomatic engagement in resolving disputes.",
+          "title": "Ebola outbreak in DRC intensifies",
+          "body": "Ebola cases have surpassed 8,000 in the Democratic Republic of Congo (DRC), with the government struggling to control the outbreak. The situation has raised concerns about public health and the potential for further spread. The DRC has faced challenges in managing the crisis, including limited medical resources and logistical difficulties.",
+          "whyItMatters": "The outbreak highlights the importance of global health cooperation and the need for rapid response mechanisms in conflict zones.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/9/28/why-south-korea-is-demanding-an-apology-from-ukraine-over-north-korean-pows?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/28/africa-is-not-responsible-for-climate-crisis-activist-vanessa-nakate?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "South Africa experiences two mass shootings, killing 28 people",
-          "body": "Two mass shootings in South Africa left 28 people dead, with police confirming the incidents. The violence has sparked widespread concern over public safety and the need for improved security measures in urban areas. The events have also intensified discussions about the impact of violence on communities and the role of law enforcement in maintaining order.",
-          "whyItMatters": "The violence underscores the ongoing challenges of maintaining public safety and the need for effective strategies to address violent incidents in densely populated areas.",
-          "sources": [
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.aljazeera.com/news/2026/9/28/ebola-cases-surpass-8000-as-drc-struggles-to-control-outbreak?traffic_source=rss"
             },
             {
               "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town"
+              "url": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola"
             }
           ]
         },
         {
-          "title": "Somalia's Baidoa faces fighting between rival forces",
-          "body": "Fighting has erupted in Somalia's Baidoa, a key city in the north, between rival factions. The conflict has raised concerns about the stability of the region and the potential for further violence. The situation highlights the ongoing challenges of maintaining peace and security in conflict-affected areas.",
-          "whyItMatters": "The conflict in Baidoa reflects the broader challenges of sustaining peace in unstable regions and the importance of international support in preventing further violence.",
+          "title": "Israeli incursions at Al-Aqsa Mosque",
+          "body": "Israeli forces have carried out incursions at the Al-Aqsa Mosque, a significant religious site in Jerusalem. The actions have sparked tensions between Israeli and Palestinian communities, with concerns about security and the potential for escalation in the region. The situation reflects broader geopolitical tensions in the Middle East.",
+          "whyItMatters": "The incursions underscore the complex dynamics of regional security and the impact of military actions on civilian populations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/fighting-between-rival-forces-in-somalias-baidoa?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/jerusalem-daily-israeli-incursions-at-al-aqsa-mosque?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/at-least-33-killed-after-myanmar-military-air-strike-hits-market?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "UK pledges tougher stance on Israeli actions in Gaza",
+          "body": "The UK has committed to a more firm position on Israeli actions in Gaza and the West Bank, emphasizing the need for accountability and adherence to international law. The statement comes amid ongoing tensions and calls for a balanced approach to the conflict. The UK's position reflects its broader geopolitical interests and commitments.",
+          "whyItMatters": "The UK's stance highlights the importance of diplomatic engagement and the balance between security concerns and humanitarian obligations in conflict zones.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/9/28/uk-pledges-tougher-stance-on-israeli-actions-in-gaza-west-bank?traffic_source=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-28T12:43:01.502Z"
+      "updatedAt": "2026-09-28T16:36:47.444Z"
     },
     "science": {
-      "kicker": "Science & Nature",
-      "summary": "Today's lens covers recent scientific advancements, environmental events, and cultural phenomena.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens covers advancements in space exploration, genetic research, and environmental science, highlighting both scientific discoveries and their potential impacts.",
       "stories": [
         {
-          "title": "Hurricane Polo threatens Mexico's coast",
-          "body": "Mexico's Pacific coast is preparing for Hurricane Polo, a tropical storm system that could bring heavy rainfall and potential flooding. The storm, which is expected to form in the Pacific Ocean, has been tracked by the BBC Science network. The region is urging residents to stay alert and follow official warnings.",
-          "whyItMatters": "The storm's path and intensity could impact coastal communities and affect local ecosystems.",
+          "title": "Starship splashdown ends in fireball",
+          "body": "A SpaceX Starship rocket successfully completed its first orbital flight, with the vehicle splashing down in the Pacific Ocean. The mission marked a significant milestone in space exploration, showcasing the potential for future deep-space travel.",
+          "whyItMatters": "This achievement demonstrates the progress being made in space technology and could inspire future missions and innovations.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/videos/c6j9xkdvrd94o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Offshore wind plant boosts job creation in Montrose",
-          "body": "A new offshore wind plant is set to be built in Montrose, providing employment opportunities and contributing to renewable energy goals. The project, supported by the BBC Science network, aims to reduce carbon emissions and promote sustainable energy practices in the region.",
-          "whyItMatters": "The development highlights the growing importance of renewable energy and job creation in the transition to a low-carbon economy.",
+          "title": "Gene-edited bananas that don’t go brown could hit UK supermarkets",
+          "body": "Scientists have developed genetically modified bananas that retain their color for longer, addressing a common issue in fruit preservation. This innovation could have implications for food supply chains and consumer preferences.",
+          "whyItMatters": "This development highlights the potential of genetic engineering to solve real-world problems and improve food quality and sustainability.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cq62jyk4ekp7o?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/science/2026/sep/28/gene-edited-non-browning-banana-britain-shops"
             }
           ]
         },
         {
-          "title": "Genome editing advances and health implications",
-          "body": "Recent scientific research highlights advancements in genome editing, including the development of new genome editors that can potentially treat genetic disorders. Additionally, studies on the health effects of vaping in childhood and the aging of hearts have been published, offering insights into potential medical interventions and public health concerns.",
-          "whyItMatters": "These findings underscore the rapid pace of scientific innovation and its potential impact on both medical treatments and public health policies.",
+          "title": "Old hearts age backwards: transplanted organs adjust to host's biological age",
+          "body": "A study reveals that transplanted organs can adjust to the host's biological age, suggesting new possibilities for organ transplantation and regenerative medicine. This finding could lead to more effective and personalized medical treatments.",
+          "whyItMatters": "This discovery could revolutionize organ transplantation and improve patient outcomes by allowing for more accurate predictions and tailored treatments.",
           "sources": [
             {
               "name": "Nature",
-              "url": "https://www.nature.com/articles/d41586-026-03004-3"
-            },
-            {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/d41586-026-02964-w"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/09/260925093206.htm"
+              "url": "https://www.nature.com/articles/d41586-026-03043-w"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-28T12:43:01.502Z"
+      "updatedAt": "2026-09-28T16:36:47.444Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including UK diesel prices, US midterm election forecasts, and UK industrialization plans, alongside international news events.",
+      "summary": "The lens covers recent economic developments, including health crises, technological issues, political statements, and market trends.",
       "stories": [
         {
-          "title": "UK diesel prices hit all-time high",
-          "body": "UK diesel prices have reached an all-time high, according to BBC Business. The rise is attributed to increased fuel demand and supply chain disruptions. The Royal Automobile Club (RAC) reports that prices have surged due to higher fuel consumption and reduced supply. This reflects broader economic pressures and consumer behavior in the UK.",
-          "whyItMatters": "The rise in diesel prices highlights the impact of supply chain issues and consumer demand on the UK economy.",
+          "title": "Ebola Cases Surpass 8,000 in DRC",
+          "body": "Ebola cases in the Democratic Republic of Congo (DRC) have surpassed 8,000, according to Al Jazeera. The outbreak remains a significant public health challenge, with efforts to control the spread intensifying. The situation highlights the ongoing struggle against infectious diseases in conflict-affected regions.",
+          "whyItMatters": "The outbreak underscores the importance of global health cooperation and resource allocation in fragile states.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/9/28/ebola-cases-surpass-8000-as-drc-struggles-to-control-outbreak?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/9/28/florida-authorities-ask-court-to-block-openais-chatgpt-over-safety-issues?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "UK Pledges Tougher Stance on Israeli Actions in Gaza",
+          "body": "Al Jazeera reports that the UK has pledged a tougher stance on Israeli actions in Gaza and the West Bank. This follows international pressure and concerns over civilian casualties and the impact of Israeli military operations. The UK's position reflects broader geopolitical tensions in the Middle East.",
+          "whyItMatters": "The UK's stance highlights the complex interplay between regional conflicts, international law, and political commitments.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/9/28/uk-pledges-tougher-stance-on-israeli-actions-in-gaza-west-bank?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "UK Diesel Prices Hit All-Time High",
+          "body": "BBC Business reports that UK diesel prices have reached an all-time high, according to the Royal Automobile Club (RAC). This is attributed to increased fuel demand and supply constraints, reflecting broader economic and geopolitical factors affecting the energy market.",
+          "whyItMatters": "The rise in diesel prices underscores the impact of global economic conditions on consumer costs and energy policy decisions.",
           "sources": [
             {
               "name": "BBC Business",
@@ -123,40 +145,10 @@
               "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
             }
           ]
-        },
-        {
-          "title": "South Korea demands apology from Ukraine over North Korean POWs",
-          "body": "South Korea is demanding an apology from Ukraine over the treatment of North Korean prisoners of war. The demand comes amid tensions over the Korean Peninsula and international relations. Al Jazeera reports that the issue is seen as a matter of national pride and historical accountability.",
-          "whyItMatters": "The demand for an apology underscores the importance of historical accountability and international relations in the context of regional conflicts.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/9/28/why-south-korea-is-demanding-an-apology-from-ukraine-over-north-korean-pows?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/28/africa-is-not-responsible-for-climate-crisis-activist-vanessa-nakate?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "UK industrialization plans face criticism",
-          "body": "The UK government plans to introduce a new age of industrialization, according to BBC Business. However, experts and activists are skeptical, citing concerns about job losses and economic inequality. The plan is seen as a response to the challenges of the post-pandemic economy.",
-          "whyItMatters": "The UK's industrialization plan highlights the ongoing debate over economic policy and its impact on employment and growth.",
-          "sources": [
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-28T12:43:01.502Z"
+      "updatedAt": "2026-09-28T16:36:47.444Z"
     }
   }
 }
