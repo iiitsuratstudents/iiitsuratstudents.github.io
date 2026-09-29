@@ -1,72 +1,76 @@
 {
-  "generatedAt": "2026-09-29T12:43:14.174Z",
+  "generatedAt": "2026-09-29T16:37:47.293Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of geopolitical developments, humanitarian crises, and local news events, highlighting the complex interplay of international relations, public safety, and regional conflicts.",
+      "kicker": "Geopolitics",
+      "summary": "Today's lens covers a mix of geopolitical developments, human rights issues, and international incidents, highlighting the complex interplay of politics, conflict, and global events.",
       "stories": [
         {
-          "title": "Turkiye arrests president, six members of football refereeing body in probe",
-          "body": "Turkiye has arrested its president and six members of the football refereeing body in a probe into alleged corruption. The move has sparked diplomatic tensions, with Al Jazeera reporting that the case is under investigation by the country's anti-corruption authority. The arrest of high-profile figures in a legal proceeding raises concerns about the integrity of public institutions in the region.",
-          "whyItMatters": "The arrest of key figures in a legal probe could affect the credibility of public institutions and influence political dynamics in Turkey.",
+          "title": "Man City accused of financial misconduct",
+          "body": "Manchester City Football Club has been found guilty of serious financial breach charges by the Premier League, marking a significant legal development in football governance. The case highlights the increasing scrutiny of major sports clubs and their financial practices.",
+          "whyItMatters": "This case underscores the growing importance of financial accountability in sports organizations and the role of regulatory bodies in maintaining integrity in the industry.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/9/29/turkiye-arrests-president-six-members-of-football-refereeing-body-in-probe?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/9/29/man-city-guilty-of-all-serious-financial-breach-charges-premier-league?traffic_source=rss"
             },
             {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/9/29/new-path-uks-burnham-promises-huge-expansion-of-public-services?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Spain bans evictions after protests",
+          "body": "Spain has announced a ban on evictions following widespread protests over the removal of an 87-year-old woman from her flat. The decision reflects the country's commitment to addressing housing rights and social justice issues, particularly in the context of rising homelessness and displacement.",
+          "whyItMatters": "The ban highlights the ongoing struggle for housing rights and the impact of systemic issues on vulnerable populations, emphasizing the need for inclusive policies in urban planning and social services.",
+          "sources": [
+            {
               "name": "BBC World",
               "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Iranians stock up on food and medicine as fears of new US fighting grow",
-          "body": "In response to growing fears of potential US military action, Iranians have stockpiled food and medicine. Al Jazeera reports that the surge in consumer behavior reflects concerns about regional security and the impact of geopolitical tensions. The situation highlights the vulnerability of civilian populations in times of uncertainty.",
-          "whyItMatters": "The stockpiling of essential goods by civilians underscores the importance of regional security and the potential consequences of military conflict in the region.",
+          "title": "Yemen's war deepens humanitarian crisis",
+          "body": "Yemen's ongoing conflict has disrupted roads and ports, exacerbating the humanitarian crisis. The situation highlights the challenges of maintaining infrastructure and access in conflict zones, which can have far-reaching consequences for civilians and economic stability.",
+          "whyItMatters": "The humanitarian impact of the conflict underscores the importance of international cooperation and humanitarian aid in addressing the complex challenges faced by war-torn regions.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/9/29/iranians-stock-up-on-food-and-medicine-as-fears-of-new-us-fighting-grow?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Spain announces new housing measures after protests over 87-year-old woman's eviction",
-          "body": "Spain has announced new housing measures following protests over the eviction of an 87-year-old woman. The government has pledged to address housing insecurity and ensure fair treatment for residents. The measures are seen as a response to public discontent and the need to maintain social stability in the country.",
-          "whyItMatters": "The government's response to housing protests highlights the importance of addressing social issues and maintaining public trust in governance.",
-          "sources": [
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.aljazeera.com/news/2026/9/29/yemens-war-disrupts-roads-and-ports-deepening-humanitarian-crisis?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-29T12:43:14.174Z"
+      "updatedAt": "2026-09-29T16:37:47.293Z"
     },
     "science": {
       "kicker": "Science & Nature",
-      "summary": "Today's lens covers natural phenomena, technological advancements, and ethical considerations in science.",
+      "summary": "Today's lens covers natural phenomena, technological advancements, and environmental issues impacting global students.",
       "stories": [
         {
           "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
-          "body": "Hurricane Polo made landfall on Mexico's Pacific coast, causing potential damage to coastal areas. The storm's impact is expected to be felt in the region, with authorities monitoring the situation for possible further developments.",
-          "whyItMatters": "The storm highlights the increasing frequency of extreme weather events, which can have significant impacts on coastal communities and infrastructure.",
+          "body": "Hurricane Polo made landfall on Mexico's Pacific coast, causing potential damage to coastal areas. The storm's impact was observed by BBC Science, highlighting the increasing frequency of such weather events due to climate change.",
+          "whyItMatters": "Understanding extreme weather patterns is crucial for preparing for future climate-related disasters.",
           "sources": [
             {
               "name": "BBC Science",
               "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "title": "Ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
-          "body": "Scientists have discovered that ice plumes from Saturn's moon Enceladus are more complex than previously thought, revealing new insights into the moon's geological activity and potential for hosting life.",
-          "whyItMatters": "This discovery could enhance our understanding of planetary science and the potential for extraterrestrial life.",
+          "body": "Scientists discovered that ice plumes from Saturn's moon Enceladus are more complex than previously thought, revealing insights into the moon's geology and potential for hosting life. This finding was reported by ScienceDaily.",
+          "whyItMatters": "Understanding planetary processes can inform future space exploration and the search for extraterrestrial life.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -76,8 +80,8 @@
         },
         {
           "title": "Warning more homes will be uninsurable due to flood risk",
-          "body": "A report warns that increasing flood risks will make it harder for homeowners to get insurance, potentially leading to financial instability and forced relocation in vulnerable areas.",
-          "whyItMatters": "The issue underscores the growing need for climate resilience and policy reforms to protect vulnerable populations from climate-related disasters.",
+          "body": "A BBC Science report warns that rising sea levels and increased flooding may make more homes uninsurable, affecting insurance policies and disaster preparedness. The warning is based on recent climate models and observations.",
+          "whyItMatters": "This highlights the growing financial and social risks associated with climate change and the need for adaptive insurance policies.",
           "sources": [
             {
               "name": "BBC Science",
@@ -87,52 +91,52 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-29T12:43:14.174Z"
+      "updatedAt": "2026-09-29T16:37:47.293Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including political arrests, food shortages, regional conflicts, AI risks, and trade disputes.",
+      "summary": "Today's lens covers developments in global economics, including political tensions, trade disputes, technological advancements, and humanitarian crises.",
       "stories": [
         {
-          "title": "Turkiye arrests president, six members of football refereeing body in probe",
-          "body": "Turkiye has arrested its president and six members of the football refereeing body in a probe, raising concerns about political and sports governance. The arrest follows allegations of misconduct and corruption, highlighting the country's ongoing political tensions.",
-          "whyItMatters": "This incident underscores the potential for political instability and its impact on public trust in institutions.",
+          "title": "UK's Burnham promises huge expansion of public services",
+          "body": "UK Chancellor Michael Burnham announced plans for significant expansion of public services, including healthcare and education, in response to growing economic pressures. The move is seen as a strategic response to rising costs and budget constraints. The expansion aims to improve accessibility and quality of services for citizens.",
+          "whyItMatters": "The expansion of public services could impact government budgets and resource allocation, influencing future economic policies and public expectations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/9/29/turkiye-arrests-president-six-members-of-football-refereeing-body-in-probe?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/9/29/new-path-uks-burnham-promises-huge-expansion-of-public-services?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/malaysia-sends-rohingya-back-myanmar-despite-safety-warnings?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/liveblog/2026/9/29/live-spain-vs-croatia-nations-league?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Iranians stock up on food and medicine as fears of new US fighting grow",
-          "body": "In response to growing fears of potential US military action, Iranians have stockpiled food and medicine, reflecting the impact of geopolitical uncertainty on daily life. The situation highlights the vulnerability of civilian populations in times of conflict.",
-          "whyItMatters": "This reflects the broader consequences of geopolitical tensions on access to essential goods and the resilience of civilian populations.",
+          "title": "Russian nuclear-capable bomber plane crashes, killing six people",
+          "body": "A Russian nuclear-capable bomber plane crashed in the Black Sea, killing six people. The incident highlights ongoing tensions in the region and the potential for military escalation. The crash is considered a significant event with implications for regional security and stability.",
+          "whyItMatters": "The crash underscores the risks of military conflict and its potential impact on regional stability and international relations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/9/29/iranians-stock-up-on-food-and-medicine-as-fears-of-new-us-fighting-grow?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/9/29/russian-nuclear-capable-bomber-plane-crashes-killing-six-people?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "UK tries to stop Trump's diesel export ban",
-          "body": "The UK is attempting to prevent Trump's proposed diesel export ban, which could impact trade relations and energy policy. The move highlights the complex interplay between international trade and domestic economic strategies.",
-          "whyItMatters": "This reflects the ongoing challenges of balancing trade policies and economic interests in a globalized world.",
+          "title": "US ban on Canadian imports likely to weaken already fragile relationship",
+          "body": "The US is considering a ban on Canadian imports, which could further strain an already tense relationship. The decision is influenced by trade disputes and economic concerns, raising questions about the impact on global trade and economic cooperation.",
+          "whyItMatters": "The US ban on Canadian imports could exacerbate trade tensions and affect global economic stability, influencing future trade policies and international cooperation.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/us-news/2026/sep/29/ban-canada-imports"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-29T12:43:14.174Z"
+      "updatedAt": "2026-09-29T16:37:47.293Z"
     }
   }
 }
