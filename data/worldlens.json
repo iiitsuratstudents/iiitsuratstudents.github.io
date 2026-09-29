@@ -1,134 +1,138 @@
 {
-  "generatedAt": "2026-09-29T08:38:12.679Z",
+  "generatedAt": "2026-09-29T12:43:14.174Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers ongoing conflicts, political tensions, and social issues affecting multiple regions, highlighting the complexity of global events.",
+      "kicker": "Global Brief",
+      "summary": "Today's lens covers a mix of geopolitical developments, humanitarian crises, and local news events, highlighting the complex interplay of international relations, public safety, and regional conflicts.",
       "stories": [
         {
-          "title": "Ethiopia's Conflict Intensifies",
-          "body": "Fighting continues in Ethiopia, with reports of clashes in the Tigray region. The conflict has led to humanitarian crises and international concern over the safety of civilians. The situation remains volatile, with no immediate ceasefire in sight.",
-          "whyItMatters": "The ongoing conflict in Ethiopia highlights the challenges of managing regional instability and the impact on local populations.",
+          "title": "Turkiye arrests president, six members of football refereeing body in probe",
+          "body": "Turkiye has arrested its president and six members of the football refereeing body in a probe into alleged corruption. The move has sparked diplomatic tensions, with Al Jazeera reporting that the case is under investigation by the country's anti-corruption authority. The arrest of high-profile figures in a legal proceeding raises concerns about the integrity of public institutions in the region.",
+          "whyItMatters": "The arrest of key figures in a legal probe could affect the credibility of public institutions and influence political dynamics in Turkey.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/9/29/fighting-in-ethiopia-intensifies-whats-the-latest?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/9/29/turkiye-arrests-president-six-members-of-football-refereeing-body-in-probe?traffic_source=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "US-Iran Talks Remain Unlikely to Result in a Deal",
-          "body": "Despite ongoing diplomatic talks between the United States and Iran, experts suggest a formal agreement is unlikely before the 2026 midterm elections. The talks focus on economic and political issues, but the outcome remains uncertain due to differing priorities and geopolitical tensions.",
-          "whyItMatters": "The US-Iran relationship remains a key factor in global politics, with potential implications for trade, security, and international diplomacy.",
+          "title": "Iranians stock up on food and medicine as fears of new US fighting grow",
+          "body": "In response to growing fears of potential US military action, Iranians have stockpiled food and medicine. Al Jazeera reports that the surge in consumer behavior reflects concerns about regional security and the impact of geopolitical tensions. The situation highlights the vulnerability of civilian populations in times of uncertainty.",
+          "whyItMatters": "The stockpiling of essential goods by civilians underscores the importance of regional security and the potential consequences of military conflict in the region.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-iran-talks-continue-but-deal-unlikely-before-midterm-elections?traffic_source=rss"
+              "url": "https://www.aljazeera.com/economy/2026/9/29/iranians-stock-up-on-food-and-medicine-as-fears-of-new-us-fighting-grow?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Philippine Drivers Strike Over Fuel Price Increases",
-          "body": "Thousands of drivers in the Philippines have struck across the country to demand lower fuel prices. The strike has disrupted transportation and raised concerns about the economic impact of rising fuel costs on the public. The government has called for a resolution to the dispute.",
-          "whyItMatters": "The drivers' strike underscores the broader issue of economic inequality and the impact of fuel prices on daily life in developing countries.",
+          "title": "Spain announces new housing measures after protests over 87-year-old woman's eviction",
+          "body": "Spain has announced new housing measures following protests over the eviction of an 87-year-old woman. The government has pledged to address housing insecurity and ensure fair treatment for residents. The measures are seen as a response to public discontent and the need to maintain social stability in the country.",
+          "whyItMatters": "The government's response to housing protests highlights the importance of addressing social issues and maintaining public trust in governance.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/9/29/thousands-of-drivers-strike-in-the-philippines-over-rising-fuel-prices?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-29T08:38:12.679Z"
+      "updatedAt": "2026-09-29T12:43:14.174Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers recent scientific discoveries, technological advancements, and environmental concerns impacting students and researchers globally.",
+      "kicker": "Science & Nature",
+      "summary": "Today's lens covers natural phenomena, technological advancements, and ethical considerations in science.",
       "stories": [
         {
           "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
-          "body": "Hurricane Polo made landfall on Mexico's Pacific coast, causing potential flooding and disruption to local communities. The storm, which formed in the Atlantic, is expected to weaken as it moves inland, but its impact remains a concern for coastal regions.",
-          "whyItMatters": "Understanding weather patterns and their potential impacts is crucial for preparing for future natural disasters and improving disaster response strategies.",
+          "body": "Hurricane Polo made landfall on Mexico's Pacific coast, causing potential damage to coastal areas. The storm's impact is expected to be felt in the region, with authorities monitoring the situation for possible further developments.",
+          "whyItMatters": "The storm highlights the increasing frequency of extreme weather events, which can have significant impacts on coastal communities and infrastructure.",
           "sources": [
             {
               "name": "BBC Science",
               "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss"
-            },
+            }
+          ]
+        },
+        {
+          "title": "Ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
+          "body": "Scientists have discovered that ice plumes from Saturn's moon Enceladus are more complex than previously thought, revealing new insights into the moon's geological activity and potential for hosting life.",
+          "whyItMatters": "This discovery could enhance our understanding of planetary science and the potential for extraterrestrial life.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260929053528.htm"
+            }
+          ]
+        },
+        {
+          "title": "Warning more homes will be uninsurable due to flood risk",
+          "body": "A report warns that increasing flood risks will make it harder for homeowners to get insurance, potentially leading to financial instability and forced relocation in vulnerable areas.",
+          "whyItMatters": "The issue underscores the growing need for climate resilience and policy reforms to protect vulnerable populations from climate-related disasters.",
+          "sources": [
             {
               "name": "BBC Science",
               "url": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss"
             }
           ]
-        },
-        {
-          "title": "Gene-edited bananas that don’t go brown could hit UK supermarkets",
-          "body": "Scientists have developed gene-edited bananas that resist browning, a breakthrough for food preservation. These bananas could be introduced to UK supermarkets, offering consumers a longer shelf life without the need for preservatives.",
-          "whyItMatters": "Advancements in genetic engineering can lead to more sustainable and convenient food options, impacting both consumer choices and agricultural practices.",
-          "sources": [
-            {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/sep/28/gene-edited-non-browning-banana-britain-shops"
-            }
-          ]
-        },
-        {
-          "title": "Scientists just discovered what coffee really does to your gut and brain",
-          "body": "A study reveals that coffee interacts with the gut microbiome and brain, potentially influencing digestion, mood, and cognitive function. The findings could help in developing better dietary recommendations and understanding the health impacts of coffee consumption.",
-          "whyItMatters": "Understanding the effects of common beverages on human health can inform dietary choices and public health policies.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/09/260927034331.htm"
-            }
-          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-29T08:38:12.679Z"
+      "updatedAt": "2026-09-29T12:43:14.174Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers ongoing conflicts, economic concerns, and technological developments, highlighting the complex interplay between politics, economics, and technology.",
+      "summary": "Today's lens covers a mix of economic developments, including political arrests, food shortages, regional conflicts, AI risks, and trade disputes.",
       "stories": [
         {
-          "title": "Ethiopia's Conflict Intensifies",
-          "body": "Fighting in Ethiopia has intensified, with reports of clashes in the Tigray region. The conflict has led to humanitarian crises and displacement of civilians. The situation remains volatile, with international organizations urging for a ceasefire and humanitarian aid.",
-          "whyItMatters": "The conflict in Ethiopia highlights the ongoing instability in the region and the potential impact on regional security and humanitarian efforts.",
+          "title": "Turkiye arrests president, six members of football refereeing body in probe",
+          "body": "Turkiye has arrested its president and six members of the football refereeing body in a probe, raising concerns about political and sports governance. The arrest follows allegations of misconduct and corruption, highlighting the country's ongoing political tensions.",
+          "whyItMatters": "This incident underscores the potential for political instability and its impact on public trust in institutions.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/9/29/fighting-in-ethiopia-intensifies-whats-the-latest?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/9/29/turkiye-arrests-president-six-members-of-football-refereeing-body-in-probe?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/malaysia-sends-rohingya-back-myanmar-despite-safety-warnings?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "US-Iran Talks Continue, But 'Deal Unlikely' Before Midterm Elections",
-          "body": "US and Iran continue their diplomatic talks, but experts suggest a deal is unlikely before the 2026 midterm elections. The talks focus on reducing tensions and addressing economic and political issues, though the outcome remains uncertain.",
-          "whyItMatters": "The ongoing talks between the US and Iran reflect the complex geopolitical dynamics and the potential impact on U.S. domestic politics and international relations.",
+          "title": "Iranians stock up on food and medicine as fears of new US fighting grow",
+          "body": "In response to growing fears of potential US military action, Iranians have stockpiled food and medicine, reflecting the impact of geopolitical uncertainty on daily life. The situation highlights the vulnerability of civilian populations in times of conflict.",
+          "whyItMatters": "This reflects the broader consequences of geopolitical tensions on access to essential goods and the resilience of civilian populations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-iran-talks-continue-but-deal-unlikely-before-midterm-elections?traffic_source=rss"
+              "url": "https://www.aljazeera.com/economy/2026/9/29/iranians-stock-up-on-food-and-medicine-as-fears-of-new-us-fighting-grow?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Philippines Drivers Strike Over Rising Fuel Prices",
-          "body": "Thousands of drivers in the Philippines have struck to demand lower fuel prices, highlighting the economic strain on the transport sector. The strike has led to disruptions in daily life and increased fuel costs for consumers.",
-          "whyItMatters": "The fuel price crisis in the Philippines underscores the vulnerability of the transport sector and the impact of rising costs on everyday life and economic stability.",
+          "title": "UK tries to stop Trump's diesel export ban",
+          "body": "The UK is attempting to prevent Trump's proposed diesel export ban, which could impact trade relations and energy policy. The move highlights the complex interplay between international trade and domestic economic strategies.",
+          "whyItMatters": "This reflects the ongoing challenges of balancing trade policies and economic interests in a globalized world.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/9/29/thousands-of-drivers-strike-in-the-philippines-over-rising-fuel-prices?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-29T08:38:12.679Z"
+      "updatedAt": "2026-09-29T12:43:14.174Z"
     }
   }
 }
