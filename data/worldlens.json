@@ -1,76 +1,68 @@
 {
-  "generatedAt": "2026-09-29T16:37:47.293Z",
+  "generatedAt": "2026-09-29T20:36:57.215Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of geopolitical developments, human rights issues, and international incidents, highlighting the complex interplay of politics, conflict, and global events.",
+      "summary": "Today's lens covers a mix of international news, including US troop withdrawal, regional security concerns, and political developments in various countries.",
       "stories": [
         {
-          "title": "Man City accused of financial misconduct",
-          "body": "Manchester City Football Club has been found guilty of serious financial breach charges by the Premier League, marking a significant legal development in football governance. The case highlights the increasing scrutiny of major sports clubs and their financial practices.",
-          "whyItMatters": "This case underscores the growing importance of financial accountability in sports organizations and the role of regulatory bodies in maintaining integrity in the industry.",
+          "title": "US troops fully withdraw from Baghdad base after two decades",
+          "body": "US troops have completed their withdrawal from the Baghdad base, marking the end of two decades of military presence. The decision reflects a shift in U.S. strategic priorities and a reduction in military involvement in the Middle East.",
+          "whyItMatters": "This withdrawal highlights evolving U.S. military strategy and the changing dynamics of regional security in the Middle East.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/9/29/man-city-guilty-of-all-serious-financial-breach-charges-premier-league?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/9/29/new-path-uks-burnham-promises-huge-expansion-of-public-services?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-troops-fully-withdraw-from-baghdad-base-after-two-decades?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Spain bans evictions after protests",
-          "body": "Spain has announced a ban on evictions following widespread protests over the removal of an 87-year-old woman from her flat. The decision reflects the country's commitment to addressing housing rights and social justice issues, particularly in the context of rising homelessness and displacement.",
-          "whyItMatters": "The ban highlights the ongoing struggle for housing rights and the impact of systemic issues on vulnerable populations, emphasizing the need for inclusive policies in urban planning and social services.",
+          "title": "Can Iraq handle future security challenges alone?",
+          "body": "The question of whether Iraq can manage its security challenges independently is being discussed. Analysts note the need for continued international support and cooperation to address ongoing threats and instability.",
+          "whyItMatters": "This issue underscores the importance of regional partnerships and the role of international actors in maintaining security and stability in Iraq.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/inside-story/2026/9/29/can-iraq-handle-future-security-challenges-alone?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
+          "body": "Spain has announced a ban on evictions following protests over the removal of an 87-year-old woman from her flat. The decision aims to prevent further displacement and address concerns about housing insecurity.",
+          "whyItMatters": "This development highlights the growing tensions around housing policies and the need for equitable solutions to address housing crises in Spain.",
           "sources": [
             {
               "name": "BBC World",
               "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss"
             }
           ]
-        },
-        {
-          "title": "Yemen's war deepens humanitarian crisis",
-          "body": "Yemen's ongoing conflict has disrupted roads and ports, exacerbating the humanitarian crisis. The situation highlights the challenges of maintaining infrastructure and access in conflict zones, which can have far-reaching consequences for civilians and economic stability.",
-          "whyItMatters": "The humanitarian impact of the conflict underscores the importance of international cooperation and humanitarian aid in addressing the complex challenges faced by war-torn regions.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/9/29/yemens-war-disrupts-roads-and-ports-deepening-humanitarian-crisis?traffic_source=rss"
-            }
-          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-29T16:37:47.293Z"
+      "updatedAt": "2026-09-29T20:36:57.215Z"
     },
     "science": {
-      "kicker": "Science & Nature",
-      "summary": "Today's lens covers natural phenomena, technological advancements, and environmental issues impacting global students.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens covers advancements in space exploration, climate resilience, and scientific discoveries, highlighting both current events and ongoing research.",
       "stories": [
         {
-          "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
-          "body": "Hurricane Polo made landfall on Mexico's Pacific coast, causing potential damage to coastal areas. The storm's impact was observed by BBC Science, highlighting the increasing frequency of such weather events due to climate change.",
-          "whyItMatters": "Understanding extreme weather patterns is crucial for preparing for future climate-related disasters.",
+          "title": "Ora pulls $15bn stock market listing days after announcement",
+          "body": "Ora, a UK-based biotech company, announced a $15 billion stock market listing after its parent company, OraBio, faced regulatory scrutiny. The listing comes amid concerns over the company's financial stability and compliance with securities laws.",
+          "whyItMatters": "The stock market listing reflects the growing interest in biotech companies and the challenges of securing funding in a competitive regulatory environment.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
-          "body": "Scientists discovered that ice plumes from Saturn's moon Enceladus are more complex than previously thought, revealing insights into the moon's geology and potential for hosting life. This finding was reported by ScienceDaily.",
-          "whyItMatters": "Understanding planetary processes can inform future space exploration and the search for extraterrestrial life.",
+          "title": "Saturn's moon Enceladus releases ice plumes",
+          "body": "Scientists observed unusual ice plumes from Saturn's moon Enceladus, which may provide insights into the moon's subsurface ocean and potential for hosting life. The plumes, which contain water and organic compounds, suggest a dynamic geological process.",
+          "whyItMatters": "Understanding the composition and activity of Enceladus could inform future missions to explore the possibility of extraterrestrial life and the potential for habitable environments in the solar system.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -79,64 +71,60 @@
           ]
         },
         {
-          "title": "Warning more homes will be uninsurable due to flood risk",
-          "body": "A BBC Science report warns that rising sea levels and increased flooding may make more homes uninsurable, affecting insurance policies and disaster preparedness. The warning is based on recent climate models and observations.",
-          "whyItMatters": "This highlights the growing financial and social risks associated with climate change and the need for adaptive insurance policies.",
+          "title": "Fossil found on Welsh beach ends 'confusion' over 200-million-year-old fish teeth",
+          "body": "A fossil discovery on a Welsh beach has resolved a long-standing debate about the age and characteristics of 200-million-year-old fish teeth. The find provides new evidence for the evolution of marine life and the geological history of the region.",
+          "whyItMatters": "This fossil discovery contributes to our understanding of ancient marine ecosystems and the geological processes that shaped the Earth over millions of years.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/ckz7zd7nxj73o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-29T16:37:47.293Z"
+      "updatedAt": "2026-09-29T20:36:57.215Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers developments in global economics, including political tensions, trade disputes, technological advancements, and humanitarian crises.",
+      "summary": "Today's lens covers a mix of economic developments, including US troop withdrawal, AI safety concerns, pension reforms, and global economic challenges.",
       "stories": [
         {
-          "title": "UK's Burnham promises huge expansion of public services",
-          "body": "UK Chancellor Michael Burnham announced plans for significant expansion of public services, including healthcare and education, in response to growing economic pressures. The move is seen as a strategic response to rising costs and budget constraints. The expansion aims to improve accessibility and quality of services for citizens.",
-          "whyItMatters": "The expansion of public services could impact government budgets and resource allocation, influencing future economic policies and public expectations.",
+          "title": "US troops fully withdraw from Baghdad base after two decades",
+          "body": "US troops have completed their withdrawal from the Baghdad base, marking the end of two decades of military presence. The decision reflects a shift in U.S. military strategy and focus on regional security. This event highlights the evolving nature of global security dynamics and the impact of military presence on local communities.",
+          "whyItMatters": "The withdrawal underscores the changing geopolitical landscape and the importance of military presence in regional stability.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/9/29/new-path-uks-burnham-promises-huge-expansion-of-public-services?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/liveblog/2026/9/29/live-spain-vs-croatia-nations-league?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-troops-fully-withdraw-from-baghdad-base-after-two-decades?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Russian nuclear-capable bomber plane crashes, killing six people",
-          "body": "A Russian nuclear-capable bomber plane crashed in the Black Sea, killing six people. The incident highlights ongoing tensions in the region and the potential for military escalation. The crash is considered a significant event with implications for regional security and stability.",
-          "whyItMatters": "The crash underscores the risks of military conflict and its potential impact on regional stability and international relations.",
+          "title": "OpenAI agents rebrand as 'dots' while safety concerns delay new model",
+          "body": "OpenAI has rebranded its AI agents as 'dots' to reflect their role in generating content, while delaying the release of a new model due to safety and ethical concerns. This development highlights the ongoing debate around AI ethics and the balance between innovation and regulation.",
+          "whyItMatters": "The rebranding and delay of new AI models reflect the tension between technological advancement and regulatory oversight in the AI industry.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/9/29/russian-nuclear-capable-bomber-plane-crashes-killing-six-people?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "US ban on Canadian imports likely to weaken already fragile relationship",
-          "body": "The US is considering a ban on Canadian imports, which could further strain an already tense relationship. The decision is influenced by trade disputes and economic concerns, raising questions about the impact on global trade and economic cooperation.",
-          "whyItMatters": "The US ban on Canadian imports could exacerbate trade tensions and affect global economic stability, influencing future trade policies and international cooperation.",
+          "title": "Soho House venue under investigation for food safety",
+          "body": "The Soho House venue in London is under investigation for food safety violations, raising concerns about the quality and safety of dining experiences. This incident highlights the importance of food safety standards and the impact of such issues on consumer trust and business operations.",
+          "whyItMatters": "Food safety issues at popular venues can affect consumer confidence and business reputation, emphasizing the need for strict regulatory compliance.",
           "sources": [
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/us-news/2026/sep/29/ban-canada-imports"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cjly4dn9r21qo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-29T16:37:47.293Z"
+      "updatedAt": "2026-09-29T20:36:57.215Z"
     }
   }
 }
