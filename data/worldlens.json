@@ -1,52 +1,60 @@
 {
-  "generatedAt": "2026-09-30T08:38:45.145Z",
+  "generatedAt": "2026-09-30T12:46:18.225Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of international conflicts, humanitarian crises, and global events, highlighting tensions, emergencies, and ongoing developments.",
+      "kicker": "Global Brief",
+      "summary": "Today's lens covers a range of international events, including military actions, natural disasters, political developments, and cultural news, highlighting the interconnectedness of global affairs.",
       "stories": [
         {
-          "title": "South Korea Demands Apology from North Korea Over Landmine Blasts",
-          "body": "South Korea has demanded an apology from North Korea for landmine blasts that injured three civilians, while North Korea denies any involvement. The dispute highlights ongoing tensions in the Korean Peninsula, with both sides emphasizing the need for dialogue and accountability.",
-          "whyItMatters": "The conflict underscores the complex geopolitical dynamics between North and South Korea, and the potential for further escalation in the region.",
+          "title": "Russia attacks Ukraine energy infrastructure",
+          "body": "Russia launched the largest attack on Ukraine's energy infrastructure since spring 2026, targeting key power lines and transmission facilities. The attack disrupted energy supply to multiple regions, prompting immediate international concern over potential long-term impacts on regional stability and energy security.",
+          "whyItMatters": "This event underscores the growing geopolitical tensions in the region and the potential for cascading effects on global energy markets.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/9/30/south-korea-demands-apology-over-dmz-blasts-as-north-denies-planting-mines?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Lebanese Prisoners on Hunger Strike for 18 Days",
-          "body": "Lebanese prisoners have been on a hunger strike for 18 days, demanding better treatment and conditions. The situation reflects broader issues of human rights and prison reform in Lebanon, with international attention focusing on the plight of detainees.",
-          "whyItMatters": "The hunger strike highlights the ongoing challenges of prison reform and human rights in Lebanon, and the potential for international intervention or support.",
+          "title": "Nigeria's highway washed away by rain",
+          "body": "Heavy rainfall in Nigeria washed away a major highway, causing significant disruption to transportation and economic activity. The incident highlights the vulnerability of infrastructure in the face of extreme weather events, which are becoming more frequent due to climate change.",
+          "whyItMatters": "This event reflects the increasing impact of climate change on critical infrastructure and the need for resilient planning and disaster preparedness.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/9/30/dire-situation-lebanese-prisoners-on-hunger-strike-for-18-days?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/rainwater-washes-away-highway-in-nigeria?traffic_source=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Pakistan Vows to Defend Saudi Arabia Against Houthis",
-          "body": "Pakistan has pledged to defend Saudi Arabia against potential attacks from the Houthis, a group that has targeted Saudi facilities in the past. This表态 reflects regional tensions and the strategic importance of the Saudi-Pakistan relationship.",
-          "whyItMatters": "The commitment underscores the geopolitical stakes in the Middle East, with Pakistan and Saudi Arabia playing key roles in regional security and stability.",
+          "title": "Uganda's Tooro kingdom crowned king",
+          "body": "A former journalist was crowned king of Uganda's Tooro kingdom, marking a significant political development in the region. The event highlights the evolving dynamics of leadership and governance in post-conflict societies.",
+          "whyItMatters": "This development illustrates the complexities of political transitions and the importance of inclusive governance in fragile states.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/pakistan-vows-to-defend-saudi-arabia-against-houthis?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/30-09-sv-uganda-tooro-king-ug?traffic_source=rss"
+            },
+            {
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-30T08:38:45.145Z"
+      "updatedAt": "2026-09-30T12:46:18.225Z"
     },
     "science": {
       "kicker": "Science & Technology",
@@ -54,8 +62,8 @@
       "stories": [
         {
           "title": "Orionid Meteor Shower to Streak Across Night Sky This Week",
-          "body": "A meteor shower is expected to streak across the night sky this week, offering a celestial spectacle for observers. The event is part of the Orionid meteor shower, which typically occurs in late September and peaks around mid-October. The shower is caused by debris from the comet 109P/2026, which is expected to be visible in the northern hemisphere.",
-          "whyItMatters": "The Orionid meteor shower provides an opportunity for people to witness natural astronomical phenomena and appreciate the beauty of the cosmos.",
+          "body": "A meteor shower is expected to streak across the night sky this week, with the Orionids being a yearly event. The shower is expected to be visible in the early evening, offering a celestial spectacle for observers. The event is a natural occurrence, with meteors burning up in the atmosphere and creating light trails.",
+          "whyItMatters": "This meteor shower provides an opportunity for people to witness natural astronomical phenomena and appreciate the beauty of the universe.",
           "sources": [
             {
               "name": "BBC Science",
@@ -69,8 +77,8 @@
         },
         {
           "title": "Gene-edited Bananas That Don’t Go Brown Could Hit UK Supermarkets",
-          "body": "Scientists have developed gene-edited bananas that do not go brown, a breakthrough in food technology. These bananas are designed to preserve their color and texture, addressing a common issue with traditional bananas. The innovation could have implications for food preservation and sustainability in the global market.",
-          "whyItMatters": "This development could lead to new food products and improved shelf life, impacting both consumers and agricultural industries.",
+          "body": "Scientists have developed gene-edited bananas that do not brown, a breakthrough in food technology. The innovation could revolutionize the way fruit is preserved and consumed, offering a longer shelf life and reducing waste. The development is a significant step forward in agricultural science and food sustainability.",
+          "whyItMatters": "This advancement could lead to more sustainable food production and reduce the environmental impact of food waste.",
           "sources": [
             {
               "name": "The Guardian Science",
@@ -79,9 +87,9 @@
           ]
         },
         {
-          "title": "SpaceX Starship Achieves Orbit",
-          "body": "SpaceX's Starship rocket made its first orbit around Earth, marking a significant milestone in space exploration. The rocket, which is designed for both suborbital and orbital missions, has demonstrated its capability to carry large payloads. This achievement represents a major step forward in the development of commercial space travel.",
-          "whyItMatters": "The successful orbit of the Starship rocket could lead to more frequent and affordable space missions, fostering advancements in space research and commercial space travel.",
+          "title": "SpaceX Starship Rocket Circles Earth for First Time",
+          "body": "The SpaceX Starship rocket made its first orbit around Earth, marking a significant milestone in space exploration. The successful launch from Texas highlights the progress being made in space travel and the potential for future missions. This achievement represents a major step forward in the development of reusable spacecraft.",
+          "whyItMatters": "This milestone demonstrates the potential for more frequent and cost-effective space missions, advancing humanity's exploration of the cosmos.",
           "sources": [
             {
               "name": "The Guardian Science",
@@ -91,52 +99,48 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-30T08:38:45.145Z"
+      "updatedAt": "2026-09-30T12:46:18.225Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers developments in global economics, including a controversial oil refinery project in Kenya, tensions in the DMZ, a flight diversion, hunger strikes, energy bills, and US political economic forecasts.",
+      "summary": "The lens covers economic developments, including a potential shift in global trade dynamics, job market trends, and regulatory challenges in the tech and energy sectors.",
       "stories": [
         {
-          "title": "Kenya's oil refinery project faces land protests",
-          "body": "Africa's richest man, John Paul, is set to launch a Kenyan oil refinery despite ongoing land protests from local communities. The project, which aims to boost the country's energy sector, has drawn criticism for its impact on indigenous land rights and environmental sustainability. The controversy highlights tensions between economic development and land ownership in Africa.",
-          "whyItMatters": "The project could set a precedent for large-scale infrastructure developments in Africa, raising questions about land rights and environmental impact.",
+          "title": "Nigeria's highway washed away by rain",
+          "body": "In Nigeria, heavy rainfall on Wednesday caused the washing away of a highway, disrupting transportation and potentially affecting local economies. The event highlights the vulnerability of infrastructure to extreme weather conditions, which is a growing concern in the region.",
+          "whyItMatters": "This event underscores the need for improved disaster resilience and infrastructure planning in developing countries.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/rainwater-washes-away-highway-in-nigeria?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Iraq celebrates National Sovereignty Day as US troops withdraw",
+          "body": "As US forces withdraw from Iraq, the country celebrates National Sovereignty Day, marking a significant shift in its security landscape. The event reflects the transition of power and the evolving role of the military in regional stability.",
+          "whyItMatters": "The withdrawal of US troops and the subsequent celebration of sovereignty highlight the complex dynamics of international military presence and regional security.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/iraq-celebrates-national-sovereignty-day-as-us-troops-withdraw?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Greggs to shut four factories and cut 740 jobs",
+          "body": "British fast-food chain Greggs is set to shut four factories and cut 740 jobs, impacting the employment landscape in the UK. This development reflects broader trends in the food industry facing economic pressures and supply chain disruptions.",
+          "whyItMatters": "The job cuts highlight the challenges faced by businesses in a competitive and rapidly changing economic environment.",
           "sources": [
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "South Korea demands apology over DMZ blasts",
-          "body": "South Korea has demanded an apology from North Korea following recent blasts in the Demilitarized Zone (DMZ). North Korea has denied any involvement in planting mines, citing security concerns. The incident underscores ongoing tensions in the region and the complex dynamics of conflict and diplomacy.",
-          "whyItMatters": "The dispute highlights the challenges of maintaining peace in a region with a history of conflict and the importance of dialogue in resolving such tensions.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/9/30/south-korea-demands-apology-over-dmz-blasts-as-north-denies-planting-mines?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "US ban on Canadian imports could weaken relations",
-          "body": "The US is considering a ban on Canadian imports, which could further strain an already fragile relationship. The decision is driven by concerns over trade practices and economic policies. This development reflects the complex interplay between trade, politics, and economic interests in the US-Canada relationship.",
-          "whyItMatters": "The potential ban could have significant economic and political implications, affecting trade flows and diplomatic relations between the two countries.",
-          "sources": [
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/us-news/2026/sep/29/ban-canada-imports"
+              "url": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-30T08:38:45.145Z"
+      "updatedAt": "2026-09-30T12:46:18.225Z"
     }
   }
 }
