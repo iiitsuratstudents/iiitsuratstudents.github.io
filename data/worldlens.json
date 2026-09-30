@@ -1,146 +1,142 @@
 {
-  "generatedAt": "2026-09-30T12:46:18.225Z",
+  "generatedAt": "2026-09-30T16:38:37.690Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers a range of international events, including military actions, natural disasters, political developments, and cultural news, highlighting the interconnectedness of global affairs.",
+      "kicker": "Geopolitics",
+      "summary": "Today's lens covers a mix of international developments, including human rights, conflict, and cultural events, highlighting the complex interplay of politics and global affairs.",
       "stories": [
         {
-          "title": "Russia attacks Ukraine energy infrastructure",
-          "body": "Russia launched the largest attack on Ukraine's energy infrastructure since spring 2026, targeting key power lines and transmission facilities. The attack disrupted energy supply to multiple regions, prompting immediate international concern over potential long-term impacts on regional stability and energy security.",
-          "whyItMatters": "This event underscores the growing geopolitical tensions in the region and the potential for cascading effects on global energy markets.",
+          "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
+          "body": "The Trump administration has redirected approximately $100 million from the U.S. human rights fund to support far-right political agendas in foreign countries, according to The Guardian. The move has drawn criticism for its potential impact on international human rights standards and its alignment with far-right political movements.",
+          "whyItMatters": "This action raises concerns about the prioritization of political agendas over human rights, highlighting the tension between national interests and global ethical standards.",
           "sources": [
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Nigeria's highway washed away by rain",
-          "body": "Heavy rainfall in Nigeria washed away a major highway, causing significant disruption to transportation and economic activity. The incident highlights the vulnerability of infrastructure in the face of extreme weather events, which are becoming more frequent due to climate change.",
-          "whyItMatters": "This event reflects the increasing impact of climate change on critical infrastructure and the need for resilient planning and disaster preparedness.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/rainwater-washes-away-highway-in-nigeria?traffic_source=rss"
-            },
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Uganda's Tooro kingdom crowned king",
-          "body": "A former journalist was crowned king of Uganda's Tooro kingdom, marking a significant political development in the region. The event highlights the evolving dynamics of leadership and governance in post-conflict societies.",
-          "whyItMatters": "This development illustrates the complexities of political transitions and the importance of inclusive governance in fragile states.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/30-09-sv-uganda-tooro-king-ug?traffic_source=rss"
-            },
             {
               "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola"
-            }
-          ]
-        }
-      ],
-      "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-30T12:46:18.225Z"
-    },
-    "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers a range of scientific and technological developments, from meteor showers to space exploration and environmental concerns.",
-      "stories": [
-        {
-          "title": "Orionid Meteor Shower to Streak Across Night Sky This Week",
-          "body": "A meteor shower is expected to streak across the night sky this week, with the Orionids being a yearly event. The shower is expected to be visible in the early evening, offering a celestial spectacle for observers. The event is a natural occurrence, with meteors burning up in the atmosphere and creating light trails.",
-          "whyItMatters": "This meteor shower provides an opportunity for people to witness natural astronomical phenomena and appreciate the beauty of the universe.",
-          "sources": [
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund"
             },
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/9/30/what-happened-on-diverted-flydubai-flight-from-dubai-to-tel-aviv?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Gene-edited Bananas That Don’t Go Brown Could Hit UK Supermarkets",
-          "body": "Scientists have developed gene-edited bananas that do not brown, a breakthrough in food technology. The innovation could revolutionize the way fruit is preserved and consumed, offering a longer shelf life and reducing waste. The development is a significant step forward in agricultural science and food sustainability.",
-          "whyItMatters": "This advancement could lead to more sustainable food production and reduce the environmental impact of food waste.",
+          "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+          "body": "The execution of US murderer Christa Pike was temporarily halted before it was scheduled to take place, according to BBC. The decision to delay the execution was likely due to legal or procedural concerns, though the exact reasons were not disclosed.",
+          "whyItMatters": "This event underscores the complexities of legal processes and the potential for delays in justice, reflecting the broader challenges of executing individuals in the United States.",
           "sources": [
             {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/sep/28/gene-edited-non-browning-banana-britain-shops"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "SpaceX Starship Rocket Circles Earth for First Time",
-          "body": "The SpaceX Starship rocket made its first orbit around Earth, marking a significant milestone in space exploration. The successful launch from Texas highlights the progress being made in space travel and the potential for future missions. This achievement represents a major step forward in the development of reusable spacecraft.",
-          "whyItMatters": "This milestone demonstrates the potential for more frequent and cost-effective space missions, advancing humanity's exploration of the cosmos.",
+          "title": "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
+          "body": "A Flydubai flight from Dubai to Tel Aviv was diverted due to a technical issue, according to Al Jazeera. The incident highlights the potential disruptions in global air travel and the importance of maintaining reliable infrastructure for international connectivity.",
+          "whyItMatters": "This event illustrates the vulnerabilities in global transportation systems and the need for robust contingency plans to ensure the smooth flow of international travel.",
           "sources": [
             {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/sep/28/spacex-starship-rocket-orbits-earth-texas"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/9/30/what-happened-on-diverted-flydubai-flight-from-dubai-to-tel-aviv?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-30T12:46:18.225Z"
+      "updatedAt": "2026-09-30T16:38:37.690Z"
+    },
+    "science": {
+      "kicker": "Science & Nature",
+      "summary": "Today's lens covers scientific discoveries, wildlife phenomena, and technological advancements impacting students and researchers globally.",
+      "stories": [
+        {
+          "title": "Butterflies use visual cues to avoid predators",
+          "body": "A study reveals how butterflies use visual cues to avoid being caught by predators, highlighting the complexity of animal behavior and survival strategies. The research, published in Nature, explains that butterflies use patterns in their environment to detect threats and navigate safely.",
+          "whyItMatters": "Understanding animal behavior can inform conservation efforts and improve ecological awareness among students.",
+          "sources": [
+            {
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/science/2026/sep/30/how-butterflies-avoid-being-eaten-by-predators-wildlife-insects"
+            },
+            {
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03124-w"
+            }
+          ]
+        },
+        {
+          "title": "AI-generated 'ghosts' pollute scientific literature",
+          "body": "A review finds that AI-generated content is increasingly appearing in scientific journals, raising concerns about the reliability and authenticity of research. The study, published in Nature, highlights the potential risks of relying on AI-generated data and the need for rigorous validation processes.",
+          "whyItMatters": "This issue underscores the importance of verifying sources and maintaining academic integrity in scientific research.",
+          "sources": [
+            {
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-02991-7"
+            }
+          ]
+        },
+        {
+          "title": "Quantum teleportation breakthrough",
+          "body": "Scientists achieved a significant milestone in quantum communication by successfully teleporting a quantum state over a distance, overcoming a 25-year challenge. This advancement could revolutionize secure data transmission and quantum computing.",
+          "whyItMatters": "Quantum teleportation breakthroughs have the potential to transform fields such as cryptography and information technology, offering new opportunities for students and researchers.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260929053550.htm"
+            }
+          ]
+        }
+      ],
+      "mode": "GitHub Action · local Qwen",
+      "updatedAt": "2026-09-30T16:38:37.690Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The lens covers economic developments, including a potential shift in global trade dynamics, job market trends, and regulatory challenges in the tech and energy sectors.",
+      "summary": "Today's lens covers economic developments, including a flight diversion, job cuts, energy bill forecasts, and political economic debates.",
       "stories": [
         {
-          "title": "Nigeria's highway washed away by rain",
-          "body": "In Nigeria, heavy rainfall on Wednesday caused the washing away of a highway, disrupting transportation and potentially affecting local economies. The event highlights the vulnerability of infrastructure to extreme weather conditions, which is a growing concern in the region.",
-          "whyItMatters": "This event underscores the need for improved disaster resilience and infrastructure planning in developing countries.",
+          "title": "Flydubai flight diversion in Dubai to Tel Aviv",
+          "body": "A Flydubai flight from Dubai to Tel Aviv was diverted due to weather conditions, causing delays and uncertainty for passengers. The incident highlights the impact of weather on aviation operations and the need for robust contingency planning.",
+          "whyItMatters": "This event underscores the vulnerability of global air travel to weather disruptions and the importance of reliable infrastructure.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/rainwater-washes-away-highway-in-nigeria?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/9/30/what-happened-on-diverted-flydubai-flight-from-dubai-to-tel-aviv?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/9/30/garvaghy-road-standoff-brings-northern-irelands-old-wounds-back-to-surface?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Iraq celebrates National Sovereignty Day as US troops withdraw",
-          "body": "As US forces withdraw from Iraq, the country celebrates National Sovereignty Day, marking a significant shift in its security landscape. The event reflects the transition of power and the evolving role of the military in regional stability.",
-          "whyItMatters": "The withdrawal of US troops and the subsequent celebration of sovereignty highlight the complex dynamics of international military presence and regional security.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/iraq-celebrates-national-sovereignty-day-as-us-troops-withdraw?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Greggs to shut four factories and cut 740 jobs",
-          "body": "British fast-food chain Greggs is set to shut four factories and cut 740 jobs, impacting the employment landscape in the UK. This development reflects broader trends in the food industry facing economic pressures and supply chain disruptions.",
-          "whyItMatters": "The job cuts highlight the challenges faced by businesses in a competitive and rapidly changing economic environment.",
+          "title": "Greggs to close four factories and cut 740 jobs",
+          "body": "British fast-food chain Greggs is set to close four factories and reduce employment by 740 jobs, reflecting broader challenges in the retail and food industry due to economic pressures and supply chain issues.",
+          "whyItMatters": "This job reduction highlights the economic challenges faced by businesses and the potential impact on local employment and consumer markets.",
           "sources": [
             {
               "name": "BBC Business",
               "url": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss"
             }
           ]
+        },
+        {
+          "title": "Household energy bills forecast to rise significantly",
+          "body": "Forecasted increases in household energy bills are expected to be the largest in four years, driven by rising energy prices and potential supply constraints, raising concerns about affordability and energy security.",
+          "whyItMatters": "This development highlights the growing economic pressures on households and the need for sustainable energy solutions and policy interventions.",
+          "sources": [
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-09-30T12:46:18.225Z"
+      "updatedAt": "2026-09-30T16:38:37.690Z"
     }
   }
 }
