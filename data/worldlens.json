@@ -1,69 +1,61 @@
 {
-  "generatedAt": "2026-10-01T16:35:59.120Z",
+  "generatedAt": "2026-10-01T20:38:12.161Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers developments in international politics, human rights, and regional conflicts, highlighting tensions, security concerns, and policy shifts.",
+      "summary": "Today's lens covers a mix of international developments, including diplomatic tensions, legal matters, and geopolitical warnings.",
       "stories": [
         {
-          "title": "Man City whistleblower Rui Pinto faces legal consequences",
-          "body": "Rui Pinto, a former Manchester City player, has been accused of leaking confidential information to the media. The incident has raised concerns about the integrity of sports and the potential for leaks. Pinto has been investigated by authorities, and his legal status remains unclear.",
-          "whyItMatters": "The incident highlights the potential risks associated with whistleblowing and the importance of maintaining trust in public institutions.",
+          "title": "Christa Pike in critical condition after surviving two lethal injections",
+          "body": "Christa Pike, a British journalist, was in critical condition after surviving two lethal injections. Her lawyer stated that she was in a stable condition but required intensive medical care. The incident has raised concerns about the safety of journalists in conflict zones.",
+          "whyItMatters": "The incident highlights the risks faced by journalists in conflict zones and the importance of medical preparedness.",
           "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/1/who-is-man-city-whistleblower-rui-pinto-and-whats-happening-to-him?traffic_source=rss"
-            },
             {
               "name": "BBC World",
               "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Flydubai attack prompts security concerns in Israel",
-          "body": "A recent attack on Flydubai, a regional airline, has led to heightened security measures in Israel ahead of the upcoming election. The incident has sparked discussions about aviation safety and the need for improved security protocols.",
-          "whyItMatters": "The attack underscores the ongoing challenges in ensuring aviation safety and the importance of robust security measures in critical infrastructure.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/1/flydubai-attack-gives-netanyahu-new-security-message-ahead-of-israel-vote?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/features/2026/10/1/flydubai-stabbing-how-safe-are-planes-if-a-pilot-turns-violent?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Ukraine's defense is under threat from Western militaries",
-          "body": "Experts have raised concerns about Western military support for Ukraine, suggesting that it may undermine the country's defense capabilities. The situation highlights the complex dynamics of international military aid and its potential impact on regional stability.",
-          "whyItMatters": "The potential impact of Western military support on Ukraine's defense raises questions about the balance between security and sovereignty in international relations.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/1/western-militaries-are-undermining-ukraines-defence-experts-say?traffic_source=rss"
             },
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Eritrea severs diplomatic ties with Ethiopia in tit-for-tat move",
+          "body": "Eritrea has severed diplomatic ties with Ethiopia in response to recent tensions, marking a significant shift in their bilateral relations. The move is seen as a strategic response to ongoing disputes over border issues and regional stability.",
+          "whyItMatters": "The severing of diplomatic ties reflects broader geopolitical tensions and the impact of regional conflicts on international relations.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/1/eritrea-severs-diplomatic-ties-with-ethiopia-in-tit-for-tat-move?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "UK Parliament told answers on tax implications are needed in Manchester City ruling",
+          "body": "UK Parliament was informed that answers on tax implications are needed for the Manchester City ruling. The ruling involves complex financial matters and has sparked discussions about the transparency and accountability of public institutions.",
+          "whyItMatters": "The ruling underscores the importance of financial transparency and the role of Parliament in ensuring accountability in public decisions.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/10/1/uk-parliament-told-tax-implication-answers-needed-in-manchester-city-ruling?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-01T16:35:59.120Z"
+      "updatedAt": "2026-10-01T20:38:12.161Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers advancements in space exploration, biological research, environmental concerns, and technological innovations.",
+      "summary": "Today's lens covers scientific advancements, environmental concerns, and cultural phenomena.",
       "stories": [
         {
-          "title": "SpaceX launches crew to ISS",
-          "body": "SpaceX successfully launched a crew of astronauts to the International Space Station (ISS) using its Falcon 9 rocket. This marks another milestone in space exploration and demonstrates the growing capability of private spaceflight companies to support human space missions.",
-          "whyItMatters": "This launch highlights the progress in space exploration and the potential for future crewed missions to the Moon and Mars.",
+          "title": "SpaceX Launches Crew to ISS",
+          "body": "SpaceX successfully launched a crew to the International Space Station (ISS) using its Falcon 9 rocket. This marks a significant step in space exploration and demonstrates the company's capability to conduct human spaceflight missions.",
+          "whyItMatters": "This advancement highlights the progress in space technology and the potential for future space missions.",
           "sources": [
             {
               "name": "BBC Science",
@@ -76,79 +68,91 @@
           ]
         },
         {
-          "title": "Australian scientists identify underlying causes of recurrent bacterial vaginosis",
-          "body": "Australian researchers have identified the underlying causes of recurrent bacterial vaginosis, a common condition affecting women's health. This breakthrough could lead to more effective treatments and better understanding of the disease's progression.",
-          "whyItMatters": "Understanding the causes of bacterial vaginosis could improve public health strategies and patient care.",
+          "title": "Australian Scientists Identify Underlying Causes of Bacterial Vaginosis",
+          "body": "Australian scientists have identified the underlying causes of recurrent bacterial vaginosis, offering new insights into its development and potential treatments. This research could lead to improved diagnostic and therapeutic approaches for women's health.",
+          "whyItMatters": "Understanding the causes of bacterial vaginosis could enhance public health strategies and improve patient outcomes.",
           "sources": [
             {
               "name": "The Guardian Science",
               "url": "https://www.theguardian.com/australia-news/2026/oct/02/underlying-causes-of-recurrent-bacterial-vaginosis-identified-by-australian-scientists"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260930225450.htm"
             }
           ]
         },
         {
-          "title": "Swiss glaciers face 'disastrous' ice loss",
-          "body": "Swiss glaciers have experienced a record-breaking year of ice loss, threatening water supplies and ecosystems. This highlights the urgent need for climate action to mitigate the impacts of global warming on vulnerable regions.",
-          "whyItMatters": "The rapid ice loss in Swiss glaciers underscores the critical role of climate change in shaping global water resources and ecosystems.",
+          "title": "Swiss Glaciers Face 'Disastrous' Year of Ice Loss",
+          "body": "Swiss glaciers experienced a 'disastrous' year of ice loss, threatening water supplies for millions. This highlights the urgent need for climate action and the impact of global warming on natural ecosystems.",
+          "whyItMatters": "This event underscores the critical role of climate change in shaping natural resources and the importance of addressing environmental challenges.",
           "sources": [
             {
               "name": "BBC Science",
               "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cw4gqnnm4ymdo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-01T16:35:59.120Z"
+      "updatedAt": "2026-10-01T20:38:12.161Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including bond yields, AI risks, and military actions, with a focus on global impacts and student awareness.",
+      "summary": "The economic landscape is shaped by global financial developments, technological advancements, and geopolitical tensions, with implications for students studying international relations and economics.",
       "stories": [
         {
-          "title": "Man City whistleblower Rui Pinto's fate",
-          "body": "Rui Pinto, a former Manchester City player, has become a whistleblower, revealing potential misconduct. His situation remains under investigation, and his future is uncertain. This incident highlights the complexities of sports ethics and transparency.",
-          "whyItMatters": "The whistleblower case underscores the importance of accountability in sports and the potential consequences of misconduct.",
+          "title": "ICC Ends Contract with French Insurer Amid US Sanctions Threat",
+          "body": "The International Criminal Court (ICC) has ended its contract with a French insurer following concerns over potential US sanctions. The decision comes as the ICC seeks to maintain its operations while navigating geopolitical complexities. The insurer's role in handling court cases and financial obligations has been central to this development.",
+          "whyItMatters": "This decision highlights the challenges of international legal institutions in balancing sanctions and operational needs, which could affect global justice mechanisms.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/1/who-is-man-city-whistleblower-rui-pinto-and-whats-happening-to-him?traffic_source=rss"
+              "url": "https://www.aljazeera.com/economy/2026/10/1/icc-ends-contract-with-french-insurer-amid-us-sanctions-threat?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/1/flydubai-attack-gives-netanyahu-new-security-message-ahead-of-israel-vote?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/10/1/uk-parliament-told-tax-implication-answers-needed-in-manchester-city-ruling?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "UK bond yields hit 6% as borrowing costs rise",
-          "body": "The UK 30-year bond yield reached 6%, the highest since 2002, reflecting rising borrowing costs and economic uncertainty. This event highlights the impact of financial markets on national economies.",
-          "whyItMatters": "The bond yield rise underscores the sensitivity of financial markets and the potential for economic shocks in the UK.",
+          "title": "UK Parliament Told Answers on Tax Implications in Man City Case",
+          "body": "UK Parliament was informed that answers to tax implications related to the Manchester City football club's financial dealings are needed. This reflects the ongoing scrutiny of corporate tax compliance and the impact of major financial events on public policy.",
+          "whyItMatters": "This highlights the intersection of finance, law, and governance, emphasizing the importance of transparency in corporate financial reporting.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/10/1/uk-parliament-told-tax-implication-answers-needed-in-manchester-city-ruling?traffic_source=rss"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "US Borrowing Costs Hit 24-Year High as Global Bond Sell-Off Intensifies",
+          "body": "US borrowing costs reached a 24-year high as global bond markets experienced a sell-off, driven by uncertainty in economic growth and inflation. This reflects the broader impact of financial market fluctuations on global economies.",
+          "whyItMatters": "This underscores the sensitivity of financial markets to global economic conditions, providing insight into the factors influencing investment decisions and economic policy.",
           "sources": [
             {
               "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/live/2026/oct/01/uk-house-prices-september-mortgage-rates-bonds-stock-markets-manufacturing-latest-news-updates"
-            }
-          ]
-        },
-        {
-          "title": "AI risks and market stability",
-          "body": "The Bank of England warns that the AI boom could trigger market shocks, while the US inflation report suggests the Federal Reserve may avoid rate hikes. These developments highlight the dual challenges of technological advancement and economic stability.",
-          "whyItMatters": "The AI boom and inflation report illustrate the interplay between technological progress and economic policy, affecting students interested in global economics.",
-          "sources": [
+              "url": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield"
+            },
             {
               "name": "BBC Business",
               "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/sep/30/inflation-report-interest-rates-fed"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-01T16:35:59.120Z"
+      "updatedAt": "2026-10-01T20:38:12.161Z"
     }
   }
 }
