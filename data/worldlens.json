@@ -1,121 +1,140 @@
 {
-  "generatedAt": "2026-10-01T12:44:16.315Z",
+  "generatedAt": "2026-10-01T16:35:59.120Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers a range of international events, including political developments, human rights issues, and environmental concerns.",
+      "kicker": "Geopolitics",
+      "summary": "Today's lens covers developments in international politics, human rights, and regional conflicts, highlighting tensions, security concerns, and policy shifts.",
       "stories": [
         {
-          "title": "DR Congo politician killed after defending Ebola response",
-          "body": "A funeral was held for a DR Congo politician who was killed after defending the country's response to the Ebola outbreak. The incident highlights the tensions between political figures and public health initiatives in conflict zones.",
-          "whyItMatters": "The incident underscores the challenges of balancing political leadership with public health responsibilities in crisis situations.",
+          "title": "Man City whistleblower Rui Pinto faces legal consequences",
+          "body": "Rui Pinto, a former Manchester City player, has been accused of leaking confidential information to the media. The incident has raised concerns about the integrity of sports and the potential for leaks. Pinto has been investigated by authorities, and his legal status remains unclear.",
+          "whyItMatters": "The incident highlights the potential risks associated with whistleblowing and the importance of maintaining trust in public institutions.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/funeral-held-for-dr-congo-politician-killed-after-defending-ebola-response?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/10/1/who-is-man-city-whistleblower-rui-pinto-and-whats-happening-to-him?traffic_source=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Flydubai attack prompts security concerns in Israel",
+          "body": "A recent attack on Flydubai, a regional airline, has led to heightened security measures in Israel ahead of the upcoming election. The incident has sparked discussions about aviation safety and the need for improved security protocols.",
+          "whyItMatters": "The attack underscores the ongoing challenges in ensuring aviation safety and the importance of robust security measures in critical infrastructure.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/1/flydubai-attack-gives-netanyahu-new-security-message-ahead-of-israel-vote?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss"
+              "url": "https://www.aljazeera.com/features/2026/10/1/flydubai-stabbing-how-safe-are-planes-if-a-pilot-turns-violent?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "UAE investigates possible terrorist link in attack on flight to Israel",
-          "body": "The UAE has launched an investigation into a possible terrorist link in an attack on a flight to Israel. The incident raises concerns about security threats and the role of extremist groups in regional conflicts.",
-          "whyItMatters": "The investigation highlights the ongoing security challenges faced by international travelers and the potential for extremist activities to impact global travel safety.",
+          "title": "Ukraine's defense is under threat from Western militaries",
+          "body": "Experts have raised concerns about Western military support for Ukraine, suggesting that it may undermine the country's defense capabilities. The situation highlights the complex dynamics of international military aid and its potential impact on regional stability.",
+          "whyItMatters": "The potential impact of Western military support on Ukraine's defense raises questions about the balance between security and sovereignty in international relations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "US death row inmate survives execution attempt",
-          "body": "A US death row inmate survived an execution attempt after two lethal injections. The incident raises questions about the reliability of execution methods and the ethical considerations of the death penalty.",
-          "whyItMatters": "The survival of the inmate highlights the complexities and risks associated with the death penalty and the potential for legal and medical challenges in the execution process.",
-          "sources": [
+              "url": "https://www.aljazeera.com/news/2026/10/1/western-militaries-are-undermining-ukraines-defence-experts-say?traffic_source=rss"
+            },
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-01T12:44:16.315Z"
+      "updatedAt": "2026-10-01T16:35:59.120Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers advances in astronomy, ecology, medicine, and technology, highlighting both scientific discoveries and real-world impacts.",
+      "summary": "Today's lens covers advancements in space exploration, biological research, environmental concerns, and technological innovations.",
       "stories": [
         {
-          "title": "Astrologers Dispute Star Reading",
-          "body": "The United Astrology Conference in America sparked debate over how to interpret celestial signs, with participants arguing over the role of astrology in modern science and its relevance to personal decisions.",
-          "whyItMatters": "The discussion reflects broader tensions between traditional practices and scientific methodologies.",
+          "title": "SpaceX launches crew to ISS",
+          "body": "SpaceX successfully launched a crew of astronauts to the International Space Station (ISS) using its Falcon 9 rocket. This marks another milestone in space exploration and demonstrates the growing capability of private spaceflight companies to support human space missions.",
+          "whyItMatters": "This launch highlights the progress in space exploration and the potential for future crewed missions to the Moon and Mars.",
           "sources": [
             {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/ng-interactive/2026/oct/01/united-astrology-conference"
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/videos/c5rm9mdperemo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/audio/2026/oct/01/science-of-memory-manipulation-podcast"
+              "url": "https://www.theguardian.com/australia-news/2026/oct/02/underlying-causes-of-recurrent-bacterial-vaginosis-identified-by-australian-scientists"
             }
           ]
         },
         {
-          "title": "Rare Bog Grass Moth Found in Nature Reserve",
-          "body": "A rare Bog Grass Moth was recorded for the first time in a nature reserve, highlighting the importance of conservation efforts and the delicate balance of ecosystems.",
-          "whyItMatters": "This discovery underscores the need for protecting biodiversity and the role of natural reserves in preserving species.",
+          "title": "Australian scientists identify underlying causes of recurrent bacterial vaginosis",
+          "body": "Australian researchers have identified the underlying causes of recurrent bacterial vaginosis, a common condition affecting women's health. This breakthrough could lead to more effective treatments and better understanding of the disease's progression.",
+          "whyItMatters": "Understanding the causes of bacterial vaginosis could improve public health strategies and patient care.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cw4gqnnm4ymdo?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/australia-news/2026/oct/02/underlying-causes-of-recurrent-bacterial-vaginosis-identified-by-australian-scientists"
             }
           ]
         },
         {
-          "title": "AI Helps Farmers Decide When to Harvest",
-          "body": "An AI system has been developed to assist farmers in determining the optimal time to harvest crops, improving efficiency and reducing losses through data-driven decision-making.",
-          "whyItMatters": "This technology has the potential to revolutionize agricultural practices and enhance food security.",
+          "title": "Swiss glaciers face 'disastrous' ice loss",
+          "body": "Swiss glaciers have experienced a record-breaking year of ice loss, threatening water supplies and ecosystems. This highlights the urgent need for climate action to mitigate the impacts of global warming on vulnerable regions.",
+          "whyItMatters": "The rapid ice loss in Swiss glaciers underscores the critical role of climate change in shaping global water resources and ecosystems.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-01T12:44:16.315Z"
+      "updatedAt": "2026-10-01T16:35:59.120Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The lens covers economic developments, including UK borrowing costs, AI risks, and US inflation reports, while highlighting human rights and social issues.",
+      "summary": "Today's lens covers economic developments, including bond yields, AI risks, and military actions, with a focus on global impacts and student awareness.",
       "stories": [
         {
-          "title": "UK 30-year borrowing costs hit 6%",
-          "body": "The UK's 30-year borrowing costs reached 6%, the highest since 1998, as government bond sales intensified. This reflects growing concerns about the UK's debt levels and economic stability, with investors increasingly wary of the government's ability to manage its finances.",
-          "whyItMatters": "The rise in borrowing costs could impact consumer spending and business investment, influencing the UK's economic trajectory.",
+          "title": "Man City whistleblower Rui Pinto's fate",
+          "body": "Rui Pinto, a former Manchester City player, has become a whistleblower, revealing potential misconduct. His situation remains under investigation, and his future is uncertain. This incident highlights the complexities of sports ethics and transparency.",
+          "whyItMatters": "The whistleblower case underscores the importance of accountability in sports and the potential consequences of misconduct.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/10/1/who-is-man-city-whistleblower-rui-pinto-and-whats-happening-to-him?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/1/flydubai-attack-gives-netanyahu-new-security-message-ahead-of-israel-vote?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "UK bond yields hit 6% as borrowing costs rise",
+          "body": "The UK 30-year bond yield reached 6%, the highest since 2002, reflecting rising borrowing costs and economic uncertainty. This event highlights the impact of financial markets on national economies.",
+          "whyItMatters": "The bond yield rise underscores the sensitivity of financial markets and the potential for economic shocks in the UK.",
           "sources": [
             {
               "name": "The Guardian Business",
               "url": "https://www.theguardian.com/business/live/2026/oct/01/uk-house-prices-september-mortgage-rates-bonds-stock-markets-manufacturing-latest-news-updates"
-            },
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation"
             }
           ]
         },
         {
-          "title": "AI risks and market concerns",
-          "body": "The Bank of England warns that the AI boom could trigger market shocks, while the US inflation report suggests the Federal Reserve may avoid rate hikes. These developments highlight the growing influence of artificial intelligence on financial markets and the potential for economic uncertainty.",
-          "whyItMatters": "The AI boom and inflation trends could reshape economic policies and market behaviors, affecting global financial stability.",
+          "title": "AI risks and market stability",
+          "body": "The Bank of England warns that the AI boom could trigger market shocks, while the US inflation report suggests the Federal Reserve may avoid rate hikes. These developments highlight the dual challenges of technological advancement and economic stability.",
+          "whyItMatters": "The AI boom and inflation report illustrate the interplay between technological progress and economic policy, affecting students interested in global economics.",
           "sources": [
             {
               "name": "BBC Business",
@@ -126,25 +145,10 @@
               "url": "https://www.theguardian.com/business/2026/sep/30/inflation-report-interest-rates-fed"
             }
           ]
-        },
-        {
-          "title": "US food industry reacts to Maha",
-          "body": "The US food industry is responding to Maha, a social media influencer, with some members expressing concern over the impact of the ban on Canadian imports. This reflects broader tensions in US-China trade relations and the role of digital platforms in shaping public opinion.",
-          "whyItMatters": "The reaction to Maha highlights the influence of social media on consumer behavior and trade policies, potentially affecting global supply chains.",
-          "sources": [
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/sep/30/us-food-industry-maga-social-media-influencers"
-            },
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/us-news/2026/sep/29/ban-canada-imports"
-            }
-          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-01T12:44:16.315Z"
+      "updatedAt": "2026-10-01T16:35:59.120Z"
     }
   }
 }
