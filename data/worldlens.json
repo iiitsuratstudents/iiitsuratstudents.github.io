@@ -1,125 +1,125 @@
 {
-  "generatedAt": "2026-10-01T08:39:39.847Z",
+  "generatedAt": "2026-10-01T12:44:16.315Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of international events, including geopolitical tensions, human rights issues, and regional conflicts, with a focus on global news from multiple outlets.",
+      "kicker": "Global Brief",
+      "summary": "Today's lens covers a range of international events, including political developments, human rights issues, and environmental concerns.",
       "stories": [
         {
-          "title": "Iran and Israel tensions",
-          "body": "The Israeli Prime Minister has stated that it is too early to determine if Iran was involved in a flight attack in Dubai-Tel Aviv. The incident remains under investigation, with no official confirmation of involvement. The situation highlights ongoing geopolitical tensions between Israel and Iran, which have been a source of conflict in the Middle East.",
-          "whyItMatters": "The uncertainty surrounding the involvement of Iran in the attack underscores the complex and volatile nature of regional conflicts.",
+          "title": "DR Congo politician killed after defending Ebola response",
+          "body": "A funeral was held for a DR Congo politician who was killed after defending the country's response to the Ebola outbreak. The incident highlights the tensions between political figures and public health initiatives in conflict zones.",
+          "whyItMatters": "The incident underscores the challenges of balancing political leadership with public health responsibilities in crisis situations.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/funeral-held-for-dr-congo-politician-killed-after-defending-ebola-response?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/1/palestinians-to-bury-remains-of-105-people-killed-in-israeli-attack-on-gaza?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "OpenAI reviewing hacking report",
-          "body": "Al Jazeera reports that OpenAI is reviewing a failed hacking attempt against Canada’s government. The report details the incident and its potential implications for cybersecurity and national security. This event highlights the ongoing efforts to protect critical infrastructure from cyber threats.",
-          "whyItMatters": "The review of the hacking attempt reflects the growing importance of cybersecurity in the digital age and the need for robust defenses against cyber attacks.",
+          "title": "UAE investigates possible terrorist link in attack on flight to Israel",
+          "body": "The UAE has launched an investigation into a possible terrorist link in an attack on a flight to Israel. The incident raises concerns about security threats and the role of extremist groups in regional conflicts.",
+          "whyItMatters": "The investigation highlights the ongoing security challenges faced by international travelers and the potential for extremist activities to impact global travel safety.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/10/1/openai-reviewing-report-of-failed-hacking-attempt-against-canadas-govt?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Gaza prepares to bury 105 Palestinians",
-          "body": "Al Jazeera reports that Palestinians are preparing to bury the remains of 105 people killed in an Israeli attack on Gaza in October 2023. The burial process is part of the ongoing humanitarian crisis in the region, with international attention focused on the impact of conflict on civilian populations.",
-          "whyItMatters": "The burial of victims highlights the human cost of conflict and the need for sustained humanitarian efforts in war-torn regions.",
+          "title": "US death row inmate survives execution attempt",
+          "body": "A US death row inmate survived an execution attempt after two lethal injections. The incident raises questions about the reliability of execution methods and the ethical considerations of the death penalty.",
+          "whyItMatters": "The survival of the inmate highlights the complexities and risks associated with the death penalty and the potential for legal and medical challenges in the execution process.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/gaza-prepares-to-bury-105-palestinians-killed-in-october-2023?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-01T08:39:39.847Z"
+      "updatedAt": "2026-10-01T12:44:16.315Z"
     },
     "science": {
-      "kicker": "Science & Nature",
-      "summary": "Today's lens covers groundbreaking scientific discoveries, environmental concerns, and innovative technologies impacting the world.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens covers advances in astronomy, ecology, medicine, and technology, highlighting both scientific discoveries and real-world impacts.",
       "stories": [
         {
-          "title": "Rare Bog Grass Moth Found in Nature Reserve",
-          "body": "The Bog Grass Moth, a rare species, was first recorded in a nature reserve in the UK. This discovery highlights the importance of preserving biodiversity and the role of natural habitats in supporting unique species.",
-          "whyItMatters": "This finding underscores the need for conservation efforts to protect fragile ecosystems and rare species.",
+          "title": "Astrologers Dispute Star Reading",
+          "body": "The United Astrology Conference in America sparked debate over how to interpret celestial signs, with participants arguing over the role of astrology in modern science and its relevance to personal decisions.",
+          "whyItMatters": "The discussion reflects broader tensions between traditional practices and scientific methodologies.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cw4gqnnm4ymdo?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/science/ng-interactive/2026/oct/01/united-astrology-conference"
             },
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/science/audio/2026/oct/01/science-of-memory-manipulation-podcast"
             }
           ]
         },
         {
-          "title": "AI Helps Farmers Determine Harvest Times",
-          "body": "An AI system has been developed to help farmers predict the optimal times to harvest crops. This technology could improve agricultural efficiency and sustainability by reducing waste and optimizing resource use.",
-          "whyItMatters": "Advancements in AI could revolutionize farming practices, making them more precise and environmentally friendly.",
+          "title": "Rare Bog Grass Moth Found in Nature Reserve",
+          "body": "A rare Bog Grass Moth was recorded for the first time in a nature reserve, highlighting the importance of conservation efforts and the delicate balance of ecosystems.",
+          "whyItMatters": "This discovery underscores the need for protecting biodiversity and the role of natural reserves in preserving species.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cw4gqnnm4ymdo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "AI Helps Farmers Decide When to Harvest",
+          "body": "An AI system has been developed to assist farmers in determining the optimal time to harvest crops, improving efficiency and reducing losses through data-driven decision-making.",
+          "whyItMatters": "This technology has the potential to revolutionize agricultural practices and enhance food security.",
           "sources": [
             {
               "name": "BBC Science",
               "url": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss"
             }
           ]
-        },
-        {
-          "title": "Swiss Glaciers Face 'Disastrous' Ice Loss",
-          "body": "Swiss glaciers have experienced a record-breaking year of ice loss, threatening water supplies for millions. This event highlights the urgent need for climate action to prevent further environmental degradation.",
-          "whyItMatters": "The impact of glacier ice loss on water resources underscores the importance of addressing climate change and its far-reaching consequences.",
-          "sources": [
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-01T08:39:39.847Z"
+      "updatedAt": "2026-10-01T12:44:16.315Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The lens covers a mix of economic developments, including geopolitical tensions, technological advancements, and policy debates.",
+      "summary": "The lens covers economic developments, including UK borrowing costs, AI risks, and US inflation reports, while highlighting human rights and social issues.",
       "stories": [
         {
-          "title": "Geopolitical Tensions in Kordofan",
-          "body": "The battle for Kordofan, a corridor linking Sudan’s east and west, continues as armed groups contest control. The conflict has drawn international attention, with concerns over humanitarian impacts and regional stability.",
-          "whyItMatters": "The ongoing conflict in Kordofan could affect regional security and humanitarian access, potentially impacting trade and diplomacy.",
+          "title": "UK 30-year borrowing costs hit 6%",
+          "body": "The UK's 30-year borrowing costs reached 6%, the highest since 1998, as government bond sales intensified. This reflects growing concerns about the UK's debt levels and economic stability, with investors increasingly wary of the government's ability to manage its finances.",
+          "whyItMatters": "The rise in borrowing costs could impact consumer spending and business investment, influencing the UK's economic trajectory.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/1/the-battle-for-kordofan-the-corridor-linking-sudans-east-and-west?traffic_source=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/live/2026/oct/01/uk-house-prices-september-mortgage-rates-bonds-stock-markets-manufacturing-latest-news-updates"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/10/1/openai-reviewing-report-of-failed-hacking-attempt-against-canadas-govt?traffic_source=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation"
             }
           ]
         },
         {
-          "title": "Rising Energy Bills and Policy Responses",
-          "body": "Energy bills in the UK are rising by £60 annually, prompting calls for policy interventions. The situation is also being addressed in the US, where the Federal Reserve watchdog found no criminal violations in building renovation cost overruns, signaling potential economic stability.",
-          "whyItMatters": "Rising energy bills could impact consumer spending and energy policy decisions, influencing economic growth and sustainability efforts.",
+          "title": "AI risks and market concerns",
+          "body": "The Bank of England warns that the AI boom could trigger market shocks, while the US inflation report suggests the Federal Reserve may avoid rate hikes. These developments highlight the growing influence of artificial intelligence on financial markets and the potential for economic uncertainty.",
+          "whyItMatters": "The AI boom and inflation trends could reshape economic policies and market behaviors, affecting global financial stability.",
           "sources": [
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "The Guardian Business",
@@ -128,23 +128,23 @@
           ]
         },
         {
-          "title": "AI and Economic Impact",
-          "body": "The AI boom could trigger market shocks, as noted by the Bank of England. Simultaneously, AI is being used to assist farmers in harvesting decisions, highlighting the transformative potential of technology in agriculture.",
-          "whyItMatters": "The AI boom could reshape industries and labor markets, influencing economic growth and workforce adaptation strategies.",
+          "title": "US food industry reacts to Maha",
+          "body": "The US food industry is responding to Maha, a social media influencer, with some members expressing concern over the impact of the ban on Canadian imports. This reflects broader tensions in US-China trade relations and the role of digital platforms in shaping public opinion.",
+          "whyItMatters": "The reaction to Maha highlights the influence of social media on consumer behavior and trade policies, potentially affecting global supply chains.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/sep/30/us-food-industry-maga-social-media-influencers"
             },
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/us-news/2026/sep/29/ban-canada-imports"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-01T08:39:39.847Z"
+      "updatedAt": "2026-10-01T12:44:16.315Z"
     }
   }
 }
