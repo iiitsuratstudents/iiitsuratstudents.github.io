@@ -1,150 +1,150 @@
 {
-  "generatedAt": "2026-10-02T20:35:28.160Z",
+  "generatedAt": "2026-10-03T00:42:46.218Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers regional conflicts, political developments, and international issues affecting students globally.",
+      "kicker": "Global Events",
+      "summary": "Today's lens covers ongoing conflicts, political developments, and social issues affecting students globally.",
       "stories": [
         {
-          "title": "Ethiopia's Regional Conflict Potential",
-          "body": "Al Jazeera reports that there is potential for conflict in Ethiopia to expand beyond the region, citing ongoing tensions and geopolitical dynamics. The article highlights the complexity of regional stability and the impact of external factors on local conflicts.",
-          "whyItMatters": "The potential for regional conflict underscores the importance of international mediation and diplomatic efforts to prevent escalation.",
+          "title": "Yemen Conflict Intensifies",
+          "body": "Fighting has intensified in Yemen, with reports of hundreds of deaths or injuries. The conflict involves multiple parties, including Iran, which has been involved in the region for years. The situation highlights the ongoing instability in the Middle East.",
+          "whyItMatters": "The conflict in Yemen underscores the complex geopolitical dynamics and humanitarian crises affecting students and communities worldwide.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/inside-story/2026/10/2/could-conflict-in-ethiopia-expand-across-the-region?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/aje-onl-nf_ig_thumb_diesel-021026?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Arab Party Leader Withdraws from Israeli Elections",
-          "body": "Al Jazeera reports that an Arab party leader has withdrawn from the Israeli elections, reflecting the political climate and the challenges faced by political figures in navigating complex regional dynamics. The withdrawal is seen as a strategic move to avoid further political instability.",
-          "whyItMatters": "The withdrawal highlights the influence of political strategies in shaping electoral outcomes and the broader implications for regional cooperation.",
+          "title": "North Korea Fires Ballistic Missile",
+          "body": "North Korea fired a ballistic missile toward the sea, and South Korea reported the incident. The move is part of a broader pattern of tensions in the region, with both countries maintaining military postures and conducting provocative actions.",
+          "whyItMatters": "The missile launch reflects the volatile geopolitical climate and the potential for escalation in regional conflicts, which can impact students' understanding of international relations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-party-leader-withdraws-from-israeli-elections?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "US Coast Guard Intercepts Fuel Ship to Cuba",
-          "body": "The Guardian reports that the US Coast Guard intercepted a ship carrying fuel to Cuba, raising concerns about the flow of resources and the potential for increased military activity in the region. The incident underscores the complex interplay between maritime security and regional geopolitics.",
-          "whyItMatters": "The interception highlights the importance of maritime security and the potential for increased military activity in the region.",
+          "title": "Croatia vs England in UEFA Nations League",
+          "body": "Croatia and England faced off in a high-stakes match, with key players like Kevin De Bruyne and Harry Kane in the lineup. The game was expected to be a showcase of tactical brilliance and competitive spirit.",
+          "whyItMatters": "The match highlights the competitive nature of international sports and how global events can influence student perspectives on cultural and athletic competitions.",
           "sources": [
             {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/oct/02/us-coast-guard-says-it-has-intercepted-ship-carrying-fuel-to-cuba"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/10/2/croatia-england-uefa-nations-league-kane-modric-teams-form?traffic_source=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-02T20:35:28.160Z"
+      "updatedAt": "2026-10-03T00:42:46.218Z"
     },
     "science": {
-      "kicker": "Science & Nature",
-      "summary": "Today's lens highlights advancements in science, technology, and nature, including breakthroughs in quantum computing, biological research, and ecological conservation.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens covers scientific advancements, ecological events, and technological innovations impacting students globally.",
       "stories": [
         {
-          "title": "SpaceX sets new speed record with first Black female commander",
-          "body": "SpaceX's flight led by first Black female commander broke the US speed record, marking a milestone in aerospace history. The mission demonstrated advanced propulsion technology and crewed space travel capabilities.",
-          "whyItMatters": "This achievement highlights progress in space exploration and diversity in the aerospace industry.",
+          "title": "El Niño and Atlantic Hurricane Patterns",
+          "body": "A BBC Science report explores whether El Niño may lead to fewer Atlantic hurricanes. The study highlights the complex relationship between climate phenomena and weather patterns, emphasizing the need for further research and climate modeling.",
+          "whyItMatters": "Understanding climate patterns is crucial for predicting future weather and preparing for potential environmental changes.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/videos/c914d43gg2zdo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Hōlei Sea Arch Collapse in Hawaii",
+          "body": "A BBC Science article details the collapse of Hawaii's iconic 550-year-old Hōlei Sea Arch, a natural landmark that has remained unchanged for centuries. The event underscores the vulnerability of geological formations to environmental changes and the importance of preserving natural heritage.",
+          "whyItMatters": "Preserving natural landmarks is essential for both ecological and cultural reasons, and understanding such events can inform conservation efforts.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "SpaceX's Speed Record and Genetic Editing",
+          "body": "A Nature article reports on SpaceX's first Black female commander setting a US speed record, highlighting advancements in aerospace technology. Additionally, a Nature article discusses how gene editing can be used to modify specific cells, offering potential medical breakthroughs in genetic research.",
+          "whyItMatters": "Advancements in technology and science have the potential to revolutionize medicine, space exploration, and other fields, making informed student engagement critical for future innovation.",
           "sources": [
             {
               "name": "The Guardian Science",
               "url": "https://www.theguardian.com/science/2026/oct/01/spacex-speed-record-first-black-female-commander"
             },
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/videos/c5rm9mdperemo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "New qubit technology could revolutionize quantum computing",
-          "body": "A new qubit developed by scientists has shown potential to reduce error rates in superfluid quantum computers, advancing the field of quantum computing and its applications in cryptography and material science.",
-          "whyItMatters": "This breakthrough could lead to more reliable and powerful quantum computers, transforming industries such as cryptography and drug discovery.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm"
-            }
-          ]
-        },
-        {
-          "title": "Bog Grass Moth discovered in nature reserve for first time",
-          "body": "A rare Bog Grass Moth was found in a nature reserve, providing new insights into the biodiversity of the region and the ecological importance of wetland habitats.",
-          "whyItMatters": "This discovery underscores the value of conservation efforts and the need to protect fragile ecosystems.",
-          "sources": [
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cw4gqnnm4ymdo?at_medium=RSS&at_campaign=rss"
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03037-8"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-02T20:35:28.160Z"
+      "updatedAt": "2026-10-03T00:42:46.218Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The economic landscape is shaped by oil prices, inflation, job markets, and geopolitical tensions, with key developments in oil reserves, inflation, and political instability.",
+      "summary": "Today's lens covers global economic developments, including inflation, employment, and geopolitical events impacting the economy.",
       "stories": [
         {
-          "title": "G7 releases emergency oil and diesel reserves",
-          "body": "The G7 announced plans to release up to 100 million barrels of oil and diesel reserves to address potential supply shortages following the Trump export ban threat. This move aims to stabilize global energy markets and support economic stability.",
-          "whyItMatters": "The release of emergency reserves could impact global energy prices and supply chains, influencing both domestic and international economic policies.",
+          "title": "Yemen conflict intensifies, hundreds killed or injured",
+          "body": "Fighting in Yemen has intensified, with reports of hundreds of deaths or injuries. The conflict, which has been ongoing for years, continues to impact the region's stability and humanitarian crisis.",
+          "whyItMatters": "The ongoing conflict in Yemen highlights the complex interplay between regional instability and global economic concerns.",
           "sources": [
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/02/g7-release-barrels-oil-diesel-reserves-emergency"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "UK diesel prices hit £2 per litre for first time",
-          "body": "The UK's diesel prices reached £2 per litre for the first time, driven by a combination of supply constraints and demand. This situation highlights the vulnerability of the energy market and the impact of geopolitical factors on fuel prices.",
-          "whyItMatters": "Rising fuel prices can affect consumer spending, transportation costs, and overall economic growth, especially in regions with limited energy alternatives.",
+          "title": "US inflation report boosts Fed's rate decision",
+          "body": "A recent US inflation report indicated a slowdown in price increases, which could lead to the Federal Reserve reconsidering its rate-hiking plans. This development is crucial for understanding economic forecasts and policy decisions.",
+          "whyItMatters": "The inflation report provides critical insight into the Federal Reserve's potential rate decisions, affecting global financial markets and economic stability.",
           "sources": [
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "US jobs market slows as inflation report boosts Fed's rate decision",
-          "body": "The US jobs market saw a sharp slowdown in September, with employment gains dropping from last month's gains. The Federal Reserve's inflation report suggested that the central bank might avoid raising interest rates, reflecting the complex interplay between economic growth and inflation.",
-          "whyItMatters": "The Fed's decision on interest rates will have significant implications for the US economy, affecting borrowing costs, consumer spending, and business investment.",
-          "sources": [
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/02/september-jobs-report"
-            },
             {
               "name": "The Guardian Business",
               "url": "https://www.theguardian.com/business/2026/sep/30/inflation-report-interest-rates-fed"
             }
           ]
+        },
+        {
+          "title": "Dutch royal house's role in slave trade revealed",
+          "body": "A study reveals that the Dutch royal house played a significant role in the transatlantic slave trade, highlighting the historical and economic complexities of colonialism and its lasting impacts.",
+          "whyItMatters": "This historical revelation underscores the long-term economic and social consequences of colonial practices, offering a broader perspective on global economic history.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/2/dutch-royal-house-helped-slave-trade-to-survive-study-finds?traffic_source=rss"
+            }
+          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-02T20:35:28.160Z"
+      "updatedAt": "2026-10-03T00:42:46.218Z"
     }
   }
 }
