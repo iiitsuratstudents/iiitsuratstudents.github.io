@@ -1,146 +1,142 @@
 {
-  "generatedAt": "2026-10-04T07:58:11.581Z",
+  "generatedAt": "2026-10-04T15:49:28.307Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of regional conflicts, sports events, and global news, highlighting tensions, political developments, and local crises.",
+      "summary": "Today's lens covers a range of geopolitical developments, including tensions in Bosnia, tensions in Libya, and ongoing conflicts in the Middle East, while also highlighting international responses to these issues.",
       "stories": [
         {
-          "title": "Saudi-led coalition dismisses Houthi claim of Riyadh attack",
-          "body": "The Saudi-led coalition has dismissed a Houthi claim that a military attack occurred in Riyadh. The claim was made by the Houthi movement, which has been engaged in conflict with Saudi Arabia in Yemen. The coalition has not provided any evidence to support the claim, and the Houthi movement has not confirmed the attack. This development highlights the ongoing tensions in the region and the lack of credible information from one side.",
-          "whyItMatters": "The dismissal of a Houthi claim by the Saudi-led coalition underscores the difficulty in verifying information in conflict zones and the potential for misinformation.",
+          "title": "Israel Rejects Reckoning on October 7",
+          "body": "Israel is rejecting a reckoning into the 2023 attacks on its population, citing concerns about the potential for retraumatization. The decision reflects a broader trend of reluctance to confront historical trauma, despite the international community's calls for accountability.",
+          "whyItMatters": "The rejection of historical reckoning highlights the complex interplay between national identity and international justice.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-riyadh-are-misleading-saudi-led?traffic_source=rss"
+              "url": "https://www.aljazeera.com/opinions/2026/10/4/did-he-know-why-israel-is-rejecting-an-october-7-reckoning?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/4/yamal-scores-stunning-goal-in-spains-3-1-nations-league-win-over-czechia?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/4/dodik-declared-bosnia-dead-irrelevant-rhetoric-or-serious-threat?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Somalia President: Houthis 'not in a position' to bring Yemen peace",
-          "body": "Somalia's President says the Houthis, a group in Yemen, are not in a position to bring peace to the country. The statement comes amid ongoing conflict in Yemen, where the Houthis have been fighting against the Saudi-led coalition. The president's statement reflects the complex political landscape in Yemen and the challenges of achieving peace in a conflict-ridden region.",
-          "whyItMatters": "The statement highlights the difficulty of achieving peace in a conflict zone and the role of regional actors in the peace process.",
+          "title": "Libyan Unity Talks Upended by Warlord's Son",
+          "body": "Libyan unity talks were upended as a warlord's son was linked to drone attacks on fuel facilities. This development underscores the instability and fragmentation of the region, with potential implications for regional security and political alliances.",
+          "whyItMatters": "The disruption of Libyan unity highlights the challenges of achieving political cohesion in a volatile region.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss"
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Russia hits second major bridge in Kyiv",
-          "body": "Russia has hit a second major bridge in Kyiv, the capital of Ukraine. The attack comes as part of a broader effort to disrupt Ukrainian infrastructure and support the Russian military. The bridge is a significant infrastructure asset, and its destruction could impact the flow of goods and services in the region.",
-          "whyItMatters": "The destruction of infrastructure in conflict zones can have significant economic and logistical impacts, highlighting the ongoing challenges of maintaining stability in war-torn regions.",
+          "title": "Russia Strikes Kyiv Bridges, German Chancellor Visits",
+          "body": "Russian strikes on Kyiv bridges continue, while the German chancellor makes a surprise visit to the region. These events reflect the ongoing conflict and the international response to military actions in the region.",
+          "whyItMatters": "The ongoing conflict and international reactions highlight the geopolitical tensions and the impact of military actions on regional stability.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-04T07:58:11.581Z"
+      "updatedAt": "2026-10-04T15:49:28.307Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens highlights advancements in space exploration, biological research, and environmental science, with a focus on global impacts and innovations.",
+      "summary": "Today's lens covers scientific discoveries, technological advancements, and environmental observations that could impact students' academic and research pursuits.",
       "stories": [
         {
-          "title": "Queen's University students compete in NASA robotics",
-          "body": "Queen's University students participated in a NASA robotics competition, showcasing cutting-edge technological innovation. The event highlighted the potential of international collaboration in advancing robotic technologies. This competition could influence future space missions and robotics development.",
-          "whyItMatters": "International collaboration in robotics and space exploration is critical for advancing technological capabilities and fostering global scientific exchange.",
+          "title": "Meteor Impact Misaligned by 100 Million Years",
+          "body": "A meteor impact in Oklahoma was previously dated to 100 million years ago, but new data suggests it occurred 100 million years later than previously thought. The discovery challenges existing geological records and highlights the importance of reevaluating historical events.",
+          "whyItMatters": "This finding underscores the need for continuous scientific revision and the significance of accurate historical data in understanding Earth's geological history.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cq20v0e7vjkgo?at_medium=RSS&at_campaign=rss"
-            },
-            {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261002080012.htm"
             }
           ]
         },
         {
-          "title": "ESA’s Juice uses Earth as a slingshot to Jupiter",
-          "body": "ESA’s Juice spacecraft used Earth as a slingshot to reach Jupiter, demonstrating the efficiency of space travel. This method reduces fuel consumption and enhances mission viability. Such techniques are vital for future space missions and planetary exploration.",
-          "whyItMatters": "Efficient space travel methods like slingshooting are essential for reducing costs and improving the feasibility of interplanetary missions.",
+          "title": "New Clue in Cosmic Expansion Mystery",
+          "body": "Scientists have identified a surprising clue that may help explain why the universe's expansion is not accelerating as expected. This discovery could lead to new theories in cosmology and deepen our understanding of the universe's evolution.",
+          "whyItMatters": "This research could influence future studies in astrophysics and provide insights into the fundamental nature of the universe's expansion.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261001214057.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm"
             }
           ]
         },
         {
-          "title": "Scientists identify protective enzyme to combat fatty liver disease",
-          "body": "A new study reveals a protective enzyme that could prevent the progression of fatty liver disease. This discovery has significant implications for liver health and potential therapeutic applications. Understanding such enzymes could lead to new treatments for metabolic disorders.",
-          "whyItMatters": "Identifying protective enzymes for metabolic diseases could lead to new therapeutic approaches and improved public health outcomes.",
+          "title": "Forest Experiment Offers Big Surprise",
+          "body": "A 30-year-old forest experiment, which initially aimed to study ecological interactions, has delivered a major surprise. The results could provide valuable data on environmental changes and ecosystem dynamics, offering new perspectives on biodiversity and climate change.",
+          "whyItMatters": "This experiment's findings could inform conservation strategies and enhance our understanding of ecological systems in the face of global environmental challenges.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm"
-            },
-            {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/d41586-026-03037-8"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261001214120.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-04T07:58:11.581Z"
+      "updatedAt": "2026-10-04T15:49:28.307Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including energy prices, job markets, and geopolitical tensions, with a focus on global economic trends and their implications.",
+      "summary": "The lens covers economic developments, including inflation, energy prices, job markets, and political tensions, with a focus on global and regional impacts.",
       "stories": [
         {
-          "title": "Saudi-led coalition dismisses 'misleading' Houthi claim of Riyadh attack",
-          "body": "The Saudi-led coalition has dismissed a claim by Houthi rebels that a military attack occurred in Riyadh. The claim was deemed misleading, and the coalition has not provided further details. This development highlights ongoing tensions in the region, with the Houthi group continuing to assert its presence in Yemen.",
-          "whyItMatters": "The dismissal of the claim may affect regional stability and the flow of military operations in Yemen.",
+          "title": "US borrowing costs hit 24-year high as global bond sell-off intensifies",
+          "body": "US borrowing costs reached a 24-year high as global bond markets faced a sell-off, driven by concerns over inflation and economic uncertainty. The UK's long-term borrowing cost hit 4.4%, while US yields rose to 5.5% amid fears of a slowdown in the global economy.",
+          "whyItMatters": "Economic uncertainty and rising borrowing costs could impact global trade and investment flows.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-riyadh-are-misleading-saudi-led?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "US jobs market sees sharp slowdown ahead of midterm elections",
-          "body": "The US jobs market showed a sharp slowdown in September, with a decline in employment compared to the previous month. The report highlights the economic uncertainty facing the country as the midterm elections approach, with concerns about economic growth and inflation.",
-          "whyItMatters": "The economic slowdown could impact consumer spending and political outcomes in the upcoming elections.",
-          "sources": [
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield"
             }
           ]
         },
         {
           "title": "UK diesel prices top £2 a litre for first time, RAC says",
-          "body": "The UK has seen its diesel prices rise to £2 per litre for the first time, according to the Road Safety Council. This increase is attributed to rising energy costs and the government's efforts to reduce carbon emissions, highlighting the impact of global energy prices on everyday consumers.",
-          "whyItMatters": "The rise in diesel prices could influence consumer behavior and fuel policy in the UK.",
+          "body": "UK diesel prices reached £2 per litre for the first time, according to the Road Safety Association. This follows a sharp rise in fuel prices due to supply constraints and increased demand, raising concerns about the affordability of everyday goods and services.",
+          "whyItMatters": "Rising fuel prices could affect consumer spending and economic growth in the UK.",
           "sources": [
             {
               "name": "BBC Business",
               "url": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss"
             }
           ]
+        },
+        {
+          "title": "US jobs market sees sharp slowdown ahead of midterm elections",
+          "body": "The US jobs market slowed sharply in September, with a 29,000 job gain in the month of September, the smallest since 2022. This slowdown is expected to impact consumer confidence and economic growth, with the upcoming midterm elections adding to the uncertainty.",
+          "whyItMatters": "A slowing job market could influence political outcomes and economic policy in the US.",
+          "sources": [
+            {
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/oct/02/september-jobs-report"
+            }
+          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-04T07:58:11.581Z"
+      "updatedAt": "2026-10-04T15:49:28.307Z"
     }
   }
 }
