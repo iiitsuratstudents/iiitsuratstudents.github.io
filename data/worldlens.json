@@ -1,69 +1,65 @@
 {
-  "generatedAt": "2026-10-04T15:49:28.307Z",
+  "generatedAt": "2026-10-04T21:00:50.613Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a range of geopolitical developments, including tensions in Bosnia, tensions in Libya, and ongoing conflicts in the Middle East, while also highlighting international responses to these issues.",
+      "summary": "Today's lens covers a range of global events, including political developments, conflicts, and social issues affecting multiple regions.",
       "stories": [
         {
-          "title": "Israel Rejects Reckoning on October 7",
-          "body": "Israel is rejecting a reckoning into the 2023 attacks on its population, citing concerns about the potential for retraumatization. The decision reflects a broader trend of reluctance to confront historical trauma, despite the international community's calls for accountability.",
-          "whyItMatters": "The rejection of historical reckoning highlights the complex interplay between national identity and international justice.",
+          "title": "Israel and UK clash over Zionism",
+          "body": "Israel has condemned the UK's Green Party for formally defining Zionism as 'racism,' highlighting tensions between the two nations. The UK's Green Party has argued that the term 'Zionism' is a form of racism, while Israel views the definition as a politically motivated attempt to delegitimize its historical and cultural identity. This incident reflects broader debates about the use of historical terms in contemporary political discourse.",
+          "whyItMatters": "The political definition of historical terms can influence public perception and international relations, underscoring the complexity of cross-border political discourse.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/opinions/2026/10/4/did-he-know-why-israel-is-rejecting-an-october-7-reckoning?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/4/dodik-declared-bosnia-dead-irrelevant-rhetoric-or-serious-threat?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Libyan Unity Talks Upended by Warlord's Son",
-          "body": "Libyan unity talks were upended as a warlord's son was linked to drone attacks on fuel facilities. This development underscores the instability and fragmentation of the region, with potential implications for regional security and political alliances.",
-          "whyItMatters": "The disruption of Libyan unity highlights the challenges of achieving political cohesion in a volatile region.",
+          "title": "Brazil election tight race",
+          "body": "In the 2026 Brazilian presidential election, Lula and Bolsonaro are locked in a competitive race. Lula, the former president, faces Bolsonaro, a former president and current leader of the National Party, in a closely contested election. The outcome of this election could significantly impact Brazil's political landscape and its relationship with the United States.",
+          "whyItMatters": "The outcome of this election could shape Brazil's future governance and its role in regional and global politics.",
           "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss"
+            },
             {
               "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar"
-            },
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results"
             }
           ]
         },
         {
-          "title": "Russia Strikes Kyiv Bridges, German Chancellor Visits",
-          "body": "Russian strikes on Kyiv bridges continue, while the German chancellor makes a surprise visit to the region. These events reflect the ongoing conflict and the international response to military actions in the region.",
-          "whyItMatters": "The ongoing conflict and international reactions highlight the geopolitical tensions and the impact of military actions on regional stability.",
+          "title": "Yemen's war to reclaim land from Houthis",
+          "body": "Yemen's government has announced an all-out war to reclaim land from the Houthis, a group that has been fighting against the government for years. This declaration marks a significant escalation in the ongoing conflict in Yemen, which has already caused widespread humanitarian crises and destabilized the region.",
+          "whyItMatters": "The intensification of the conflict in Yemen could lead to further humanitarian crises and geopolitical tensions in the Middle East.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-04T15:49:28.307Z"
+      "updatedAt": "2026-10-04T21:00:50.613Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers scientific discoveries, technological advancements, and environmental observations that could impact students' academic and research pursuits.",
+      "kicker": "ScienceDaily",
+      "summary": "Today's lens highlights groundbreaking scientific discoveries, technological advancements, and environmental observations that could impact students and researchers globally.",
       "stories": [
         {
-          "title": "Meteor Impact Misaligned by 100 Million Years",
-          "body": "A meteor impact in Oklahoma was previously dated to 100 million years ago, but new data suggests it occurred 100 million years later than previously thought. The discovery challenges existing geological records and highlights the importance of reevaluating historical events.",
-          "whyItMatters": "This finding underscores the need for continuous scientific revision and the significance of accurate historical data in understanding Earth's geological history.",
+          "title": "Meteor Impact in Oklahoma",
+          "body": "A meteor hit Oklahoma 100 million years later than scientists initially thought, providing new insights into asteroid impacts and their effects on Earth's history.",
+          "whyItMatters": "This discovery may help scientists better understand the long-term impacts of cosmic events on planetary environments.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -72,9 +68,9 @@
           ]
         },
         {
-          "title": "New Clue in Cosmic Expansion Mystery",
-          "body": "Scientists have identified a surprising clue that may help explain why the universe's expansion is not accelerating as expected. This discovery could lead to new theories in cosmology and deepen our understanding of the universe's evolution.",
-          "whyItMatters": "This research could influence future studies in astrophysics and provide insights into the fundamental nature of the universe's expansion.",
+          "title": "Universe's Expansion Mystery",
+          "body": "Scientists have identified a surprising clue that could explain why the universe's expansion is not accelerating as expected, offering new perspectives on cosmic evolution.",
+          "whyItMatters": "Understanding the universe's expansion is crucial for advancing theories in cosmology and astrophysics.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -83,9 +79,9 @@
           ]
         },
         {
-          "title": "Forest Experiment Offers Big Surprise",
-          "body": "A 30-year-old forest experiment, which initially aimed to study ecological interactions, has delivered a major surprise. The results could provide valuable data on environmental changes and ecosystem dynamics, offering new perspectives on biodiversity and climate change.",
-          "whyItMatters": "This experiment's findings could inform conservation strategies and enhance our understanding of ecological systems in the face of global environmental challenges.",
+          "title": "Forest Experiment Surprises Researchers",
+          "body": "A 30-year-old forest experiment, previously forgotten, delivered a major surprise that could provide valuable data on ecological processes and climate change impacts.",
+          "whyItMatters": "This study may offer new insights into how ecosystems respond to environmental changes, contributing to global climate research.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -95,48 +91,56 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-04T15:49:28.307Z"
+      "updatedAt": "2026-10-04T21:00:50.613Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The lens covers economic developments, including inflation, energy prices, job markets, and political tensions, with a focus on global and regional impacts.",
+      "summary": "Today's lens covers economic developments, political tensions, and social issues affecting global regions.",
       "stories": [
         {
-          "title": "US borrowing costs hit 24-year high as global bond sell-off intensifies",
-          "body": "US borrowing costs reached a 24-year high as global bond markets faced a sell-off, driven by concerns over inflation and economic uncertainty. The UK's long-term borrowing cost hit 4.4%, while US yields rose to 5.5% amid fears of a slowdown in the global economy.",
-          "whyItMatters": "Economic uncertainty and rising borrowing costs could impact global trade and investment flows.",
+          "title": "Israel and UK political tensions",
+          "body": "Israel has responded to the UK’s Green Party formally defining Zionism as 'racism', highlighting ongoing political and ideological divisions. The UK Green Party's stance has sparked debate about the historical and political implications of the term, with Israel expressing concern over the potential impact on its diplomatic relations and public perception.",
+          "whyItMatters": "The political and ideological tensions between Israel and the UK could influence international relations and public discourse on historical and contemporary issues.",
           "sources": [
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "UK diesel prices top £2 a litre for first time, RAC says",
-          "body": "UK diesel prices reached £2 per litre for the first time, according to the Road Safety Association. This follows a sharp rise in fuel prices due to supply constraints and increased demand, raising concerns about the affordability of everyday goods and services.",
-          "whyItMatters": "Rising fuel prices could affect consumer spending and economic growth in the UK.",
+          "title": "Brazil election results",
+          "body": "Brazil's election results show a tight race between former President Lula and President Bolsonaro, reflecting deep political divisions and the influence of regional and national interests. The outcome could shape the country's future governance and policy directions.",
+          "whyItMatters": "The outcome of the election may influence Brazil's political landscape and its approach to economic and social policies.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "UK diesel prices and economic pressures",
+          "body": "UK diesel prices have reached a record high, with the RAC stating they have topped £2 per litre for the first time. This economic pressure is compounded by rising energy costs and the government's response to energy bill demands, highlighting the strain on the economy and consumer spending.",
+          "whyItMatters": "Rising fuel prices and economic pressures could impact consumer behavior, energy policy, and the broader economy.",
           "sources": [
             {
               "name": "BBC Business",
               "url": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "US jobs market sees sharp slowdown ahead of midterm elections",
-          "body": "The US jobs market slowed sharply in September, with a 29,000 job gain in the month of September, the smallest since 2022. This slowdown is expected to impact consumer confidence and economic growth, with the upcoming midterm elections adding to the uncertainty.",
-          "whyItMatters": "A slowing job market could influence political outcomes and economic policy in the US.",
-          "sources": [
+            },
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/02/september-jobs-report"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-04T15:49:28.307Z"
+      "updatedAt": "2026-10-04T21:00:50.613Z"
     }
   }
 }
