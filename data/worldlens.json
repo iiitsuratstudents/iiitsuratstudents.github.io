@@ -1,73 +1,66 @@
 {
-  "generatedAt": "2026-10-04T02:43:12.345Z",
+  "generatedAt": "2026-10-04T07:58:11.581Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of regional conflicts, political developments, and international crises, highlighting the complex interplay of power, governance, and global stability.",
+      "summary": "Today's lens covers a mix of regional conflicts, sports events, and global news, highlighting tensions, political developments, and local crises.",
       "stories": [
         {
-          "title": "Spain's Housing Crisis Protests",
-          "body": "Tens of thousands of Spaniards gathered in Madrid to protest against the government's failure to address the housing crisis, which has led to widespread unemployment and homelessness. The protests, fueled by frustration over economic policies, highlight the growing social tensions in the country.",
-          "whyItMatters": "The housing crisis reflects broader economic and social challenges that could impact regional stability and public trust in government policies.",
+          "title": "Saudi-led coalition dismisses Houthi claim of Riyadh attack",
+          "body": "The Saudi-led coalition has dismissed a Houthi claim that a military attack occurred in Riyadh. The claim was made by the Houthi movement, which has been engaged in conflict with Saudi Arabia in Yemen. The coalition has not provided any evidence to support the claim, and the Houthi movement has not confirmed the attack. This development highlights the ongoing tensions in the region and the lack of credible information from one side.",
+          "whyItMatters": "The dismissal of a Houthi claim by the Saudi-led coalition underscores the difficulty in verifying information in conflict zones and the potential for misinformation.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-riyadh-are-misleading-saudi-led?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ethiopian-government-troops-seize-tigrays-capital-mekelle?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/10/4/yamal-scores-stunning-goal-in-spains-3-1-nations-league-win-over-czechia?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Ethiopia's Tigray Conflict",
-          "body": "Ethiopian government forces seized control of Tigray's capital, Mekelle, marking a significant escalation in the ongoing conflict in the region. The move comes as the Ethiopian government seeks to stabilize the area and prevent further violence, while local militias continue to resist.",
-          "whyItMatters": "The conflict in Tigray has implications for regional security and the potential for wider conflict in the Horn of Africa, affecting both local and international interests.",
+          "title": "Somalia President: Houthis 'not in a position' to bring Yemen peace",
+          "body": "Somalia's President says the Houthis, a group in Yemen, are not in a position to bring peace to the country. The statement comes amid ongoing conflict in Yemen, where the Houthis have been fighting against the Saudi-led coalition. The president's statement reflects the complex political landscape in Yemen and the challenges of achieving peace in a conflict-ridden region.",
+          "whyItMatters": "The statement highlights the difficulty of achieving peace in a conflict zone and the role of regional actors in the peace process.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ethiopian-government-troops-seize-tigrays-capital-mekelle?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "US and UK Political Tensions",
-          "body": "In New York, Irish Prime Minister Michael Martin and British Prime Minister Rishi Sunak played bingo, a seemingly lighthearted activity that highlighted the cultural and political dynamics between the UK and Ireland. The event was seen as a way to foster camaraderie and reduce tensions in the region.",
-          "whyItMatters": "Political and cultural interactions between nations can influence international relations and cooperation, even in seemingly mundane contexts.",
+          "title": "Russia hits second major bridge in Kyiv",
+          "body": "Russia has hit a second major bridge in Kyiv, the capital of Ukraine. The attack comes as part of a broader effort to disrupt Ukrainian infrastructure and support the Russian military. The bridge is a significant infrastructure asset, and its destruction could impact the flow of goods and services in the region.",
+          "whyItMatters": "The destruction of infrastructure in conflict zones can have significant economic and logistical impacts, highlighting the ongoing challenges of maintaining stability in war-torn regions.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mamdani-irish-pm-play-bingo-split-the-g-in-new-york?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-04T02:43:12.345Z"
+      "updatedAt": "2026-10-04T07:58:11.581Z"
     },
     "science": {
-      "kicker": "Science & Nature",
-      "summary": "Today's lens covers advances in science, space exploration, environmental research, and technological innovations.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens highlights advancements in space exploration, biological research, and environmental science, with a focus on global impacts and innovations.",
       "stories": [
         {
-          "title": "Rare Wildlife Sightings",
-          "body": "A wildlife cameraman reports encountering rare and unexpected species, highlighting the unpredictability of nature and the importance of conservation efforts.",
-          "whyItMatters": "These sightings underscore the need for continued wildlife observation and protection, especially in areas with high biodiversity.",
+          "title": "Queen's University students compete in NASA robotics",
+          "body": "Queen's University students participated in a NASA robotics competition, showcasing cutting-edge technological innovation. The event highlighted the potential of international collaboration in advancing robotic technologies. This competition could influence future space missions and robotics development.",
+          "whyItMatters": "International collaboration in robotics and space exploration is critical for advancing technological capabilities and fostering global scientific exchange.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c6q8jly114j8o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "New Enzyme for Fatty Liver Disease",
-          "body": "A protective enzyme has been identified that may help prevent the progression of fatty liver disease, offering potential new treatments for metabolic disorders.",
-          "whyItMatters": "This discovery could lead to improved health outcomes and contribute to the development of targeted therapies for liver diseases.",
-          "sources": [
+              "url": "https://www.bbc.co.uk/news/articles/cq20v0e7vjkgo?at_medium=RSS&at_campaign=rss"
+            },
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm"
@@ -75,68 +68,79 @@
           ]
         },
         {
-          "title": "Space Exploration Advances",
-          "body": "ESA’s Juice spacecraft used Earth as a slingshot to reach Jupiter, demonstrating the efficiency of space travel and the importance of planetary exploration.",
-          "whyItMatters": "Such missions advance our understanding of the solar system and support future space exploration and research.",
+          "title": "ESA’s Juice uses Earth as a slingshot to Jupiter",
+          "body": "ESA’s Juice spacecraft used Earth as a slingshot to reach Jupiter, demonstrating the efficiency of space travel. This method reduces fuel consumption and enhances mission viability. Such techniques are vital for future space missions and planetary exploration.",
+          "whyItMatters": "Efficient space travel methods like slingshooting are essential for reducing costs and improving the feasibility of interplanetary missions.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261001214057.htm"
+            }
+          ]
+        },
+        {
+          "title": "Scientists identify protective enzyme to combat fatty liver disease",
+          "body": "A new study reveals a protective enzyme that could prevent the progression of fatty liver disease. This discovery has significant implications for liver health and potential therapeutic applications. Understanding such enzymes could lead to new treatments for metabolic disorders.",
+          "whyItMatters": "Identifying protective enzymes for metabolic diseases could lead to new therapeutic approaches and improved public health outcomes.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm"
+            },
+            {
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03037-8"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-04T02:43:12.345Z"
+      "updatedAt": "2026-10-04T07:58:11.581Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The lens covers economic developments, including inflation, energy prices, and labor market trends, while highlighting geopolitical events and regional conflicts.",
+      "summary": "Today's lens covers a mix of economic developments, including energy prices, job markets, and geopolitical tensions, with a focus on global economic trends and their implications.",
       "stories": [
         {
-          "title": "Zimbabweans struggle to rebuild after fleeing xenophobia in South Africa",
-          "body": "Zimbabwean migrants have fled the country due to xenophobia and political instability, seeking refuge in South Africa. The situation highlights the challenges of rebuilding in a new environment, including economic hardship and social integration.",
-          "whyItMatters": "The displacement of citizens due to political and social tensions underscores the impact of instability on regional development and migration patterns.",
+          "title": "Saudi-led coalition dismisses 'misleading' Houthi claim of Riyadh attack",
+          "body": "The Saudi-led coalition has dismissed a claim by Houthi rebels that a military attack occurred in Riyadh. The claim was deemed misleading, and the coalition has not provided further details. This development highlights ongoing tensions in the region, with the Houthi group continuing to assert its presence in Yemen.",
+          "whyItMatters": "The dismissal of the claim may affect regional stability and the flow of military operations in Yemen.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/4/zimbabweans-struggle-to-rebuild-after-fleeing-xenophobia-in-south-africa?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/4/cornell-president-vows-transparency-amid-outrage-over-fraternity-rape-case?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Serbian populist leader Vucic launches campaign for prime minister",
-          "body": "Serbian populist leader Aleksandar Vucic has launched a campaign to become the next prime minister, reflecting the growing influence of populist movements in the region. The campaign highlights the shifting political landscape in Serbia.",
-          "whyItMatters": "The rise of populist leaders in Europe underscores the impact of political polarization and the need for inclusive governance.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/4/serbian-populist-leader-vucic-launches-campaign-for-prime-minister?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-riyadh-are-misleading-saudi-led?traffic_source=rss"
             }
           ]
         },
         {
           "title": "US jobs market sees sharp slowdown ahead of midterm elections",
-          "body": "The US jobs market experienced a sharp slowdown in September, with a decline in employment compared to the previous month. This development raises concerns about economic growth and the impact of political uncertainty on the labor market.",
-          "whyItMatters": "Economic slowdowns can influence political outcomes and public sentiment, highlighting the interplay between economic performance and electoral dynamics.",
+          "body": "The US jobs market showed a sharp slowdown in September, with a decline in employment compared to the previous month. The report highlights the economic uncertainty facing the country as the midterm elections approach, with concerns about economic growth and inflation.",
+          "whyItMatters": "The economic slowdown could impact consumer spending and political outcomes in the upcoming elections.",
           "sources": [
             {
               "name": "BBC Business",
               "url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss"
-            },
+            }
+          ]
+        },
+        {
+          "title": "UK diesel prices top £2 a litre for first time, RAC says",
+          "body": "The UK has seen its diesel prices rise to £2 per litre for the first time, according to the Road Safety Council. This increase is attributed to rising energy costs and the government's efforts to reduce carbon emissions, highlighting the impact of global energy prices on everyday consumers.",
+          "whyItMatters": "The rise in diesel prices could influence consumer behavior and fuel policy in the UK.",
+          "sources": [
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/02/september-jobs-report"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-04T02:43:12.345Z"
+      "updatedAt": "2026-10-04T07:58:11.581Z"
     }
   }
 }
