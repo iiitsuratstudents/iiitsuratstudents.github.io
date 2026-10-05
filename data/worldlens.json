@@ -1,35 +1,20 @@
 {
-  "generatedAt": "2026-10-04T21:00:50.613Z",
+  "generatedAt": "2026-10-05T00:47:35.290Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a range of global events, including political developments, conflicts, and social issues affecting multiple regions.",
+      "summary": "Today's lens covers key developments in global politics, including Brazil's election, the Iran war, and regional conflicts in Libya and Yemen.",
       "stories": [
         {
-          "title": "Israel and UK clash over Zionism",
-          "body": "Israel has condemned the UK's Green Party for formally defining Zionism as 'racism,' highlighting tensions between the two nations. The UK's Green Party has argued that the term 'Zionism' is a form of racism, while Israel views the definition as a politically motivated attempt to delegitimize its historical and cultural identity. This incident reflects broader debates about the use of historical terms in contemporary political discourse.",
-          "whyItMatters": "The political definition of historical terms can influence public perception and international relations, underscoring the complexity of cross-border political discourse.",
+          "title": "Brazilian election: First-round results",
+          "body": "Brazil's presidential election 2026 saw the first round with Flávio Bolsonaro of the right-wing bloc securing a lead in the initial voting. Bolsonaro's victory marks a significant shift in the political landscape, with his campaign focusing on economic reforms and anti-corruption measures. The election results highlight the growing influence of far-right politics in Brazil, which could impact domestic policy and international relations.",
+          "whyItMatters": "The outcome of Brazil's election could influence regional stability and economic policies in the Americas.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Brazil election tight race",
-          "body": "In the 2026 Brazilian presidential election, Lula and Bolsonaro are locked in a competitive race. Lula, the former president, faces Bolsonaro, a former president and current leader of the National Party, in a closely contested election. The outcome of this election could significantly impact Brazil's political landscape and its relationship with the United States.",
-          "whyItMatters": "The outcome of this election could shape Brazil's future governance and its role in regional and global politics.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "The Guardian World",
@@ -38,100 +23,115 @@
           ]
         },
         {
-          "title": "Yemen's war to reclaim land from Houthis",
-          "body": "Yemen's government has announced an all-out war to reclaim land from the Houthis, a group that has been fighting against the government for years. This declaration marks a significant escalation in the ongoing conflict in Yemen, which has already caused widespread humanitarian crises and destabilized the region.",
-          "whyItMatters": "The intensification of the conflict in Yemen could lead to further humanitarian crises and geopolitical tensions in the Middle East.",
+          "title": "Iran war: Yemen conflict intensifies",
+          "body": "The Iran war has seen increased fighting in Yemen, with reports of intensified combat and military movements. Tehran has indicated its readiness for potential US attacks, raising concerns about the escalation of the conflict and its impact on regional stability. The ongoing conflict in Yemen continues to challenge international efforts to achieve peace and security in the Middle East.",
+          "whyItMatters": "The intensification of the Iran war in Yemen could lead to further humanitarian crises and geopolitical tensions in the region.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Libyan unity talks upended",
+          "body": "Libyan unity talks were upended as warlord Khalifa Haftar's son was linked to drone attacks on fuel facilities. This development highlights the ongoing instability in Libya, with regional conflicts and power struggles affecting the country's future. The involvement of local warlords and the use of drones add to the complexity of the region's political landscape.",
+          "whyItMatters": "The upending of Libyan unity talks underscores the challenges of achieving political stability in a region marked by conflict and competing interests.",
+          "sources": [
+            {
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-04T21:00:50.613Z"
+      "updatedAt": "2026-10-05T00:47:35.290Z"
     },
     "science": {
-      "kicker": "ScienceDaily",
-      "summary": "Today's lens highlights groundbreaking scientific discoveries, technological advancements, and environmental observations that could impact students and researchers globally.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens covers scientific discoveries, technological advancements, and environmental observations that could impact students' academic and research pursuits.",
       "stories": [
         {
-          "title": "Meteor Impact in Oklahoma",
-          "body": "A meteor hit Oklahoma 100 million years later than scientists initially thought, providing new insights into asteroid impacts and their effects on Earth's history.",
-          "whyItMatters": "This discovery may help scientists better understand the long-term impacts of cosmic events on planetary environments.",
+          "title": "Meteor Impact Revisited",
+          "body": "A meteor struck Oklahoma 100 million years later than previously thought, shifting the timeline of the impact event. This discovery highlights the complexity of geological records and the importance of revisiting historical data.",
+          "whyItMatters": "Understanding past impacts can provide insights into planetary evolution and help refine models of asteroid and comet impacts.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/10/261002080012.htm"
-            }
-          ]
-        },
-        {
-          "title": "Universe's Expansion Mystery",
-          "body": "Scientists have identified a surprising clue that could explain why the universe's expansion is not accelerating as expected, offering new perspectives on cosmic evolution.",
-          "whyItMatters": "Understanding the universe's expansion is crucial for advancing theories in cosmology and astrophysics.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm"
-            }
-          ]
-        },
-        {
-          "title": "Forest Experiment Surprises Researchers",
-          "body": "A 30-year-old forest experiment, previously forgotten, delivered a major surprise that could provide valuable data on ecological processes and climate change impacts.",
-          "whyItMatters": "This study may offer new insights into how ecosystems respond to environmental changes, contributing to global climate research.",
-          "sources": [
+            },
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/10/261001214120.htm"
             }
           ]
+        },
+        {
+          "title": "Cosmic Expansion Mystery",
+          "body": "Scientists have identified a surprising clue that could explain why the universe's expansion is not accelerating as expected. This finding challenges current theories about cosmic acceleration and may lead to new research in astrophysics.",
+          "whyItMatters": "Resolving the cosmic acceleration puzzle is crucial for understanding the fate of the universe and the role of dark energy.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261001214106.htm"
+            }
+          ]
+        },
+        {
+          "title": "Bacteria and Brain Aging",
+          "body": "A study reveals that gut bacteria may provide insights into how fast a person's brain ages. This connection between microbiome and neurodegeneration opens new avenues for research in aging and health.",
+          "whyItMatters": "Understanding the relationship between gut bacteria and brain health could lead to new strategies for preventing or slowing cognitive decline.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261001214106.htm"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261002080017.htm"
+            }
+          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-04T21:00:50.613Z"
+      "updatedAt": "2026-10-05T00:47:35.290Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, political tensions, and social issues affecting global regions.",
+      "summary": "The lens covers global economic developments, including inflation, job market trends, energy policy, and international relations.",
       "stories": [
         {
-          "title": "Israel and UK political tensions",
-          "body": "Israel has responded to the UK’s Green Party formally defining Zionism as 'racism', highlighting ongoing political and ideological divisions. The UK Green Party's stance has sparked debate about the historical and political implications of the term, with Israel expressing concern over the potential impact on its diplomatic relations and public perception.",
-          "whyItMatters": "The political and ideological tensions between Israel and the UK could influence international relations and public discourse on historical and contemporary issues.",
+          "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
+          "body": "Iranian officials have indicated readiness for US military action in response to escalating conflicts in Yemen, with Al Jazeera reporting heightened tensions in the region. The situation highlights the complex geopolitical dynamics affecting the Middle East.",
+          "whyItMatters": "The potential for military escalation in the region could impact global energy markets and regional stability.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Brazil election results",
-          "body": "Brazil's election results show a tight race between former President Lula and President Bolsonaro, reflecting deep political divisions and the influence of regional and national interests. The outcome could shape the country's future governance and policy directions.",
-          "whyItMatters": "The outcome of the election may influence Brazil's political landscape and its approach to economic and social policies.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "UK diesel prices and economic pressures",
-          "body": "UK diesel prices have reached a record high, with the RAC stating they have topped £2 per litre for the first time. This economic pressure is compounded by rising energy costs and the government's response to energy bill demands, highlighting the strain on the economy and consumer spending.",
-          "whyItMatters": "Rising fuel prices and economic pressures could impact consumer behavior, energy policy, and the broader economy.",
+          "title": "UK diesel prices top £2 a litre for first time, RAC says",
+          "body": "The UK has seen its diesel prices reach £2 per litre for the first time, according to the Road Safety Council. This surge in prices reflects rising energy costs and the impact of global supply chain disruptions.",
+          "whyItMatters": "Increased fuel costs may influence consumer behavior and economic decision-making, particularly in a context of inflation and job market uncertainty.",
           "sources": [
             {
               "name": "BBC Business",
               "url": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss"
-            },
+            }
+          ]
+        },
+        {
+          "title": "Suppliers pile pressure on government over energy bills",
+          "body": "Energy suppliers are demanding greater government intervention to address rising energy bills, as reported by BBC Business. This reflects growing concerns about the financial burden on households and businesses.",
+          "whyItMatters": "Economic pressures on energy prices could lead to broader inflationary pressures and affect consumer spending and investment decisions.",
+          "sources": [
             {
               "name": "BBC Business",
               "url": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss"
@@ -140,7 +140,7 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-04T21:00:50.613Z"
+      "updatedAt": "2026-10-05T00:47:35.290Z"
     }
   }
 }
