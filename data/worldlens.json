@@ -1,146 +1,137 @@
 {
-  "generatedAt": "2026-10-05T00:47:35.290Z",
+  "generatedAt": "2026-10-05T04:45:32.154Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers key developments in global politics, including Brazil's election, the Iran war, and regional conflicts in Libya and Yemen.",
+      "summary": "Today's lens covers a mix of geopolitical developments, including international arrests, regional conflicts, and political elections, highlighting the complex interplay of global events.",
       "stories": [
         {
-          "title": "Brazilian election: First-round results",
-          "body": "Brazil's presidential election 2026 saw the first round with Flávio Bolsonaro of the right-wing bloc securing a lead in the initial voting. Bolsonaro's victory marks a significant shift in the political landscape, with his campaign focusing on economic reforms and anti-corruption measures. The election results highlight the growing influence of far-right politics in Brazil, which could impact domestic policy and international relations.",
-          "whyItMatters": "The outcome of Brazil's election could influence regional stability and economic policies in the Americas.",
-          "sources": [
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results"
-            }
-          ]
-        },
-        {
-          "title": "Iran war: Yemen conflict intensifies",
-          "body": "The Iran war has seen increased fighting in Yemen, with reports of intensified combat and military movements. Tehran has indicated its readiness for potential US attacks, raising concerns about the escalation of the conflict and its impact on regional stability. The ongoing conflict in Yemen continues to challenge international efforts to achieve peace and security in the Middle East.",
-          "whyItMatters": "The intensification of the Iran war in Yemen could lead to further humanitarian crises and geopolitical tensions in the region.",
+          "title": "FBI Arrests Chinese Foreign Agent for Spying on Taiwan President’s Son",
+          "body": "The FBI arrested a Chinese individual suspected of spying on the son of Taiwan's president, raising concerns about cross-border intelligence activities and potential geopolitical tensions. The arrest follows reports of espionage activities in the region, which could impact diplomatic relations and security dynamics.",
+          "whyItMatters": "This incident underscores the growing concerns over espionage and intelligence activities in regions of strategic importance, highlighting the need for international cooperation and transparency.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/5/fbi-arrests-chinese-foreign-agent-for-spying-on-taiwan-presidents-son?traffic_source=rss"
+            },
+            {
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed"
             }
           ]
         },
         {
-          "title": "Libyan unity talks upended",
-          "body": "Libyan unity talks were upended as warlord Khalifa Haftar's son was linked to drone attacks on fuel facilities. This development highlights the ongoing instability in Libya, with regional conflicts and power struggles affecting the country's future. The involvement of local warlords and the use of drones add to the complexity of the region's political landscape.",
-          "whyItMatters": "The upending of Libyan unity talks underscores the challenges of achieving political stability in a region marked by conflict and competing interests.",
+          "title": "Russian Lab Worker Dies of Suspected Plague in Siberia",
+          "body": "A Russian lab worker died of suspected plague in Siberia, prompting the US to monitor the case. The outbreak could signal a broader health crisis in the region, potentially affecting trade and travel, and raising concerns about biosecurity and public health protocols.",
+          "whyItMatters": "This incident highlights the potential for regional health crises to impact global trade and travel, emphasizing the importance of biosecurity and public health monitoring in international contexts.",
           "sources": [
             {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/5/russian-lab-worker-dies-of-suspected-plague-in-siberia-us-monitoring-case?traffic_source=rss"
+            },
+            {
               "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar"
+              "url": "https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed"
+            }
+          ]
+        },
+        {
+          "title": "Ethiopian Rebel Forces Withdraw from Tigray Regional Capital",
+          "body": "Ethiopian rebel forces withdrew from the regional capital of Tigray, marking a significant shift in the ongoing conflict in the region. This withdrawal could lead to a re-evaluation of military strategies and peace negotiations, with implications for regional stability and security.",
+          "whyItMatters": "This development highlights the evolving nature of conflicts in the region, emphasizing the importance of diplomatic efforts and military strategy in achieving peace and stability.",
+          "sources": [
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-05T00:47:35.290Z"
+      "updatedAt": "2026-10-05T04:45:32.154Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers scientific discoveries, technological advancements, and environmental observations that could impact students' academic and research pursuits.",
+      "kicker": "ScienceDaily",
+      "summary": "Today's lens features a mix of scientific discoveries, environmental updates, and educational initiatives, highlighting advancements in biology, climate science, and technology.",
       "stories": [
         {
-          "title": "Meteor Impact Revisited",
-          "body": "A meteor struck Oklahoma 100 million years later than previously thought, shifting the timeline of the impact event. This discovery highlights the complexity of geological records and the importance of revisiting historical data.",
-          "whyItMatters": "Understanding past impacts can provide insights into planetary evolution and help refine models of asteroid and comet impacts.",
+          "title": "Cells use a protein to communicate",
+          "body": "A study reveals that the protein responsible for cell adhesion also plays a role in intercellular communication, potentially influencing tissue development and immune responses. This discovery could have implications for regenerative medicine and cellular biology research.",
+          "whyItMatters": "Understanding how cells communicate could lead to new treatments for diseases involving cellular dysfunction.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261002080023.htm"
+            }
+          ]
+        },
+        {
+          "title": "Meteor impact revisited",
+          "body": "New research suggests that a meteor impact 100 million years ago may have occurred later than previously thought, altering the geological history of the region. This finding adds complexity to the study of asteroid impacts and their effects on Earth's surface.",
+          "whyItMatters": "Revisiting past impacts can provide insights into Earth's geological history and the potential effects of asteroid collisions.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/10/261002080012.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261001214120.htm"
             }
           ]
         },
         {
-          "title": "Cosmic Expansion Mystery",
-          "body": "Scientists have identified a surprising clue that could explain why the universe's expansion is not accelerating as expected. This finding challenges current theories about cosmic acceleration and may lead to new research in astrophysics.",
-          "whyItMatters": "Resolving the cosmic acceleration puzzle is crucial for understanding the fate of the universe and the role of dark energy.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261001214106.htm"
-            }
-          ]
-        },
-        {
-          "title": "Bacteria and Brain Aging",
-          "body": "A study reveals that gut bacteria may provide insights into how fast a person's brain ages. This connection between microbiome and neurodegeneration opens new avenues for research in aging and health.",
-          "whyItMatters": "Understanding the relationship between gut bacteria and brain health could lead to new strategies for preventing or slowing cognitive decline.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261001214106.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261002080017.htm"
-            }
-          ]
+          "title": "Cosmic puzzle solved",
+          "body": "Scientists have identified a clue that helps explain why the universe's expansion is not accelerating as expected, offering a potential resolution to the",
+          "whyItMatters": "",
+          "sources": []
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-05T00:47:35.290Z"
+      "updatedAt": "2026-10-05T04:45:32.154Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The lens covers global economic developments, including inflation, job market trends, energy policy, and international relations.",
+      "summary": "Today's lens covers a mix of economic developments, including concerns over energy prices, job markets, and geopolitical tensions, with a focus on how these factors impact global students and their academic pursuits.",
       "stories": [
         {
-          "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
-          "body": "Iranian officials have indicated readiness for US military action in response to escalating conflicts in Yemen, with Al Jazeera reporting heightened tensions in the region. The situation highlights the complex geopolitical dynamics affecting the Middle East.",
-          "whyItMatters": "The potential for military escalation in the region could impact global energy markets and regional stability.",
+          "title": "FBI Arrests Chinese Foreign Agent for Spying on Taiwan President’s Son",
+          "body": "The FBI arrested a Chinese individual suspected of spying on the son of Taiwan's president, raising concerns about cross-border intelligence activities and potential geopolitical tensions. The arrest highlights the ongoing scrutiny of foreign agents involved in sensitive matters.",
+          "whyItMatters": "This incident underscores the complexities of international espionage and the potential impact on regional stability and diplomatic relations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/5/fbi-arrests-chinese-foreign-agent-for-spying-on-taiwan-presidents-son?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "UK diesel prices top £2 a litre for first time, RAC says",
-          "body": "The UK has seen its diesel prices reach £2 per litre for the first time, according to the Road Safety Council. This surge in prices reflects rising energy costs and the impact of global supply chain disruptions.",
-          "whyItMatters": "Increased fuel costs may influence consumer behavior and economic decision-making, particularly in a context of inflation and job market uncertainty.",
+          "title": "Singapore Turns Matchmaker Amid Rock-Bottom Birthrate",
+          "body": "Singapore has introduced a new policy to address its declining birthrate by encouraging couples to seek matchmaking services. This reflects the country's efforts to tackle demographic challenges and support family formation in a rapidly changing society.",
+          "whyItMatters": "The policy highlights the intersection of economic and social challenges, offering insight into how governments are responding to demographic shifts and their implications for future generations.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/10/5/singapore-turns-matchmaker-amid-rock-bottom-birthrate?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Suppliers pile pressure on government over energy bills",
-          "body": "Energy suppliers are demanding greater government intervention to address rising energy bills, as reported by BBC Business. This reflects growing concerns about the financial burden on households and businesses.",
-          "whyItMatters": "Economic pressures on energy prices could lead to broader inflationary pressures and affect consumer spending and investment decisions.",
+          "title": "US Adds 29,000 Jobs in September, Sharp Drop from Previous Month",
+          "body": "The US added just 29,000 jobs in September, marking a sharp decline from the previous month's gains. This data reflects the ongoing challenges of the labor market and the impact of economic uncertainty on employment trends.",
+          "whyItMatters": "The job market's volatility underscores the importance of understanding economic fluctuations and their effects on students and professionals seeking employment.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/oct/02/september-jobs-report"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-05T00:47:35.290Z"
+      "updatedAt": "2026-10-05T04:45:32.154Z"
     }
   }
 }
