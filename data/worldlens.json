@@ -1,158 +1,150 @@
 {
-  "generatedAt": "2026-10-05T12:45:37.769Z",
+  "generatedAt": "2026-10-05T16:40:03.501Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of political developments, protests, and humanitarian issues, highlighting the complex interplay of global events and their potential impacts on students.",
+      "kicker": "Geopolitics",
+      "summary": "Today's lens covers a range of global events, including a violent incident in France, a humanitarian crisis in Nigeria, and political developments in various regions.",
       "stories": [
         {
-          "title": "Brazilian Election: Bolsonaro's Victory",
-          "body": "Brazil's first-round election results show Bolsonaro, a right-wing politician, securing a strong lead, marking a potential shift in the country's political landscape. His victory is seen as a response to growing social and economic tensions, with his campaign emphasizing anti-corruption and nationalist policies.",
-          "whyItMatters": "Bolsonaro's election could influence regional dynamics in South America and affect international relations, particularly in the context of Brazil's role in the region.",
+          "title": "France school protester violence",
+          "body": "A teenager was injured during a confrontation between French school protesters and police, highlighting tensions in public demonstrations. The incident occurred in a country facing growing political and social unrest, with protests often involving diverse groups advocating for various causes.",
+          "whyItMatters": "The incident underscores the potential for violence in public demonstrations and the role of law enforcement in managing such situations.",
           "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/5/bolsonaro-favourite-to-win-what-brazils-first-round-of-election-tells-us?traffic_source=rss"
-            },
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Messi's Farewell Match for Argentina",
-          "body": "Lionel Messi, the legendary footballer, is set to play his final match for Argentina, marking a significant moment in sports history. The match against Benin is expected to be a high-profile event, highlighting the cultural and sporting importance of the game in the region.",
-          "whyItMatters": "Messi's farewell match underscores the global influence of football and its role in fostering international relations and cultural exchange.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/5/lionel-messi-argentina-farewell-final-match-benin?traffic_source=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/uk-green-party-votes-to-define-zionism-as?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/10/5/medvedev-disqualified-from-china-open-for-hitting-fan-with-a-ball?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "French Protests and School Closures",
-          "body": "In France, students continue to protest against government policies, leading to the closure of hundreds of schools. The protests reflect broader societal tensions, including concerns over education reform and student welfare.",
-          "whyItMatters": "The ongoing protests highlight the importance of student voices in shaping educational policies and the potential impact of these policies on future generations.",
+          "title": "Nigeria rescue operation after plane crash",
+          "body": "A military plane crashed with 32 passengers, prompting a rescue operation. The incident highlights the risks of air travel and the importance of emergency response capabilities in conflict zones.",
+          "whyItMatters": "The crash emphasizes the need for robust safety measures and coordination in aviation emergencies, especially in regions with ongoing conflict.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/5/students-continue-to-protest-in-france-as-hundreds-of-schools-close?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss"
             },
             {
               "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/oct/05/quebec-election-separatist-government-parti-quebecois-referendum"
+              "url": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar"
+            }
+          ]
+        },
+        {
+          "title": "Bosnia and Herzegovina political climate",
+          "body": "Bosnian elections saw a rise in nationalist and conservative parties, raising concerns about the future of the region's political landscape and potential shifts in governance.",
+          "whyItMatters": "The political realignment in Bosnia and Herzegovina could influence regional stability and the balance of power in the Balkans.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/5/nationalist-conservative-parties-enjoy-a-boost-in-bosnia-and-herzegovina?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/liveblog/2026/10/5/live-france-vs-belgium-uefa-nations-league?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-05T12:45:37.769Z"
+      "updatedAt": "2026-10-05T16:40:03.501Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers advances in neuroscience, space observations, and environmental science, highlighting both cutting-edge research and real-world implications.",
+      "summary": "Today's lens covers advances in neuroscience, space observation, and environmental science, highlighting both recent discoveries and global phenomena.",
       "stories": [
         {
+          "title": "Women suffer more pain than men across the whole body, major global study finds",
+          "body": "A major global study published in The Guardian Science reveals that women experience more pain than men across the entire body. The study, conducted by researchers from multiple institutions, suggests that hormonal and physiological differences may contribute to this phenomenon. The findings could have implications for pain management and gender-based health research.",
+          "whyItMatters": "Understanding gender differences in pain perception may lead to more effective medical treatments and policies.",
+          "sources": [
+            {
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/society/2026/oct/05/women-more-pain-than-men-global-study"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261005071523.htm"
+            }
+          ]
+        },
+        {
           "title": "Vagus Nerve Stimulation Could Help New Skills Stick",
-          "body": "A study suggests that stimulating the vagus nerve may enhance the retention of new skills by improving neural plasticity. Researchers found that when participants underwent vagus nerve stimulation, they showed better memory consolidation for learned tasks compared to those who did not receive the treatment. This could have implications for rehabilitation and education.",
-          "whyItMatters": "Understanding how to enhance learning and memory could lead to new methods for improving cognitive function and skill acquisition.",
+          "body": "A study from ScienceDaily reports that vagus nerve stimulation (VNS) could enhance the retention of new skills. The research suggests that stimulating the vagus nerve may improve neural plasticity, allowing individuals to learn and retain new information more effectively. This could have applications in education and rehabilitation.",
+          "whyItMatters": "This discovery could revolutionize methods of learning and skill acquisition, particularly in therapeutic and educational contexts.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/10/261002080034.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261002080023.htm"
             }
           ]
         },
         {
-          "title": "Saturn and Halley’s Comet Debris to Be Observed",
-          "body": "On October 5, 2026, Saturn will reach its closest approach to Earth in over 100 years, and Halley’s comet debris will streak across the sky, offering a rare astronomical event for observers. The alignment of Saturn and Halley’s comet will create a stunning visual spectacle, providing opportunities for both amateur and professional astronomers to study celestial phenomena.",
-          "whyItMatters": "This event offers a unique opportunity to observe and study celestial bodies, fostering public interest in astronomy and space science.",
+          "title": "Saturn and Halley’s Comet Debris to Be Observed in Sky",
+          "body": "ScienceDaily reports that Saturn will shine at its closest approach to Earth this year, and Halley’s comet debris will streak across the sky. These celestial events offer opportunities for public observation and scientific study. The visibility of these phenomena may inspire public interest in astronomy and space exploration.",
+          "whyItMatters": "Observing celestial events can foster scientific curiosity and engagement, particularly among students and the general public.",
           "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261005071523.htm"
-            },
             {
               "name": "The Guardian Science",
               "url": "https://www.theguardian.com/science/2026/oct/05/how-to-spot-saturn-closest-approach-earth"
-            }
-          ]
-        },
-        {
-          "title": "Data Centres in Scotland and the Military-Industrial Complex",
-          "body": "Scotland is set to host a major data centre project, which will contribute to the country's digital infrastructure and economic growth. Meanwhile, a study highlights the growing influence of the military-industrial complex in the age of AI, raising concerns about the ethical and strategic implications of large-scale technological development.",
-          "whyItMatters": "The development of data centres and the rise of the military-industrial complex highlight the intersection of technology, economics, and ethics, offering insights into future technological and political trends.",
-          "sources": [
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c6qxv55882z1o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/d41586-026-03134-8"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261005071523.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-05T12:45:37.769Z"
+      "updatedAt": "2026-10-05T16:40:03.501Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The economic landscape is marked by fluctuating oil prices, job market dynamics, and political developments, with significant impacts on students and global markets.",
+      "summary": "Today's lens covers economic developments, including mortgage rates, AI tool usage, and political forecasts, with a focus on global impacts.",
       "stories": [
         {
-          "title": "Global oil stockpiles ‘scarily thin,’ says Saudi Aramco chief",
-          "body": "Saudi Aramco, the world's largest oil company, warned that global oil stockpiles are 'scarily thin,' raising concerns about energy prices and supply stability. The statement comes as the European Union faces debt fears, which could impact the euro's value. This highlights the vulnerability of global energy markets to sudden shifts in demand and supply.",
-          "whyItMatters": "The situation underscores the risks of energy market volatility and its potential impact on economic stability and student life through higher energy costs.",
+          "title": "Rohingya activist calls for fairness in refugee resettlement",
+          "body": "An Rohingya activist expressed concern over the decision to send refugees back to Myanmar, emphasizing the ethical implications of the resettlement process. The activist highlighted the potential for further displacement and human rights issues in the region.",
+          "whyItMatters": "The decision to return refugees to Myanmar raises ethical and humanitarian concerns, impacting the Rohingya community's future and international relations.",
           "sources": [
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/live/2026/oct/05/bt-strikes-deal-rescue-broadband-firm-talktalk-euro-slides-france-debt-burden-fears-live-updates"
-            },
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/rohingya-activist-says-its-unfair-to-send-refugees-back-to-myanmar?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Pentagon stops using Anthropic AI tools after blacklisting",
+          "body": "The U.S. Pentagon has halted the use of AI tools developed by Anthropic, a company previously blacklisted for its AI models. This decision reflects broader concerns about AI ethics and regulation in the global tech sector.",
+          "whyItMatters": "The Pentagon's action highlights the growing scrutiny of AI development and the potential for regulatory shifts to impact global tech industries.",
+          "sources": [
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "UK Green Party votes to define Zionism as ‘racism’",
-          "body": "The UK Green Party has voted to define Zionism as 'racism,' reflecting a growing political stance on issues of identity and discrimination. This development comes amid broader discussions on social justice and the role of political parties in shaping public opinion.",
-          "whyItMatters": "This decision highlights the evolving political discourse on identity and discrimination, which could influence students' understanding of political ideologies and social issues.",
+          "title": "Mortgage rates reach 6% for first time in three years",
+          "body": "The average five-year mortgage rate in the UK has reached 6%, marking the first time in three years. This development could influence housing market dynamics and consumer behavior in the UK economy.",
+          "whyItMatters": "A decrease in mortgage rates can stimulate housing demand and economic growth, but also raises concerns about affordability and financial stability for households.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/uk-green-party-votes-to-define-zionism-as?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Students continue to protest in France as hundreds of schools close",
-          "body": "In France, students continue to protest against government policies, with hundreds of schools closing due to strikes and protests. The situation reflects ongoing tensions between students and the government, highlighting the impact of political unrest on education and daily life.",
-          "whyItMatters": "The protests underscore the role of student activism in shaping public policy and the potential for educational disruptions, which could affect students' academic experiences.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/5/students-continue-to-protest-in-france-as-hundreds-of-schools-close?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-05T12:45:37.769Z"
+      "updatedAt": "2026-10-05T16:40:03.501Z"
     }
   }
 }
