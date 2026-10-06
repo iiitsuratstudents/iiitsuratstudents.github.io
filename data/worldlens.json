@@ -1,69 +1,61 @@
 {
-  "generatedAt": "2026-10-05T16:40:03.501Z",
+  "generatedAt": "2026-10-06T00:47:44.096Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers a range of global events, including a violent incident in France, a humanitarian crisis in Nigeria, and political developments in various regions.",
+      "kicker": "Global Brief",
+      "summary": "Today's lens covers a mix of geopolitical developments, public health concerns, and international news, highlighting key events and their potential implications for students.",
       "stories": [
         {
-          "title": "France school protester violence",
-          "body": "A teenager was injured during a confrontation between French school protesters and police, highlighting tensions in public demonstrations. The incident occurred in a country facing growing political and social unrest, with protests often involving diverse groups advocating for various causes.",
-          "whyItMatters": "The incident underscores the potential for violence in public demonstrations and the role of law enforcement in managing such situations.",
+          "title": "Syrian Airlines Unveils Laser-Sharp Look for the Future",
+          "body": "Syrian Airlines has unveiled a new design for its aircraft, emphasizing a 'laser-sharp' aesthetic, which reflects a broader trend of modernization and innovation in the aviation industry. The move is seen as part of the airline's strategy to enhance its image and competitiveness in the global market.",
+          "whyItMatters": "This development highlights the ongoing efforts by airlines to adapt to technological advancements and consumer expectations, which can influence industry trends and consumer behavior.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/5/medvedev-disqualified-from-china-open-for-hitting-fan-with-a-ball?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Nigeria rescue operation after plane crash",
-          "body": "A military plane crashed with 32 passengers, prompting a rescue operation. The incident highlights the risks of air travel and the importance of emergency response capabilities in conflict zones.",
-          "whyItMatters": "The crash emphasizes the need for robust safety measures and coordination in aviation emergencies, especially in regions with ongoing conflict.",
+          "title": "Moroccan Journalists Recount Years of Surveillance Amid New Amnesty Claim",
+          "body": "Moroccan journalists have recounted years of surveillance and monitoring by authorities, raising concerns about privacy and freedom of expression. A new Amnesty International claim has been made, highlighting the need for greater transparency and accountability in the use of surveillance technologies.",
+          "whyItMatters": "This story underscores the importance of protecting journalists' rights and the role of international organizations in advocating for transparency and accountability in surveillance practices.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss"
-            },
-            {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar"
+              "url": "https://www.aljazeera.com/news/2026/10/6/moroccan-journalists-recount-years-of-surveillance-amid-new-amnesty-claim?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Bosnia and Herzegovina political climate",
-          "body": "Bosnian elections saw a rise in nationalist and conservative parties, raising concerns about the future of the region's political landscape and potential shifts in governance.",
-          "whyItMatters": "The political realignment in Bosnia and Herzegovina could influence regional stability and the balance of power in the Balkans.",
+          "title": "Kosovo Protests Over Hague War Crimes Court Bid",
+          "body": "Police in Kosovo clashed with protesters who opposed a bid by the Hague War Crimes Court to impose stricter legal measures. The incident highlights tensions between law enforcement and civil society, and the challenges of balancing legal authority with public dissent.",
+          "whyItMatters": "This event illustrates the complex interplay between legal institutions and public opinion, and the potential impact of such conflicts on social stability and legal reform efforts.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/5/nationalist-conservative-parties-enjoy-a-boost-in-bosnia-and-herzegovina?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/liveblog/2026/10/5/live-france-vs-belgium-uefa-nations-league?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-05T16:40:03.501Z"
+      "updatedAt": "2026-10-06T00:47:44.096Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers advances in neuroscience, space observation, and environmental science, highlighting both recent discoveries and global phenomena.",
+      "summary": "Today's lens covers advances in neuroscience, space observation, and medical research, highlighting both scientific discoveries and their potential impacts.",
       "stories": [
         {
-          "title": "Women suffer more pain than men across the whole body, major global study finds",
-          "body": "A major global study published in The Guardian Science reveals that women experience more pain than men across the entire body. The study, conducted by researchers from multiple institutions, suggests that hormonal and physiological differences may contribute to this phenomenon. The findings could have implications for pain management and gender-based health research.",
-          "whyItMatters": "Understanding gender differences in pain perception may lead to more effective medical treatments and policies.",
+          "title": "Women suffer more pain than men across the whole body",
+          "body": "A major global study published in The Guardian Science reveals that women experience more pain than men across the entire body. The findings suggest that hormonal and physiological differences may contribute to this phenomenon, potentially affecting pain perception and treatment strategies.",
+          "whyItMatters": "Understanding gender differences in pain perception could lead to more effective medical interventions and personalized care.",
           "sources": [
             {
               "name": "The Guardian Science",
@@ -77,8 +69,8 @@
         },
         {
           "title": "Vagus Nerve Stimulation Could Help New Skills Stick",
-          "body": "A study from ScienceDaily reports that vagus nerve stimulation (VNS) could enhance the retention of new skills. The research suggests that stimulating the vagus nerve may improve neural plasticity, allowing individuals to learn and retain new information more effectively. This could have applications in education and rehabilitation.",
-          "whyItMatters": "This discovery could revolutionize methods of learning and skill acquisition, particularly in therapeutic and educational contexts.",
+          "body": "Research from ScienceDaily indicates that stimulating the vagus nerve may enhance the retention of new skills. This could have implications for education and training methods, offering a potential way to improve learning outcomes through neural stimulation.",
+          "whyItMatters": "This discovery could revolutionize how skills are taught and retained, particularly in fields requiring continuous learning and adaptation.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -87,64 +79,68 @@
           ]
         },
         {
-          "title": "Saturn and Halley’s Comet Debris to Be Observed in Sky",
-          "body": "ScienceDaily reports that Saturn will shine at its closest approach to Earth this year, and Halley’s comet debris will streak across the sky. These celestial events offer opportunities for public observation and scientific study. The visibility of these phenomena may inspire public interest in astronomy and space exploration.",
-          "whyItMatters": "Observing celestial events can foster scientific curiosity and engagement, particularly among students and the general public.",
+          "title": "Saturn and Halley’s Comet Debris to Be Observed",
+          "body": "ScienceDaily reports that Saturn will shine at its closest approach to Earth this year, while Halley’s comet debris will streak across the sky. These celestial events offer opportunities for public observation and scientific study, providing a unique window into the solar system.",
+          "whyItMatters": "Observing these astronomical events can deepen public engagement with science and inspire further interest in space exploration and astronomy.",
           "sources": [
-            {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/oct/05/how-to-spot-saturn-closest-approach-earth"
-            },
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/10/261005071523.htm"
+            },
+            {
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/science/2026/oct/05/how-to-spot-saturn-closest-approach-earth"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-05T16:40:03.501Z"
+      "updatedAt": "2026-10-06T00:47:44.096Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including mortgage rates, AI tool usage, and political forecasts, with a focus on global impacts.",
+      "summary": "Today's lens covers a mix of economic developments, including a new measles outbreak in the US, a stock market downturn in India, and climate-related legal battles in the US.",
       "stories": [
         {
-          "title": "Rohingya activist calls for fairness in refugee resettlement",
-          "body": "An Rohingya activist expressed concern over the decision to send refugees back to Myanmar, emphasizing the ethical implications of the resettlement process. The activist highlighted the potential for further displacement and human rights issues in the region.",
-          "whyItMatters": "The decision to return refugees to Myanmar raises ethical and humanitarian concerns, impacting the Rohingya community's future and international relations.",
+          "title": "Syrian Airlines Unveils Laser-Sharp Look for the Future",
+          "body": "Syrian Airlines has introduced a new design for its aircraft, emphasizing a modern, sleek appearance. The initiative is part of the airline's broader strategy to enhance its image and attract passengers. The move reflects a trend in the aviation industry towards more visually appealing and technologically advanced aircraft.",
+          "whyItMatters": "The redesign may impact passenger perceptions and could influence future aircraft development trends.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/rohingya-activist-says-its-unfair-to-send-refugees-back-to-myanmar?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Pentagon stops using Anthropic AI tools after blacklisting",
-          "body": "The U.S. Pentagon has halted the use of AI tools developed by Anthropic, a company previously blacklisted for its AI models. This decision reflects broader concerns about AI ethics and regulation in the global tech sector.",
-          "whyItMatters": "The Pentagon's action highlights the growing scrutiny of AI development and the potential for regulatory shifts to impact global tech industries.",
+          "title": "New York State Declares Measles Disaster Amid Resurgence",
+          "body": "New York State has declared a measles disaster, citing a resurgence of the disease in the US. The situation highlights the ongoing challenges in public health and the need for increased vaccination efforts and surveillance. The declaration underscores the importance of maintaining high vaccination rates to prevent outbreaks.",
+          "whyItMatters": "The declaration reflects the growing concern over measles outbreaks and the need for public health interventions to protect vulnerable populations.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/6/new-york-state-declares-measles-disaster-amid-resurgence-of-disease-in-us?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Mortgage rates reach 6% for first time in three years",
-          "body": "The average five-year mortgage rate in the UK has reached 6%, marking the first time in three years. This development could influence housing market dynamics and consumer behavior in the UK economy.",
-          "whyItMatters": "A decrease in mortgage rates can stimulate housing demand and economic growth, but also raises concerns about affordability and financial stability for households.",
+          "title": "US Supreme Court Hears Big Oil’s Bid to Block Climate Damage Lawsuits",
+          "body": "The US Supreme Court is set to hear a case involving Big Oil's attempt to block climate damage lawsuits. The legal battle highlights the ongoing conflict between corporate interests and environmental regulations. The outcome could have significant implications for climate policy and corporate responsibility.",
+          "whyItMatters": "The case could shape future climate policy and corporate accountability in the US.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/us-news/2026/oct/05/supreme-court-big-oil-climate-damage-lawsuits"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-05T16:40:03.501Z"
+      "updatedAt": "2026-10-06T00:47:44.096Z"
     }
   }
 }
