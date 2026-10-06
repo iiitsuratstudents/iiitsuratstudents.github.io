@@ -1,76 +1,80 @@
 {
-  "generatedAt": "2026-10-06T00:47:44.096Z",
+  "generatedAt": "2026-10-06T04:38:01.784Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of geopolitical developments, public health concerns, and international news, highlighting key events and their potential implications for students.",
+      "kicker": "Geopolitics",
+      "summary": "Today's lens covers a mix of geopolitical developments, including US-China tensions, regional conflicts, and international human rights issues.",
       "stories": [
         {
-          "title": "Syrian Airlines Unveils Laser-Sharp Look for the Future",
-          "body": "Syrian Airlines has unveiled a new design for its aircraft, emphasizing a 'laser-sharp' aesthetic, which reflects a broader trend of modernization and innovation in the aviation industry. The move is seen as part of the airline's strategy to enhance its image and competitiveness in the global market.",
-          "whyItMatters": "This development highlights the ongoing efforts by airlines to adapt to technological advancements and consumer expectations, which can influence industry trends and consumer behavior.",
+          "title": "Trump claims US pulled bombers from RAF Fairford",
+          "body": "US President Donald Trump claimed that the UK had pulled its bombers from RAF Fairford, citing a 'threat' from the region. The statement came amid ongoing tensions between the US and the UK, with the UK expressing concerns over US military presence in its airspace.",
+          "whyItMatters": "The US and UK relationship remains a key geopolitical issue, with tensions over military presence and strategic interests.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Moroccan Journalists Recount Years of Surveillance Amid New Amnesty Claim",
-          "body": "Moroccan journalists have recounted years of surveillance and monitoring by authorities, raising concerns about privacy and freedom of expression. A new Amnesty International claim has been made, highlighting the need for greater transparency and accountability in the use of surveillance technologies.",
-          "whyItMatters": "This story underscores the importance of protecting journalists' rights and the role of international organizations in advocating for transparency and accountability in surveillance practices.",
+          "title": "Mexican and Colombian cartels film fighting in Ukraine",
+          "body": "Mexican and Colombian cartel mercenaries were filmed fighting in Ukraine, raising concerns about the involvement of transnational criminal organizations in regional conflicts. The footage highlights the growing complexity of international security issues.",
+          "whyItMatters": "The involvement of criminal groups in conflicts underscores the need for international cooperation to address transnational threats.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/6/moroccan-journalists-recount-years-of-surveillance-amid-new-amnesty-claim?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/mexican-and-colombian-cartel-mercenaries-filmed-fighting-in-ukraine?traffic_source=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Kosovo Protests Over Hague War Crimes Court Bid",
-          "body": "Police in Kosovo clashed with protesters who opposed a bid by the Hague War Crimes Court to impose stricter legal measures. The incident highlights tensions between law enforcement and civil society, and the challenges of balancing legal authority with public dissent.",
-          "whyItMatters": "This event illustrates the complex interplay between legal institutions and public opinion, and the potential impact of such conflicts on social stability and legal reform efforts.",
+          "title": "Secessionist party wins Quebec election, test to Canada's unity",
+          "body": "A secessionist party projected to win the Quebec election, adding new test to Canada's unity. The outcome could influence regional political dynamics and public sentiment in Canada.",
+          "whyItMatters": "The election outcome could impact regional political stability and public opinion in Canada, highlighting the challenges of maintaining national unity in a diverse country.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/6/secessionist-parti-quebecois-wins-quebec-election-in-canada?traffic_source=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-06T00:47:44.096Z"
+      "updatedAt": "2026-10-06T04:38:01.784Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers advances in neuroscience, space observation, and medical research, highlighting both scientific discoveries and their potential impacts.",
+      "summary": "Today's lens covers advances in neuroscience, space observation, and medical research, highlighting both scientific discoveries and global events.",
       "stories": [
         {
-          "title": "Women suffer more pain than men across the whole body",
-          "body": "A major global study published in The Guardian Science reveals that women experience more pain than men across the entire body. The findings suggest that hormonal and physiological differences may contribute to this phenomenon, potentially affecting pain perception and treatment strategies.",
-          "whyItMatters": "Understanding gender differences in pain perception could lead to more effective medical interventions and personalized care.",
+          "title": "Women suffer more pain than men across the whole body, major global study finds",
+          "body": "A new study reveals that women experience more pain than men across the entire body, suggesting potential differences in pain perception and physiological responses. The research, published in The Guardian Science, highlights the importance of understanding gender-based differences in pain management and health care.",
+          "whyItMatters": "This finding could inform future research on gender disparities in pain perception and lead to more effective treatment strategies for women.",
           "sources": [
             {
               "name": "The Guardian Science",
               "url": "https://www.theguardian.com/society/2026/oct/05/women-more-pain-than-men-global-study"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261005071523.htm"
             }
           ]
         },
         {
           "title": "Vagus Nerve Stimulation Could Help New Skills Stick",
-          "body": "Research from ScienceDaily indicates that stimulating the vagus nerve may enhance the retention of new skills. This could have implications for education and training methods, offering a potential way to improve learning outcomes through neural stimulation.",
-          "whyItMatters": "This discovery could revolutionize how skills are taught and retained, particularly in fields requiring continuous learning and adaptation.",
+          "body": "A study from ScienceDaily reports that stimulating the vagus nerve may enhance the retention of new skills. This could have implications for education and training, as it suggests that neural stimulation could improve learning outcomes and memory consolidation.",
+          "whyItMatters": "If this research is validated, it could revolutionize how people learn and retain new information, particularly in fields requiring skill development.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -79,9 +83,9 @@
           ]
         },
         {
-          "title": "Saturn and Halley’s Comet Debris to Be Observed",
-          "body": "ScienceDaily reports that Saturn will shine at its closest approach to Earth this year, while Halley’s comet debris will streak across the sky. These celestial events offer opportunities for public observation and scientific study, providing a unique window into the solar system.",
-          "whyItMatters": "Observing these astronomical events can deepen public engagement with science and inspire further interest in space exploration and astronomy.",
+          "title": "Saturn and Halley’s Comet Debris to Be Observed in Sky",
+          "body": "ScienceDaily reports that Saturn will shine at its closest approach to Earth this year, while Halley’s Comet debris will streak across the sky. These celestial events offer opportunities for public observation and scientific study, providing a unique glimpse into the solar system’s dynamics.",
+          "whyItMatters": "These astronomical events can inspire public interest in space science and offer educational value for students and amateur astronomers.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -95,42 +99,46 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-06T00:47:44.096Z"
+      "updatedAt": "2026-10-06T04:38:01.784Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including a new measles outbreak in the US, a stock market downturn in India, and climate-related legal battles in the US.",
+      "summary": "Today's lens covers a mix of economic developments, including a stock market downturn, a pension savings initiative, and a court ruling on climate lawsuits.",
       "stories": [
         {
-          "title": "Syrian Airlines Unveils Laser-Sharp Look for the Future",
-          "body": "Syrian Airlines has introduced a new design for its aircraft, emphasizing a modern, sleek appearance. The initiative is part of the airline's broader strategy to enhance its image and attract passengers. The move reflects a trend in the aviation industry towards more visually appealing and technologically advanced aircraft.",
-          "whyItMatters": "The redesign may impact passenger perceptions and could influence future aircraft development trends.",
+          "title": "Mexican and Colombian Cartel Mercenaries Film Fighting in Ukraine",
+          "body": "Al Jazeera reports that Mexican and Colombian cartel mercenaries filmed fighting in Ukraine, raising concerns about the involvement of armed groups in the conflict. The footage, captured on video, highlights the potential for armed groups to be involved in regional conflicts, which could destabilize the region and affect global security.",
+          "whyItMatters": "The involvement of armed groups in conflicts can lead to increased instability and humanitarian crises, emphasizing the need for international cooperation to prevent such scenarios.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/mexican-and-colombian-cartel-mercenaries-filmed-fighting-in-ukraine?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/6/un-rights-council-condemns-attacks-on-civilians-in-sudan-calls-for-truce?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "New York State Declares Measles Disaster Amid Resurgence",
-          "body": "New York State has declared a measles disaster, citing a resurgence of the disease in the US. The situation highlights the ongoing challenges in public health and the need for increased vaccination efforts and surveillance. The declaration underscores the importance of maintaining high vaccination rates to prevent outbreaks.",
-          "whyItMatters": "The declaration reflects the growing concern over measles outbreaks and the need for public health interventions to protect vulnerable populations.",
+          "title": "India's Stock Market Sinks Despite Economic Growth",
+          "body": "BBC Business reports that despite economic growth, India's stock market is sinking due to factors such as investor sentiment, market volatility, and potential economic uncertainties. The decline in stock prices could impact consumer confidence and economic planning, highlighting the challenges of maintaining economic growth in a volatile market.",
+          "whyItMatters": "The stock market's performance can reflect broader economic conditions and investor confidence, offering insights into the health of the economy and the effectiveness of policy measures.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/6/new-york-state-declares-measles-disaster-amid-resurgence-of-disease-in-us?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "US Supreme Court Hears Big Oil’s Bid to Block Climate Damage Lawsuits",
-          "body": "The US Supreme Court is set to hear a case involving Big Oil's attempt to block climate damage lawsuits. The legal battle highlights the ongoing conflict between corporate interests and environmental regulations. The outcome could have significant implications for climate policy and corporate responsibility.",
-          "whyItMatters": "The case could shape future climate policy and corporate accountability in the US.",
+          "title": "US Supreme Court Hears Big Oil's Climate Damage Lawsuits",
+          "body": "The Guardian Business reports that the US Supreme Court is hearing a case involving big oil companies' attempts to block climate damage lawsuits. The ruling could have significant implications for environmental policies and corporate responsibility, influencing future legal and regulatory frameworks.",
+          "whyItMatters": "The court's decision on climate-related lawsuits could shape environmental policies and corporate accountability, affecting global efforts to combat climate change.",
           "sources": [
             {
               "name": "The Guardian Business",
@@ -140,7 +148,7 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-06T00:47:44.096Z"
+      "updatedAt": "2026-10-06T04:38:01.784Z"
     }
   }
 }
