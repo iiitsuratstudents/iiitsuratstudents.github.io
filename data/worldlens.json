@@ -1,150 +1,162 @@
 {
-  "generatedAt": "2026-10-06T20:38:10.985Z",
+  "generatedAt": "2026-10-07T00:48:48.563Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of geopolitical developments, including tensions in the Middle East, international relations, and regional conflicts, along with some global events impacting students and scholars.",
+      "kicker": "Global Brief",
+      "summary": "This brief highlights ongoing conflicts, humanitarian crises, and global events affecting students and scholars worldwide.",
       "stories": [
         {
-          "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-          "body": "The U.S. White House has defended former President Trump's comment that allowed Iran to 'take out' Los Angeles and San Diego, which was widely criticized for undermining international security. The statement was made in the context of ongoing tensions between the U.S. and Iran, with the U.S. emphasizing its commitment to regional stability.",
-          "whyItMatters": "The comment highlights the complex dynamics between U.S. policy and international relations, particularly in the context of regional security and geopolitical tensions.",
+          "title": "Yemeni Forces Retake Al-Waziiya in Taiz",
+          "body": "Yemeni forces launched an offensive to retake Houthi-held al-Waziiya in Taiz, a strategic location in southern Yemen. The operation marks a significant escalation in the ongoing conflict between the Houthi rebels and the Yemeni government. The battle highlights the complex dynamics of the Yemeni civil war, which has resulted in significant civilian casualties and displacement.",
+          "whyItMatters": "The conflict in Yemen continues to impact regional stability and humanitarian efforts, affecting students and scholars in the region.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/6/ronaldo-apologizes-for-portugal-walkout-says-jesus-broke-promise?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Yemen’s government is on the attack against the Houthis. What has changed?",
-          "body": "The Yemeni government has launched a military attack against the Houthis, a group that has been fighting against the government in the south. Recent reports suggest that the Houthis have made significant advances, which could shift the balance of power in the region.",
-          "whyItMatters": "The military escalation could lead to further instability in Yemen, with potential consequences for regional security and international intervention.",
+          "title": "Sudan’s Al-Burhan Rejects Talks, Vows to Retake Territory",
+          "body": "Sudanese military leader General Ahmed al-Burhan rejected peace talks, stating he would continue to fight to retake all territory from the South Sudanese rebel group RSF. The conflict has been a major source of instability in the region, with ongoing violence and humanitarian crises affecting local populations.",
+          "whyItMatters": "The ongoing conflict in Sudan threatens regional stability and human rights, impacting students and scholars in the region.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/7/sudans-al-burhan-rejects-talks-vows-to-retake-all-territory-from-rsf?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/7/south-sudans-aid-crisis-deepens-as-food-stocks-run-low?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Catalan separatist Puigdemont to return to Spain after warrant lifted",
-          "body": "Catalan separatist leader Puigdemont has been granted a warrant to return to Spain, marking a significant step in the process of his legal proceedings. The move is seen as a potential resolution to the ongoing Catalan independence movement.",
-          "whyItMatters": "The return of Puigdemont could influence the future of Catalan autonomy and the broader political landscape in Spain.",
+          "title": "South Sudan Aid Crisis Deepens as Food Stocks Run Low",
+          "body": "South Sudan faces a severe aid crisis as food stocks continue to dwindle, exacerbating the already dire humanitarian situation. The country is grappling with a prolonged conflict, which has led to widespread displacement and a lack of essential resources for its population.",
+          "whyItMatters": "The humanitarian crisis in South Sudan underscores the importance of global aid and the challenges faced by students and scholars in conflict-affected regions.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/6/catalan-separatist-leader-puigdemont-to-return-home-after-warrant-lifted?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/7/south-sudans-aid-crisis-deepens-as-food-stocks-run-low?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-06T20:38:10.985Z"
+      "updatedAt": "2026-10-07T00:48:48.563Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens highlights groundbreaking scientific discoveries, advancements in biotechnology, and international research findings that could impact various fields.",
+      "summary": "Today's lens highlights advancements in biology, physics, and environmental science, along with new research on health and technology.",
       "stories": [
         {
-          "title": "Regeneration of Cartilage and Arthritis Prevention",
-          "body": "Stanford scientists have developed a method to regrow cartilage and halt arthritis progression, offering potential solutions for joint diseases. The research, published in ScienceDaily, demonstrates the ability to regenerate tissue in a laboratory setting, which could lead to new treatments for patients suffering from osteoarthritis.",
-          "whyItMatters": "This breakthrough could revolutionize the treatment of joint diseases and improve quality of life for millions of people.",
+          "title": "Himalayan Bird Voice Changes Due to Human Activity",
+          "body": "A study by the BBC Science reveals that a beautiful Himalayan bird is altering its vocalizations due to human-induced environmental changes. The shift in sound may be a response to habitat disruption and noise pollution, raising concerns about biodiversity and ecological balance.",
+          "whyItMatters": "This research underscores the impact of human activity on wildlife and the need for conservation efforts in sensitive ecosystems.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/science/2026/oct/06/nobel-prize-in-physics-francis-halzen-south-pole-neutrinos-icecube-detector"
+            }
+          ]
+        },
+        {
+          "title": "Regrowing Cartilage to Stop Arthritis",
+          "body": "Stanford scientists have developed a method to regrow cartilage, potentially offering a cure for arthritis. The breakthrough could revolutionize treatments for joint diseases and improve quality of life for millions of people.",
+          "whyItMatters": "This innovation may lead to new therapeutic approaches for joint conditions, highlighting the potential of regenerative medicine in treating chronic illnesses.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm"
             },
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261004001835.htm"
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/science/2026/oct/06/nobel-prize-in-physics-francis-halzen-south-pole-neutrinos-icecube-detector"
             }
           ]
         },
         {
-          "title": "AI and Biotechnology in Perfume Development",
-          "body": "A study from The Guardian Science explores how artificial intelligence could help perfumers reduce pressure on endangered plant species by optimizing fragrance formulations. The research suggests AI can analyze complex chemical structures and predict optimal scent profiles, potentially preserving rare floral species that are otherwise at risk of extinction.",
-          "whyItMatters": "This innovation could lead to more sustainable and diverse fragrance industries, preserving biodiversity while maintaining aesthetic value.",
+          "title": "AI Aids Perfumers in Protecting Endangered Plants",
+          "body": "The Guardian Science reports that AI is being used to help perfumers reduce the pressure on endangered plants by optimizing the creation of fragrances. This technology could preserve biodiversity while maintaining the art of perfumery.",
+          "whyItMatters": "AI applications in conservation could balance the demand for fragrances with the need to protect rare plant species, promoting sustainable practices in the fragrance industry.",
           "sources": [
             {
               "name": "The Guardian Science",
               "url": "https://www.theguardian.com/science/2026/oct/06/fragrance-biotechnology-endangered-plants-perfume"
             },
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261004001841.htm"
-            }
-          ]
-        },
-        {
-          "title": "Understanding Energy Efficiency in Nature",
-          "body": "Scientists have made a breakthrough in understanding how nature moves energy efficiently, revealing mechanisms that could inspire advancements in renewable energy technologies. The study, published in ScienceDaily, highlights the role of specific biological processes in converting energy with minimal loss, offering insights into improving energy systems globally.",
-          "whyItMatters": "This research could lead to more efficient energy technologies, contributing to global efforts to combat climate change and reduce energy waste.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261004001841.htm"
-            },
-            {
               "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/oct/05/nobel-prize-medicine-2026-winner"
+              "url": "https://www.theguardian.com/science/2026/oct/06/nobel-prize-in-physics-francis-halzen-south-pole-neutrinos-icecube-detector"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-06T20:38:10.985Z"
+      "updatedAt": "2026-10-07T00:48:48.563Z"
     },
     "economy": {
-      "kicker": "Economic",
-      "summary": "The lens covers major economic developments, including a major media merger, legal disputes, and technological trends.",
+      "kicker": "Economic & Political",
+      "summary": "Today's lens covers ongoing conflicts, aid crises, and economic developments, highlighting the complex interplay between geopolitics and global economics.",
       "stories": [
         {
-          "title": "Paramount Acquires Warner Bros in $110bn Merger",
-          "body": "Paramount Pictures has completed a $111bn merger with Warner Bros, forming Skydance, a new media empire. The deal, seen as a major consolidation in the entertainment industry, will create a powerful entity with vast film, TV, and streaming assets. The merger is expected to influence content creation and distribution globally.",
-          "whyItMatters": "The merger could reshape the entertainment industry's structure and influence content production and distribution.",
+          "title": "Yemeni Forces Retake Houthi-held Area",
+          "body": "Yemeni forces launched an offensive to retake Houthi-held al-Waziiya in Taiz, a strategic location in southern Yemen. The operation follows months of conflict between the Houthi rebels and the Yemeni government. The battle highlights the ongoing instability in the region, with potential implications for regional security and humanitarian aid access.",
+          "whyItMatters": "The conflict could exacerbate existing humanitarian crises in Yemen, affecting food and water supplies and increasing the risk of further violence.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss"
             },
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/06/paramount-warner-bros-skydance-merger"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Disney Accuses Trump Officials of Violating Constitution",
-          "body": "Disney has accused Trump officials of 'blatant violations' of the constitution during a recent FCC battle. The accusation comes amid ongoing legal disputes over media ownership and regulatory control, highlighting tensions between corporate power and government oversight.",
-          "whyItMatters": "The legal battle underscores broader tensions between media conglomerates and government regulation, affecting media ownership and content control.",
+          "title": "Sudan's Al-Burhan Rejects Talks, Vows to Retake Territory",
+          "body": "Sudanese military leader General Ibrahim al-Burhan rejected peace talks, stating he would pursue the goal of retaking all territory from the South Sudanese rebel group RSF. The conflict has intensified, with both sides claiming territorial gains and raising concerns about the potential for further escalation in the region.",
+          "whyItMatters": "The ongoing conflict in Sudan could impact regional stability and humanitarian aid, particularly in areas affected by the conflict.",
           "sources": [
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/media/2026/oct/06/disney-trump-abc-fcc"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/7/sudans-al-burhan-rejects-talks-vows-to-retake-all-territory-from-rsf?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "AI Misuse as Top Reputational Threat for Brands",
-          "body": "A new survey identifies AI misuse as the top reputational threat for brands, highlighting concerns over ethical and legal implications of AI use in marketing and consumer engagement. The issue reflects growing awareness of the risks associated with AI technology in business practices.",
-          "whyItMatters": "AI misuse poses significant risks to brand reputation and consumer trust, prompting calls for ethical guidelines and regulatory frameworks in AI usage.",
+          "title": "South Sudan Aid Crisis Deepens as Food Stocks Run Low",
+          "body": "South Sudan faces a worsening aid crisis as food stocks continue to dwindle, with the government struggling to meet the needs of millions. The situation is compounded by ongoing conflict and limited access to aid, raising concerns about the sustainability of the country's food security and humanitarian efforts.",
+          "whyItMatters": "The aid crisis in South Sudan could lead to increased humanitarian emergencies, affecting both civilians and the country's ability to maintain stability.",
           "sources": [
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/technology/2026/oct/06/ai-misuse-brand-reputation"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/7/south-sudans-aid-crisis-deepens-as-food-stocks-run-low?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-06T20:38:10.985Z"
+      "updatedAt": "2026-10-07T00:48:48.563Z"
     }
   }
 }
