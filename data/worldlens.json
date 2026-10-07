@@ -1,142 +1,166 @@
 {
-  "generatedAt": "2026-10-07T12:46:18.598Z",
+  "generatedAt": "2026-10-07T16:41:10.886Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of geopolitical developments, military actions, and humanitarian issues, highlighting the complexity of global affairs.",
+      "summary": "Today's lens covers a range of international developments, including conflict in Yemen, political tensions in Israel and Brazil, and global health and human rights issues.",
       "stories": [
         {
-          "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-          "body": "France has temporarily halted the use of stun grenades following a violent incident in which a boy's hand was blown off during student protests. The incident occurred in a public space, raising concerns about the safety of crowd control measures and the potential for similar incidents. The decision to suspend the use of stun grenades reflects a broader shift in how authorities handle crowd control in sensitive environments.",
-          "whyItMatters": "The incident highlights the tension between maintaining public order and ensuring the safety of civilians in protest settings.",
+          "title": "Yemen's Displacement Crisis",
+          "body": "More than 200,000 people have been displaced in Yemen due to escalating conflict, according to the UN. The situation has intensified as military operations continue in the south, leading to widespread humanitarian crises and casualties. The UN has called for immediate humanitarian aid and ceasefire negotiations.",
+          "whyItMatters": "The displacement of millions in Yemen highlights the ongoing humanitarian crisis and the need for international intervention to prevent further suffering.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/gallery/2026/10/7/more-than-200000-displaced-as-fighting-escalates-in-yemen-un-says-2?traffic_source=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Israel's Accountability Calls",
+          "body": "Israeli officials have called for accountability following three years of attacks, citing failures in the 7 October attacks. The demand for accountability reflects ongoing debates about the effectiveness of military strategies and the need for transparency in military operations. The issue is part of broader discussions on military conduct and international law.",
+          "whyItMatters": "The call for accountability underscores the importance of transparency and responsibility in military actions, which can influence public perception and international relations.",
+          "sources": [
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/opinions/2026/10/7/the-mass-killing-does-not-mean-israels-winning?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Health and Human Rights Concerns",
+          "body": "A boy's hand was blown off in a student protest in France, leading to the suspension of the use of stun grenades. Meanwhile, the UK's Prime Minister has condemned large-scale Russian attacks, highlighting the ongoing conflict and its impact on civilian populations. These events reflect broader concerns about human rights, military conduct, and the role of international institutions in addressing crises.",
+          "whyItMatters": "These events highlight the complex interplay between military actions, civilian casualties, and the role of international bodies in ensuring accountability and protecting human rights.",
           "sources": [
             {
               "name": "BBC World",
               "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/7/german-ex-spy-chief-arrested-for-treason-what-we-know?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "South Korea’s military service exemption could be cut for athletes",
-          "body": "South Korea has announced that its military service exemption for athletes could be reduced, reflecting growing concerns about the balance between national defense and individual rights. The decision comes amid increasing pressure to reform the military service system and address issues of fairness and transparency in the current framework.",
-          "whyItMatters": "The policy shift underscores the ongoing debate over the role of military service in modern society and the need for reform.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/south-koreas-military-service-exemption-could-be-cut-for-athletes?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "German ex-spy chief arrested for treason",
-          "body": "A former German spy has been arrested on charges of treason, marking a significant development in the ongoing investigation into espionage activities. The case highlights the risks associated with intelligence work and the legal consequences of espionage, particularly in a global context where such activities can have far-reaching impacts.",
-          "whyItMatters": "The arrest of a high-profile spy underscores the importance of legal accountability in the field of intelligence and the potential for similar cases to affect international relations.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/7/german-ex-spy-chief-arrested-for-treason-what-we-know?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-07T12:46:18.598Z"
+      "updatedAt": "2026-10-07T16:41:10.886Z"
     },
     "science": {
-      "kicker": "Nobel Prizes & Scientific Breakthroughs",
-      "summary": "Three major scientific breakthroughs and awards were highlighted, including a chemistry Nobel for understanding life's asymmetry, a physics Nobel for quark waves in the Big Bang, and a medical breakthrough for regrowing cartilage.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens covers recent scientific discoveries, climate impacts, and technological advancements.",
       "stories": [
         {
-          "title": "Chemistry Nobel for life's asymmetry",
-          "body": "The 2026 Chemistry Nobel Prize was awarded to researchers who solved the mystery of how organic molecules develop their 'handedness'—a key aspect of life. Their work provides insight into the fundamental processes that give rise to the asymmetry observed in natural molecules.",
-          "whyItMatters": "Understanding the origin of life's asymmetry could lead to new insights into the evolution of biological systems and the role of environmental factors in molecular structure.",
+          "title": "First Atlantic hurricane of 2026 forecast",
+          "body": "Tropical Storm Isaias is forecast to become the first Atlantic hurricane of the year 2026, raising concerns about climate change and oceanic weather patterns. The storm's formation could signal shifts in global climate dynamics, potentially affecting coastal regions and marine ecosystems.",
+          "whyItMatters": "The forecast highlights the potential impact of climate change on weather patterns, emphasizing the need for adaptive strategies in vulnerable areas.",
           "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss"
+            },
             {
               "name": "BBC Science",
               "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/d41586-026-03093-0"
             }
           ]
         },
         {
-          "title": "Physics Nobel for quark waves in the Big Bang",
-          "body": "Physicists at the University of Geneva observed quarks creating waves in the primordial soup of the Big Bang, offering a new perspective on the early universe's dynamics and the formation of matter.",
-          "whyItMatters": "This discovery could refine our understanding of the early universe and the mechanisms that led to the formation of the cosmos as we know it.",
+          "title": "Decline in penguin populations",
+          "body": "The world's largest penguin colony has experienced an alarming decline in numbers, raising questions about habitat loss, climate change, and human activities affecting wildlife. This decline could have broader implications for marine ecosystems and biodiversity.",
+          "whyItMatters": "The decline in penguin populations underscores the vulnerability of wildlife to environmental changes and the importance of conservation efforts.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261004002556.htm"
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cr9dzy24g2l7o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/science/2026/oct/07/nobel-prize-chemistry-awarded-work-on-mirror-image-molecules"
+            }
+          ]
+        },
+        {
+          "title": "Chemistry Nobel Prize awarded for mirror-image molecules",
+          "body": "The Nobel Prize in Chemistry was awarded to researchers who made significant advances in understanding mirror-image molecules, a key component in the study of life's asymmetry. This work has implications for chemistry, biology, and the development of new materials.",
+          "whyItMatters": "The discovery of mirror-image molecules advances scientific understanding and could lead to breakthroughs in pharmaceuticals and materials science.",
+          "sources": [
+            {
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/science/2026/oct/07/nobel-prize-chemistry-awarded-work-on-mirror-image-molecules"
             },
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Medical breakthrough for regrowing cartilage",
-          "body": "Stanford scientists have developed a method to regrow cartilage and stop arthritis, potentially offering a new treatment for joint replacements and degenerative conditions.",
-          "whyItMatters": "This innovation could significantly improve the quality of life for millions affected by joint diseases and reduce the need for invasive surgical interventions.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm"
+              "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-07T12:46:18.598Z"
+      "updatedAt": "2026-10-07T16:41:10.886Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers developments in economics, including legal rulings, job cuts, military aid, and business trends.",
+      "summary": "Today's lens covers a mix of economic developments, including displacement in Yemen, business news, and tech-related topics.",
       "stories": [
         {
-          "title": "Ex-bankers jailed for rigging rates have convictions quashed",
-          "body": "Ex-bankers who were jailed for rigging interest rates have had their convictions quashed, highlighting the ongoing debate over legal accountability in financial misconduct. The ruling comes as the legal system grapples with the consequences of financial fraud and the need for fair legal processes.",
-          "whyItMatters": "The quashing of convictions underscores the complexity of legal systems in handling financial misconduct and the importance of fair legal processes.",
-          "sources": [
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cm4g175e8163o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Royal Mail plans to cut 2,500 jobs",
-          "body": "The Royal Mail is set to cut 2,500 jobs, affecting postal services and employment in the UK. This decision comes amid broader economic pressures and the need for cost-cutting in public services.",
-          "whyItMatters": "The job cuts highlight the challenges faced by public sector employment and the impact of economic pressures on workforce stability.",
-          "sources": [
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cwvgdld13e3eo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "South Korea’s military service exemption could be cut for athletes",
-          "body": "South Korea is considering reducing its military service exemption for athletes, raising concerns about the balance between athletic training and military service. This decision could affect the careers of athletes and the structure of military recruitment.",
-          "whyItMatters": "The potential reduction in military service exemptions for athletes reflects broader debates about the role of sports in national defense and the future of military recruitment policies.",
+          "title": "Yemen's Displacement Crisis",
+          "body": "More than 200,000 people have been displaced in Yemen due to escalating fighting, according to the UN. The conflict has led to widespread humanitarian crises and instability in the region.",
+          "whyItMatters": "This displacement highlights the urgent need for international intervention and humanitarian aid in conflict zones.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/south-koreas-military-service-exemption-could-be-cut-for-athletes?traffic_source=rss"
+              "url": "https://www.aljazeera.com/gallery/2026/10/7/more-than-200000-displaced-as-fighting-escalates-in-yemen-un-says-2?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/opinions/2026/10/7/the-mass-killing-does-not-mean-israels-winning?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Canadian Billionaire's Business Deal",
+          "body": "A £7 billion deal was announced between Boots and a Canadian billionaire's family, marking a significant business transaction that could impact global retail markets.",
+          "whyItMatters": "This deal underscores the growing influence of multinational business partnerships in the global economy.",
+          "sources": [
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/7/why-paramount-warner-merger-has-sparked-fears-about-press-freedom?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "AI and Business Trends",
+          "body": "The S&P 500 and Nasdaq surged to record highs after an AI chipmaker's rally, signaling optimism in technology-driven markets. Meanwhile, skepticism about Trump's steel plant project in Iowa highlights the economic risks of political decisions.",
+          "whyItMatters": "These developments reflect the interplay between technological innovation and political risk in shaping global economic trends.",
+          "sources": [
+            {
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/oct/06/sp-500-nasdaq-stocks-ai-chipmakers"
+            },
+            {
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/oct/07/trump-steel-plant-iowa-skepticism"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-07T12:46:18.598Z"
+      "updatedAt": "2026-10-07T16:41:10.886Z"
     }
   }
 }
