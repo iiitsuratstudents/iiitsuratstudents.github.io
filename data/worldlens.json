@@ -1,162 +1,146 @@
 {
-  "generatedAt": "2026-10-07T00:48:48.563Z",
+  "generatedAt": "2026-10-07T04:40:23.705Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "This brief highlights ongoing conflicts, humanitarian crises, and global events affecting students and scholars worldwide.",
+      "kicker": "Geopolitics",
+      "summary": "Today's lens covers a mix of global events, including legal, environmental, and political developments, highlighting the complexity of international relations and human rights issues.",
       "stories": [
         {
-          "title": "Yemeni Forces Retake Al-Waziiya in Taiz",
-          "body": "Yemeni forces launched an offensive to retake Houthi-held al-Waziiya in Taiz, a strategic location in southern Yemen. The operation marks a significant escalation in the ongoing conflict between the Houthi rebels and the Yemeni government. The battle highlights the complex dynamics of the Yemeni civil war, which has resulted in significant civilian casualties and displacement.",
-          "whyItMatters": "The conflict in Yemen continues to impact regional stability and humanitarian efforts, affecting students and scholars in the region.",
+          "title": "Australian Bishop Jailed for Sexual Abuse",
+          "body": "A former Australian bishop was jailed in Australia for sexually abusing young men, raising concerns about religious institutions and child protection policies. The case highlights the importance of accountability and transparency in religious leadership.",
+          "whyItMatters": "This incident underscores the need for rigorous oversight of religious figures to prevent abuse and ensure public safety.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/what-israeli-schools-teach?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Sudan’s Al-Burhan Rejects Talks, Vows to Retake Territory",
-          "body": "Sudanese military leader General Ahmed al-Burhan rejected peace talks, stating he would continue to fight to retake all territory from the South Sudanese rebel group RSF. The conflict has been a major source of instability in the region, with ongoing violence and humanitarian crises affecting local populations.",
-          "whyItMatters": "The ongoing conflict in Sudan threatens regional stability and human rights, impacting students and scholars in the region.",
+          "title": "Tree Nearly as Old as US Torn Down to Expand Mexico Border Wall",
+          "body": "A tree in Mexico was found to be nearly as old as the US border wall being constructed to expand the border. This event highlights the historical and ecological significance of ancient trees and the environmental impact of large-scale infrastructure projects.",
+          "whyItMatters": "The preservation of ancient trees is crucial for biodiversity and historical preservation, and this event raises awareness about the environmental consequences of border construction.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/7/sudans-al-burhan-rejects-talks-vows-to-retake-all-territory-from-rsf?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/tree-nearly-as-old-as-us-torn-down-to-expand-mexico-border-wall?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/7/south-sudans-aid-crisis-deepens-as-food-stocks-run-low?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/explosion-shutters-venezuelas-second-largest-oil-refinery?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "South Sudan Aid Crisis Deepens as Food Stocks Run Low",
-          "body": "South Sudan faces a severe aid crisis as food stocks continue to dwindle, exacerbating the already dire humanitarian situation. The country is grappling with a prolonged conflict, which has led to widespread displacement and a lack of essential resources for its population.",
-          "whyItMatters": "The humanitarian crisis in South Sudan underscores the importance of global aid and the challenges faced by students and scholars in conflict-affected regions.",
+          "title": "US Death Row Inmate Christa Pike Awakened After Failed Execution",
+          "body": "A US death row inmate, Christa Pike, was awakened after a failed execution attempt, highlighting the legal and ethical challenges of capital punishment. This event reflects the ongoing debate about the use of lethal injection as a method of execution.",
+          "whyItMatters": "The debate over the ethics and legality of capital punishment continues, and this event provides insight into the judicial process and its implications for justice and human rights.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/7/south-sudans-aid-crisis-deepens-as-food-stocks-run-low?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-07T00:48:48.563Z"
+      "updatedAt": "2026-10-07T04:40:23.705Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens highlights advancements in biology, physics, and environmental science, along with new research on health and technology.",
+      "kicker": "Science Highlights",
+      "summary": "Today's lens covers advances in science, technology, and environmental research, including new methods for treating gum disease, insights into human behavior, and discoveries in physics and astronomy.",
       "stories": [
         {
-          "title": "Himalayan Bird Voice Changes Due to Human Activity",
-          "body": "A study by the BBC Science reveals that a beautiful Himalayan bird is altering its vocalizations due to human-induced environmental changes. The shift in sound may be a response to habitat disruption and noise pollution, raising concerns about biodiversity and ecological balance.",
-          "whyItMatters": "This research underscores the impact of human activity on wildlife and the need for conservation efforts in sensitive ecosystems.",
+          "title": "New method to fight gum disease without harming good bacteria",
+          "body": "A study from ScienceDaily reveals a novel approach to combat gum disease without eliminating beneficial bacteria. The method involves targeted treatment that preserves the oral microbiome, potentially offering a safer alternative to conventional therapies.",
+          "whyItMatters": "This innovation could lead to more effective and sustainable dental care solutions, promoting better oral health globally.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261005012230.htm"
+            }
+          ]
+        },
+        {
+          "title": "Humans may not be as hardwired for violence as we thought",
+          "body": "Research from ScienceDaily suggests that humans may not be biologically programmed for aggressive behavior, challenging long-held assumptions about violence and social dynamics.",
+          "whyItMatters": "This finding could reshape our understanding of human behavior, influencing psychology, sociology, and conflict resolution strategies.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261005071529.htm"
+            }
+          ]
+        },
+        {
+          "title": "Himalayan bird changes its voice due to human activity",
+          "body": "A BBC Science report highlights how a beautiful Himalayan bird is altering its vocalizations in response to human-induced environmental changes, providing insights into the impact of climate and habitat disruption on wildlife.",
+          "whyItMatters": "This discovery underscores the urgent need for conservation efforts to protect biodiversity and ecosystems affected by human activity.",
           "sources": [
             {
               "name": "BBC Science",
               "url": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/oct/06/nobel-prize-in-physics-francis-halzen-south-pole-neutrinos-icecube-detector"
-            }
-          ]
-        },
-        {
-          "title": "Regrowing Cartilage to Stop Arthritis",
-          "body": "Stanford scientists have developed a method to regrow cartilage, potentially offering a cure for arthritis. The breakthrough could revolutionize treatments for joint diseases and improve quality of life for millions of people.",
-          "whyItMatters": "This innovation may lead to new therapeutic approaches for joint conditions, highlighting the potential of regenerative medicine in treating chronic illnesses.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm"
-            },
-            {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/oct/06/nobel-prize-in-physics-francis-halzen-south-pole-neutrinos-icecube-detector"
-            }
-          ]
-        },
-        {
-          "title": "AI Aids Perfumers in Protecting Endangered Plants",
-          "body": "The Guardian Science reports that AI is being used to help perfumers reduce the pressure on endangered plants by optimizing the creation of fragrances. This technology could preserve biodiversity while maintaining the art of perfumery.",
-          "whyItMatters": "AI applications in conservation could balance the demand for fragrances with the need to protect rare plant species, promoting sustainable practices in the fragrance industry.",
-          "sources": [
-            {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/oct/06/fragrance-biotechnology-endangered-plants-perfume"
-            },
-            {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/oct/06/nobel-prize-in-physics-francis-halzen-south-pole-neutrinos-icecube-detector"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-07T00:48:48.563Z"
+      "updatedAt": "2026-10-07T04:40:23.705Z"
     },
     "economy": {
-      "kicker": "Economic & Political",
-      "summary": "Today's lens covers ongoing conflicts, aid crises, and economic developments, highlighting the complex interplay between geopolitics and global economics.",
+      "kicker": "Economic",
+      "summary": "Today's lens covers a mix of economic developments, including stock market performance, technological trends, and geopolitical events impacting the global economy.",
       "stories": [
         {
-          "title": "Yemeni Forces Retake Houthi-held Area",
-          "body": "Yemeni forces launched an offensive to retake Houthi-held al-Waziiya in Taiz, a strategic location in southern Yemen. The operation follows months of conflict between the Houthi rebels and the Yemeni government. The battle highlights the ongoing instability in the region, with potential implications for regional security and humanitarian aid access.",
-          "whyItMatters": "The conflict could exacerbate existing humanitarian crises in Yemen, affecting food and water supplies and increasing the risk of further violence.",
+          "title": "US stock market hits all-time high as investors continue to bet on AI",
+          "body": "The US stock market reached record highs as investors continued to bet on artificial intelligence (AI) advancements. The S&P 500 and Nasdaq surged after AI chipmakers led a rally, reflecting optimism about AI's potential to drive economic growth. The performance highlights the growing influence of technology in shaping financial markets.",
+          "whyItMatters": "The rise of AI in finance could reshape investment strategies and economic growth trajectories.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/oct/06/sp-500-nasdaq-stocks-ai-chipmakers"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss"
+              "url": "https://www.aljazeera.com/economy/2026/10/7/us-stock-market-hits-all-time-high-as-investors-bet-big-on-ai?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Sudan's Al-Burhan Rejects Talks, Vows to Retake Territory",
-          "body": "Sudanese military leader General Ibrahim al-Burhan rejected peace talks, stating he would pursue the goal of retaking all territory from the South Sudanese rebel group RSF. The conflict has intensified, with both sides claiming territorial gains and raising concerns about the potential for further escalation in the region.",
-          "whyItMatters": "The ongoing conflict in Sudan could impact regional stability and humanitarian aid, particularly in areas affected by the conflict.",
+          "title": "Tree nearly as old as US torn down to expand Mexico border wall",
+          "body": "Al Jazeera reported that a tree nearly as old as the United States was torn down to expand the Mexico border wall. The event highlights the scale of infrastructure projects and the environmental impact of such developments. The tree's age and location suggest it may have historical or cultural significance.",
+          "whyItMatters": "Infrastructure projects can have significant environmental and historical implications, raising questions about sustainable development and preservation.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/7/sudans-al-burhan-rejects-talks-vows-to-retake-all-territory-from-rsf?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/tree-nearly-as-old-as-us-torn-down-to-expand-mexico-border-wall?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "South Sudan Aid Crisis Deepens as Food Stocks Run Low",
-          "body": "South Sudan faces a worsening aid crisis as food stocks continue to dwindle, with the government struggling to meet the needs of millions. The situation is compounded by ongoing conflict and limited access to aid, raising concerns about the sustainability of the country's food security and humanitarian efforts.",
-          "whyItMatters": "The aid crisis in South Sudan could lead to increased humanitarian emergencies, affecting both civilians and the country's ability to maintain stability.",
+          "title": "Oman evacuates injured crew from attacked tanker in Strait of Hormuz",
+          "body": "Al Jazeera reported that Oman evacuated an injured crew from an attacked tanker in the Strait of Hormuz. The incident underscores the risks associated with maritime security and the importance of international cooperation in protecting critical sea lanes. The event highlights the ongoing challenges in maintaining regional stability.",
+          "whyItMatters": "Maritime security and international cooperation are crucial for global trade and regional stability.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/7/south-sudans-aid-crisis-deepens-as-food-stocks-run-low?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/7/oman-evacuates-injured-crew-from-attacked-tanker-in-strait-of-hormuz?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-07T00:48:48.563Z"
+      "updatedAt": "2026-10-07T04:40:23.705Z"
     }
   }
 }
