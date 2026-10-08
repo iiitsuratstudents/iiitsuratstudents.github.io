@@ -1,134 +1,146 @@
 {
-  "generatedAt": "2026-10-08T12:46:35.976Z",
+  "generatedAt": "2026-10-08T16:41:20.906Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of geopolitical developments, including military actions, political reforms, and humanitarian crises, highlighting the complex interplay of international relations and local conflicts.",
+      "summary": "Today's lens covers a mix of geopolitical developments, human rights concerns, and regional conflicts, highlighting the complex interplay of international relations and humanitarian crises.",
       "stories": [
         {
-          "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-          "body": "Russian authorities reported a strike on buses in Ukraine, resulting in at least 30 deaths. The attack comes amid a surge in violence in the region, with officials emphasizing the severity of the situation. The incident raises concerns about the stability and safety of civilians in conflict zones.",
-          "whyItMatters": "The attack underscores the ongoing risks faced by civilians in conflict zones and highlights the potential for further escalation in the region.",
+          "title": "Russian Strike on Buses Kills at Least 30",
+          "body": "Russian officials reported at least 30 deaths following a strike on buses in Ukraine, marking a surge in violence in the region. The attack comes amid escalating tensions between Russia and Ukraine, with reports of increased attacks on civilians. The incident raises concerns about the humanitarian impact of ongoing conflicts.",
+          "whyItMatters": "The violence in Ukraine underscores the human cost of geopolitical tensions and the need for diplomatic solutions to prevent further casualties.",
           "sources": [
             {
               "name": "BBC World",
               "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/8/venezuelas-nicolas-maduro-and-his-wife-charged-over-torture-allegations?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "UK’s Burnham ‘open’ to Germany joining GCAP fighter jet programme",
-          "body": "UK Prime Minister Boris Johnson has expressed openness to Germany joining the Global Combat Aircraft Programme (GCAP), a multinational initiative aimed at developing advanced military technology. This development could impact future defense cooperation and military strategy in the region.",
-          "whyItMatters": "The potential inclusion of Germany in the GCAP programme may influence future defense partnerships and technological collaboration among NATO members.",
+          "title": "Ethiopia Launches Drone Attack Against Eritrean Troops",
+          "body": "Ethiopia has launched a drone attack against Eritrean troops who crossed into Tigray, marking a significant escalation in the ongoing conflict in the region. The attack follows reports of increased military activity and heightened tensions between the two nations. The conflict has already caused significant civilian casualties and displaced populations.",
+          "whyItMatters": "The conflict in Tigray highlights the complex dynamics of regional warfare and the impact of military actions on civilian populations.",
+          "sources": [
+            {
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray"
+            },
+            {
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes"
+            }
+          ]
+        },
+        {
+          "title": "UK Ex-Prince Andrew's Search Warrants Quashed",
+          "body": "The UK's ex-prince Andrew has had his search warrants quashed after police accepted a legal error. The case highlights the complexities of legal procedures and the importance of due process in maintaining public trust. The incident also reflects the broader challenges of navigating legal systems in politically sensitive contexts.",
+          "whyItMatters": "The legal proceedings surrounding Prince Andrew's case underscore the importance of transparency and fairness in legal processes, even in politically charged situations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/8/uks-burnham-open-to-germany-joining-gcap-fighter-jet-programme?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
-          "body": "A tanker in the Gulf of Qatar was hit by multiple projectiles, according to maritime authorities. The incident highlights the ongoing risks of maritime security and the potential for conflicts in the region, particularly in areas with strategic importance.",
-          "whyItMatters": "The incident underscores the need for improved maritime security and the potential for conflicts in regions with strategic military significance.",
-          "sources": [
+              "url": "https://www.aljazeera.com/news/2026/10/8/uk-ex-prince-andrew-search-warrants-quashed-after-police-accept-legal-error?traffic_source=rss"
+            },
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/features/2026/10/8/what-were-trump-operatives-doing-for-pro-russian-politician-dodik-in-bosnia?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-08T12:46:35.976Z"
+      "updatedAt": "2026-10-08T16:41:20.906Z"
     },
     "science": {
-      "kicker": "Science & Nature",
-      "summary": "Today's lens covers recent scientific advancements, environmental news, and notable milestones in space exploration.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens highlights groundbreaking scientific discoveries, technological advancements, and environmental concerns impacting global academia and research.",
       "stories": [
         {
-          "title": "First Hurricane of the Atlantic Season Hits Gulf Coast",
-          "body": "The first hurricane of the Atlantic season has formed near the Gulf coast, signaling the start of a new hurricane season. This event highlights the increasing unpredictability of weather patterns due to climate change. The storm is expected to bring heavy rainfall and potential flooding to the region.",
-          "whyItMatters": "This event underscores the growing impact of climate change on weather patterns and the need for improved forecasting and disaster preparedness.",
+          "title": "FDA-approved epilepsy drug may help reverse osteoarthritis damage",
+          "body": "A new FDA-approved drug for epilepsy has shown potential to reverse osteoarthritis damage in animal studies. The drug, which targets inflammation and cellular processes, could offer a novel treatment for a common and chronic condition.",
+          "whyItMatters": "This discovery may lead to new therapeutic approaches for osteoarthritis, a leading cause of disability worldwide.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261006234528.htm"
             }
           ]
         },
         {
-          "title": "Residents Airlifted to Safety After Flooding in Central Chile",
-          "body": "In central Chile, severe flooding has forced residents to be airlifted to safety. The flooding, exacerbated by heavy rainfall and poor drainage, has caused widespread damage to infrastructure and disrupted daily life. The incident highlights the vulnerability of communities to extreme weather events.",
-          "whyItMatters": "This event illustrates the increasing frequency and severity of extreme weather events and the importance of early warning systems and emergency response protocols.",
+          "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
+          "body": "A team of scientists accidentally discovered a genetic code that defies traditional biological principles. The code, found in a unique microbial organism, challenges existing theories about the origin and evolution of life.",
+          "whyItMatters": "This finding could revolutionize our understanding of life's fundamental mechanisms and the origins of biological systems.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm"
             }
           ]
         },
         {
-          "title": "UK Bluefin Tuna Comeback Shows Nature Can Recover",
-          "body": "The UK has seen a remarkable comeback of bluefin tuna, a species once thought to be extinct. This recovery is attributed to conservation efforts and improved marine management practices. The success of this species demonstrates the potential for ecological restoration and the importance of sustainable practices.",
-          "whyItMatters": "This success story highlights the potential for ecological recovery and the role of conservation in restoring biodiversity.",
+          "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
+          "body": "The James Webb Space Telescope has detected signs of Mars-sized worlds colliding in the early universe. These findings provide insights into the formation and evolution of planetary systems.",
+          "whyItMatters": "This discovery could reshape our understanding of planetary formation and the early history of the universe.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c5rmyzgdjzkwo?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-08T12:46:35.976Z"
+      "updatedAt": "2026-10-08T16:41:20.906Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including oil prices, currency devaluation, and tech-related news, with a focus on global impacts and student concerns.",
+      "summary": "Today's lens covers economic developments, including oil prices, legal cases, and business news.",
       "stories": [
         {
-          "title": "Oil prices surge due to Middle East shipping attacks",
-          "body": "Oil and gas prices jumped on Thursday as Middle East shipping attacks disrupted supply, sending bond yields higher and stocks lower. The situation has raised concerns about global energy markets and economic stability.",
-          "whyItMatters": "The disruption in energy supply could impact inflation and consumer spending, affecting students' understanding of global economic dynamics.",
+          "title": "Asos hackers expose more personal data",
+          "body": "Asos, a UK-based online fashion retailer, has revealed that hackers accessed more personal details about customers than initially disclosed. The breach involves sensitive information such as addresses, phone numbers, and even financial details. The incident highlights growing concerns about data security in the digital age.",
+          "whyItMatters": "This breach underscores the importance of data protection and the risks associated with online privacy.",
+          "sources": [
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/ck8dzq095lj3o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Man City faces legal challenges after Premier League charges",
+          "body": "Manchester City has been accused of failing to uphold its obligations under the Premier League, leading to legal actions. The club is urged to 'stick together' to address the allegations, which could impact its reputation and financial standing in the league.",
+          "whyItMatters": "This legal challenge highlights the importance of corporate responsibility and team unity in competitive sports.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/10/8/man-city-must-stick-together-after-premier-league-charges-says-haaland?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Oil prices rise amid Middle East shipping attacks",
+          "body": "Oil and gas prices have surged following Middle East shipping attacks, which have disrupted supply chains. The price increases have also led to higher bond yields and lower stock prices, reflecting the impact of geopolitical tensions on the global economy.",
+          "whyItMatters": "This development illustrates the vulnerability of global energy markets to geopolitical events and their potential economic consequences.",
           "sources": [
             {
               "name": "The Guardian Business",
               "url": "https://www.theguardian.com/business/live/2026/oct/08/oil-prices-rise-shipping-attacks-rate-rise-uk-housing-market-bank-england-latest-live-updates"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/8/italian-law-to-give-election-winners-bonus-seats-why-thats-controversial?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Iraq devalues currency, MPs debate the move",
-          "body": "Iraq has devalued its currency to combat inflation, but some MPs are against the move, citing potential economic instability and loss of foreign investment. The decision reflects broader debates about monetary policy and economic resilience.",
-          "whyItMatters": "The currency devaluation could affect trade and investor confidence, influencing students' awareness of economic policy impacts.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/10/8/why-has-iraq-devalued-its-currency-and-why-are-some-mps-against-it?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "McDonald’s faces legal challenge over AI pricing tool",
-          "body": "McDonald’s is facing a lawsuit over an AI tool it claims determines pricing for franchises. The case highlights concerns about algorithmic fairness and corporate responsibility in the fast-food industry.",
-          "whyItMatters": "The legal challenge could set a precedent for AI usage in business, impacting students' understanding of technology and ethics in commerce.",
-          "sources": [
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/07/mcdonalds-ai-prices-lawsuit"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-08T12:46:35.976Z"
+      "updatedAt": "2026-10-08T16:41:20.906Z"
     }
   }
 }
