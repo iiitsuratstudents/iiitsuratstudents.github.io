@@ -1,69 +1,57 @@
 {
-  "generatedAt": "2026-10-10T08:36:55.860Z",
+  "generatedAt": "2026-10-10T12:42:47.529Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of regional events, including climate-related developments, political shifts, and cultural reactions, highlighting the interconnected nature of global issues.",
+      "summary": "Today's lens covers a mix of geopolitical developments, sports events, and international news, highlighting key trends and events impacting students globally.",
       "stories": [
         {
-          "title": "Hurricane Isaias downgraded after making landfall in Florida",
-          "body": "A hurricane named Isaias, which had been classified as a Category 1 storm, was downgraded to a tropical storm after making landfall in Florida. The event underscores the impact of climate change on tropical weather patterns, with rising sea levels and warmer ocean temperatures contributing to more frequent and intense hurricanes.",
-          "whyItMatters": "The downgrading of a hurricane highlights the evolving nature of climate-related disasters and the need for adaptive strategies in vulnerable regions.",
+          "title": "Peru's Election Controversy",
+          "body": "In Peru, a candidate named Hitler Mussolini was elected mayor, sparking international debate over the legitimacy of the election. The event is reported by The Guardian World, with no official confirmation of the candidate's identity. The election highlights tensions in democratic processes and the potential for populist movements to gain traction.",
+          "whyItMatters": "The election underscores the importance of democratic integrity and the role of media in shaping public perception.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss"
-            },
-            {
               "name": "The Guardian World",
-              "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026"
+              "url": "https://www.theguardian.com/world/2026/oct/10/peru-election-hitler-mussolini-simeon-flores-mayor"
             }
           ]
         },
         {
-          "title": "US lifts sanctions on daughter of military-linked Myanmar businessman",
-          "body": "The United States has lifted sanctions on the daughter of a military-linked businessman in Myanmar, signaling a shift in U.S. policy toward the country. This move reflects broader geopolitical tensions and the complexities of dealing with authoritarian regimes in the region.",
-          "whyItMatters": "The lifting of sanctions highlights the challenges of balancing diplomatic engagement with geopolitical concerns, particularly in regions with entrenched military influence.",
+          "title": "Premier League Match",
+          "body": "Manchester United faces Tottenham in a live Premier League match, with reports from Al Jazeera. The match is a significant sporting event that could influence football dynamics and fan engagement. The coverage highlights the global reach of sports journalism and the importance of competitive sports in international contexts.",
+          "whyItMatters": "The match reflects the interplay between sports and politics, emphasizing the role of media in shaping public discourse.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/10/us-lifts-sanctions-on-daughter-of-military-linked-myanmar-tycoon?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/indias-cockroach-party-founder-top-leaders-detained-ahead-of-protest?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/liveblog/2026/10/10/manchester-united-vs-tottenham-live-premier-league?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Ireland Catholic residents react to UK ban on Protestant march",
-          "body": "Ireland's Catholic residents have expressed concern over a UK ban on a Protestant march, citing religious and cultural sensitivities. The ban has sparked debates about freedom of expression and the role of religious groups in public discourse.",
-          "whyItMatters": "The reaction to the ban underscores the importance of respecting religious freedom while navigating cultural and political tensions in diverse societies.",
+          "title": "Cambodian Crime Network Exposure",
+          "body": "Al Jazeera reports on an alleged crime kingpin's empire in Cambodia, exposing a network of criminal activities. The report is part of a broader effort to highlight transnational crime and its impact on regional stability. The exposure raises concerns about law enforcement and the need for international cooperation.",
+          "whyItMatters": "The exposure highlights the challenges of combating transnational crime and the importance of global collaboration in addressing such issues.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/ireland-catholic-residents-react-to-uk-ban-on-protestant-march?traffic_source=rss"
-            },
-            {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions"
+              "url": "https://www.aljazeera.com/video/101-east/2026/10/10/exposing-an-alleged-crime-kingpins-cambodian-empire?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-10T08:36:55.860Z"
+      "updatedAt": "2026-10-10T12:42:47.529Z"
     },
     "science": {
-      "kicker": "Science & Nature",
-      "summary": "Today's lens covers recent scientific advancements, environmental phenomena, and research findings impacting students and the global community.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens covers recent scientific advancements, environmental phenomena, and cultural insights.",
       "stories": [
         {
           "title": "Hurricane Isaias downgraded after making landfall in Florida",
-          "body": "Hurricane Isaias, which had previously been classified as a major category three storm, was downgraded to a tropical storm after making landfall in Florida. The storm's intensity decreased as it moved inland, and the National Hurricane Center issued a warning for potential flooding and strong winds in the region.",
-          "whyItMatters": "The downgrading of a powerful storm highlights the dynamic nature of weather systems and the importance of accurate forecasting in disaster preparedness.",
+          "body": "Hurricane Isaias, which initially strengthened as it approached land, was downgraded to a Category 3 storm after making landfall in Florida. The storm's intensity decreased due to cooler sea surface temperatures and increased wind shear, marking a typical cycle in hurricane development.",
+          "whyItMatters": "Understanding hurricane behavior and its impact on coastal regions is crucial for improving disaster preparedness and climate modeling.",
           "sources": [
             {
               "name": "BBC Science",
@@ -76,9 +64,9 @@
           ]
         },
         {
-          "title": "Scientists discover materials that could improve battery and solar fuel technologies",
-          "body": "Researchers at a leading university have identified a new class of materials that could significantly enhance the efficiency of batteries and solar fuels. These materials, which were previously unknown, show promise in extending the lifespan of energy storage systems and improving the sustainability of renewable energy sources.",
-          "whyItMatters": "This discovery could lead to more efficient and sustainable technologies, contributing to global efforts to combat climate change and energy shortages.",
+          "title": "Scientists find hidden materials that could improve batteries and solar fuels",
+          "body": "Researchers at ScienceDaily discovered new materials that could enhance the efficiency of batteries and solar fuels. These materials, identified through advanced spectroscopy techniques, show promise in addressing current limitations in energy storage and renewable energy technologies.",
+          "whyItMatters": "Advancements in material science can lead to more sustainable and efficient energy solutions, contributing to global efforts to combat climate change.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -87,9 +75,9 @@
           ]
         },
         {
-          "title": "Chimp and gorilla brains resist weight loss with age, unlike human brains",
-          "body": "A study published in Nature reveals that chimp and gorilla brains resist weight loss with age, unlike human brains, which show significant atrophy over time. The research suggests that the mechanisms underlying brain resilience in primates may offer insights into human aging and neurodegenerative diseases.",
-          "whyItMatters": "Understanding the differences in brain aging between species could inform future research on human brain health and longevity.",
+          "title": "Chimp and gorilla brains resist weight loss with age — unlike human brains",
+          "body": "A study published in Nature found that chimp and gorilla brains show resistance to age-related weight loss, unlike human brains. This research could provide insights into the biological mechanisms that differentiate species in aging processes.",
+          "whyItMatters": "Understanding age-related biological differences across species may inform medical research and longevity studies, offering potential applications in human health and aging research.",
           "sources": [
             {
               "name": "Nature",
@@ -99,48 +87,48 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-10T08:36:55.860Z"
+      "updatedAt": "2026-10-10T12:42:47.529Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including sanctions, protests, business news, and fuel prices.",
+      "summary": "Today's lens covers a mix of economic developments, including oil prices, political decisions, and business news.",
       "stories": [
         {
-          "title": "US lifts sanctions on daughter of military-linked Myanmar businessman",
-          "body": "The United States has lifted sanctions on the daughter of a military-linked Myanmar businessman, following concerns over her involvement in human rights violations. The decision comes as the US seeks to ease tensions in the region and support regional stability.",
-          "whyItMatters": "The lifting of sanctions may signal a shift in US policy toward Myanmar, though the exact implications remain unclear.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/10/us-lifts-sanctions-on-daughter-of-military-linked-myanmar-tycoon?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "India’s Cockroach Party founder, top leaders detained ahead of protest",
-          "body": "Indian authorities detained the founder of the Cockroach Party and top leaders ahead of a planned protest, raising concerns about political unrest and the potential for violence. The move has sparked debates over the role of political parties in the country's democratic process.",
-          "whyItMatters": "The detention of political figures could impact the stability of India's political landscape and the future of its democratic institutions.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/indias-cockroach-party-founder-top-leaders-detained-ahead-of-protest?traffic_source=rss"
-            }
-          ]
-        },
-        {
           "title": "Oil prices jump 5% on Middle East tensions and US hurricane threat",
-          "body": "Oil prices surged by 5% due to heightened tensions in the Middle East and the threat of a US hurricane, reflecting global concerns over energy markets and geopolitical instability. The price increase has implications for global energy costs and economic planning.",
-          "whyItMatters": "The rise in oil prices could affect global economies, influencing energy costs and trade policies.",
+          "body": "Oil prices surged by 5% on Thursday, driven by concerns over Middle East tensions and a potential hurricane threat in the US. The rise in prices reflects fears of disrupted supply and increased demand, highlighting the sensitivity of global energy markets.",
+          "whyItMatters": "Economic fluctuations can impact global markets and consumer costs, underscoring the importance of understanding geopolitical and environmental factors.",
           "sources": [
             {
               "name": "The Guardian Business",
               "url": "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat"
             }
           ]
+        },
+        {
+          "title": "Manchester United vs Tottenham LIVE: Premier League",
+          "body": "A live Premier League match between Manchester United and Tottenham is underway, with the game carrying significant implications for both teams' standings and fan expectations. The match is expected to be a key fixture in the league's schedule, potentially influencing the competition's outcome.",
+          "whyItMatters": "Sports events can reflect broader economic and social trends, offering insights into public sentiment and competitive dynamics.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/liveblog/2026/10/10/manchester-united-vs-tottenham-live-premier-league?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Trump's Board of Peace achieves mixed results in a year since Gaza ceasefire",
+          "body": "Trump's Board of Peace, established to monitor the Gaza ceasefire, has reported mixed outcomes. While the board has maintained a neutral stance, its effectiveness in addressing humanitarian concerns and ensuring compliance with international law remains a subject of debate.",
+          "whyItMatters": "Political initiatives and their outcomes can shape public perception and influence international relations, highlighting the complexities of conflict resolution and governance.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza?traffic_source=rss"
+            }
+          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-10T08:36:55.860Z"
+      "updatedAt": "2026-10-10T12:42:47.529Z"
     }
   }
 }
