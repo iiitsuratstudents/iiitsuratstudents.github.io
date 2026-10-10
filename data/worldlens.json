@@ -1,77 +1,66 @@
 {
-  "generatedAt": "2026-10-10T16:37:17.951Z",
+  "generatedAt": "2026-10-10T20:36:41.431Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of geopolitical developments, natural disasters, and international events, highlighting the interconnectedness of global issues.",
+      "summary": "Today's lens covers a mix of international news, sports, and environmental developments, highlighting key events and their potential implications for students.",
       "stories": [
         {
-          "title": "US Murderer Discharged After Failed Execution",
-          "body": "A US murderer, Christa Pike, was discharged from the hospital 10 days after a failed execution attempt. The incident highlights the ongoing challenges of legal and ethical dilemmas in the context of capital punishment.",
-          "whyItMatters": "The incident raises questions about the legal and ethical implications of capital punishment and the treatment of individuals in the justice system.",
-          "sources": [
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Hurricane Isaias Causes Power Outages in US Southeast",
-          "body": "Hurricane Isaias weakened but still posed a threat to the US Southeast, causing two deaths and 800,000 people without power. The storm underscores the vulnerability of regions to extreme weather events and the importance of disaster preparedness.",
-          "whyItMatters": "The impact of natural disasters on vulnerable populations highlights the need for improved infrastructure and emergency response systems.",
+          "title": "US and Marine Corps Collaboration",
+          "body": "U.S. President Donald Trump pledged to support the Marine Corps in investigating a murder case linked to a former Marine, emphasizing cooperation between the two entities. This development underscores the ongoing tensions and trust issues between the U.S. and the Marine Corps, which have been a topic of public debate.",
+          "whyItMatters": "The collaboration highlights the importance of institutional trust and cooperation in military operations, which can influence international relations and military policy.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/10/hurricane-isaias-leaves-two-dead-and-800000-without-power-in-us-southeast?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "School Violence in Poland and Global Concerns",
-          "body": "Three students were injured in a third school attack in Poland, while a similar incident occurred in a school in Poland, raising concerns about school safety and the prevalence of violence in educational settings.",
-          "whyItMatters": "The rise in school violence underscores the need for comprehensive safety measures and mental health support in educational institutions.",
-          "sources": [
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/10/rubio-pledges-us-cooperation-in-marine-linked-murder-case?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Gaza Conflict Continues",
+          "body": "An Israeli attack destroyed a building in Gaza, marking the first year of a ceasefire. The incident reflects the ongoing instability and challenges in the region, with potential impacts on regional security and humanitarian efforts.",
+          "whyItMatters": "The conflict in Gaza highlights the complexities of peacekeeping and the need for sustained diplomatic efforts to prevent further escalation and civilian casualties.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "ICC and U.S. Relations",
+          "body": "The Trump administration is reportedly seeking to dismantle the International Criminal Court (ICC), raising concerns about the future of international justice and the role of international institutions in enforcing laws across borders.",
+          "whyItMatters": "The debate over the ICC's authority and independence reflects broader discussions about the balance between national sovereignty and global justice systems, which are critical for students understanding international law and diplomacy.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-10T16:37:17.951Z"
+      "updatedAt": "2026-10-10T20:36:41.431Z"
     },
     "science": {
-      "kicker": "Science",
-      "summary": "Today's lens covers a mix of scientific advancements, environmental concerns, and cultural topics, highlighting the latest developments in research and global events.",
+      "kicker": "Science & Nature",
+      "summary": "Today's lens covers natural disasters, scientific breakthroughs, and cultural topics, highlighting both global events and recent research.",
       "stories": [
         {
-          "title": "Protest over data centre plans",
-          "body": "Hundreds of protesters gathered in protest against plans to build data centres in a specific location. The event highlights growing concerns about environmental impact and digital infrastructure expansion.",
-          "whyItMatters": "Public concern over the environmental and social impact of data centre construction is increasing, reflecting broader debates about technological progress and sustainability.",
+          "title": "Hurricane Isaias causes power outages in US",
+          "body": "Hurricane Isaias, which had been downgraded to a Category 3 storm, made landfall in Florida and caused widespread power outages across the US. The storm brought strong winds and heavy rainfall, leading to the death of four individuals and disrupting electricity supply to thousands of homes and businesses.",
+          "whyItMatters": "Natural disasters highlight the importance of disaster preparedness and infrastructure resilience, especially in vulnerable regions.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cm78pwq47vp1o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss"
             },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Hurricane Isaias downgraded",
-          "body": "Hurricane Isaias, which was initially classified as a major category three storm, was downgraded after making landfall in Florida. This event underscores the dynamic nature of weather systems and the importance of accurate forecasting.",
-          "whyItMatters": "Weather-related events highlight the need for reliable meteorological data and the impact of climate change on extreme weather patterns.",
-          "sources": [
             {
               "name": "BBC Science",
               "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss"
@@ -83,72 +72,75 @@
           ]
         },
         {
-          "title": "Scientists discover new materials for batteries and solar fuels",
-          "body": "Scientists have identified hidden materials that could significantly improve battery efficiency and solar fuel production. This discovery has the potential to revolutionize renewable energy technologies.",
-          "whyItMatters": "Advancements in materials science can lead to more sustainable and efficient energy solutions, addressing global energy challenges.",
+          "title": "Scientists discover potential shortcut to fusion energy",
+          "body": "Scientists have identified a potential shortcut to achieving fusion energy, a process that could provide limitless clean energy. The discovery, made through advanced computational models, could significantly reduce the time and cost required to develop fusion as a viable energy source.",
+          "whyItMatters": "Advancements in energy research could reshape global energy landscapes, offering sustainable alternatives to fossil fuels.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261007042118.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261008005242.htm"
             },
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm"
+            }
+          ]
+        },
+        {
+          "title": "Astronomers detect mysterious energy burst from galaxy",
+          "body": "Astronomers have detected a mysterious burst of energy from a distant galaxy, which could provide insights into high-energy astrophysical phenomena. The event, observed using advanced telescopes, may help scientists better understand the nature of cosmic events and their potential impacts on Earth.",
+          "whyItMatters": "Such discoveries expand our understanding of the universe and could lead to new technologies or theories in astrophysics.",
+          "sources": [
+            {
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/science/2026/oct/09/astronomy-fast-radio-bursts-frb-radio-waves"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-10T16:37:17.951Z"
+      "updatedAt": "2026-10-10T20:36:41.431Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including hurricane impacts, political tensions, sports updates, and business news.",
+      "summary": "The lens covers economic developments, including oil prices, trade agreements, and labor issues, with a focus on global impacts.",
       "stories": [
         {
-          "title": "Hurricane Isaias causes power outages in US Southeast",
-          "body": "Hurricane Isaias struck the US Southeast, leaving two dead and 800,000 without power. The storm caused widespread disruption, with evacuations and infrastructure damage reported. The event highlights the vulnerability of regions to natural disasters, especially in the wake of prolonged climate-related threats.",
-          "whyItMatters": "Natural disasters can have significant economic and social impacts, emphasizing the need for resilient infrastructure and disaster preparedness.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/10/hurricane-isaias-leaves-two-dead-and-800000-without-power-in-us-southeast?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/opinions/2026/10/10/with-or-without-hamas?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Trump's Russia deal and fuel price concerns",
-          "body": "President Trump announced a deal to purchase Russian diesel, which has sparked debate over its implications for US energy policy and international relations. The move has been criticized for potentially undermining US energy independence and increasing fuel prices. The deal reflects broader geopolitical tensions and the complex trade-offs between national interests and global energy dynamics.",
-          "whyItMatters": "Geopolitical decisions can have far-reaching effects on energy markets and international relations, highlighting the importance of informed policy-making.",
+          "title": "Al Jazeera reports Trump administration's Russia deal",
+          "body": "Al Jazeera reports that Trump administration has announced a deal for Russian diesel, with Zelensky calling it a gift to Putin. The deal is seen as a strategic move to address rising fuel prices and geopolitical tensions.",
+          "whyItMatters": "The deal highlights the complex interplay between US and Russian energy policies and their impact on global fuel prices.",
           "sources": [
             {
               "name": "BBC Business",
               "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Boots' ownership change and potential impacts",
-          "body": "Boots, a major US retail company, announced a new ownership structure, which could affect its operations and market position. The change may influence supply chain stability, pricing strategies, and consumer access to products. The transition underscores the evolving landscape of corporate governance and market dynamics.",
-          "whyItMatters": "Corporate restructuring can have significant implications for supply chains, consumer markets, and business strategies, emphasizing the need for transparency and adaptability in the business world.",
+          "title": "Oil prices surge due to Middle East tensions and US hurricane threat",
+          "body": "Oil prices jumped 5% on concerns over Middle East tensions and a US hurricane threat. The rise in prices is attributed to increased demand and reduced supply from disrupted oil production in the region.",
+          "whyItMatters": "The surge in oil prices could impact global energy markets and affect the cost of living for consumers and businesses.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat"
+            }
+          ]
+        },
+        {
+          "title": "Al Jazeera reports Israeli attack in Gaza",
+          "body": "Al Jazeera reports that an Israeli attack destroyed a building in Gaza, marking the first year of the ceasefire. The attack is seen as a continuation of the conflict and raises concerns about the stability of the region.",
+          "whyItMatters": "The attack underscores the ongoing challenges of peacekeeping and conflict resolution in the Middle East, with potential long-term impacts on regional stability and humanitarian efforts.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-10T16:37:17.951Z"
+      "updatedAt": "2026-10-10T20:36:41.431Z"
     }
   }
 }
