@@ -1,57 +1,76 @@
 {
-  "generatedAt": "2026-10-10T12:42:47.529Z",
+  "generatedAt": "2026-10-10T16:37:17.951Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of geopolitical developments, sports events, and international news, highlighting key trends and events impacting students globally.",
+      "summary": "Today's lens covers a mix of geopolitical developments, natural disasters, and international events, highlighting the interconnectedness of global issues.",
       "stories": [
         {
-          "title": "Peru's Election Controversy",
-          "body": "In Peru, a candidate named Hitler Mussolini was elected mayor, sparking international debate over the legitimacy of the election. The event is reported by The Guardian World, with no official confirmation of the candidate's identity. The election highlights tensions in democratic processes and the potential for populist movements to gain traction.",
-          "whyItMatters": "The election underscores the importance of democratic integrity and the role of media in shaping public perception.",
+          "title": "US Murderer Discharged After Failed Execution",
+          "body": "A US murderer, Christa Pike, was discharged from the hospital 10 days after a failed execution attempt. The incident highlights the ongoing challenges of legal and ethical dilemmas in the context of capital punishment.",
+          "whyItMatters": "The incident raises questions about the legal and ethical implications of capital punishment and the treatment of individuals in the justice system.",
           "sources": [
             {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/oct/10/peru-election-hitler-mussolini-simeon-flores-mayor"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Premier League Match",
-          "body": "Manchester United faces Tottenham in a live Premier League match, with reports from Al Jazeera. The match is a significant sporting event that could influence football dynamics and fan engagement. The coverage highlights the global reach of sports journalism and the importance of competitive sports in international contexts.",
-          "whyItMatters": "The match reflects the interplay between sports and politics, emphasizing the role of media in shaping public discourse.",
+          "title": "Hurricane Isaias Causes Power Outages in US Southeast",
+          "body": "Hurricane Isaias weakened but still posed a threat to the US Southeast, causing two deaths and 800,000 people without power. The storm underscores the vulnerability of regions to extreme weather events and the importance of disaster preparedness.",
+          "whyItMatters": "The impact of natural disasters on vulnerable populations highlights the need for improved infrastructure and emergency response systems.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/liveblog/2026/10/10/manchester-united-vs-tottenham-live-premier-league?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/10/hurricane-isaias-leaves-two-dead-and-800000-without-power-in-us-southeast?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Cambodian Crime Network Exposure",
-          "body": "Al Jazeera reports on an alleged crime kingpin's empire in Cambodia, exposing a network of criminal activities. The report is part of a broader effort to highlight transnational crime and its impact on regional stability. The exposure raises concerns about law enforcement and the need for international cooperation.",
-          "whyItMatters": "The exposure highlights the challenges of combating transnational crime and the importance of global collaboration in addressing such issues.",
+          "title": "School Violence in Poland and Global Concerns",
+          "body": "Three students were injured in a third school attack in Poland, while a similar incident occurred in a school in Poland, raising concerns about school safety and the prevalence of violence in educational settings.",
+          "whyItMatters": "The rise in school violence underscores the need for comprehensive safety measures and mental health support in educational institutions.",
           "sources": [
             {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss"
+            },
+            {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/101-east/2026/10/10/exposing-an-alleged-crime-kingpins-cambodian-empire?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-10T12:42:47.529Z"
+      "updatedAt": "2026-10-10T16:37:17.951Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers recent scientific advancements, environmental phenomena, and cultural insights.",
+      "kicker": "Science",
+      "summary": "Today's lens covers a mix of scientific advancements, environmental concerns, and cultural topics, highlighting the latest developments in research and global events.",
       "stories": [
         {
-          "title": "Hurricane Isaias downgraded after making landfall in Florida",
-          "body": "Hurricane Isaias, which initially strengthened as it approached land, was downgraded to a Category 3 storm after making landfall in Florida. The storm's intensity decreased due to cooler sea surface temperatures and increased wind shear, marking a typical cycle in hurricane development.",
-          "whyItMatters": "Understanding hurricane behavior and its impact on coastal regions is crucial for improving disaster preparedness and climate modeling.",
+          "title": "Protest over data centre plans",
+          "body": "Hundreds of protesters gathered in protest against plans to build data centres in a specific location. The event highlights growing concerns about environmental impact and digital infrastructure expansion.",
+          "whyItMatters": "Public concern over the environmental and social impact of data centre construction is increasing, reflecting broader debates about technological progress and sustainability.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cm78pwq47vp1o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Hurricane Isaias downgraded",
+          "body": "Hurricane Isaias, which was initially classified as a major category three storm, was downgraded after making landfall in Florida. This event underscores the dynamic nature of weather systems and the importance of accurate forecasting.",
+          "whyItMatters": "Weather-related events highlight the need for reliable meteorological data and the impact of climate change on extreme weather patterns.",
           "sources": [
             {
               "name": "BBC Science",
@@ -64,71 +83,72 @@
           ]
         },
         {
-          "title": "Scientists find hidden materials that could improve batteries and solar fuels",
-          "body": "Researchers at ScienceDaily discovered new materials that could enhance the efficiency of batteries and solar fuels. These materials, identified through advanced spectroscopy techniques, show promise in addressing current limitations in energy storage and renewable energy technologies.",
-          "whyItMatters": "Advancements in material science can lead to more sustainable and efficient energy solutions, contributing to global efforts to combat climate change.",
+          "title": "Scientists discover new materials for batteries and solar fuels",
+          "body": "Scientists have identified hidden materials that could significantly improve battery efficiency and solar fuel production. This discovery has the potential to revolutionize renewable energy technologies.",
+          "whyItMatters": "Advancements in materials science can lead to more sustainable and efficient energy solutions, addressing global energy challenges.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/10/261007042118.htm"
-            }
-          ]
-        },
-        {
-          "title": "Chimp and gorilla brains resist weight loss with age — unlike human brains",
-          "body": "A study published in Nature found that chimp and gorilla brains show resistance to age-related weight loss, unlike human brains. This research could provide insights into the biological mechanisms that differentiate species in aging processes.",
-          "whyItMatters": "Understanding age-related biological differences across species may inform medical research and longevity studies, offering potential applications in human health and aging research.",
-          "sources": [
+            },
             {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/d41586-026-03158-0"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-10T12:42:47.529Z"
+      "updatedAt": "2026-10-10T16:37:17.951Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including oil prices, political decisions, and business news.",
+      "summary": "Today's lens covers economic developments, including hurricane impacts, political tensions, sports updates, and business news.",
       "stories": [
         {
-          "title": "Oil prices jump 5% on Middle East tensions and US hurricane threat",
-          "body": "Oil prices surged by 5% on Thursday, driven by concerns over Middle East tensions and a potential hurricane threat in the US. The rise in prices reflects fears of disrupted supply and increased demand, highlighting the sensitivity of global energy markets.",
-          "whyItMatters": "Economic fluctuations can impact global markets and consumer costs, underscoring the importance of understanding geopolitical and environmental factors.",
+          "title": "Hurricane Isaias causes power outages in US Southeast",
+          "body": "Hurricane Isaias struck the US Southeast, leaving two dead and 800,000 without power. The storm caused widespread disruption, with evacuations and infrastructure damage reported. The event highlights the vulnerability of regions to natural disasters, especially in the wake of prolonged climate-related threats.",
+          "whyItMatters": "Natural disasters can have significant economic and social impacts, emphasizing the need for resilient infrastructure and disaster preparedness.",
           "sources": [
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/10/hurricane-isaias-leaves-two-dead-and-800000-without-power-in-us-southeast?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/opinions/2026/10/10/with-or-without-hamas?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Manchester United vs Tottenham LIVE: Premier League",
-          "body": "A live Premier League match between Manchester United and Tottenham is underway, with the game carrying significant implications for both teams' standings and fan expectations. The match is expected to be a key fixture in the league's schedule, potentially influencing the competition's outcome.",
-          "whyItMatters": "Sports events can reflect broader economic and social trends, offering insights into public sentiment and competitive dynamics.",
+          "title": "Trump's Russia deal and fuel price concerns",
+          "body": "President Trump announced a deal to purchase Russian diesel, which has sparked debate over its implications for US energy policy and international relations. The move has been criticized for potentially undermining US energy independence and increasing fuel prices. The deal reflects broader geopolitical tensions and the complex trade-offs between national interests and global energy dynamics.",
+          "whyItMatters": "Geopolitical decisions can have far-reaching effects on energy markets and international relations, highlighting the importance of informed policy-making.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/liveblog/2026/10/10/manchester-united-vs-tottenham-live-premier-league?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Trump's Board of Peace achieves mixed results in a year since Gaza ceasefire",
-          "body": "Trump's Board of Peace, established to monitor the Gaza ceasefire, has reported mixed outcomes. While the board has maintained a neutral stance, its effectiveness in addressing humanitarian concerns and ensuring compliance with international law remains a subject of debate.",
-          "whyItMatters": "Political initiatives and their outcomes can shape public perception and influence international relations, highlighting the complexities of conflict resolution and governance.",
+          "title": "Boots' ownership change and potential impacts",
+          "body": "Boots, a major US retail company, announced a new ownership structure, which could affect its operations and market position. The change may influence supply chain stability, pricing strategies, and consumer access to products. The transition underscores the evolving landscape of corporate governance and market dynamics.",
+          "whyItMatters": "Corporate restructuring can have significant implications for supply chains, consumer markets, and business strategies, emphasizing the need for transparency and adaptability in the business world.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-10T12:42:47.529Z"
+      "updatedAt": "2026-10-10T16:37:17.951Z"
     }
   }
 }
