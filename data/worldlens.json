@@ -1,145 +1,133 @@
 {
-  "generatedAt": "2026-10-11T16:37:54.730Z",
+  "generatedAt": "2026-10-11T20:36:56.214Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Events",
-      "summary": "Today's lens covers a mix of regional and international events, including natural disasters, political tensions, and global health updates.",
+      "kicker": "Global Brief",
+      "summary": "Today's lens covers a range of international developments, including geopolitical tensions, humanitarian crises, and environmental concerns, highlighting the interconnected nature of global events.",
       "stories": [
         {
-          "title": "Football fans speak about City’s charges as they face Liverpool",
-          "body": "Football fans in the UK are discussing the charges against City Football Club, as they prepare to face Liverpool in a crucial match. The controversy highlights the tension between club management and fans, raising questions about the fairness of the legal process.",
-          "whyItMatters": "The incident underscores the importance of transparency and fairness in sports governance, which can influence public perception and fan engagement.",
+          "title": "Zelenskyy Welcomes US-Announced Energy Ceasefire",
+          "body": "Russian President Vladimir Zelenskyy welcomed the United States' announcement of a potential energy ceasefire, which could impact global energy markets and geopolitical dynamics. The move is seen as a strategic attempt to ease tensions in the region.",
+          "whyItMatters": "The ceasefire announcement could influence energy trade routes and regional stability, particularly in the context of ongoing geopolitical tensions.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/football-fans-speak-about-citys-charges-as-they-face-liverpool?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/tour-bus-crash-in-turkiye-leaves-at-least-11-dead?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Tour bus crash in Turkey leaves at least 11 dead",
-          "body": "A tour bus crash in Turkey resulted in at least 11 deaths, highlighting the risks associated with large-scale travel events. The incident has sparked discussions about safety measures and the responsibility of organizers to ensure passenger well-being.",
-          "whyItMatters": "The tragedy emphasizes the need for robust safety protocols in transportation, which can have broader implications for public safety and travel policies.",
+          "title": "Syrian Families Demand Release of Detainees Held by Israel",
+          "body": "Syrian families are calling for the release of detainees held by Israel, highlighting ongoing conflicts and humanitarian concerns in the region. The demand reflects the broader struggle for peace and justice in the Middle East.",
+          "whyItMatters": "The release of detainees could affect regional stability and international relations, particularly in the context of ongoing conflicts and human rights issues.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/tour-bus-crash-in-turkiye-leaves-at-least-11-dead?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/syrian-families-demand-release-of-detainees-held-by-israel?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Children among 139 dead after boat capsizes off Djibouti",
-          "body": "A boat capsizing in Djibouti resulted in the death of 139 people, including children. The incident has raised concerns about maritime safety and the vulnerability of young people in such situations.",
-          "whyItMatters": "The event highlights the critical need for improved maritime safety measures and the importance of protecting vulnerable populations in high-risk environments.",
+          "title": "Pakistan Suspends Imran Khan’s Party-Led Provincial Government",
+          "body": "Pakistan's government has suspended Imran Khan's party-led provincial government, marking a significant political shift. This development could influence the country's political landscape and governance structure.",
+          "whyItMatters": "The suspension of the government may lead to new political alliances and governance reforms, affecting the country's stability and development.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-11T16:37:54.730Z"
+      "updatedAt": "2026-10-11T20:36:56.214Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers advances in science, environmental issues, and technological innovations.",
+      "summary": "Today's lens covers scientific advancements, environmental issues, and technological innovations impacting global society.",
       "stories": [
         {
-          "title": "Scientists discover new way to treat chronic pain",
-          "body": "A study published in Nature reveals that breaking down nerve-cell scaffolds can relieve chronic pain in mice. This breakthrough could lead to new treatments for human pain conditions.",
-          "whyItMatters": "This discovery may offer novel approaches to managing chronic pain, potentially impacting medical research and patient care.",
+          "title": "Orangutans released back into Borneo forest after devastating fires",
+          "body": "Following the devastating fires in Borneo, orangutans were released into the forest to help restore ecological balance. The release was part of a conservation effort to prevent further habitat destruction and support wildlife recovery.",
+          "whyItMatters": "This event highlights the importance of conservation efforts in preserving biodiversity and the role of environmental disasters in shaping ecological recovery.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/us-news/2026/oct/11/los-angeles-mosquitoes-west-nile-virus-el-nino"
+            }
+          ]
+        },
+        {
+          "title": "Scientists create a tiny device that can control your nerves to treat chronic pain",
+          "body": "A new device has been developed that can control nerves to treat chronic pain. The device uses advanced technology to target nerve signals, offering a potential solution for those suffering from persistent pain conditions.",
+          "whyItMatters": "This innovation could revolutionize pain management and improve quality of life for individuals with chronic pain.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/10/261008005253.htm"
-            },
-            {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/d41586-026-03159-z"
             }
           ]
         },
         {
-          "title": "Hurricane Isaias causes power outages in the US",
-          "body": "A hurricane named Isaias caused four deaths and thousands of power outages in the United States. The storm weakened after making landfall in Florida, but its impact was still significant.",
-          "whyItMatters": "This event highlights the increasing frequency and impact of extreme weather events, which are becoming more common due to climate change.",
-          "sources": [
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "New research on the human brain and aging",
-          "body": "A study in Nature finds that chimp and gorilla brains resist weight loss with age, unlike human brains. This suggests differences in how the human brain ages, potentially offering insights into human aging and neurodegenerative diseases.",
-          "whyItMatters": "Understanding brain aging differences may lead to better strategies for preventing or treating age-related cognitive decline and neurodegenerative diseases.",
+          "title": "Chimp and gorilla brains resist weight loss with age — unlike human brains",
+          "body": "Research shows that chimp and gorilla brains resist weight loss with age, unlike human brains. This finding could provide insights into aging and metabolic processes, potentially leading to new strategies for combating age-related health issues.",
+          "whyItMatters": "Understanding how different species age and maintain health could inform human health research and interventions.",
           "sources": [
             {
               "name": "Nature",
               "url": "https://www.nature.com/articles/d41586-026-03158-0"
-            },
-            {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/d41586-026-03216-7"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-11T16:37:54.730Z"
+      "updatedAt": "2026-10-11T20:36:56.214Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including political and technological shifts, business news, and international events.",
+      "summary": "Today's lens covers developments in global economics, including energy ceasefire announcements, political tensions, technological advancements, and economic policies.",
       "stories": [
         {
-          "title": "Football fans speak about City’s charges as they face Liverpool",
-          "body": "Football fans in the UK are discussing the legal charges against Manchester City, as the team faces a match against Liverpool. The situation highlights the intersection of sports and legal matters, with fans expressing their views on the case.",
-          "whyItMatters": "The legal and sports intersection raises questions about how public figures are treated in the media and legal system.",
+          "title": "Zelenskyy welcomes US-announced energy ceasefire",
+          "body": "Russian President Vladimir Zelenskyy welcomed the US-announced energy ceasefire, which aims to reduce tensions in the Middle East. The ceasefire is seen as a potential step toward de-escalation in the region, though its impact remains uncertain.",
+          "whyItMatters": "The ceasefire could influence regional stability and energy prices, affecting global markets.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/football-fans-speak-about-citys-charges-as-they-face-liverpool?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/tour-bus-crash-in-turkiye-leaves-at-least-11-dead?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Power bank fire forces plane to emergency land in India",
-          "body": "A power bank fire forced a plane to emergency land in India, highlighting the potential risks of electronic devices in aviation. The incident underscores the importance of safety protocols and the role of technology in modern travel.",
-          "whyItMatters": "The incident highlights the need for improved safety measures in aviation and the risks associated with electronic devices.",
+          "title": "Mexican president urges residents to shelter as Hurricane Simon approaches",
+          "body": "Mexican President Andrés Manuel López Obrador urged residents to shelter as Hurricane Simon approached, highlighting the potential impact of the storm on the country's infrastructure and economy.",
+          "whyItMatters": "The hurricane could disrupt economic activities and infrastructure, affecting regional trade and safety.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/11/mexican-president-urges-residents-to-shelter-as-hurricane-simon-approaches?traffic_source=rss"
             }
           ]
         },
         {
           "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-          "body": "US President Trump announced a deal for Russian diesel, while Ukrainian President Zelensky criticized the deal as a gift to Putin. The deal reflects the complex geopolitical dynamics between the US and Russia.",
-          "whyItMatters": "The deal highlights the ongoing tensions between the US and Russia and the impact of energy deals on international relations.",
+          "body": "US President Donald Trump announced a deal for Russian diesel, which Zelenskyy called a 'gift to Putin.' The deal is seen as a strategic move to maintain US-Russia relations, though it raises concerns about geopolitical tensions and energy security.",
+          "whyItMatters": "The deal could affect global energy markets and international relations, influencing trade and security policies.",
           "sources": [
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss"
-            },
             {
               "name": "BBC Business",
               "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
@@ -148,7 +136,7 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-11T16:37:54.730Z"
+      "updatedAt": "2026-10-11T20:36:56.214Z"
     }
   }
 }
