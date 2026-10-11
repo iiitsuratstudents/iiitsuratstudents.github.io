@@ -1,61 +1,72 @@
 {
-  "generatedAt": "2026-10-11T08:38:07.808Z",
+  "generatedAt": "2026-10-11T12:44:39.765Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers geopolitical tensions, natural disasters, and international news events that could impact students globally.",
+      "summary": "Today's lens covers a mix of international news, scientific developments, and local events, highlighting key trends and potential impacts on students.",
       "stories": [
         {
-          "title": "Musk's Starlink Affordability Claims",
-          "body": "Tech mogul Elon Musk has pledged to make Starlink affordable in India, escalating a feud with Indian billionaire Jyotirao Phatak. The dispute centers on pricing and access to satellite internet services, reflecting broader tensions between tech giants and local business leaders.",
-          "whyItMatters": "The debate over affordability and access to technology highlights global competition and the role of private enterprises in shaping digital infrastructure.",
+          "title": "Indian protesters receive aid from international figure",
+          "body": "Al Jazeera reports on a man helping India's detained protesters return home, highlighting international support for civil rights and human rights concerns. The incident underscores the role of global actors in advocating for justice and freedom.",
+          "whyItMatters": "International support for civil rights can influence policy and public opinion, reflecting global values and human rights priorities.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/10/11/musk-vows-affordable-starlink-in-india-as-he-escalates-feud-with-ambani?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/meet-the-man-helping-indias-detained-protesters-get-home?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Flash Floods in Nepal",
-          "body": "A severe flash flood in Nepal has swept away buildings and displaced thousands, highlighting the increasing frequency of natural disasters due to climate change. The event underscores the vulnerability of communities in low-lying areas and the need for improved disaster preparedness.",
-          "whyItMatters": "Natural disasters can have far-reaching impacts, including economic and humanitarian consequences, and emphasize the importance of climate resilience and international cooperation.",
+          "title": "Scientific breakthrough in blood sugar management",
+          "body": "A study reveals that the protein brazzein can reduce blood sugar spikes, offering potential for new treatments in diabetes management. This development could impact healthcare and medical research globally.",
+          "whyItMatters": "Scientific advancements can lead to improved health outcomes and inspire further research, influencing medical practices and patient care.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/11/sweet-protein-brazzein-shows-promise-in-reducing-blood-sugar-spikes-study?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "US Bombing in Gulf of Oman",
-          "body": "The US has bombed a cargo vessel in the Gulf of Oman, citing efforts to disrupt Iran's supply chain. This action comes amid growing tensions over regional security and the impact of sanctions on global trade.",
-          "whyItMatters": "Military actions in strategic locations can influence regional stability and trade dynamics, reflecting complex geopolitical considerations.",
+          "title": "Nepal floods cause destruction, prompting aid efforts",
+          "body": "BBC reports on severe floods in Nepal, destroying homes and bridges, and calling for international aid. The situation highlights the vulnerability of communities to natural disasters and the importance of disaster preparedness.",
+          "whyItMatters": "Natural disasters can have widespread impacts, emphasizing the need for global cooperation in disaster response and resilience planning.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-11T08:38:07.808Z"
+      "updatedAt": "2026-10-11T12:44:39.765Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers groundbreaking scientific discoveries, technological advancements, and environmental events impacting global students.",
+      "summary": "Today's lens covers advancements in science, technology, and environmental issues, including new research, natural phenomena, and global concerns.",
       "stories": [
         {
-          "title": "Scientists discover hidden cleanup system in the eye",
-          "body": "Scientists have discovered a hidden cleanup system in the eye that works similarly to the body's natural detoxification processes. This system, which is not yet fully understood, may help in treating various eye conditions and could lead to new treatments for diseases related to the eye's health.",
-          "whyItMatters": "This discovery could revolutionize the understanding of eye health and lead to innovative treatments for eye-related conditions.",
+          "title": "Mosquitoes in Los Angeles threaten public health",
+          "body": "Los Angeles has been hit by a severe outbreak of mosquitoes, including West Nile and El Niño viruses, leading to public health warnings and increased efforts to control their spread. The situation highlights the growing impact of climate change on vector-borne diseases.",
+          "whyItMatters": "The spread of mosquitoes in urban areas underscores the need for improved public health strategies and climate resilience.",
+          "sources": [
+            {
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/us-news/2026/oct/11/los-angeles-mosquitoes-west-nile-virus-el-nino"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm"
+            }
+          ]
+        },
+        {
+          "title": "Scientists discover a new cleanup system in the eye",
+          "body": "Researchers have identified a hidden mechanism in the human eye that helps clean up waste, revealing new insights into the body's natural processes and potential applications in medical science.",
+          "whyItMatters": "This discovery could lead to advancements in understanding and treating eye-related conditions.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -65,74 +76,63 @@
         },
         {
           "title": "Nuclear clock could make atomic clocks obsolete",
-          "body": "Scientists have developed a nuclear clock that could potentially make current atomic clocks obsolete. This new technology uses the natural oscillations of atomic nuclei to measure time with unprecedented precision, offering a more stable and accurate timekeeping method.",
-          "whyItMatters": "This advancement could lead to more reliable timekeeping technologies, which are crucial for scientific research and global communication.",
+          "body": "Scientists have developed a nuclear clock that could potentially replace traditional atomic clocks, offering more precise timekeeping with improved stability and accuracy.",
+          "whyItMatters": "This innovation could revolutionize timekeeping technology and its applications in global communication and navigation.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm"
             }
           ]
-        },
-        {
-          "title": "Neanderthals may have used prehistoric glue as an ancient antibiotic",
-          "body": "A study suggests that Neanderthals may have used prehistoric glue as an ancient antibiotic. The glue, which was used in cave paintings, was found to have antimicrobial properties that could have been used to treat infections or wounds.",
-          "whyItMatters": "This discovery provides insight into the potential medical knowledge of early humans and could inform modern research into natural antibiotics.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261008005256.htm"
-            }
-          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-11T08:38:07.808Z"
+      "updatedAt": "2026-10-11T12:44:39.765Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including rising oil prices, geopolitical tensions, and labor-related news.",
+      "summary": "Today's lens covers a mix of global events, including a humanitarian aid effort, a geopolitical response, a scientific breakthrough, a sports event, and political developments.",
       "stories": [
         {
-          "title": "Musk vows ‘affordable’ Starlink in India as he escalates feud with Ambani",
-          "body": "Tech mogul Elon Musk has vowed to make Starlink more affordable in India, amid a growing feud with Indian telecom giant Reliance Industries' chairman Rajiv Ambani. The dispute centers on pricing and market dominance in the satellite internet sector. Musk has emphasized his commitment to making high-speed internet accessible to millions in India, while Ambani has criticized him for not delivering on promises of affordability.",
-          "whyItMatters": "The ongoing tension between tech giants highlights the global competition in the satellite internet market and the potential for innovation to bridge the digital divide.",
+          "title": "Humanitarian aid for detained protesters",
+          "body": "Al Jazeera reports on a man helping India’s detained protesters get home, highlighting international efforts to support peaceful demonstrations. The incident underscores the role of global citizens in advocating for human rights and political freedoms.",
+          "whyItMatters": "International support for peaceful protests can influence policy and public opinion, reflecting the importance of global solidarity.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/10/11/musk-vows-affordable-starlink-in-india-as-he-escalates-feud-with-ambani?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/meet-the-man-helping-indias-detained-protesters-get-home?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/11/sweet-protein-brazzein-shows-promise-in-reducing-blood-sugar-spikes-study?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Flash flood sweeps away buildings in Nepal",
-          "body": "A severe flash flood in Nepal caused widespread destruction, with several buildings being washed away. The disaster struck the region during a period of heavy rainfall, leading to urgent calls for improved disaster preparedness and infrastructure resilience. The incident underscores the vulnerability of low-lying areas to extreme weather events, which are becoming more frequent due to climate change.",
-          "whyItMatters": "The flood highlights the growing risks of climate-related disasters and the need for better disaster response and infrastructure planning in vulnerable regions.",
+          "title": "Saudi Arabia responds to Houthi attack",
+          "body": "Al Jazeera reports that Saudi Arabia has vowed to respond to a Houthi attack on its Riyadh airport, indicating potential military or diplomatic action in the region. This event highlights ongoing tensions in the Middle East.",
+          "whyItMatters": "Geopolitical responses to attacks can escalate conflicts and affect regional stability, emphasizing the need for diplomatic solutions.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Oil prices jump 5% on Middle East tensions and US hurricane threat",
-          "body": "Global oil prices rose by 5% in response to heightened tensions in the Middle East and the threat of US hurricanes. The increase is attributed to reduced supply from OPEC+ and heightened demand from major economies. The situation reflects the complex interplay between geopolitical factors and energy markets, with oil prices remaining a key driver of economic stability and investment decisions.",
-          "whyItMatters": "Rising oil prices can significantly impact global economies, influencing everything from transportation costs to energy policy and investment strategies.",
+          "title": "Scientific breakthrough in blood sugar management",
+          "body": "A study from Al Jazeera highlights the potential of a sweet protein called brazzein to reduce blood sugar spikes, offering new hope for diabetes management. This development could impact healthcare and pharmaceutical industries.",
+          "whyItMatters": "Scientific advancements in medical treatments can improve quality of life and healthcare accessibility, underscoring the importance of research and innovation.",
           "sources": [
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/11/sweet-protein-brazzein-shows-promise-in-reducing-blood-sugar-spikes-study?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-11T08:38:07.808Z"
+      "updatedAt": "2026-10-11T12:44:39.765Z"
     }
   }
 }
