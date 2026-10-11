@@ -1,61 +1,69 @@
 {
-  "generatedAt": "2026-10-10T20:36:41.431Z",
+  "generatedAt": "2026-10-11T00:47:59.714Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of international news, sports, and environmental developments, highlighting key events and their potential implications for students.",
+      "summary": "Today's lens covers a mix of geopolitical events, natural disasters, and cultural news, highlighting the interconnectedness of global issues.",
       "stories": [
         {
-          "title": "US and Marine Corps Collaboration",
-          "body": "U.S. President Donald Trump pledged to support the Marine Corps in investigating a murder case linked to a former Marine, emphasizing cooperation between the two entities. This development underscores the ongoing tensions and trust issues between the U.S. and the Marine Corps, which have been a topic of public debate.",
-          "whyItMatters": "The collaboration highlights the importance of institutional trust and cooperation in military operations, which can influence international relations and military policy.",
+          "title": "Saudi Capital Airport Attack",
+          "body": "In Saudi Arabia, a deadly attack on an airport in Riyadh resulted in twelve fatalities. The incident occurred amid ongoing tensions between Saudi Arabia and Iran, with the US considering involvement in the conflict against Houthis. The attack underscores the volatile geopolitical climate in the region.",
+          "whyItMatters": "The attack highlights the risks of regional conflicts and the potential for international involvement, affecting global security and diplomatic relations.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/10/rubio-pledges-us-cooperation-in-marine-linked-murder-case?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Gaza Conflict Continues",
-          "body": "An Israeli attack destroyed a building in Gaza, marking the first year of a ceasefire. The incident reflects the ongoing instability and challenges in the region, with potential impacts on regional security and humanitarian efforts.",
-          "whyItMatters": "The conflict in Gaza highlights the complexities of peacekeeping and the need for sustained diplomatic efforts to prevent further escalation and civilian casualties.",
+          "title": "Hurricane Isaias Hits the US",
+          "body": "Hurricane Isaias, the first Atlantic hurricane of the 2026 season, made landfall in the US, causing widespread destruction with four deaths and thousands without power. The storm's impact highlights the increasing frequency and intensity of extreme weather events due to climate change.",
+          "whyItMatters": "The storm's impact underscores the growing threat of climate-related disasters, influencing disaster preparedness and climate policy globally.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026"
             }
           ]
         },
         {
-          "title": "ICC and U.S. Relations",
-          "body": "The Trump administration is reportedly seeking to dismantle the International Criminal Court (ICC), raising concerns about the future of international justice and the role of international institutions in enforcing laws across borders.",
-          "whyItMatters": "The debate over the ICC's authority and independence reflects broader discussions about the balance between national sovereignty and global justice systems, which are critical for students understanding international law and diplomacy.",
+          "title": "Controversial Vaccine Trial in Guinea-Bissau",
+          "body": "A controversial vaccine trial in Guinea-Bissau has received approval, raising concerns about safety and ethical standards. The trial, supported by RFK Jr., aims to address public health challenges in the region, highlighting the complexities of global health initiatives.",
+          "whyItMatters": "The trial reflects the ongoing challenges in global health governance and the need for ethical and safe medical research, impacting public trust in international health programs.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss"
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr"
+            },
+            {
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-10T20:36:41.431Z"
+      "updatedAt": "2026-10-11T00:47:59.714Z"
     },
     "science": {
-      "kicker": "Science & Nature",
-      "summary": "Today's lens covers natural disasters, scientific breakthroughs, and cultural topics, highlighting both global events and recent research.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens covers natural disasters, scientific breakthroughs, and environmental concerns.",
       "stories": [
         {
-          "title": "Hurricane Isaias causes power outages in US",
-          "body": "Hurricane Isaias, which had been downgraded to a Category 3 storm, made landfall in Florida and caused widespread power outages across the US. The storm brought strong winds and heavy rainfall, leading to the death of four individuals and disrupting electricity supply to thousands of homes and businesses.",
-          "whyItMatters": "Natural disasters highlight the importance of disaster preparedness and infrastructure resilience, especially in vulnerable regions.",
+          "title": "Hurricane Isaias causes widespread power outages",
+          "body": "Hurricane Isaias, which was initially classified as a major category three storm, weakened after making landfall in Florida. The storm caused four deaths and thousands of residents without power, highlighting the unpredictable nature of tropical storms and the vulnerability of coastal areas.",
+          "whyItMatters": "Understanding the impact of extreme weather events is crucial for improving disaster preparedness and infrastructure resilience.",
           "sources": [
             {
               "name": "BBC Science",
@@ -64,32 +72,24 @@
             {
               "name": "BBC Science",
               "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/videos/cmewe552de72o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "title": "Scientists discover potential shortcut to fusion energy",
-          "body": "Scientists have identified a potential shortcut to achieving fusion energy, a process that could provide limitless clean energy. The discovery, made through advanced computational models, could significantly reduce the time and cost required to develop fusion as a viable energy source.",
-          "whyItMatters": "Advancements in energy research could reshape global energy landscapes, offering sustainable alternatives to fossil fuels.",
+          "body": "Researchers at a leading institution have identified a potential pathway to achieve fusion energy, a key goal in clean and sustainable power generation. This breakthrough could significantly advance the field of nuclear fusion, offering a future energy solution.",
+          "whyItMatters": "Advancements in fusion energy research could revolutionize global energy production, reducing reliance on fossil fuels and mitigating climate change impacts.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/10/261008005242.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm"
             }
           ]
         },
         {
-          "title": "Astronomers detect mysterious energy burst from galaxy",
-          "body": "Astronomers have detected a mysterious burst of energy from a distant galaxy, which could provide insights into high-energy astrophysical phenomena. The event, observed using advanced telescopes, may help scientists better understand the nature of cosmic events and their potential impacts on Earth.",
-          "whyItMatters": "Such discoveries expand our understanding of the universe and could lead to new technologies or theories in astrophysics.",
+          "title": "Astronomers detect mysterious energy burst from a distant galaxy",
+          "body": "Astronomers have detected a sudden burst of energy from a distant galaxy, providing new insights into high-energy astrophysical phenomena. This discovery could enhance our understanding of cosmic events and their potential effects on Earth.",
+          "whyItMatters": "Such discoveries expand our knowledge of the universe and may lead to future technological or scientific breakthroughs in astrophysics.",
           "sources": [
             {
               "name": "The Guardian Science",
@@ -99,27 +99,27 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-10T20:36:41.431Z"
+      "updatedAt": "2026-10-11T00:47:59.714Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The lens covers economic developments, including oil prices, trade agreements, and labor issues, with a focus on global impacts.",
+      "summary": "Today's lens covers economic developments, including oil prices, trade tensions, and labor issues, with a focus on global impacts.",
       "stories": [
         {
-          "title": "Al Jazeera reports Trump administration's Russia deal",
-          "body": "Al Jazeera reports that Trump administration has announced a deal for Russian diesel, with Zelensky calling it a gift to Putin. The deal is seen as a strategic move to address rising fuel prices and geopolitical tensions.",
-          "whyItMatters": "The deal highlights the complex interplay between US and Russian energy policies and their impact on global fuel prices.",
+          "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
+          "body": "Al Jazeera reports that Ebola has spread to eastern Democratic Republic of Congo (DRC), with cases confirmed in the region. Kenya has also reported an imported case, raising concerns about the spread of the virus. The situation highlights the ongoing challenge of controlling outbreaks in conflict-affected areas.",
+          "whyItMatters": "The spread of Ebola in DRC underscores the need for global health cooperation and preparedness in conflict zones.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Oil prices surge due to Middle East tensions and US hurricane threat",
-          "body": "Oil prices jumped 5% on concerns over Middle East tensions and a US hurricane threat. The rise in prices is attributed to increased demand and reduced supply from disrupted oil production in the region.",
-          "whyItMatters": "The surge in oil prices could impact global energy markets and affect the cost of living for consumers and businesses.",
+          "title": "Oil prices jump 5% on Middle East tensions and US hurricane threat",
+          "body": "The Guardian reports that oil prices surged by 5% due to Middle East tensions and a US hurricane threat. These factors have increased global energy costs, affecting both consumers and businesses. The rise in prices may impact economic stability and energy policy decisions.",
+          "whyItMatters": "The increase in oil prices could influence energy policies and economic planning worldwide.",
           "sources": [
             {
               "name": "The Guardian Business",
@@ -128,19 +128,19 @@
           ]
         },
         {
-          "title": "Al Jazeera reports Israeli attack in Gaza",
-          "body": "Al Jazeera reports that an Israeli attack destroyed a building in Gaza, marking the first year of the ceasefire. The attack is seen as a continuation of the conflict and raises concerns about the stability of the region.",
-          "whyItMatters": "The attack underscores the ongoing challenges of peacekeeping and conflict resolution in the Middle East, with potential long-term impacts on regional stability and humanitarian efforts.",
+          "title": "Real Madrid beats Villarreal but Vinicius sent off for hair pull",
+          "body": "Al Jazeera reports that Real Madrid defeated Villarreal 1-0 in a match, but Vinicius was sent off for a hair pull. The incident highlights the competitive nature of football and the impact of player behavior on team dynamics. The match also reflects the broader trends in sports and player conduct.",
+          "whyItMatters": "The incident underscores the evolving norms in sports and the role of player conduct in team performance.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-10T20:36:41.431Z"
+      "updatedAt": "2026-10-11T00:47:59.714Z"
     }
   }
 }
