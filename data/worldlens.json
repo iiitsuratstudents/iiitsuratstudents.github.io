@@ -1,138 +1,154 @@
 {
-  "generatedAt": "2026-10-11T12:44:39.765Z",
+  "generatedAt": "2026-10-11T16:37:54.730Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of international news, scientific developments, and local events, highlighting key trends and potential impacts on students.",
+      "kicker": "Global Events",
+      "summary": "Today's lens covers a mix of regional and international events, including natural disasters, political tensions, and global health updates.",
       "stories": [
         {
-          "title": "Indian protesters receive aid from international figure",
-          "body": "Al Jazeera reports on a man helping India's detained protesters return home, highlighting international support for civil rights and human rights concerns. The incident underscores the role of global actors in advocating for justice and freedom.",
-          "whyItMatters": "International support for civil rights can influence policy and public opinion, reflecting global values and human rights priorities.",
+          "title": "Football fans speak about City’s charges as they face Liverpool",
+          "body": "Football fans in the UK are discussing the charges against City Football Club, as they prepare to face Liverpool in a crucial match. The controversy highlights the tension between club management and fans, raising questions about the fairness of the legal process.",
+          "whyItMatters": "The incident underscores the importance of transparency and fairness in sports governance, which can influence public perception and fan engagement.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/meet-the-man-helping-indias-detained-protesters-get-home?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/football-fans-speak-about-citys-charges-as-they-face-liverpool?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/tour-bus-crash-in-turkiye-leaves-at-least-11-dead?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Scientific breakthrough in blood sugar management",
-          "body": "A study reveals that the protein brazzein can reduce blood sugar spikes, offering potential for new treatments in diabetes management. This development could impact healthcare and medical research globally.",
-          "whyItMatters": "Scientific advancements can lead to improved health outcomes and inspire further research, influencing medical practices and patient care.",
+          "title": "Tour bus crash in Turkey leaves at least 11 dead",
+          "body": "A tour bus crash in Turkey resulted in at least 11 deaths, highlighting the risks associated with large-scale travel events. The incident has sparked discussions about safety measures and the responsibility of organizers to ensure passenger well-being.",
+          "whyItMatters": "The tragedy emphasizes the need for robust safety protocols in transportation, which can have broader implications for public safety and travel policies.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/11/sweet-protein-brazzein-shows-promise-in-reducing-blood-sugar-spikes-study?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/tour-bus-crash-in-turkiye-leaves-at-least-11-dead?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Nepal floods cause destruction, prompting aid efforts",
-          "body": "BBC reports on severe floods in Nepal, destroying homes and bridges, and calling for international aid. The situation highlights the vulnerability of communities to natural disasters and the importance of disaster preparedness.",
-          "whyItMatters": "Natural disasters can have widespread impacts, emphasizing the need for global cooperation in disaster response and resilience planning.",
+          "title": "Children among 139 dead after boat capsizes off Djibouti",
+          "body": "A boat capsizing in Djibouti resulted in the death of 139 people, including children. The incident has raised concerns about maritime safety and the vulnerability of young people in such situations.",
+          "whyItMatters": "The event highlights the critical need for improved maritime safety measures and the importance of protecting vulnerable populations in high-risk environments.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-11T12:44:39.765Z"
+      "updatedAt": "2026-10-11T16:37:54.730Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers advancements in science, technology, and environmental issues, including new research, natural phenomena, and global concerns.",
+      "summary": "Today's lens covers advances in science, environmental issues, and technological innovations.",
       "stories": [
         {
-          "title": "Mosquitoes in Los Angeles threaten public health",
-          "body": "Los Angeles has been hit by a severe outbreak of mosquitoes, including West Nile and El Niño viruses, leading to public health warnings and increased efforts to control their spread. The situation highlights the growing impact of climate change on vector-borne diseases.",
-          "whyItMatters": "The spread of mosquitoes in urban areas underscores the need for improved public health strategies and climate resilience.",
+          "title": "Scientists discover new way to treat chronic pain",
+          "body": "A study published in Nature reveals that breaking down nerve-cell scaffolds can relieve chronic pain in mice. This breakthrough could lead to new treatments for human pain conditions.",
+          "whyItMatters": "This discovery may offer novel approaches to managing chronic pain, potentially impacting medical research and patient care.",
           "sources": [
             {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/us-news/2026/oct/11/los-angeles-mosquitoes-west-nile-virus-el-nino"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261008005253.htm"
             },
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm"
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03159-z"
             }
           ]
         },
         {
-          "title": "Scientists discover a new cleanup system in the eye",
-          "body": "Researchers have identified a hidden mechanism in the human eye that helps clean up waste, revealing new insights into the body's natural processes and potential applications in medical science.",
-          "whyItMatters": "This discovery could lead to advancements in understanding and treating eye-related conditions.",
+          "title": "Hurricane Isaias causes power outages in the US",
+          "body": "A hurricane named Isaias caused four deaths and thousands of power outages in the United States. The storm weakened after making landfall in Florida, but its impact was still significant.",
+          "whyItMatters": "This event highlights the increasing frequency and impact of extreme weather events, which are becoming more common due to climate change.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261008005254.htm"
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Nuclear clock could make atomic clocks obsolete",
-          "body": "Scientists have developed a nuclear clock that could potentially replace traditional atomic clocks, offering more precise timekeeping with improved stability and accuracy.",
-          "whyItMatters": "This innovation could revolutionize timekeeping technology and its applications in global communication and navigation.",
+          "title": "New research on the human brain and aging",
+          "body": "A study in Nature finds that chimp and gorilla brains resist weight loss with age, unlike human brains. This suggests differences in how the human brain ages, potentially offering insights into human aging and neurodegenerative diseases.",
+          "whyItMatters": "Understanding brain aging differences may lead to better strategies for preventing or treating age-related cognitive decline and neurodegenerative diseases.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm"
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03158-0"
+            },
+            {
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03216-7"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-11T12:44:39.765Z"
+      "updatedAt": "2026-10-11T16:37:54.730Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of global events, including a humanitarian aid effort, a geopolitical response, a scientific breakthrough, a sports event, and political developments.",
+      "summary": "Today's lens covers a mix of economic developments, including political and technological shifts, business news, and international events.",
       "stories": [
         {
-          "title": "Humanitarian aid for detained protesters",
-          "body": "Al Jazeera reports on a man helping India’s detained protesters get home, highlighting international efforts to support peaceful demonstrations. The incident underscores the role of global citizens in advocating for human rights and political freedoms.",
-          "whyItMatters": "International support for peaceful protests can influence policy and public opinion, reflecting the importance of global solidarity.",
+          "title": "Football fans speak about City’s charges as they face Liverpool",
+          "body": "Football fans in the UK are discussing the legal charges against Manchester City, as the team faces a match against Liverpool. The situation highlights the intersection of sports and legal matters, with fans expressing their views on the case.",
+          "whyItMatters": "The legal and sports intersection raises questions about how public figures are treated in the media and legal system.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/meet-the-man-helping-indias-detained-protesters-get-home?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/football-fans-speak-about-citys-charges-as-they-face-liverpool?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/11/sweet-protein-brazzein-shows-promise-in-reducing-blood-sugar-spikes-study?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/tour-bus-crash-in-turkiye-leaves-at-least-11-dead?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Saudi Arabia responds to Houthi attack",
-          "body": "Al Jazeera reports that Saudi Arabia has vowed to respond to a Houthi attack on its Riyadh airport, indicating potential military or diplomatic action in the region. This event highlights ongoing tensions in the Middle East.",
-          "whyItMatters": "Geopolitical responses to attacks can escalate conflicts and affect regional stability, emphasizing the need for diplomatic solutions.",
+          "title": "Power bank fire forces plane to emergency land in India",
+          "body": "A power bank fire forced a plane to emergency land in India, highlighting the potential risks of electronic devices in aviation. The incident underscores the importance of safety protocols and the role of technology in modern travel.",
+          "whyItMatters": "The incident highlights the need for improved safety measures in aviation and the risks associated with electronic devices.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Scientific breakthrough in blood sugar management",
-          "body": "A study from Al Jazeera highlights the potential of a sweet protein called brazzein to reduce blood sugar spikes, offering new hope for diabetes management. This development could impact healthcare and pharmaceutical industries.",
-          "whyItMatters": "Scientific advancements in medical treatments can improve quality of life and healthcare accessibility, underscoring the importance of research and innovation.",
+          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+          "body": "US President Trump announced a deal for Russian diesel, while Ukrainian President Zelensky criticized the deal as a gift to Putin. The deal reflects the complex geopolitical dynamics between the US and Russia.",
+          "whyItMatters": "The deal highlights the ongoing tensions between the US and Russia and the impact of energy deals on international relations.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/11/sweet-protein-brazzein-shows-promise-in-reducing-blood-sugar-spikes-study?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-11T12:44:39.765Z"
+      "updatedAt": "2026-10-11T16:37:54.730Z"
     }
   }
 }
