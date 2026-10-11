@@ -1,31 +1,46 @@
 {
-  "generatedAt": "2026-10-11T00:47:59.714Z",
+  "generatedAt": "2026-10-11T04:39:06.940Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of geopolitical events, natural disasters, and cultural news, highlighting the interconnectedness of global issues.",
+      "kicker": "Global Events",
+      "summary": "Multiple global events highlight ongoing geopolitical tensions, natural disasters, and international reactions, emphasizing the complexity of contemporary issues.",
       "stories": [
         {
-          "title": "Saudi Capital Airport Attack",
-          "body": "In Saudi Arabia, a deadly attack on an airport in Riyadh resulted in twelve fatalities. The incident occurred amid ongoing tensions between Saudi Arabia and Iran, with the US considering involvement in the conflict against Houthis. The attack underscores the volatile geopolitical climate in the region.",
-          "whyItMatters": "The attack highlights the risks of regional conflicts and the potential for international involvement, affecting global security and diplomatic relations.",
+          "title": "ICE Agent in New York Shooting and Pregnant Woman Assault",
+          "body": "An ICE agent in New York was involved in a shooting that also targeted a pregnant woman. The incident highlights ongoing security concerns and the potential for violence in the United States.",
+          "whyItMatters": "This incident underscores the risks of domestic security threats and the need for vigilance in public spaces.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ice-agent-in-new-york-shooting-also-involved-in-assault-of-pregnant-woman?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Hurricane Isaias Hits the US",
-          "body": "Hurricane Isaias, the first Atlantic hurricane of the 2026 season, made landfall in the US, causing widespread destruction with four deaths and thousands without power. The storm's impact highlights the increasing frequency and intensity of extreme weather events due to climate change.",
-          "whyItMatters": "The storm's impact underscores the growing threat of climate-related disasters, influencing disaster preparedness and climate policy globally.",
+          "title": "Houthi Attack on Saudi Airport and US Consideration of Military Action",
+          "body": "A deadly Houthi attack on Saudi Arabia's Riyadh airport led to US military consideration of joining Saudi strikes on Houthi rebels. The conflict reflects ongoing tensions in the Middle East.",
+          "whyItMatters": "The potential for US military involvement in the Middle East highlights the geopolitical complexities and risks associated with regional conflicts.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Hurricane Isaias and Natural Disasters",
+          "body": "Hurricane Isaias intensified and became the first Atlantic hurricane of the 2026 season, causing widespread destruction in the US and threatening coastal regions. The event highlights the increasing frequency of extreme weather events.",
+          "whyItMatters": "Natural disasters like Hurricane Isaias demonstrate the growing impact of climate change on global security and infrastructure.",
           "sources": [
             {
               "name": "BBC World",
@@ -36,34 +51,19 @@
               "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026"
             }
           ]
-        },
-        {
-          "title": "Controversial Vaccine Trial in Guinea-Bissau",
-          "body": "A controversial vaccine trial in Guinea-Bissau has received approval, raising concerns about safety and ethical standards. The trial, supported by RFK Jr., aims to address public health challenges in the region, highlighting the complexities of global health initiatives.",
-          "whyItMatters": "The trial reflects the ongoing challenges in global health governance and the need for ethical and safe medical research, impacting public trust in international health programs.",
-          "sources": [
-            {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr"
-            },
-            {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize"
-            }
-          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-11T00:47:59.714Z"
+      "updatedAt": "2026-10-11T04:39:06.940Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers natural disasters, scientific breakthroughs, and environmental concerns.",
+      "kicker": "Science & Nature",
+      "summary": "Today's lens covers natural disasters, scientific breakthroughs, and cultural topics, highlighting both global events and recent advancements in science.",
       "stories": [
         {
-          "title": "Hurricane Isaias causes widespread power outages",
-          "body": "Hurricane Isaias, which was initially classified as a major category three storm, weakened after making landfall in Florida. The storm caused four deaths and thousands of residents without power, highlighting the unpredictable nature of tropical storms and the vulnerability of coastal areas.",
-          "whyItMatters": "Understanding the impact of extreme weather events is crucial for improving disaster preparedness and infrastructure resilience.",
+          "title": "Hurricane Isaias impacts the US",
+          "body": "Hurricane Isaias weakened after making landfall in Florida, but it caused four deaths and thousands without power in the US. The storm's path and impact highlight the unpredictable nature of tropical storms.",
+          "whyItMatters": "Understanding the impact of extreme weather events is crucial for disaster preparedness and climate resilience.",
           "sources": [
             {
               "name": "BBC Science",
@@ -76,20 +76,24 @@
           ]
         },
         {
-          "title": "Scientists discover potential shortcut to fusion energy",
-          "body": "Researchers at a leading institution have identified a potential pathway to achieve fusion energy, a key goal in clean and sustainable power generation. This breakthrough could significantly advance the field of nuclear fusion, offering a future energy solution.",
-          "whyItMatters": "Advancements in fusion energy research could revolutionize global energy production, reducing reliance on fossil fuels and mitigating climate change impacts.",
+          "title": "Scientists discover potential fusion energy shortcut",
+          "body": "Scientists have identified a potential pathway to achieve fusion energy, a key goal in clean and sustainable energy research. This breakthrough could revolutionize how we generate power in the future.",
+          "whyItMatters": "Advancements in fusion energy research could lead to a new era of clean energy solutions, addressing global energy demands and environmental concerns.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/10/261008005242.htm"
+            },
+            {
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03159-z"
             }
           ]
         },
         {
-          "title": "Astronomers detect mysterious energy burst from a distant galaxy",
-          "body": "Astronomers have detected a sudden burst of energy from a distant galaxy, providing new insights into high-energy astrophysical phenomena. This discovery could enhance our understanding of cosmic events and their potential effects on Earth.",
-          "whyItMatters": "Such discoveries expand our knowledge of the universe and may lead to future technological or scientific breakthroughs in astrophysics.",
+          "title": "Astronomers detect mysterious energy burst",
+          "body": "Astronomers detected a sudden burst of energy from a distant galaxy, offering new insights into high-energy astrophysical phenomena. This discovery could enhance our understanding of cosmic events and their effects.",
+          "whyItMatters": "Such discoveries expand our knowledge of the universe and may lead to new technologies or theories in astrophysics.",
           "sources": [
             {
               "name": "The Guardian Science",
@@ -99,27 +103,16 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-11T00:47:59.714Z"
+      "updatedAt": "2026-10-11T04:39:06.940Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including oil prices, trade tensions, and labor issues, with a focus on global impacts.",
+      "summary": "Today's lens covers economic developments, including oil prices, political tensions, and labor issues, with multiple outlets reporting on various events.",
       "stories": [
         {
-          "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
-          "body": "Al Jazeera reports that Ebola has spread to eastern Democratic Republic of Congo (DRC), with cases confirmed in the region. Kenya has also reported an imported case, raising concerns about the spread of the virus. The situation highlights the ongoing challenge of controlling outbreaks in conflict-affected areas.",
-          "whyItMatters": "The spread of Ebola in DRC underscores the need for global health cooperation and preparedness in conflict zones.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss"
-            }
-          ]
-        },
-        {
           "title": "Oil prices jump 5% on Middle East tensions and US hurricane threat",
-          "body": "The Guardian reports that oil prices surged by 5% due to Middle East tensions and a US hurricane threat. These factors have increased global energy costs, affecting both consumers and businesses. The rise in prices may impact economic stability and energy policy decisions.",
-          "whyItMatters": "The increase in oil prices could influence energy policies and economic planning worldwide.",
+          "body": "Oil prices surged by 5% on Thursday, driven by heightened tensions in the Middle East and a potential hurricane threat in the US. The rise in prices reflects concerns over supply disruptions and geopolitical risks, which could impact global energy markets and consumer costs.",
+          "whyItMatters": "The fluctuation in oil prices could influence energy costs for consumers and businesses, affecting economic planning and investment decisions.",
           "sources": [
             {
               "name": "The Guardian Business",
@@ -128,19 +121,30 @@
           ]
         },
         {
-          "title": "Real Madrid beats Villarreal but Vinicius sent off for hair pull",
-          "body": "Al Jazeera reports that Real Madrid defeated Villarreal 1-0 in a match, but Vinicius was sent off for a hair pull. The incident highlights the competitive nature of football and the impact of player behavior on team dynamics. The match also reflects the broader trends in sports and player conduct.",
-          "whyItMatters": "The incident underscores the evolving norms in sports and the role of player conduct in team performance.",
+          "title": "Trump 'may' join Saudi strikes on Houthis after Riyadh airport attack",
+          "body": "President Trump has indicated he may join Saudi-led military strikes against Houthi rebels in Yemen following the attack on Riyadh's airport. This development highlights the escalating tensions in the region and the potential for increased military action, which could affect regional stability and international relations.",
+          "whyItMatters": "The potential for military intervention in Yemen could have far-reaching consequences for regional security and global trade routes.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Al Jazeera reports ICE agent in New York shooting also involved in assault of pregnant woman",
+          "body": "Al Jazeera reported a shooting incident in New York involving an ICE agent, who also assaulted a pregnant woman. The incident raises concerns about law enforcement practices and the safety of civilians, particularly in areas with high levels of immigration and security threats.",
+          "whyItMatters": "The incident underscores the challenges faced by law enforcement in maintaining public safety while managing immigration and security issues.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ice-agent-in-new-york-shooting-also-involved-in-assault-of-pregnant-woman?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-11T00:47:59.714Z"
+      "updatedAt": "2026-10-11T04:39:06.940Z"
     }
   }
 }
