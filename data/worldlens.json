@@ -1,65 +1,65 @@
 {
-  "generatedAt": "2026-10-12T13:05:09.359Z",
+  "generatedAt": "2026-10-12T16:40:07.298Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of geopolitical developments, cultural events, and international news, highlighting key trends and conflicts around the world.",
+      "kicker": "Geopolitics",
+      "summary": "Today's lens covers a mix of geopolitical developments, including energy conflicts, cyber attacks, and international legal rulings, highlighting the complex interplay of global events.",
       "stories": [
         {
-          "title": "Nobel Economics Prize Awaits",
-          "body": "The Nobel Economics Prize was awarded to Robert Hall and Michael Woodford, recognizing their contributions to economic theory. Their work focuses on monetary policy and the role of central banks. This development underscores the importance of economic research in shaping policy and understanding global financial systems.",
-          "whyItMatters": "This award highlights the significance of academic research in influencing economic policy and understanding global financial systems.",
+          "title": "Ukrainian Energy Sites Hit by Russia",
+          "body": "Since Trump announced a ceasefire, six Ukrainian energy sites have been targeted by Russian forces. President Zelensky has condemned the attacks, emphasizing the critical role of energy in Ukraine's stability and security. The incident underscores the ongoing conflict and its impact on regional energy supplies.",
+          "whyItMatters": "The targeting of energy infrastructure could disrupt regional energy markets and affect economic stability in the region.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/12/nobel-economics-prize-awarded-to-robert-hall-and-michael-%e2%81%a0woodford?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/12/which-banners-did-liverpool-fans-display-at-anfield-against-man-city?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/pope-leo-continues-working-after-lung-surgery-announcement?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Trump's Ambiguity on Ukraine",
-          "body": "President Trump expressed uncertainty about whether Ukraine needs a new president, suggesting potential candidates for the role. This reflects the ongoing political tensions and strategic considerations in international relations, particularly in the context of the Ukraine crisis.",
-          "whyItMatters": "This highlights the complexities of international politics and the strategic considerations in leadership transitions, which can impact global stability and relations.",
+          "title": "Cyber Attack on French Supermarkets",
+          "body": "French supermarkets have been hit by a cyber attack, disrupting supply chains and affecting consumer access to food. The incident highlights the growing threat of cyber warfare and the vulnerability of critical infrastructure in the global economy.",
+          "whyItMatters": "Cyber attacks on essential services can have far-reaching economic and social consequences, emphasizing the need for robust cybersecurity measures.",
+          "sources": [
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Rohingya Ruling Tests OIC Commitments",
+          "body": "The International Court of Justice (ICJ) issued a ruling on the Rohingya crisis, which has tested the commitments of the Organization of Islamic Cooperation (OIC). The ruling calls for the protection of Rohingya rights, but the OIC faces challenges in implementing these promises effectively.",
+          "whyItMatters": "The ICJ's ruling highlights the ongoing conflict and the need for international cooperation to address human rights issues in the region.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/12/trump-thinks-ukraine-needs-a-new-president-who-could-replace-zelenskyy?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Balkan Weather Patterns and Regional Conflicts",
-          "body": "Balkan temperatures are expected to swing, with heavy rain heading towards Greece. This weather shift could impact agriculture and daily life in the region, while also highlighting the region's vulnerability to climate change and natural disasters.",
-          "whyItMatters": "This underscores the impact of climate change on regional weather patterns and the need for adaptive strategies to mitigate its effects.",
-          "sources": [
-            {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/environment/2026/oct/12/balkan-temperatures-montenegro-rain-greece"
+              "url": "https://www.aljazeera.com/opinions/2026/10/12/the-icjs-rohingya-ruling-will-test-the-oics-promises?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-12T13:05:09.359Z"
+      "updatedAt": "2026-10-12T16:40:07.298Z"
     },
     "science": {
-      "kicker": "Science",
-      "summary": "Today's lens covers archaeological discoveries, scientific challenges, environmental warnings, and cutting-edge research.",
+      "kicker": "Science & Nature",
+      "summary": "Today's lens covers natural phenomena, scientific discoveries, and global environmental issues.",
       "stories": [
         {
-          "title": "Roman fort found in Wales could prove myth of emperor’s camp is real",
-          "body": "A Roman fort in Wales has been discovered that may challenge the long-held myth of an emperor’s camp. The find, reported by The Guardian Science, suggests the site could be a real historical location rather than a fictional construct. The discovery adds to the ongoing debate about the authenticity of ancient military sites.",
-          "whyItMatters": "This finding could reshape historical narratives about Roman military presence in Britain.",
+          "title": "Storm Rachel impacts Southern California",
+          "body": "A storm named Rachel has battered Southern California, causing flooding in Las Vegas. The BBC Science reports the storm brought heavy rainfall and rising water levels, affecting local infrastructure and communities. This event highlights the increasing frequency of extreme weather events, which are becoming more common due to climate change.",
+          "whyItMatters": "Understanding extreme weather patterns is crucial for developing resilience strategies and improving disaster preparedness.",
           "sources": [
             {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/uk-news/2026/oct/12/mythical-roman-fort-frenni-fawr-wales-emperor"
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/videos/cmj47n488v47o?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "BBC Science",
@@ -68,87 +68,79 @@
           ]
         },
         {
-          "title": "Can you solve it? The treacherous riddle of the round table",
-          "body": "A puzzle involving the round table and the placement of people around it has been published by The Guardian Science. The challenge is to determine the optimal arrangement of participants to avoid conflict. The puzzle is designed to test logical reasoning and spatial awareness.",
-          "whyItMatters": "This puzzle could engage students in critical thinking and problem-solving skills.",
+          "title": "Vanilla's hidden healing potential",
+          "body": "Scientists have discovered that vanilla contains compounds with potential healing properties. This finding could lead to new applications in medicine and health research. The ScienceDaily report highlights the ongoing exploration of natural compounds for therapeutic uses.",
+          "whyItMatters": "Discoveries in natural compounds may lead to innovative treatments and therapies, emphasizing the importance of exploring plant-based research.",
           "sources": [
             {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/oct/12/can-you-solve-it-the-treacherous-riddle-of-the-round-table"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261011211550.htm"
             }
           ]
         },
         {
-          "title": "Prepare for the unthinkable: warning over autumn flooding",
-          "body": "The BBC Science has issued a warning about the potential severity of autumn flooding. The report highlights the increasing risk of flooding in certain regions due to climate change and rising sea levels. The warning emphasizes the need for preparedness and adaptation strategies.",
-          "whyItMatters": "This warning underscores the importance of climate resilience and environmental planning in the face of rising flood risks.",
+          "title": "Orangutans released back into Borneo",
+          "body": "Orangutans have been released back into the wild after Borneo fires caused by human activity. The BBC Science reports that the release is a conservation effort to help restore habitats and support wildlife recovery. This event underscores the impact of environmental disasters on biodiversity and the importance of conservation efforts.",
+          "whyItMatters": "Conservation efforts are vital for preserving endangered species and maintaining ecological balance, highlighting the role of environmental stewardship.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cm4g1pqyqzqwo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-12T13:05:09.359Z"
+      "updatedAt": "2026-10-12T16:40:07.298Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including a Nobel Prize award, political tensions, and business-related news.",
+      "summary": "Today's lens covers economic developments, including technological advancements, political decisions, and global events impacting the economy.",
       "stories": [
         {
-          "title": "Nobel Prize Awaits Economic Laureates",
-          "body": "Al Jazeera reports that the Nobel Economics Prize was awarded to Robert Hall and Michael Woodford. The award recognizes their contributions to economic theory, particularly in the areas of monetary economics and the study of financial markets. Their work has influenced how economists understand the relationship between money, interest rates, and economic growth.",
-          "whyItMatters": "This recognition highlights the importance of theoretical contributions to economics and their potential impact on policy and academic research.",
+          "title": "Protests over voter lists escalate in India’s capital",
+          "body": "Protests over voter list access in India's capital, Delhi, have escalated, with demonstrators demanding greater transparency and access to electoral data. The issue has sparked public debate about electoral integrity and digital governance.",
+          "whyItMatters": "The controversy highlights tensions between technological advancement and democratic accountability, raising questions about how digital systems can be used to enhance or undermine electoral processes.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/12/nobel-economics-prize-awarded-to-robert-hall-and-michael-%e2%81%a0woodford?traffic_source=rss"
+              "url": "https://www.aljazeera.com/gallery/2026/10/12/photos-protests-over-voter-lists-escalate-in-indias-capital?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/12/which-banners-did-liverpool-fans-display-at-anfield-against-man-city?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/pope-leo-continues-working-after-lung-surgery-announcement?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Trump's Political Tensions",
-          "body": "Al Jazeera reports that Donald Trump believes Ukraine needs a new president, potentially replacing Volodymyr Zelenskyy. This reflects ongoing political tensions in the international relations landscape, particularly regarding U.S. foreign policy and the role of the United States in global affairs.",
-          "whyItMatters": "This development underscores the complex interplay between U.S. political leadership and international relations, highlighting the challenges of maintaining diplomatic engagement in a rapidly changing geopolitical environment.",
+          "title": "Nobel Prize for economics awarded to Hall and Woodford",
+          "body": "The Nobel Prize in Economics was awarded to David Hall and Kenneth Woodford for their work on economic modeling and the study of financial crises. Their research has influenced economic policy and theoretical frameworks.",
+          "whyItMatters": "The award underscores the importance of academic research in shaping economic understanding and policy, and highlights the ongoing evolution of economic thought.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/12/trump-thinks-ukraine-needs-a-new-president-who-could-replace-zelenskyy?traffic_source=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models"
             }
           ]
         },
         {
-          "title": "Business and Economic Challenges",
-          "body": "BBC Business reports on various economic and business-related developments, including a £35bn budget challenge faced by the UK government, concerns over AI regulation, and issues related to tax evasion and consumer fraud. These developments highlight the ongoing challenges of managing economic policy and addressing financial and technological risks.",
-          "whyItMatters": "These events illustrate the multifaceted nature of economic and business challenges, emphasizing the need for effective policy-making and regulatory frameworks in a rapidly evolving global landscape.",
+          "title": "AI minister warns 'likely' UK's cyber defences will be breached",
+          "body": "A UK government minister warned that AI-driven cyber threats could compromise the country's digital infrastructure, emphasizing the need for robust cybersecurity measures and technological preparedness.",
+          "whyItMatters": "The warning reflects the growing concern over AI's role in both enhancing and endangering national security, highlighting the need for balanced technological development and regulatory oversight.",
           "sources": [
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-12T13:05:09.359Z"
+      "updatedAt": "2026-10-12T16:40:07.298Z"
     }
   }
 }
