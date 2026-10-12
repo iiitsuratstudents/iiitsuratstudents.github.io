@@ -1,61 +1,57 @@
 {
-  "generatedAt": "2026-10-12T16:40:07.298Z",
+  "generatedAt": "2026-10-12T20:40:47.768Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of geopolitical developments, including energy conflicts, cyber attacks, and international legal rulings, highlighting the complex interplay of global events.",
+      "summary": "Today's lens covers developments in international relations, conflicts, and political actions, including military actions, political campaigns, and global events.",
       "stories": [
         {
-          "title": "Ukrainian Energy Sites Hit by Russia",
-          "body": "Since Trump announced a ceasefire, six Ukrainian energy sites have been targeted by Russian forces. President Zelensky has condemned the attacks, emphasizing the critical role of energy in Ukraine's stability and security. The incident underscores the ongoing conflict and its impact on regional energy supplies.",
-          "whyItMatters": "The targeting of energy infrastructure could disrupt regional energy markets and affect economic stability in the region.",
+          "title": "Moscow maintains secrecy on Trump's energy ceasefire",
+          "body": "The BBC reports that Moscow is keeping its position on Trump's proposed energy ceasefire undisclosed, highlighting the lack of transparency in international agreements. This secrecy could affect energy trade and geopolitical stability.",
+          "whyItMatters": "The lack of transparency in international agreements may impact energy trade and geopolitical stability.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/pope-leo-continues-working-after-lung-surgery-announcement?traffic_source=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Cyber Attack on French Supermarkets",
-          "body": "French supermarkets have been hit by a cyber attack, disrupting supply chains and affecting consumer access to food. The incident highlights the growing threat of cyber warfare and the vulnerability of critical infrastructure in the global economy.",
-          "whyItMatters": "Cyber attacks on essential services can have far-reaching economic and social consequences, emphasizing the need for robust cybersecurity measures.",
+          "title": "Israeli strike in Gaza kills three",
+          "body": "Al Jazeera reports that an Israeli strike on a tent in Gaza's Khan Younis killed three people. This incident underscores the ongoing conflict in the region and the human cost of military actions.",
+          "whyItMatters": "The human cost of military actions in conflict zones highlights the need for diplomatic solutions and humanitarian considerations.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/israeli-strike-on-tent-in-gazas-khan-younis-kills-three?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Rohingya Ruling Tests OIC Commitments",
-          "body": "The International Court of Justice (ICJ) issued a ruling on the Rohingya crisis, which has tested the commitments of the Organization of Islamic Cooperation (OIC). The ruling calls for the protection of Rohingya rights, but the OIC faces challenges in implementing these promises effectively.",
-          "whyItMatters": "The ICJ's ruling highlights the ongoing conflict and the need for international cooperation to address human rights issues in the region.",
+          "title": "Elon Musk invests in Republican Party in US elections",
+          "body": "Al Jazeera reports that Elon Musk has invested $366 million in the Republican Party to bolster its position in the US midterm elections. This investment reflects the growing influence of private entities in political campaigns.",
+          "whyItMatters": "The influence of private entities in political campaigns can shape election outcomes and public policy.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/opinions/2026/10/12/the-icjs-rohingya-ruling-will-test-the-oics-promises?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-12T16:40:07.298Z"
+      "updatedAt": "2026-10-12T20:40:47.768Z"
     },
     "science": {
       "kicker": "Science & Nature",
-      "summary": "Today's lens covers natural phenomena, scientific discoveries, and global environmental issues.",
+      "summary": "Today's lens covers climate, health, and scientific discoveries, highlighting both environmental concerns and breakthroughs in research.",
       "stories": [
         {
           "title": "Storm Rachel impacts Southern California",
-          "body": "A storm named Rachel has battered Southern California, causing flooding in Las Vegas. The BBC Science reports the storm brought heavy rainfall and rising water levels, affecting local infrastructure and communities. This event highlights the increasing frequency of extreme weather events, which are becoming more common due to climate change.",
-          "whyItMatters": "Understanding extreme weather patterns is crucial for developing resilience strategies and improving disaster preparedness.",
+          "body": "A storm named Rachel has battered Southern California, causing flooding in Las Vegas. The BBC Science outlet reports the storm brought significant rainfall and rising water levels, affecting local infrastructure and communities. This event underscores the increasing frequency of extreme weather patterns in the region.",
+          "whyItMatters": "Understanding extreme weather events is crucial for developing resilience strategies and improving disaster preparedness in vulnerable areas.",
           "sources": [
             {
               "name": "BBC Science",
@@ -68,9 +64,9 @@
           ]
         },
         {
-          "title": "Vanilla's hidden healing potential",
-          "body": "Scientists have discovered that vanilla contains compounds with potential healing properties. This finding could lead to new applications in medicine and health research. The ScienceDaily report highlights the ongoing exploration of natural compounds for therapeutic uses.",
-          "whyItMatters": "Discoveries in natural compounds may lead to innovative treatments and therapies, emphasizing the importance of exploring plant-based research.",
+          "title": "Vanilla's hidden healing potential discovered",
+          "body": "Scientists have identified a new therapeutic property in vanilla, showing potential in treating various health conditions. The ScienceDaily report highlights the research findings, which could lead to new applications in medicine and natural product development.",
+          "whyItMatters": "Discoveries in natural compounds can lead to innovative treatments and therapies, emphasizing the importance of interdisciplinary research in healthcare.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -79,9 +75,9 @@
           ]
         },
         {
-          "title": "Orangutans released back into Borneo",
-          "body": "Orangutans have been released back into the wild after Borneo fires caused by human activity. The BBC Science reports that the release is a conservation effort to help restore habitats and support wildlife recovery. This event underscores the impact of environmental disasters on biodiversity and the importance of conservation efforts.",
-          "whyItMatters": "Conservation efforts are vital for preserving endangered species and maintaining ecological balance, highlighting the role of environmental stewardship.",
+          "title": "Orangutans released back into Borneo after fires",
+          "body": "Orangutans have been released back into the wild in Borneo after devastating fires caused by human activity. The BBC Science reports the release marks a critical step in conservation efforts, aiming to restore habitats and support wildlife recovery.",
+          "whyItMatters": "Wildlife conservation is vital for maintaining biodiversity and ecosystem health, especially in the face of environmental threats and human-induced disasters.",
           "sources": [
             {
               "name": "BBC Science",
@@ -95,52 +91,48 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-12T16:40:07.298Z"
+      "updatedAt": "2026-10-12T20:40:47.768Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including technological advancements, political decisions, and global events impacting the economy.",
+      "summary": "Today's lens covers a mix of economic developments, including a military incident in Gaza, a political spending move, a school violence incident, a US political event, a NATO statement, a Nobel Prize award, and various business news.",
       "stories": [
         {
-          "title": "Protests over voter lists escalate in India’s capital",
-          "body": "Protests over voter list access in India's capital, Delhi, have escalated, with demonstrators demanding greater transparency and access to electoral data. The issue has sparked public debate about electoral integrity and digital governance.",
-          "whyItMatters": "The controversy highlights tensions between technological advancement and democratic accountability, raising questions about how digital systems can be used to enhance or undermine electoral processes.",
+          "title": "Israeli Strike on Tent in Gaza Kills Three",
+          "body": "An Israeli strike on a tent in Gaza’s Khan Younis killed three people, according to Al Jazeera. The incident highlights ongoing tensions in the region, with reports of civilian casualties in conflict zones.",
+          "whyItMatters": "The incident underscores the risks of conflict and the potential for civilian casualties in volatile regions.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/gallery/2026/10/12/photos-protests-over-voter-lists-escalate-in-indias-capital?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/pope-leo-continues-working-after-lung-surgery-announcement?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/israeli-strike-on-tent-in-gazas-khan-younis-kills-three?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Nobel Prize for economics awarded to Hall and Woodford",
-          "body": "The Nobel Prize in Economics was awarded to David Hall and Kenneth Woodford for their work on economic modeling and the study of financial crises. Their research has influenced economic policy and theoretical frameworks.",
-          "whyItMatters": "The award underscores the importance of academic research in shaping economic understanding and policy, and highlights the ongoing evolution of economic thought.",
+          "title": "Elon Musk Spends $366m to Bolster Republican Party in US Midterm Elections",
+          "body": "Elon Musk has spent $366 million to support the Republican Party in the US midterm elections, reflecting the growing influence of tech billionaires in political campaigns.",
+          "whyItMatters": "The spending highlights the increasing role of private entities in shaping political outcomes, raising questions about the influence of corporate interests in elections.",
           "sources": [
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "AI minister warns 'likely' UK's cyber defences will be breached",
-          "body": "A UK government minister warned that AI-driven cyber threats could compromise the country's digital infrastructure, emphasizing the need for robust cybersecurity measures and technological preparedness.",
-          "whyItMatters": "The warning reflects the growing concern over AI's role in both enhancing and endangering national security, highlighting the need for balanced technological development and regulatory oversight.",
+          "title": "French School Shooting Leaves Two Dead",
+          "body": "A teenager shot headmaster and teacher at a French school, killing two people and injuring several others. The incident has sparked discussions about school safety and violence in France.",
+          "whyItMatters": "The incident reflects broader concerns about school safety and the potential for violence in educational institutions.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/teenager-shoots-headmaster-teacher-at-french-school?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-12T16:40:07.298Z"
+      "updatedAt": "2026-10-12T20:40:47.768Z"
     }
   }
 }
