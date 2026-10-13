@@ -1,57 +1,61 @@
 {
-  "generatedAt": "2026-10-13T16:42:31.971Z",
+  "generatedAt": "2026-10-13T20:56:11.799Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of regional conflicts, political developments, and international incidents, highlighting the complex interplay of power, security, and diplomacy.",
+      "kicker": "Global Brief",
+      "summary": "Today's lens covers a range of international developments, including legal rulings, health concerns, and geopolitical tensions.",
       "stories": [
         {
-          "title": "Fuel Shortage in Bali Sparks Protests",
-          "body": "In Bali, drivers are queuing for hours due to a severe fuel shortage, raising concerns about regional stability and economic impact. The situation reflects broader challenges in energy security and supply chains, particularly in tourist-dependent areas.",
-          "whyItMatters": "The fuel crisis in Bali could highlight vulnerabilities in regional energy infrastructure and the impact of global supply chain disruptions on local economies.",
+          "title": "Tupac Shakur Killer Sentenced to 40 Years",
+          "body": "A former gang boss was sentenced to 40 years in prison for orchestrating the murder of Tupac Shakur. The ruling came after a legal process that highlighted the complex nature of criminal justice in the United States. The case has drawn attention due to its high-profile nature and the involvement of a former gang leader.",
+          "whyItMatters": "This case underscores the complexities of criminal justice and the impact of high-profile crimes on public perception.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/drivers-queue-for-hours-in-bali-amid-fuel-shortage?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "US Poll Shows Public Concern Over Trump's Wealth Prioritization",
-          "body": "A recent poll reveals that a majority of Americans believe Donald Trump prioritizes personal wealth over public service. This reflects ongoing debates about political ethics and the role of personal interests in governance.",
-          "whyItMatters": "The poll underscores the growing public scrutiny of political figures and the importance of ethical leadership in democratic societies.",
+          "title": "Pope Diagnosed with Lung Cancer but Had Successful Surgery",
+          "body": "The Pope was diagnosed with lung cancer but underwent a successful surgery, according to the Vatican. This development highlights the ongoing challenges of health care for high-profile individuals and the importance of medical advancements in treating such conditions.",
+          "whyItMatters": "The Pope's health and treatment reflect the broader challenges of managing complex medical conditions in public figures.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/13/majority-in-us-say-trump-prioritises-personal-wealth-over-all-else-poll?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Iran Targets Military Bases as UK Spy Chief Warns of Increased Activity",
-          "body": "The UK's spy chief has warned that Iran is escalating its targeting of military bases, signaling heightened tensions in the region. This development could influence regional security strategies and military planning.",
-          "whyItMatters": "Iran's increased military targeting may affect regional security dynamics and influence the balance of power in the Middle East.",
+          "title": "Funeral for Egyptian Flight Attendant Killed in Houthi Attack",
+          "body": "A funeral was held for an Egyptian flight attendant who was killed in a Houthi attack on Riyadh. The event underscores the ongoing conflict in the region and the impact of such attacks on civilian lives. The funeral is a significant moment in the context of regional security and political tensions.",
+          "whyItMatters": "This event highlights the ongoing conflict in the region and the impact of such attacks on civilian lives.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/13/uk-spy-chief-says-iran-is-stepping-up-targeting-of-military-bases?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-13T16:42:31.971Z"
+      "updatedAt": "2026-10-13T20:56:11.799Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens highlights groundbreaking scientific discoveries and environmental developments impacting global understanding and future research.",
+      "summary": "Today's lens highlights groundbreaking scientific discoveries and ongoing research that could impact future technologies and understanding of the natural world.",
       "stories": [
         {
-          "title": "James Webb Reveals Cosmic Structure",
-          "body": "The James Webb Space Telescope has captured a massive cosmic structure that challenges current models of the universe's formation. This discovery could reshape our understanding of cosmic evolution and the distribution of matter.",
-          "whyItMatters": "This finding may lead to new theories about the universe's structure and the role of dark energy.",
+          "title": "James Webb Space Telescope Reveals Cosmic Structure",
+          "body": "The James Webb Space Telescope has captured a massive cosmic structure that challenges current models of the universe's formation. This discovery could reshape our understanding of how galaxies and cosmic web structures form.",
+          "whyItMatters": "This finding may lead to new theories about the early universe and the distribution of matter.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -64,9 +68,24 @@
           ]
         },
         {
-          "title": "Physicists Discover Light's Astonishing Property",
-          "body": "Scientists have uncovered a surprising property of light that defies previous expectations, offering potential advancements in quantum mechanics and optical technologies. This discovery could influence future research in physics and materials science.",
-          "whyItMatters": "This breakthrough may lead to new applications in photonics and quantum computing.",
+          "title": "New Insights into Brain Structure and Function",
+          "body": "Scientists have uncovered a hidden map of the brain with 539 distinct regions, providing deeper insights into how the brain processes information and supports complex cognitive functions. This research could advance neuroscience and brain-computer interface development.",
+          "whyItMatters": "Understanding brain structure may lead to breakthroughs in treating neurological disorders and enhancing human cognition.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261012185005.htm"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm"
+            }
+          ]
+        },
+        {
+          "title": "Light's Astonishing Property Discovered",
+          "body": "Physicists have discovered an astonishing property of light that defies current expectations, potentially revolutionizing fields such as optics and quantum computing. This discovery could lead to new technologies and a deeper understanding of fundamental physics.",
+          "whyItMatters": "This breakthrough may enable advancements in optical communication, materials science, and quantum technologies.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -77,74 +96,51 @@
               "url": "https://www.nature.com/articles/d41586-026-03244-3"
             }
           ]
-        },
-        {
-          "title": "Decentralized AI Needs More Energy Evidence",
-          "body": "A study highlights the energy consumption of decentralized AI systems, emphasizing the need for more data to support future AI-enabled integrity checks. This research could inform the development of more efficient and sustainable AI models.",
-          "whyItMatters": "Understanding energy use in AI systems is critical for creating more sustainable and scalable technologies.",
-          "sources": [
-            {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/d41586-026-03245-2"
-            },
-            {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/d41586-026-03246-1"
-            }
-          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-13T16:42:31.971Z"
+      "updatedAt": "2026-10-13T20:56:11.799Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including fuel shortages, AI risks, and UK economic forecasts, with a focus on global and regional impacts.",
+      "summary": "Today's lens covers a mix of economic developments, including AI risks, business news, and global health and environmental issues.",
       "stories": [
         {
-          "title": "Fuel Shortage in Bali Causes Long Queues",
-          "body": "In Bali, drivers are queuing for hours due to a severe fuel shortage, highlighting the vulnerability of local economies to supply disruptions. The situation underscores the critical role of energy security in regional development.",
-          "whyItMatters": "A fuel shortage in a major tourist destination can impact both local businesses and international travel, emphasizing the need for sustainable energy solutions.",
+          "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
+          "body": "British multinational Bumble has been acquired by a Chinese company for £1.3 billion, marking a strategic investment in the future of human relationships. The deal is seen as a bet on the evolving landscape of digital communication and social interaction.",
+          "whyItMatters": "This acquisition highlights the growing influence of tech companies in shaping societal norms and future trends.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/drivers-queue-for-hours-in-bali-amid-fuel-shortage?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/13/uk-spy-chief-says-iran-is-stepping-up-targeting-of-military-bases?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "IMF Warns of AI Share Crash Risk",
-          "body": "The International Monetary Fund (IMF) warns that a potential AI share crash could destabilize global financial systems, raising concerns about the future of technology-driven economies. This highlights the growing interdependence of financial and technological sectors.",
-          "whyItMatters": "The risk of an AI share crash could affect global trade and investment, prompting policy responses to ensure financial stability.",
+          "title": "Scientists urge tighter AI controls to prevent global cyber risks",
+          "body": "A group of scientists has called for stricter regulations on artificial intelligence to mitigate potential global cyber risks. The concern is that unchecked AI development could lead to unintended consequences, including data breaches and economic disruptions.",
+          "whyItMatters": "The need for responsible AI governance is increasingly recognized as a critical issue in the global technological landscape.",
           "sources": [
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/10/13/scientists-urge-tighter-ai-controls-to-prevent-global-cyber-risks?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "UK Economic Growth Forecast Upgraded but Energy Prices Remain a Concern",
-          "body": "The UK's economic growth forecast has been upgraded, but higher energy prices are expected to continue affecting the economy next year. This reflects the ongoing challenge of balancing economic expansion with rising input costs.",
-          "whyItMatters": "Economic forecasts are crucial for policy-making, and the UK's situation highlights the impact of external factors like energy prices on national economic planning.",
+          "title": "UK growth forecast upgraded but higher energy prices to hit economy next year",
+          "body": "The UK's economic growth forecast has been upgraded, but experts warn that higher energy prices could negatively impact the economy in the coming year. This highlights the ongoing challenges of balancing economic expansion with rising costs.",
+          "whyItMatters": "Economic forecasts and their implications for policy and consumer behavior are crucial for informed decision-making.",
           "sources": [
             {
               "name": "BBC Business",
               "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-13T16:42:31.971Z"
+      "updatedAt": "2026-10-13T20:56:11.799Z"
     }
   }
 }
