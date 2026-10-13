@@ -1,124 +1,144 @@
 {
-  "generatedAt": "2026-10-13T08:44:06.241Z",
+  "generatedAt": "2026-10-13T12:53:33.643Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of regional conflicts, energy issues, and international security developments, highlighting the complex interplay of politics, security, and economic factors.",
+      "summary": "Today's lens covers ongoing conflicts, international sports, environmental events, and social issues affecting global students.",
       "stories": [
         {
-          "title": "Brazilian football star Ronaldo scores in Saudi victory",
-          "body": "Brazilian football star Ronaldo scored a goal in a match involving Saudi Arabia's Al-Nassr, marking a significant moment in the game. The victory was celebrated as a symbol of cultural and sporting exchange, with the Saudi team wearing traditional attire. The match was delayed due to security concerns, adding to the tension of the event.",
-          "whyItMatters": "This event highlights the growing cultural and sporting ties between different nations, and the impact of security concerns on international sports events.",
+          "title": "African Union Confronts Conflict in Democratic Republic of Congo",
+          "body": "The African Union is holding urgent talks in Kigali, Rwanda, to address continued violence in the eastern Democratic Republic of Congo. The conflict has led to humanitarian crises, with reports of civilian casualties and displacement. The talks aim to coordinate peace efforts and humanitarian aid distribution.",
+          "whyItMatters": "The situation in DRC highlights the complex challenges of regional conflicts and the importance of international cooperation in crisis response.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/13/ronaldo-scores-waves-saudi-scarf-in-al-nassrs-win-after-security-delay?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Energy crisis in Africa and 560 million without power",
-          "body": "A report highlights the ongoing energy crisis in Africa, where 560 million people remain without reliable electricity. The issue is compounded by the region's reliance on fossil fuels and the impact of climate change. The report emphasizes the need for sustainable energy solutions to address the growing energy deficit.",
-          "whyItMatters": "The energy crisis in Africa underscores the importance of sustainable development and the need for equitable access to energy resources.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/13/mapping-africas-energy-wealth-and-560-million-who-remain-without-power?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Drone attack sinks ship off Bulgaria's Black Sea coast",
-          "body": "A drone attack resulted in the sinking of a ship off Bulgaria's Black Sea coast, with the Prime Minister expressing concern over the incident. The attack raises questions about maritime security and the potential for similar incidents in the region.",
-          "whyItMatters": "This incident highlights the ongoing risks to maritime security and the need for improved safety measures in critical infrastructure.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/13/drone-attack-sinks-ship-off-bulgarias-black-sea-coast-pm-says?traffic_source=rss"
-            }
-          ]
-        }
-      ],
-      "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-13T08:44:06.241Z"
-    },
-    "science": {
-      "kicker": "Science & Nature",
-      "summary": "Today's lens covers scientific discoveries, environmental events, and academic insights impacting students and researchers.",
-      "stories": [
-        {
-          "title": "Crew Searches for Amelia Earhart",
-          "body": "A search team has arrived at a crab-infested island in the Pacific, seeking the legendary pilot Amelia Earhart. The location is part of a broader effort to locate her aircraft, which went missing in 1937. The search is being conducted by the BBC Science team, highlighting the ongoing efforts to uncover historical mysteries.",
-          "whyItMatters": "The search for historical figures like Amelia Earhart underscores the importance of preserving and understanding our shared human history.",
-          "sources": [
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c6pvgryp8yv0o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Storm Rachel and Flooding in Southern California",
-          "body": "A severe storm, named Rachel, has battered Southern California, causing widespread flooding in Las Vegas. The BBC Science team reports the impact of extreme weather on vulnerable communities, emphasizing the need for climate resilience and disaster preparedness.",
-          "whyItMatters": "Extreme weather events highlight the growing challenges of climate change and the importance of adaptive strategies for vulnerable regions.",
-          "sources": [
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/videos/cmj47n488v47o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Vanilla's Hidden Healing Potential",
-          "body": "Scientists have discovered that vanilla contains compounds with potential healing properties, opening new avenues in pharmaceutical research. This finding comes from a study published by ScienceDaily, showcasing the ongoing exploration of natural compounds for medical applications.",
-          "whyItMatters": "Discoveries in natural compounds can lead to innovative treatments and highlight the value of interdisciplinary research in medicine.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261011211550.htm"
-            }
-          ]
-        }
-      ],
-      "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-13T08:44:06.241Z"
-    },
-    "economy": {
-      "kicker": "Economic",
-      "summary": "The lens covers a mix of economic news, including UK growth forecasts, energy prices, and global economic trends.",
-      "stories": [
-        {
-          "title": "Ronaldo scores, waves Saudi scarf in Al-Nassr’s win after security delay",
-          "body": "Brazilian footballer Ronaldo scored in a match against Al-Nassr, with the victory coming after a security delay. The event highlights the ongoing tensions in the region, as the match took place in Saudi Arabia.",
-          "whyItMatters": "The event underscores the complex interplay between sports and geopolitical dynamics in the region.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/13/ronaldo-scores-waves-saudi-scarf-in-al-nassrs-win-after-security-delay?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/13/african-union-holds-kigali-talks-as-fighting-continues-in-eastern-drc?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/emir-of-qatar-reiterates-the-need-for-safety-and-stability-in-the-region?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/13/yemens-families-search-for-missing-loved-ones-hindered-by-new-fighting?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
-          "body": "The UK's economic growth forecast has been upgraded, but energy prices and rates are expected to rise in 2027. This highlights the ongoing challenges in the energy sector and the impact of global economic trends on local markets.",
-          "whyItMatters": "The forecast underscores the vulnerability of the UK's energy sector and the potential impact of global economic shifts on local markets.",
+          "title": "Australia Claims First Test Victory in Durban",
+          "body": "Australia defeated South Africa in their first Test match in Durban, marking a significant win for the national team. The victory comes amid heightened tensions in the region, with the match serving as a testament to athletic prowess and competitive spirit.",
+          "whyItMatters": "The sports event underscores the global nature of international competitions and the role of sports in fostering international relations.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/10/13/australia-bowl-out-south-africa-to-win-first-test-in-durban?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
-          "body": "Economists Michael Woodford and Robert Hall have been awarded the Nobel Prize for Economics for their work on 'smoothing' crises. Their research has provided new insights into economic policy and crisis management.",
-          "whyItMatters": "The award highlights the importance of economic research in shaping policy and understanding economic challenges.",
+          "title": "Russia's Offensive Strategy Fails as Kyiv's General Speaks Out",
+          "body": "A former top general in Ukraine has criticized Russia's military capabilities, stating that its offensive strategy is ineffective. The statement comes as the conflict continues, with both sides facing significant challenges in achieving their strategic goals.",
+          "whyItMatters": "The ongoing conflict in Ukraine reflects the broader geopolitical tensions and the impact of military strategies on regional stability.",
+          "sources": [
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "mode": "GitHub Action · local Qwen",
+      "updatedAt": "2026-10-13T12:53:33.643Z"
+    },
+    "science": {
+      "kicker": "Science & Technology",
+      "summary": "Today's lens highlights groundbreaking scientific discoveries, climate-related events, and cultural insights.",
+      "stories": [
+        {
+          "title": "James Webb Space Telescope Reveals Cosmic Structure",
+          "body": "The James Webb Space Telescope has uncovered a massive cosmic structure that challenges current models of the universe's formation. This discovery could reshape our understanding of how galaxies and cosmic web structures develop.",
+          "whyItMatters": "This finding may lead to new theories about the early universe and the distribution of matter.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm"
+            }
+          ]
+        },
+        {
+          "title": "Super El Niño Sets New Record",
+          "body": "A super El Niño event is strengthening to unprecedented levels, potentially affecting global weather patterns and ocean currents. This phenomenon could have significant implications for climate modeling and weather forecasting.",
+          "whyItMatters": "Understanding super El Niño events is crucial for improving climate predictions and disaster preparedness.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm"
+            }
+          ]
+        },
+        {
+          "title": "Scientists Uncover Hidden Brain Map",
+          "body": "Researchers have identified a hidden map of the brain with 539 distinct regions, offering new insights into brain function and potential applications in neuroscience and medicine.",
+          "whyItMatters": "This discovery could advance our understanding of brain development and aid in the treatment of neurological disorders.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261012185005.htm"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm"
+            }
+          ]
+        }
+      ],
+      "mode": "GitHub Action · local Qwen",
+      "updatedAt": "2026-10-13T12:53:33.643Z"
+    },
+    "economy": {
+      "kicker": "Economic",
+      "summary": "The lens covers a mix of economic developments, including financial market updates, geopolitical tensions, and social issues impacting different regions.",
+      "stories": [
+        {
+          "title": "JPMorgan Misses Profit Expectations",
+          "body": "JPMorgan Chase missed profit expectations as the bank boss warned of 'large fiscal deficits' and 'sticky inflation', highlighting concerns about economic stability and fiscal policy.",
+          "whyItMatters": "The economic outlook for the UK and other major economies is under pressure due to rising inflation and fiscal challenges.",
+          "sources": [
+            {
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/live/2026/oct/13/imf-uk-economy-growth-boost-chancellor-john-healey-oil-prices-inflation-business-live-news"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Australia Wins First Test in Durban",
+          "body": "Australia defeated South Africa in their first Test match in Durban, marking a significant victory in the cricket season, and showcasing the competitive nature of international sports.",
+          "whyItMatters": "This victory highlights the ongoing global sports competition and the role of international events in shaping public opinion and economic activity.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/10/13/australia-bowl-out-south-africa-to-win-first-test-in-durban?traffic_source=rss"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Nobel Prize for Economics Awarded to Hall and Woodford",
+          "body": "The Nobel Prize in Economics was awarded to David Hall and Kenneth Woodford for their work on 'smoothing' crises and new keynesian models, contributing to economic theory and policy analysis.",
+          "whyItMatters": "This recognition underscores the importance of academic research in shaping economic policy and understanding global economic trends.",
           "sources": [
             {
               "name": "The Guardian Business",
@@ -128,7 +148,7 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-13T08:44:06.241Z"
+      "updatedAt": "2026-10-13T12:53:33.643Z"
     }
   }
 }
