@@ -1,48 +1,48 @@
 {
-  "generatedAt": "2026-10-13T04:43:14.971Z",
+  "generatedAt": "2026-10-13T08:44:06.241Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers geopolitical tensions, natural disasters, and regional conflicts, highlighting the interplay of international relations, climate impacts, and local crises.",
+      "summary": "Today's lens covers a mix of regional conflicts, energy issues, and international security developments, highlighting the complex interplay of politics, security, and economic factors.",
       "stories": [
         {
-          "title": "Saudi Minister Vows 'Serious Response' to Houthi Attacks",
-          "body": "Saudi Arabia's minister has pledged a 'serious response' to attacks by the Houthi separatists on its airports, marking a shift in the ongoing conflict in Yemen. The statement comes as the international community continues to monitor the situation in the region.",
-          "whyItMatters": "The escalation of hostilities in Yemen could impact regional stability and humanitarian efforts.",
-          "sources": [
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Hurricane Simon and Tropical Storm Rachel Kill Five in Mexico",
-          "body": "Hurricane Simon and Tropical Storm Rachel caused significant damage and loss of life in Mexico's Pacific coast. The storms highlighted the increasing frequency of extreme weather events, which pose a growing threat to coastal communities.",
-          "whyItMatters": "The impact of climate-related disasters underscores the need for improved disaster preparedness and resilience in vulnerable regions.",
-          "sources": [
-            {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast"
-            }
-          ]
-        },
-        {
-          "title": "Ronaldo Wears Saudi-Flag Scarf After Match Interruption",
-          "body": "Brazilian football star Ronaldo wore a Saudi-flag scarf during a match interrupted by a missile alert, drawing attention to the geopolitical tensions between Saudi Arabia and the Houthi rebels in Yemen. The incident reflects the broader impact of conflict on global sports and public discourse.",
-          "whyItMatters": "The intersection of sports and geopolitics highlights the role of international figures in reflecting and shaping global narratives.",
+          "title": "Brazilian football star Ronaldo scores in Saudi victory",
+          "body": "Brazilian football star Ronaldo scored a goal in a match involving Saudi Arabia's Al-Nassr, marking a significant moment in the game. The victory was celebrated as a symbol of cultural and sporting exchange, with the Saudi team wearing traditional attire. The match was delayed due to security concerns, adding to the tension of the event.",
+          "whyItMatters": "This event highlights the growing cultural and sporting ties between different nations, and the impact of security concerns on international sports events.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-clip-ronaldowears-saudi-shawl-ksa?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/10/13/ronaldo-scores-waves-saudi-scarf-in-al-nassrs-win-after-security-delay?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Energy crisis in Africa and 560 million without power",
+          "body": "A report highlights the ongoing energy crisis in Africa, where 560 million people remain without reliable electricity. The issue is compounded by the region's reliance on fossil fuels and the impact of climate change. The report emphasizes the need for sustainable energy solutions to address the growing energy deficit.",
+          "whyItMatters": "The energy crisis in Africa underscores the importance of sustainable development and the need for equitable access to energy resources.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/13/mapping-africas-energy-wealth-and-560-million-who-remain-without-power?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Drone attack sinks ship off Bulgaria's Black Sea coast",
+          "body": "A drone attack resulted in the sinking of a ship off Bulgaria's Black Sea coast, with the Prime Minister expressing concern over the incident. The attack raises questions about maritime security and the potential for similar incidents in the region.",
+          "whyItMatters": "This incident highlights the ongoing risks to maritime security and the need for improved safety measures in critical infrastructure.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/13/drone-attack-sinks-ship-off-bulgarias-black-sea-coast-pm-says?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-13T04:43:14.971Z"
+      "updatedAt": "2026-10-13T08:44:06.241Z"
     },
     "science": {
       "kicker": "Science & Nature",
@@ -50,8 +50,8 @@
       "stories": [
         {
           "title": "Crew Searches for Amelia Earhart",
-          "body": "A search team has arrived at a crab-infested island in the Pacific, seeking the legendary pilot Amelia Earhart. The location is part of a broader effort to locate her aircraft, which went missing in 1937. The search is ongoing, with experts analyzing the island's unique environment and potential clues.",
-          "whyItMatters": "The search for Earhart highlights the enduring fascination with historical figures and the importance of preserving scientific and cultural heritage.",
+          "body": "A search team has arrived at a crab-infested island in the Pacific, seeking the legendary pilot Amelia Earhart. The location is part of a broader effort to locate her aircraft, which went missing in 1937. The search is being conducted by the BBC Science team, highlighting the ongoing efforts to uncover historical mysteries.",
+          "whyItMatters": "The search for historical figures like Amelia Earhart underscores the importance of preserving and understanding our shared human history.",
           "sources": [
             {
               "name": "BBC Science",
@@ -60,9 +60,9 @@
           ]
         },
         {
-          "title": "Storm Rachel Causes Flooding in Southern California",
-          "body": "A severe storm, named Rachel, has battered Southern California, leading to significant flooding in Las Vegas. The storm has caused widespread damage, with authorities warning of potential further impacts as the weather system continues to move across the region.",
-          "whyItMatters": "The storm underscores the increasing frequency and intensity of extreme weather events, which are becoming more common due to climate change.",
+          "title": "Storm Rachel and Flooding in Southern California",
+          "body": "A severe storm, named Rachel, has battered Southern California, causing widespread flooding in Las Vegas. The BBC Science team reports the impact of extreme weather on vulnerable communities, emphasizing the need for climate resilience and disaster preparedness.",
+          "whyItMatters": "Extreme weather events highlight the growing challenges of climate change and the importance of adaptive strategies for vulnerable regions.",
           "sources": [
             {
               "name": "BBC Science",
@@ -72,8 +72,8 @@
         },
         {
           "title": "Vanilla's Hidden Healing Potential",
-          "body": "Scientists have discovered that vanilla contains compounds with potential healing properties, offering new insights into its use in medicine. The research highlights the ongoing exploration of natural substances for therapeutic applications.",
-          "whyItMatters": "This discovery could lead to new treatments and applications for various health conditions, emphasizing the value of natural compounds in modern medicine.",
+          "body": "Scientists have discovered that vanilla contains compounds with potential healing properties, opening new avenues in pharmaceutical research. This finding comes from a study published by ScienceDaily, showcasing the ongoing exploration of natural compounds for medical applications.",
+          "whyItMatters": "Discoveries in natural compounds can lead to innovative treatments and highlight the value of interdisciplinary research in medicine.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -83,31 +83,31 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-13T04:43:14.971Z"
+      "updatedAt": "2026-10-13T08:44:06.241Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The economic landscape is shaped by geopolitical tensions, technological shifts, and domestic policy challenges, with key developments in energy, cyberattacks, and labor markets.",
+      "summary": "The lens covers a mix of economic news, including UK growth forecasts, energy prices, and global economic trends.",
       "stories": [
         {
-          "title": "Cyberattack on French Supermarkets",
-          "body": "A cyberattack on French supermarkets caused fires and millions in losses, highlighting the growing risks of digital vulnerabilities in critical infrastructure.",
-          "whyItMatters": "The incident underscores the importance of cybersecurity in protecting both consumer data and physical assets.",
+          "title": "Ronaldo scores, waves Saudi scarf in Al-Nassr’s win after security delay",
+          "body": "Brazilian footballer Ronaldo scored in a match against Al-Nassr, with the victory coming after a security delay. The event highlights the ongoing tensions in the region, as the match took place in Saudi Arabia.",
+          "whyItMatters": "The event underscores the complex interplay between sports and geopolitical dynamics in the region.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/10/13/ronaldo-scores-waves-saudi-scarf-in-al-nassrs-win-after-security-delay?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/emir-of-qatar-reiterates-the-need-for-safety-and-stability-in-the-region?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "UK Growth Upgraded but Energy Prices to Bite in 2027",
-          "body": "The UK's economic growth was upgraded, but rising energy prices and rates are expected to pose challenges for consumers and businesses in 2027.",
-          "whyItMatters": "The forecast highlights the ongoing impact of energy costs on economic stability and consumer spending.",
+          "title": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
+          "body": "The UK's economic growth forecast has been upgraded, but energy prices and rates are expected to rise in 2027. This highlights the ongoing challenges in the energy sector and the impact of global economic trends on local markets.",
+          "whyItMatters": "The forecast underscores the vulnerability of the UK's energy sector and the potential impact of global economic shifts on local markets.",
           "sources": [
             {
               "name": "BBC Business",
@@ -116,9 +116,9 @@
           ]
         },
         {
-          "title": "Nobel Prize for Economics: Hall and Woodford",
-          "body": "The Nobel Prize in Economics was awarded to David Hall and Kenneth Woodford for their work on economic modeling and crisis management.",
-          "whyItMatters": "The recognition of their contributions reflects the evolving nature of economic theory and its relevance to global challenges.",
+          "title": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
+          "body": "Economists Michael Woodford and Robert Hall have been awarded the Nobel Prize for Economics for their work on 'smoothing' crises. Their research has provided new insights into economic policy and crisis management.",
+          "whyItMatters": "The award highlights the importance of economic research in shaping policy and understanding economic challenges.",
           "sources": [
             {
               "name": "The Guardian Business",
@@ -128,7 +128,7 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-13T04:43:14.971Z"
+      "updatedAt": "2026-10-13T08:44:06.241Z"
     }
   }
 }
