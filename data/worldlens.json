@@ -1,138 +1,138 @@
 {
-  "generatedAt": "2026-10-12T20:40:47.768Z",
+  "generatedAt": "2026-10-13T00:52:41.504Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers developments in international relations, conflicts, and political actions, including military actions, political campaigns, and global events.",
+      "kicker": "Global Brief",
+      "summary": "Today's lens covers a mix of international news, including a death, a war situation, a hurricane, and political issues, all from a global perspective.",
       "stories": [
         {
-          "title": "Moscow maintains secrecy on Trump's energy ceasefire",
-          "body": "The BBC reports that Moscow is keeping its position on Trump's proposed energy ceasefire undisclosed, highlighting the lack of transparency in international agreements. This secrecy could affect energy trade and geopolitical stability.",
-          "whyItMatters": "The lack of transparency in international agreements may impact energy trade and geopolitical stability.",
+          "title": "RJ Mitte Passes Away",
+          "body": "British actor RJ Mitte, known for his role in 'Breaking Bad,' passed away at the age of 34. The death was reported by the BBC World service, highlighting the impact of his work on television.",
+          "whyItMatters": "The passing of a prominent actor can influence cultural and media landscapes, affecting public perception and industry trends.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Israeli strike in Gaza kills three",
-          "body": "Al Jazeera reports that an Israeli strike on a tent in Gaza's Khan Younis killed three people. This incident underscores the ongoing conflict in the region and the human cost of military actions.",
-          "whyItMatters": "The human cost of military actions in conflict zones highlights the need for diplomatic solutions and humanitarian considerations.",
+          "title": "Houthi Missiles Target Riyadh",
+          "body": "Al Jazeera reported that Houthi militants launched a missile attack targeting Riyadh, the capital of Saudi Arabia, for the third consecutive day. The attack comes amid ongoing tensions in the region, with Saudi Arabia and its allies responding with increased military presence.",
+          "whyItMatters": "The escalation of conflict in the region could impact regional stability and international relations, particularly in the context of the broader Middle East conflict.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/israeli-strike-on-tent-in-gazas-khan-younis-kills-three?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Elon Musk invests in Republican Party in US elections",
-          "body": "Al Jazeera reports that Elon Musk has invested $366 million in the Republican Party to bolster its position in the US midterm elections. This investment reflects the growing influence of private entities in political campaigns.",
-          "whyItMatters": "The influence of private entities in political campaigns can shape election outcomes and public policy.",
+          "title": "Hurricane Simon and Storm Rachel Impact Mexico",
+          "body": "Al Jazeera reported that Hurricane Simon and Storm Rachel devastated parts of Mexico's coast, resulting in two deaths. The storm surge and heavy rainfall caused significant damage to infrastructure and disrupted daily life in affected areas.",
+          "whyItMatters": "Natural disasters can have severe consequences for local communities, highlighting the importance of disaster preparedness and humanitarian response efforts.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-12T20:40:47.768Z"
+      "updatedAt": "2026-10-13T00:52:41.504Z"
     },
     "science": {
       "kicker": "Science & Nature",
-      "summary": "Today's lens covers climate, health, and scientific discoveries, highlighting both environmental concerns and breakthroughs in research.",
+      "summary": "Today's lens covers scientific discoveries, environmental events, and research updates from around the world.",
       "stories": [
         {
-          "title": "Storm Rachel impacts Southern California",
-          "body": "A storm named Rachel has battered Southern California, causing flooding in Las Vegas. The BBC Science outlet reports the storm brought significant rainfall and rising water levels, affecting local infrastructure and communities. This event underscores the increasing frequency of extreme weather patterns in the region.",
-          "whyItMatters": "Understanding extreme weather events is crucial for developing resilience strategies and improving disaster preparedness in vulnerable areas.",
+          "title": "Crew Searches for Amelia Earhart",
+          "body": "A search team has arrived at a crab-infested island in the Pacific, seeking the legendary aviator Amelia Earhart. The location is part of a broader effort to locate her aircraft, which went missing in 1937. The search is ongoing, with experts analyzing the island's unique environment and potential clues.",
+          "whyItMatters": "The search for Earhart highlights the enduring fascination with historical aviation and the importance of preserving historical artifacts.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/videos/cmj47n488v47o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cm4g1pqyqzqwo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c6pvgryp8yv0o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Vanilla's hidden healing potential discovered",
-          "body": "Scientists have identified a new therapeutic property in vanilla, showing potential in treating various health conditions. The ScienceDaily report highlights the research findings, which could lead to new applications in medicine and natural product development.",
-          "whyItMatters": "Discoveries in natural compounds can lead to innovative treatments and therapies, emphasizing the importance of interdisciplinary research in healthcare.",
+          "title": "Storm Rachel and Flooding in Southern California",
+          "body": "A severe storm, named Rachel, has battered Southern California, causing widespread flooding in Las Vegas. The storm has led to power outages, damaged infrastructure, and disrupted daily life in the region. Emergency services are coordinating relief efforts.",
+          "whyItMatters": "The impact of extreme weather events underscores the need for improved disaster preparedness and infrastructure resilience.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/videos/cmj47n488v47o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Vanilla's Hidden Healing Potential",
+          "body": "Scientists have discovered that vanilla extract possesses potential healing properties, which could lead to new applications in medicine. The research was conducted using advanced microscopy and AI analysis, revealing how vanilla compounds interact with biological systems.",
+          "whyItMatters": "This discovery could open new avenues for natural remedies and pharmaceutical development.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/10/261011211550.htm"
             }
           ]
-        },
-        {
-          "title": "Orangutans released back into Borneo after fires",
-          "body": "Orangutans have been released back into the wild in Borneo after devastating fires caused by human activity. The BBC Science reports the release marks a critical step in conservation efforts, aiming to restore habitats and support wildlife recovery.",
-          "whyItMatters": "Wildlife conservation is vital for maintaining biodiversity and ecosystem health, especially in the face of environmental threats and human-induced disasters.",
-          "sources": [
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-12T20:40:47.768Z"
+      "updatedAt": "2026-10-13T00:52:41.504Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including a military incident in Gaza, a political spending move, a school violence incident, a US political event, a NATO statement, a Nobel Prize award, and various business news.",
+      "summary": "Today's lens covers economic developments, including a Nobel Prize for economics, a cyber attack on French supermarkets, and a budget challenge in the UK.",
       "stories": [
         {
-          "title": "Israeli Strike on Tent in Gaza Kills Three",
-          "body": "An Israeli strike on a tent in Gaza’s Khan Younis killed three people, according to Al Jazeera. The incident highlights ongoing tensions in the region, with reports of civilian casualties in conflict zones.",
-          "whyItMatters": "The incident underscores the risks of conflict and the potential for civilian casualties in volatile regions.",
+          "title": "Nobel Prize for Economics Awarded to Hall and Woodford",
+          "body": "The Nobel Prize in Economics was awarded to David Hall and Kenneth Woodford for their work on 'smoothing' crises. Their research focuses on how economies can manage financial instability through policy interventions, offering insights into economic resilience and policy design.",
+          "whyItMatters": "This recognition highlights the importance of academic research in shaping economic policy and understanding financial systems.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/israeli-strike-on-tent-in-gazas-khan-younis-kills-three?traffic_source=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models"
             }
           ]
         },
         {
-          "title": "Elon Musk Spends $366m to Bolster Republican Party in US Midterm Elections",
-          "body": "Elon Musk has spent $366 million to support the Republican Party in the US midterm elections, reflecting the growing influence of tech billionaires in political campaigns.",
-          "whyItMatters": "The spending highlights the increasing role of private entities in shaping political outcomes, raising questions about the influence of corporate interests in elections.",
+          "title": "French Supermarkets Hit by Cyber Attack",
+          "body": "French supermarket fridges were targeted by a cyber attack, causing disruptions in supply chains and raising concerns about the security of critical infrastructure. The incident underscores the growing risks of cyber threats to essential services.",
+          "whyItMatters": "This highlights the need for robust cybersecurity measures in critical infrastructure to prevent disruptions in daily life.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "French School Shooting Leaves Two Dead",
-          "body": "A teenager shot headmaster and teacher at a French school, killing two people and injuring several others. The incident has sparked discussions about school safety and violence in France.",
-          "whyItMatters": "The incident reflects broader concerns about school safety and the potential for violence in educational institutions.",
+          "title": "UK Budget Challenge Faces £35bn Debt",
+          "body": "The UK government faces a £35 billion budget deficit as it struggles to meet spending pledges. Experts warn that this could lead to increased borrowing and potential economic instability if not managed effectively.",
+          "whyItMatters": "This highlights the challenges of balancing fiscal responsibility and public spending in times of economic uncertainty.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/teenager-shoots-headmaster-teacher-at-french-school?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-12T20:40:47.768Z"
+      "updatedAt": "2026-10-13T00:52:41.504Z"
     }
   }
 }
