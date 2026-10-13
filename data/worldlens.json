@@ -1,32 +1,17 @@
 {
-  "generatedAt": "2026-10-13T00:52:41.504Z",
+  "generatedAt": "2026-10-13T04:43:14.971Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of international news, including a death, a war situation, a hurricane, and political issues, all from a global perspective.",
+      "summary": "Today's lens covers geopolitical tensions, natural disasters, and regional conflicts, highlighting the interplay of international relations, climate impacts, and local crises.",
       "stories": [
         {
-          "title": "RJ Mitte Passes Away",
-          "body": "British actor RJ Mitte, known for his role in 'Breaking Bad,' passed away at the age of 34. The death was reported by the BBC World service, highlighting the impact of his work on television.",
-          "whyItMatters": "The passing of a prominent actor can influence cultural and media landscapes, affecting public perception and industry trends.",
+          "title": "Saudi Minister Vows 'Serious Response' to Houthi Attacks",
+          "body": "Saudi Arabia's minister has pledged a 'serious response' to attacks by the Houthi separatists on its airports, marking a shift in the ongoing conflict in Yemen. The statement comes as the international community continues to monitor the situation in the region.",
+          "whyItMatters": "The escalation of hostilities in Yemen could impact regional stability and humanitarian efforts.",
           "sources": [
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Houthi Missiles Target Riyadh",
-          "body": "Al Jazeera reported that Houthi militants launched a missile attack targeting Riyadh, the capital of Saudi Arabia, for the third consecutive day. The attack comes amid ongoing tensions in the region, with Saudi Arabia and its allies responding with increased military presence.",
-          "whyItMatters": "The escalation of conflict in the region could impact regional stability and international relations, particularly in the context of the broader Middle East conflict.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss"
-            },
             {
               "name": "BBC World",
               "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss"
@@ -34,32 +19,39 @@
           ]
         },
         {
-          "title": "Hurricane Simon and Storm Rachel Impact Mexico",
-          "body": "Al Jazeera reported that Hurricane Simon and Storm Rachel devastated parts of Mexico's coast, resulting in two deaths. The storm surge and heavy rainfall caused significant damage to infrastructure and disrupted daily life in affected areas.",
-          "whyItMatters": "Natural disasters can have severe consequences for local communities, highlighting the importance of disaster preparedness and humanitarian response efforts.",
+          "title": "Hurricane Simon and Tropical Storm Rachel Kill Five in Mexico",
+          "body": "Hurricane Simon and Tropical Storm Rachel caused significant damage and loss of life in Mexico's Pacific coast. The storms highlighted the increasing frequency of extreme weather events, which pose a growing threat to coastal communities.",
+          "whyItMatters": "The impact of climate-related disasters underscores the need for improved disaster preparedness and resilience in vulnerable regions.",
+          "sources": [
+            {
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast"
+            }
+          ]
+        },
+        {
+          "title": "Ronaldo Wears Saudi-Flag Scarf After Match Interruption",
+          "body": "Brazilian football star Ronaldo wore a Saudi-flag scarf during a match interrupted by a missile alert, drawing attention to the geopolitical tensions between Saudi Arabia and the Houthi rebels in Yemen. The incident reflects the broader impact of conflict on global sports and public discourse.",
+          "whyItMatters": "The intersection of sports and geopolitics highlights the role of international figures in reflecting and shaping global narratives.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss"
-            },
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-clip-ronaldowears-saudi-shawl-ksa?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-13T00:52:41.504Z"
+      "updatedAt": "2026-10-13T04:43:14.971Z"
     },
     "science": {
       "kicker": "Science & Nature",
-      "summary": "Today's lens covers scientific discoveries, environmental events, and research updates from around the world.",
+      "summary": "Today's lens covers scientific discoveries, environmental events, and academic insights impacting students and researchers.",
       "stories": [
         {
           "title": "Crew Searches for Amelia Earhart",
-          "body": "A search team has arrived at a crab-infested island in the Pacific, seeking the legendary aviator Amelia Earhart. The location is part of a broader effort to locate her aircraft, which went missing in 1937. The search is ongoing, with experts analyzing the island's unique environment and potential clues.",
-          "whyItMatters": "The search for Earhart highlights the enduring fascination with historical aviation and the importance of preserving historical artifacts.",
+          "body": "A search team has arrived at a crab-infested island in the Pacific, seeking the legendary pilot Amelia Earhart. The location is part of a broader effort to locate her aircraft, which went missing in 1937. The search is ongoing, with experts analyzing the island's unique environment and potential clues.",
+          "whyItMatters": "The search for Earhart highlights the enduring fascination with historical figures and the importance of preserving scientific and cultural heritage.",
           "sources": [
             {
               "name": "BBC Science",
@@ -68,9 +60,9 @@
           ]
         },
         {
-          "title": "Storm Rachel and Flooding in Southern California",
-          "body": "A severe storm, named Rachel, has battered Southern California, causing widespread flooding in Las Vegas. The storm has led to power outages, damaged infrastructure, and disrupted daily life in the region. Emergency services are coordinating relief efforts.",
-          "whyItMatters": "The impact of extreme weather events underscores the need for improved disaster preparedness and infrastructure resilience.",
+          "title": "Storm Rachel Causes Flooding in Southern California",
+          "body": "A severe storm, named Rachel, has battered Southern California, leading to significant flooding in Las Vegas. The storm has caused widespread damage, with authorities warning of potential further impacts as the weather system continues to move across the region.",
+          "whyItMatters": "The storm underscores the increasing frequency and intensity of extreme weather events, which are becoming more common due to climate change.",
           "sources": [
             {
               "name": "BBC Science",
@@ -80,8 +72,8 @@
         },
         {
           "title": "Vanilla's Hidden Healing Potential",
-          "body": "Scientists have discovered that vanilla extract possesses potential healing properties, which could lead to new applications in medicine. The research was conducted using advanced microscopy and AI analysis, revealing how vanilla compounds interact with biological systems.",
-          "whyItMatters": "This discovery could open new avenues for natural remedies and pharmaceutical development.",
+          "body": "Scientists have discovered that vanilla contains compounds with potential healing properties, offering new insights into its use in medicine. The research highlights the ongoing exploration of natural substances for therapeutic applications.",
+          "whyItMatters": "This discovery could lead to new treatments and applications for various health conditions, emphasizing the value of natural compounds in modern medicine.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -91,48 +83,52 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-13T00:52:41.504Z"
+      "updatedAt": "2026-10-13T04:43:14.971Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including a Nobel Prize for economics, a cyber attack on French supermarkets, and a budget challenge in the UK.",
+      "summary": "The economic landscape is shaped by geopolitical tensions, technological shifts, and domestic policy challenges, with key developments in energy, cyberattacks, and labor markets.",
       "stories": [
         {
-          "title": "Nobel Prize for Economics Awarded to Hall and Woodford",
-          "body": "The Nobel Prize in Economics was awarded to David Hall and Kenneth Woodford for their work on 'smoothing' crises. Their research focuses on how economies can manage financial instability through policy interventions, offering insights into economic resilience and policy design.",
-          "whyItMatters": "This recognition highlights the importance of academic research in shaping economic policy and understanding financial systems.",
+          "title": "Cyberattack on French Supermarkets",
+          "body": "A cyberattack on French supermarkets caused fires and millions in losses, highlighting the growing risks of digital vulnerabilities in critical infrastructure.",
+          "whyItMatters": "The incident underscores the importance of cybersecurity in protecting both consumer data and physical assets.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "UK Growth Upgraded but Energy Prices to Bite in 2027",
+          "body": "The UK's economic growth was upgraded, but rising energy prices and rates are expected to pose challenges for consumers and businesses in 2027.",
+          "whyItMatters": "The forecast highlights the ongoing impact of energy costs on economic stability and consumer spending.",
+          "sources": [
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Nobel Prize for Economics: Hall and Woodford",
+          "body": "The Nobel Prize in Economics was awarded to David Hall and Kenneth Woodford for their work on economic modeling and crisis management.",
+          "whyItMatters": "The recognition of their contributions reflects the evolving nature of economic theory and its relevance to global challenges.",
           "sources": [
             {
               "name": "The Guardian Business",
               "url": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models"
             }
           ]
-        },
-        {
-          "title": "French Supermarkets Hit by Cyber Attack",
-          "body": "French supermarket fridges were targeted by a cyber attack, causing disruptions in supply chains and raising concerns about the security of critical infrastructure. The incident underscores the growing risks of cyber threats to essential services.",
-          "whyItMatters": "This highlights the need for robust cybersecurity measures in critical infrastructure to prevent disruptions in daily life.",
-          "sources": [
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "UK Budget Challenge Faces £35bn Debt",
-          "body": "The UK government faces a £35 billion budget deficit as it struggles to meet spending pledges. Experts warn that this could lead to increased borrowing and potential economic instability if not managed effectively.",
-          "whyItMatters": "This highlights the challenges of balancing fiscal responsibility and public spending in times of economic uncertainty.",
-          "sources": [
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-13T00:52:41.504Z"
+      "updatedAt": "2026-10-13T04:43:14.971Z"
     }
   }
 }
