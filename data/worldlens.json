@@ -1,61 +1,57 @@
 {
-  "generatedAt": "2026-10-13T12:53:33.643Z",
+  "generatedAt": "2026-10-13T16:42:31.971Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers ongoing conflicts, international sports, environmental events, and social issues affecting global students.",
+      "kicker": "Geopolitics",
+      "summary": "Today's lens covers a mix of regional conflicts, political developments, and international incidents, highlighting the complex interplay of power, security, and diplomacy.",
       "stories": [
         {
-          "title": "African Union Confronts Conflict in Democratic Republic of Congo",
-          "body": "The African Union is holding urgent talks in Kigali, Rwanda, to address continued violence in the eastern Democratic Republic of Congo. The conflict has led to humanitarian crises, with reports of civilian casualties and displacement. The talks aim to coordinate peace efforts and humanitarian aid distribution.",
-          "whyItMatters": "The situation in DRC highlights the complex challenges of regional conflicts and the importance of international cooperation in crisis response.",
+          "title": "Fuel Shortage in Bali Sparks Protests",
+          "body": "In Bali, drivers are queuing for hours due to a severe fuel shortage, raising concerns about regional stability and economic impact. The situation reflects broader challenges in energy security and supply chains, particularly in tourist-dependent areas.",
+          "whyItMatters": "The fuel crisis in Bali could highlight vulnerabilities in regional energy infrastructure and the impact of global supply chain disruptions on local economies.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/13/african-union-holds-kigali-talks-as-fighting-continues-in-eastern-drc?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/13/yemens-families-search-for-missing-loved-ones-hindered-by-new-fighting?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/drivers-queue-for-hours-in-bali-amid-fuel-shortage?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Australia Claims First Test Victory in Durban",
-          "body": "Australia defeated South Africa in their first Test match in Durban, marking a significant win for the national team. The victory comes amid heightened tensions in the region, with the match serving as a testament to athletic prowess and competitive spirit.",
-          "whyItMatters": "The sports event underscores the global nature of international competitions and the role of sports in fostering international relations.",
+          "title": "US Poll Shows Public Concern Over Trump's Wealth Prioritization",
+          "body": "A recent poll reveals that a majority of Americans believe Donald Trump prioritizes personal wealth over public service. This reflects ongoing debates about political ethics and the role of personal interests in governance.",
+          "whyItMatters": "The poll underscores the growing public scrutiny of political figures and the importance of ethical leadership in democratic societies.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/13/australia-bowl-out-south-africa-to-win-first-test-in-durban?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/13/majority-in-us-say-trump-prioritises-personal-wealth-over-all-else-poll?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Russia's Offensive Strategy Fails as Kyiv's General Speaks Out",
-          "body": "A former top general in Ukraine has criticized Russia's military capabilities, stating that its offensive strategy is ineffective. The statement comes as the conflict continues, with both sides facing significant challenges in achieving their strategic goals.",
-          "whyItMatters": "The ongoing conflict in Ukraine reflects the broader geopolitical tensions and the impact of military strategies on regional stability.",
+          "title": "Iran Targets Military Bases as UK Spy Chief Warns of Increased Activity",
+          "body": "The UK's spy chief has warned that Iran is escalating its targeting of military bases, signaling heightened tensions in the region. This development could influence regional security strategies and military planning.",
+          "whyItMatters": "Iran's increased military targeting may affect regional security dynamics and influence the balance of power in the Middle East.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/13/uk-spy-chief-says-iran-is-stepping-up-targeting-of-military-bases?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-13T12:53:33.643Z"
+      "updatedAt": "2026-10-13T16:42:31.971Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens highlights groundbreaking scientific discoveries, climate-related events, and cultural insights.",
+      "summary": "Today's lens highlights groundbreaking scientific discoveries and environmental developments impacting global understanding and future research.",
       "stories": [
         {
-          "title": "James Webb Space Telescope Reveals Cosmic Structure",
-          "body": "The James Webb Space Telescope has uncovered a massive cosmic structure that challenges current models of the universe's formation. This discovery could reshape our understanding of how galaxies and cosmic web structures develop.",
-          "whyItMatters": "This finding may lead to new theories about the early universe and the distribution of matter.",
+          "title": "James Webb Reveals Cosmic Structure",
+          "body": "The James Webb Space Telescope has captured a massive cosmic structure that challenges current models of the universe's formation. This discovery could reshape our understanding of cosmic evolution and the distribution of matter.",
+          "whyItMatters": "This finding may lead to new theories about the universe's structure and the role of dark energy.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -68,87 +64,87 @@
           ]
         },
         {
-          "title": "Super El Niño Sets New Record",
-          "body": "A super El Niño event is strengthening to unprecedented levels, potentially affecting global weather patterns and ocean currents. This phenomenon could have significant implications for climate modeling and weather forecasting.",
-          "whyItMatters": "Understanding super El Niño events is crucial for improving climate predictions and disaster preparedness.",
+          "title": "Physicists Discover Light's Astonishing Property",
+          "body": "Scientists have uncovered a surprising property of light that defies previous expectations, offering potential advancements in quantum mechanics and optical technologies. This discovery could influence future research in physics and materials science.",
+          "whyItMatters": "This breakthrough may lead to new applications in photonics and quantum computing.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261011211615.htm"
             },
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm"
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03244-3"
             }
           ]
         },
         {
-          "title": "Scientists Uncover Hidden Brain Map",
-          "body": "Researchers have identified a hidden map of the brain with 539 distinct regions, offering new insights into brain function and potential applications in neuroscience and medicine.",
-          "whyItMatters": "This discovery could advance our understanding of brain development and aid in the treatment of neurological disorders.",
+          "title": "Decentralized AI Needs More Energy Evidence",
+          "body": "A study highlights the energy consumption of decentralized AI systems, emphasizing the need for more data to support future AI-enabled integrity checks. This research could inform the development of more efficient and sustainable AI models.",
+          "whyItMatters": "Understanding energy use in AI systems is critical for creating more sustainable and scalable technologies.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261012185005.htm"
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03245-2"
             },
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm"
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03246-1"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-13T12:53:33.643Z"
+      "updatedAt": "2026-10-13T16:42:31.971Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The lens covers a mix of economic developments, including financial market updates, geopolitical tensions, and social issues impacting different regions.",
+      "summary": "Today's lens covers a mix of economic developments, including fuel shortages, AI risks, and UK economic forecasts, with a focus on global and regional impacts.",
       "stories": [
         {
-          "title": "JPMorgan Misses Profit Expectations",
-          "body": "JPMorgan Chase missed profit expectations as the bank boss warned of 'large fiscal deficits' and 'sticky inflation', highlighting concerns about economic stability and fiscal policy.",
-          "whyItMatters": "The economic outlook for the UK and other major economies is under pressure due to rising inflation and fiscal challenges.",
-          "sources": [
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/live/2026/oct/13/imf-uk-economy-growth-boost-chancellor-john-healey-oil-prices-inflation-business-live-news"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Australia Wins First Test in Durban",
-          "body": "Australia defeated South Africa in their first Test match in Durban, marking a significant victory in the cricket season, and showcasing the competitive nature of international sports.",
-          "whyItMatters": "This victory highlights the ongoing global sports competition and the role of international events in shaping public opinion and economic activity.",
+          "title": "Fuel Shortage in Bali Causes Long Queues",
+          "body": "In Bali, drivers are queuing for hours due to a severe fuel shortage, highlighting the vulnerability of local economies to supply disruptions. The situation underscores the critical role of energy security in regional development.",
+          "whyItMatters": "A fuel shortage in a major tourist destination can impact both local businesses and international travel, emphasizing the need for sustainable energy solutions.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/13/australia-bowl-out-south-africa-to-win-first-test-in-durban?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/drivers-queue-for-hours-in-bali-amid-fuel-shortage?traffic_source=rss"
             },
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/13/uk-spy-chief-says-iran-is-stepping-up-targeting-of-military-bases?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Nobel Prize for Economics Awarded to Hall and Woodford",
-          "body": "The Nobel Prize in Economics was awarded to David Hall and Kenneth Woodford for their work on 'smoothing' crises and new keynesian models, contributing to economic theory and policy analysis.",
-          "whyItMatters": "This recognition underscores the importance of academic research in shaping economic policy and understanding global economic trends.",
+          "title": "IMF Warns of AI Share Crash Risk",
+          "body": "The International Monetary Fund (IMF) warns that a potential AI share crash could destabilize global financial systems, raising concerns about the future of technology-driven economies. This highlights the growing interdependence of financial and technological sectors.",
+          "whyItMatters": "The risk of an AI share crash could affect global trade and investment, prompting policy responses to ensure financial stability.",
           "sources": [
             {
               "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models"
+              "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks"
+            }
+          ]
+        },
+        {
+          "title": "UK Economic Growth Forecast Upgraded but Energy Prices Remain a Concern",
+          "body": "The UK's economic growth forecast has been upgraded, but higher energy prices are expected to continue affecting the economy next year. This reflects the ongoing challenge of balancing economic expansion with rising input costs.",
+          "whyItMatters": "Economic forecasts are crucial for policy-making, and the UK's situation highlights the impact of external factors like energy prices on national economic planning.",
+          "sources": [
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-13T12:53:33.643Z"
+      "updatedAt": "2026-10-13T16:42:31.971Z"
     }
   }
 }
