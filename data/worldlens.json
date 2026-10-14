@@ -1,35 +1,31 @@
 {
-  "generatedAt": "2026-10-14T01:05:06.889Z",
+  "generatedAt": "2026-10-14T04:55:25.706Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of geopolitical developments, technological concerns, and regional conflicts, highlighting the interplay between politics, technology, and global events.",
+      "kicker": "Global Brief",
+      "summary": "Today's lens covers geopolitical developments, economic trends, and regional conflicts, highlighting key events and their potential implications for global stability and international relations.",
       "stories": [
         {
-          "title": "Podcasts as Political Powerhouses",
-          "body": "Al Jazeera reports that podcasts have become significant political platforms, allowing voices from diverse backgrounds to influence public discourse. This trend reflects the growing role of digital media in shaping political narratives and engagement.",
-          "whyItMatters": "Podcasts offer a new avenue for political expression and engagement, challenging traditional media formats and democratizing access to political content.",
+          "title": "China and North Korea to open New Yalu River Bridge",
+          "body": "China and North Korea are set to open a new bridge over the New Yalu River, a significant infrastructure project that could enhance regional connectivity and economic cooperation. The bridge is expected to reduce travel time between the two countries and support trade and military movements.",
+          "whyItMatters": "The bridge's completion may strengthen diplomatic ties and economic cooperation between China and North Korea, though it also raises concerns about potential military confrontations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/lets-focus/2026/10/14/how-podcasts-became-political-powerhouses-2?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/13/ex-gang-leader-gets-40-years-to-life-for-rapper-tupac-shakurs-1996-murder?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Iran War Live: Saudi Coalition Hits Houthi Sites",
-          "body": "Al Jazeera reports that the Saudi coalition has targeted Houthi militant groups in Yemen, with reports of attacks on key locations. Additionally, an Aramco office in the east of the country was hit, raising concerns about ongoing conflict and its impact on regional stability.",
-          "whyItMatters": "The ongoing conflict in Yemen highlights the complex interplay between regional power dynamics and the potential for escalation in the Middle East.",
+          "title": "Saudi-born engineer for OpenAI arrested for planting listening bug",
+          "body": "A Saudi-born engineer employed by OpenAI was arrested in Saudi Arabia for planting a listening device, raising concerns about data privacy and cybersecurity. The incident highlights the growing risks of espionage in the tech sector.",
+          "whyItMatters": "The arrest underscores the importance of cybersecurity and data protection in the global tech industry, particularly in regions with high levels of technological activity.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss"
             },
             {
               "name": "BBC World",
@@ -38,32 +34,32 @@
           ]
         },
         {
-          "title": "OpenAI Engineer Charged for Listening Device",
-          "body": "BBC World reports that an OpenAI engineer was charged in connection with the discovery of a listening device in a meeting room. This incident underscores the growing concerns around data privacy and surveillance in the tech industry.",
-          "whyItMatters": "The case highlights the ongoing tensions between technological innovation and privacy rights, a critical issue in the digital age.",
+          "title": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
+          "body": "Houthi rebels have intercepted missiles over Saudi Arabia, marking a significant escalation in the ongoing conflict in Yemen. The interception suggests continued military activity and potential shifts in the regional power dynamics.",
+          "whyItMatters": "The escalation in military activity in Yemen could impact regional stability and affect global supply chains, particularly for oil and energy resources.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss"
             },
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-14T01:05:06.889Z"
+      "updatedAt": "2026-10-14T04:55:25.706Z"
     },
     "science": {
-      "kicker": "Science & Weather",
-      "summary": "Today's lens covers weather events, scientific discoveries, and historical findings, highlighting both current developments and ongoing research.",
+      "kicker": "Science & Nature",
+      "summary": "Today's lens covers weather events, scientific discoveries, and historical findings impacting students.",
       "stories": [
         {
           "title": "UK Weather Alert: Gales and Heavy Rain",
-          "body": "The UK is expected to experience gales and heavy rain as a yellow wind warning is issued. This weather event could impact transportation and infrastructure, highlighting the importance of preparedness and weather forecasting.",
-          "whyItMatters": "Understanding weather patterns and their potential impacts is crucial for public safety and planning.",
+          "body": "The UK is set to experience gales and heavy rain as a yellow wind warning is issued. This weather event could impact transportation and infrastructure, highlighting the importance of preparedness and environmental awareness.",
+          "whyItMatters": "Understanding weather patterns and their potential impacts is crucial for planning and safety.",
           "sources": [
             {
               "name": "BBC Science",
@@ -76,83 +72,79 @@
           ]
         },
         {
-          "title": "James Webb Space Telescope Reveals Cosmic Structure",
-          "body": "The James Webb Space Telescope has captured a massive cosmic structure that challenges current theories about the universe's formation. This discovery could reshape our understanding of cosmic evolution and galaxy formation.",
-          "whyItMatters": "New astronomical discoveries can lead to significant revisions in scientific theories and future research directions.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm"
-            }
-          ]
-        },
-        {
-          "title": "Scientific Breakthrough: Brain Regions Identified",
-          "body": "Scientists have identified 539 distinct brain regions using advanced imaging techniques. This breakthrough could improve our understanding of brain function and inform future neurological research.",
-          "whyItMatters": "Advancements in neuroscience can lead to better treatments for neurological disorders and enhance our knowledge of the human brain.",
+          "title": "New Insights into Brain Structure",
+          "body": "Scientists have uncovered a hidden map of the brain with 539 distinct regions, offering new perspectives on brain function and potential applications in neuroscience research. This discovery could advance our understanding of cognitive processes and neurological disorders.",
+          "whyItMatters": "Advancements in neuroscience can lead to better treatments and insights into human cognition and brain health.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261012185008.htm"
+            }
+          ]
+        },
+        {
+          "title": "Ancient Earth Secrets Unveiled",
+          "body": "Scientists have discovered a 2.3-billion-year-old secret that helped keep Earth habitable, providing insights into the planet's early environment and the evolution of life. This finding could enhance our understanding of Earth's geological and biological history.",
+          "whyItMatters": "Understanding Earth's ancient history is essential for predicting future environmental changes and informing scientific research.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261011211602.htm"
+            },
+            {
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/science/2026/oct/12/starwatch-mars-signposts-beautiful-beehive-star-cluster"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-14T01:05:06.889Z"
+      "updatedAt": "2026-10-14T04:55:25.706Z"
     },
     "economy": {
-      "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including AI's impact on finance, geopolitical tensions, and labor issues.",
+      "kicker": "Economic Highlights",
+      "summary": "Today's lens covers key economic developments, including technological advancements, financial regulations, and geopolitical tensions.",
       "stories": [
         {
-          "title": "Podcasts becoming political powerhouses",
-          "body": "Al Jazeera reports that podcasts have become significant political platforms, with content shaping public opinion and influencing policy discussions. This trend highlights the growing role of digital media in political engagement and discourse.",
-          "whyItMatters": "The rise of podcasts reflects a shift in how people consume and engage with political content, influencing public opinion and policy discussions.",
+          "title": "China and North Korea to Open New Yalu River Bridge",
+          "body": "State media reported that China and North Korea will open a new bridge over the Yalu River, marking a significant infrastructure development. The bridge is expected to enhance regional connectivity and economic cooperation between the two countries.",
+          "whyItMatters": "This infrastructure project could boost trade and regional cooperation, potentially influencing economic policies in the East Asian region.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/lets-focus/2026/10/14/how-podcasts-became-political-powerhouses-2?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "AI share crash risks global financial stability",
-          "body": "The International Monetary Fund (IMF) warns that a potential AI share crash could threaten global financial stability, citing risks of cyber-attacks and economic disruptions. This highlights the need for regulatory frameworks to manage AI's economic impact.",
-          "whyItMatters": "The potential economic risks of AI share crashes underscore the importance of developing robust regulatory and technological safeguards to mitigate financial instability.",
+          "title": "Singapore’s Economy Grows More Than 5 Percent Amid AI Boom",
+          "body": "Singapore’s economy grew by more than 5 percent in the latest quarter, driven by the AI boom and technological advancements. The country is positioning itself as a global leader in AI innovation and investment.",
+          "whyItMatters": "Singapore’s economic growth highlights the potential of AI to drive innovation and economic development, offering insights into future economic trends.",
           "sources": [
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/10/14/singapores-economy-grows-more-than-5-percent-amid-ai-boom?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Royal Mail faces workforce reduction",
-          "body": "BBC Business reports that Royal Mail is losing 400 postal workers per week, prompting concerns about the future of the postal service and employment in the sector. This highlights the challenges facing traditional industries in the face of technological and logistical changes.",
-          "whyItMatters": "The reduction in postal workers reflects broader trends in labor markets and the need for retraining and adaptation in the face of technological disruption.",
+          "title": "Saudi-born Engineer Arrested for Planting Listening Bug",
+          "body": "A Saudi-born engineer for OpenAI was arrested in the US for planting a listening bug, raising concerns about data security and privacy in the tech industry. The incident highlights the growing risks associated with data collection and surveillance in the digital age.",
+          "whyItMatters": "This incident underscores the importance of data security and privacy in the rapidly evolving tech sector, influencing future regulations and practices.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-14T01:05:06.889Z"
+      "updatedAt": "2026-10-14T04:55:25.706Z"
     }
   }
 }
