@@ -1,76 +1,72 @@
 {
-  "generatedAt": "2026-10-14T16:57:21.122Z",
+  "generatedAt": "2026-10-14T20:53:18.397Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of regional conflicts, economic developments, and international tensions, highlighting the complex interplay of politics and global events.",
+      "summary": "Today's lens covers a mix of geopolitical events, technological developments, and cultural news, highlighting tensions, policy decisions, and international relations.",
       "stories": [
         {
-          "title": "Tehran Municipality Accused of Overstepping",
-          "body": "Tehran's municipality has been accused of overstepping its authority by launching welfare projects, raising concerns about local governance and potential disruptions to public services. The accusation comes as the region grapples with economic and social challenges.",
-          "whyItMatters": "The incident highlights the tension between local governance and public welfare, potentially affecting community stability and resource allocation.",
+          "title": "Protesters Attack Government Buildings in Tirana",
+          "body": "In Tirana, student protesters attacked government buildings, raising concerns about political instability and public unrest. The incident occurred amid ongoing tensions in the region, with no immediate reports of casualties.",
+          "whyItMatters": "The attack highlights potential risks to public safety and political stability in the region.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/10/14/tehran-municipality-accused-of-overstep-after-launching-welfare-projects?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/14/at-least-two-security-officials-killed-near-irans-critical-chabahar-port?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/10/14/infantino-faces-fifa-rebels-in-zurich-after-failed-world-cup-stake-sale?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Albania's Education Ministry Fire Sparks Protests",
-          "body": "A fire broke out at Albania's Education Ministry, prompting widespread protests that have now entered their third day. The situation underscores the impact of public unrest on government operations and educational infrastructure.",
-          "whyItMatters": "The protests highlight the vulnerability of public institutions and the potential for large-scale disruptions in critical services.",
+          "title": "Mexico Orders Platforms to Protect Minors",
+          "body": "Mexico has mandated that Meta, TikTok, and X (formerly Twitter) improve their policies to better protect minors on their platforms. The move reflects growing concerns about digital safety and the role of tech companies in safeguarding user data and well-being.",
+          "whyItMatters": "The policy underscores the increasing responsibility of tech companies in addressing online risks and protecting vulnerable populations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/14/fire-erupts-at-albanias-education-ministry-as-protests-enter-third-day?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/14/mexico-to-force-meta-tiktok-and-x-to-better-protect-minors-on-platform?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Security Officials Killed Near Chabahar Port",
-          "body": "At least two security officials were killed near Iran's critical Chabahar port, raising concerns about ongoing security threats and the stability of the region. The incident underscores the risks associated with strategic locations and the potential for conflict.",
-          "whyItMatters": "The attack highlights the importance of regional security and the potential for escalation in areas of strategic significance.",
+          "title": "FIFA Faces Legal Challenges Over World Cup Stake Sale",
+          "body": "FIFA president Gianni Infantino faces legal challenges in Zurich after a failed World Cup stake sale. The dispute highlights tensions between FIFA and its stakeholders, including financial and legal entities, over the management and ownership of the organization.",
+          "whyItMatters": "The legal battle reflects broader issues of governance and accountability within international sports organizations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/14/at-least-two-security-officials-killed-near-irans-critical-chabahar-port?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/10/14/infantino-faces-fifa-rebels-in-zurich-after-failed-world-cup-stake-sale?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-14T16:57:21.122Z"
+      "updatedAt": "2026-10-14T20:53:18.397Z"
     },
     "science": {
       "kicker": "Science & Nature",
-      "summary": "Today's lens covers scientific discoveries, conservation efforts, and climate-related updates, highlighting advancements in biology, technology, and environmental science.",
+      "summary": "Today's lens highlights recent scientific discoveries, environmental news, and technological advancements impacting the world.",
       "stories": [
         {
           "title": "Oil and Gas Decisions in Scotland",
-          "body": "The BBC Science reports that decisions regarding Rosebank and Jackdaw oil and gas projects are expected to be made shortly. These projects are part of a broader exploration of energy resources in the UK, with potential implications for regional economies and environmental policies.",
-          "whyItMatters": "The timing of these decisions could influence local economic development and environmental impact assessments.",
+          "body": "The BBC Science reports that decisions regarding Rosebank and Jackdaw oil and gas projects are expected to be made 'shortly', raising concerns about environmental impact and energy policy. The UK's scientific community is closely monitoring these developments as they relate to climate change and resource management.",
+          "whyItMatters": "These decisions could influence energy strategies and environmental policies in the UK and beyond.",
           "sources": [
             {
               "name": "BBC Science",
               "url": "https://www.bbc.co.uk/news/articles/c92031m6knljo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261013015801.htm"
             }
           ]
         },
         {
-          "title": "Childhood Experiences May Influence Adult Exercise Habits",
-          "body": "Scientists reveal that some workout recovery techniques can backfire, but research suggests that childhood experiences may play a role in shaping adult exercise habits. This highlights the importance of early life factors in physical activity patterns.",
-          "whyItMatters": "Understanding the influence of early life on exercise habits could inform public health strategies and sports development programs.",
+          "title": "Exercise Recovery and Childhood Development",
+          "body": "Scientists reveal that some workout recovery techniques can backfire, while research suggests that childhood experiences may influence adult exercise habits. This study highlights the complex relationship between physical development and lifestyle choices.",
+          "whyItMatters": "Understanding how early life experiences affect exercise habits could inform health and fitness strategies for adults.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -83,68 +79,64 @@
           ]
         },
         {
-          "title": "Conservation Targets and Environmental Progress",
-          "body": "A study in Nature indicates that the world is closer to a major conservation target than previously thought, emphasizing the need for continued efforts in protecting ecosystems. This finding underscores the importance of global conservation strategies and land use planning.",
-          "whyItMatters": "Achieving conservation targets requires coordinated efforts across regions and sectors, highlighting the role of science in shaping environmental policies.",
+          "title": "Alzheimer's Risk and Hidden Culprits",
+          "body": "A new study identifies a potential hidden culprit for Alzheimer's disease that has been overlooked for decades. This discovery could lead to new approaches in early detection and prevention of the condition.",
+          "whyItMatters": "Identifying new risk factors for Alzheimer's could improve public health strategies and research efforts.",
           "sources": [
             {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/d41586-026-03307-5"
-            },
-            {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/d41586-026-03081-4"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261013015838.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-14T16:57:21.122Z"
+      "updatedAt": "2026-10-14T20:53:18.397Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers key economic developments, including job cuts at Netflix, a food crisis warning, inflation trends, and financial regulations.",
+      "summary": "Today's lens covers economic developments, including inflation, job cuts, and financial regulations, while also highlighting international conflicts and sports events.",
       "stories": [
         {
-          "title": "Netflix to lay off 1,000 staff in steepest cuts since 2022",
-          "body": "Netflix has announced plans to lay off 1,000 employees, marking the largest workforce reduction since 2022. The move comes amid ongoing financial challenges and uncertainty in the streaming industry. The layoffs are expected to affect various departments, including content production and customer support.",
-          "whyItMatters": "This development highlights the vulnerability of major tech companies to economic downturns and the impact of job cuts on employment and consumer confidence.",
+          "title": "Mexico to force Meta, TikTok, and X to better protect minors on platform",
+          "body": "Mexico has announced plans to require Meta, TikTok, and X (formerly Twitter) to implement stronger safeguards for minors on their platforms. The move is part of a broader effort to address online safety and protect vulnerable users. The decision comes amid growing concerns about the impact of social media on youth.",
+          "whyItMatters": "This policy could set a precedent for global digital safety regulations and influence how platforms handle user data and content.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/14/mexico-to-force-meta-tiktok-and-x-to-better-protect-minors-on-platform?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/14/fire-erupts-at-albanias-education-ministry-as-protests-enter-third-day?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-attacks-disrupt-travel-plans-for-mecca-pilgrims?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "UN warns of looming food crisis as Hormuz fertiliser plan stalls",
-          "body": "The United Nations has warned of a potential food crisis, citing the stalled Hormuz fertiliser plan. The fertiliser project, which aims to boost agricultural production in the Middle East, has faced delays and logistical challenges, raising concerns about food security and economic stability in the region.",
-          "whyItMatters": "The stalled fertiliser project underscores the critical role of international cooperation in addressing global food shortages and the potential economic consequences of supply chain disruptions.",
+          "title": "US inflation rises to 3.7% in September, affecting Republicans before midterms",
+          "body": "The U.S. inflation rate rose to 3.7% in September, according to the Bureau of Economic Analysis. This increase has raised concerns among Republicans, who are preparing for the midterms. The rise in inflation could impact economic policy and public sentiment in the coming months.",
+          "whyItMatters": "A rising inflation rate can influence political decisions and economic strategies, affecting both domestic and international markets.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/14/un-official-warns-of-looming-food-crisis-as-hormuz-fertiliser-plan-stalls?traffic_source=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september"
             }
           ]
         },
         {
-          "title": "US inflation rises more than expected - here's what is happening with prices",
-          "body": "US inflation rose to 3.7% in September, exceeding expectations and putting pressure on the Federal Reserve to adjust its monetary policy. The rise in prices is attributed to factors such as supply chain disruptions, energy costs, and increased demand for goods and services. This development highlights the ongoing challenges of managing inflation in the global economy.",
-          "whyItMatters": "The rise in US inflation reflects broader economic trends and the complexities of managing monetary policy in a volatile global market.",
+          "title": "Bank of America fined $1.2 billion for money-laundering failures",
+          "body": "The Bank of America was fined $1.2 billion by the U.S. Department of Justice for money-laundering violations. The fine follows an investigation into the bank's financial practices and its role in facilitating illicit activities. This highlights the importance of financial regulation and corporate accountability.",
+          "whyItMatters": "This fine underscores the need for robust financial oversight and the consequences of non-compliance with anti-money laundering laws.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-14T16:57:21.122Z"
+      "updatedAt": "2026-10-14T20:53:18.397Z"
     }
   }
 }
