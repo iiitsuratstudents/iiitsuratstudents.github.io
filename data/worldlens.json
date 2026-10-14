@@ -1,130 +1,138 @@
 {
-  "generatedAt": "2026-10-14T08:57:26.042Z",
+  "generatedAt": "2026-10-14T13:05:23.631Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of international news, including health, politics, sports, and security developments.",
+      "kicker": "Geopolitics",
+      "summary": "Today's lens covers developments in geopolitics, including diplomatic actions, conflicts, and international relations.",
       "stories": [
         {
-          "title": "Pope Diagnosed with Lung Cancer but Had Successful Surgery",
-          "body": "The Pope was diagnosed with lung cancer but underwent a successful surgery, according to the BBC World report. The news highlights the ongoing challenges faced by global leaders and the importance of medical advancements in preserving public health.",
-          "whyItMatters": "This development underscores the intersection of personal health and global leadership, emphasizing the need for continued medical research and support.",
+          "title": "Colombia Opens Embassy in Jerusalem and Restores Free Trade with Israel",
+          "body": "Colombia has opened an embassy in Jerusalem and restored free trade agreements with Israel, marking a significant shift in its foreign policy. This move is seen as a strategic response to regional tensions and a step toward normalizing relations with Israel, despite historical and political complexities.",
+          "whyItMatters": "This development highlights the evolving dynamics of diplomatic relations in the Middle East and the impact of regional conflicts on international trade and politics.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/colombia-opens-embassy-in-jerusalem-and-restores-free-trade-with-israel?traffic_source=rss"
+            },
+            {
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial"
             }
           ]
         },
         {
-          "title": "Turkish Police Raid Opposition TV Station, Halting Live Broadcasts",
-          "body": "Turkish police raided an opposition TV station, halting live broadcasts, as reported by BBC World. This incident reflects the ongoing tensions in the region and the challenges faced by media outlets in maintaining independence and free expression.",
-          "whyItMatters": "The raid highlights the complex dynamics of media freedom and political control, particularly in countries with strong state influence.",
+          "title": "Germany Accuses Ukrainian Official of Blowing Up Nord Stream Pipelines",
+          "body": "Germany has put Ukrainian officials on trial, accusing them of sabotage against the Nord Stream gas pipeline. The case is part of a broader effort to address energy-related conflicts and hold individuals accountable for acts of aggression.",
+          "whyItMatters": "This legal action underscores the role of international law in addressing energy disputes and the potential for legal consequences for those involved in critical infrastructure sabotage.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Russian Strikes Leave 600,000 Without Power in Ukraine",
-          "body": "Russian strikes caused a power outage affecting 600,000 people in Ukraine, according to BBC World. The situation underscores the ongoing conflict and its impact on civilian populations, emphasizing the humanitarian and geopolitical consequences of military action.",
-          "whyItMatters": "This event highlights the human cost of conflict and the importance of international efforts to mitigate its impact on vulnerable populations.",
+          "title": "Mauritius Reels from Worst Riots in Decades After Police Shoot Woman",
+          "body": "Mauritius experienced its worst riots in decades after a police officer shot and killed a woman, leading to widespread unrest and calls for justice. The incident highlights the challenges of maintaining public order and addressing social grievances in volatile environments.",
+          "whyItMatters": "This event illustrates the impact of violent incidents on public safety and the importance of effective governance in preventing social unrest.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-14T08:57:26.042Z"
+      "updatedAt": "2026-10-14T13:05:23.631Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers groundbreaking scientific discoveries, technological advancements, and environmental observations that could impact students and researchers globally.",
+      "kicker": "ScienceDaily",
+      "summary": "Today's lens highlights cutting-edge scientific discoveries, technological advancements, and environmental observations that could impact students and researchers globally.",
       "stories": [
         {
-          "title": "Gigantic prehistoric snake discovered in India",
-          "body": "A prehistoric snake species, estimated to be over 10 meters long, was discovered in India. The find challenges previous assumptions about the size of ancient snakes and may provide insights into prehistoric ecosystems.",
-          "whyItMatters": "This discovery could reshape our understanding of ancient fauna and evolutionary biology.",
+          "title": "Scientists reveal why some workout recovery tricks can backfire",
+          "body": "A study from ScienceDaily found that certain workout recovery methods, such as overtraining or excessive rest, can lead to decreased performance and increased injury risk. The research suggests that proper recovery is essential for optimal muscle repair and growth, emphasizing the importance of balanced training regimens.",
+          "whyItMatters": "Understanding the science behind recovery techniques can help students develop more effective and safe workout routines.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261014001406.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261013015805.htm"
             }
           ]
         },
         {
-          "title": "AI reveals a hidden chemical shortcut for CO2 to fuel",
-          "body": "A study shows that artificial intelligence can identify a previously unknown chemical pathway that converts carbon dioxide into fuel, offering a potential solution for carbon-neutral energy production.",
-          "whyItMatters": "This breakthrough could accelerate the development of sustainable energy technologies.",
+          "title": "Cornell scientists identify rare human genetic disorder in two unusually long-legged cats",
+          "body": "Cornell University researchers identified a rare genetic disorder in two cats with unusually long legs, providing insights into the genetic basis of limb development. The findings could have implications for human genetic research and the understanding of developmental disorders.",
+          "whyItMatters": "This discovery may contribute to broader genetic studies and the development of diagnostic tools for similar conditions in humans.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261013015758.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261013015801.htm"
             }
           ]
         },
         {
-          "title": "World's oldest shipwreck found off Turkey",
-          "body": "A 3,000-year-old shipwreck, believed to be from the Bronze Age, was discovered off the coast of Turkey. The find provides valuable historical and archaeological insights into ancient maritime trade and technology.",
-          "whyItMatters": "This discovery could enhance our understanding of ancient civilizations and their maritime connections.",
+          "title": "The secret to easier exercise as an adult may start in childhood",
+          "body": "A study from ScienceDaily suggests that the ability to exercise easily as an adult may be influenced by early life factors, such as physical activity during childhood. This research highlights the importance of lifelong health habits and the role of early development in maintaining fitness.",
+          "whyItMatters": "Understanding the impact of early life experiences on adult fitness can inform health and wellness strategies for students and future generations.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261013015811.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-14T08:57:26.042Z"
+      "updatedAt": "2026-10-14T13:05:23.631Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including AI impact on finance, sanctions, and sports, with a focus on global implications for students.",
+      "summary": "Today's lens covers inflation, financial penalties, and geopolitical events impacting the global economy.",
       "stories": [
         {
-          "title": "AI job applications can backfire",
-          "body": "A BBC Business report highlights how 'spray and pray' AI job applications, where candidates submit multiple applications without tailoring them to specific roles, can lead to rejection. This practice is being used by companies to reduce hiring costs, but it may result in a lack of quality applications, affecting the hiring process.",
-          "whyItMatters": "The rise of AI in hiring may lead to a shift in job application strategies, impacting both employers and candidates.",
+          "title": "US inflation rises more than expected ahead of midterm elections",
+          "body": "US inflation rose to 3.7% in September, according to The Guardian, as the US prepares for midterm elections. The rise in inflation could impact consumer spending and economic policy discussions in the coming months.",
+          "whyItMatters": "The rise in inflation may influence political decisions and economic strategies in the US.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september"
+            },
+            {
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering"
             }
           ]
         },
         {
-          "title": "Iranian money movement to avoid sanctions",
-          "body": "Al Jazeera reports on how Iranians use financial tools to move money abroad to avoid US sanctions. This includes the use of offshore accounts, cryptocurrency, and other financial mechanisms to circumvent restrictions.",
-          "whyItMatters": "Understanding financial strategies used to bypass sanctions is important for students studying international economics and finance.",
+          "title": "Bank of America fined $1.2bn for money laundering failures",
+          "body": "Bank of America was fined $1.2 billion by the US Department of Justice for money laundering failures, highlighting the ongoing challenges in financial regulation and compliance.",
+          "whyItMatters": "This fine underscores the importance of financial regulation and the risks associated with money laundering practices.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/14/how-do-iranians-move-money-abroad-to-avoid-us-sanctions?traffic_source=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering"
             }
           ]
         },
         {
-          "title": "Greenland's exploration plans",
-          "body": "Al Jazeera reports that President Trump has announced plans to begin oil, gas, and mineral exploration in Greenland. This is part of a broader strategy to expand energy resources in the Arctic region.",
-          "whyItMatters": "The potential for resource extraction in Greenland could impact global energy markets and environmental policies.",
+          "title": "Colombia opens embassy in Jerusalem and restores free trade with Israel",
+          "body": "Colombia has opened an embassy in Jerusalem and restored free trade agreements with Israel, marking a significant shift in its foreign policy and relations with the Middle East.",
+          "whyItMatters": "This development reflects the evolving geopolitical landscape and potential economic implications for regional trade and diplomacy.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/14/trump-says-oil-gas-and-mineral-exploration-to-begin-in-greenland?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/colombia-opens-embassy-in-jerusalem-and-restores-free-trade-with-israel?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-14T08:57:26.042Z"
+      "updatedAt": "2026-10-14T13:05:23.631Z"
     }
   }
 }
