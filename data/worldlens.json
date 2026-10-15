@@ -1,157 +1,129 @@
 {
-  "generatedAt": "2026-10-15T08:58:34.390Z",
+  "generatedAt": "2026-10-15T13:08:42.673Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of geopolitical developments, natural disasters, and social issues, highlighting the complexity of global events.",
+      "kicker": "Global Brief",
+      "summary": "Today's lens covers a mix of regional conflicts, international relations, and local crises, highlighting the complexities of global dynamics.",
       "stories": [
         {
-          "title": "White House defends new press secretary amid legal questions",
-          "body": "The U.S. White House has defended its new press secretary, who has faced scrutiny over her legal credentials. The press secretary's background and qualifications have been under investigation, with the administration emphasizing her experience and qualifications. This development highlights the ongoing scrutiny of public figures and the importance of transparency in government roles.",
-          "whyItMatters": "The controversy surrounding the press secretary's credentials underscores the need for clear and transparent governance, especially in high-profile positions.",
+          "title": "West Indies’ Hope jokes India series record role a problem as finale looms",
+          "body": "West Indies’ Hope, the captain of the West Indies cricket team, joked about the record role the team would play in the final of the series, suggesting it could be a challenge. The joke was made in the context of the team's upcoming match against India, highlighting the competitive nature of the series and the potential for high-stakes competition.",
+          "whyItMatters": "The joke underscores the tension and high stakes in international sports competitions, reflecting the broader geopolitical and competitive dynamics between nations.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/10/15/west-indies-hope-jokes-india-series-record-role-an-problem-as-finale-looms?traffic_source=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+          "body": "A school roof collapse in Pakistan resulted in the death of at least 33 pupils and a teacher. The incident highlights the ongoing risks associated with infrastructure safety and the potential for sudden, catastrophic events in educational settings.",
+          "whyItMatters": "The incident raises concerns about infrastructure safety and the need for improved building standards to prevent such tragedies in educational institutions.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/15/man-uniteds-martinez-takes-to-social-media-to-defend-his-criticism-of-club?traffic_source=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "School roof collapses in Pakistan, killing 29 people",
-          "body": "A school roof in northwestern Pakistan collapsed, killing at least 29 people. The incident highlights the risks of infrastructure failures and the importance of safety measures in educational facilities. The collapse occurred during a period of heightened political and social tensions in the region.",
-          "whyItMatters": "The incident underscores the critical need for infrastructure safety and the impact of political and social factors on public safety.",
+          "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+          "body": "Russia accused Ukraine of attacking an oil refinery, following Zelensky's statement that strikes would resume. The accusation adds to the ongoing tensions in the region, reflecting the complex interplay between military actions and diplomatic relations.",
+          "whyItMatters": "The accusation highlights the escalating military tensions between Russia and Ukraine, emphasizing the potential for further conflict and the impact on regional stability.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/15/school-roof-collapses-in-northwestern-pakistan-killing-at-least-29-people?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/containers-and-debris-captured-floating-around-the-strait-of-hormuz?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Messi's Inter Miami advances to third straight MLS playoff",
-          "body": "Messi's Inter Miami beat New York City to reach their third straight MLS playoff. The victory marks a significant milestone in the team's history and highlights the competitive nature of Major League Soccer. The match showcased the skill and determination of the players, reinforcing the importance of sports in fostering national pride and unity.",
-          "whyItMatters": "The playoff victory reflects the competitive spirit of sports and its role in uniting communities, even in times of political and social challenges.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/15/messi-and-inter-miami-beat-new-york-city-to-reach-third-straight-playoff?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/containers-and-debris-captured-floating-around-the-strait-of-hormuz?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-15T08:58:34.390Z"
+      "updatedAt": "2026-10-15T13:08:42.673Z"
     },
     "science": {
-      "kicker": "Science",
-      "summary": "Today's lens covers advancements in AI surveillance, environmental concerns, scientific discoveries, and conservation efforts.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens covers advances in neuroscience, climate change, biotechnology, and AI ethics, highlighting both scientific discoveries and global challenges.",
       "stories": [
         {
-          "title": "AI Surveillance in the Workplace",
-          "body": "A podcast discusses the rise of AI surveillance in workplaces, raising concerns about privacy and autonomy. The Guardian Science reports that AI systems are being used to monitor employees, potentially leading to ethical dilemmas and data privacy issues.",
-          "whyItMatters": "The increasing use of AI in workplace monitoring highlights the need for ethical guidelines and transparency in technological applications.",
+          "title": "Mysterious brain activity under anesthesia challenges what we know about consciousness",
+          "body": "A study published in ScienceDaily reveals that brain activity under anesthesia can be observed even when individuals are unconscious, challenging existing theories about consciousness. The findings suggest that the brain may continue to process information in ways not yet fully understood.",
+          "whyItMatters": "This research could lead to new insights into the mechanisms of consciousness and potential applications in neuroscience and medicine.",
           "sources": [
             {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/audio/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-podcast"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm"
             },
             {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/technology/2026/oct/14/could-ai-change-the-stakes-in-the-development-of-bioweapons"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261013015838.htm"
             }
           ]
         },
         {
-          "title": "Indonesian Towns Blown by Orange Haze",
-          "body": "BBC Science reports on the spread of orange haze in Indonesian towns, caused by industrial emissions and climate change. The haze poses health risks and environmental concerns, highlighting the impact of climate change on vulnerable populations.",
-          "whyItMatters": "The spread of haze underscores the importance of environmental policies and the need for sustainable practices to protect public health.",
+          "title": "Arctic sea ice hits another troubling low in 2026",
+          "body": "Arctic sea ice reached its lowest extent in 2026, according to ScienceDaily. This is the third consecutive year of declining sea ice, raising concerns about climate change and its impact on global ecosystems and weather patterns.",
+          "whyItMatters": "The decline in Arctic sea ice affects polar ecosystems, global weather patterns, and the Earth's climate system, highlighting the urgency of addressing climate change.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261015073212.htm"
             }
           ]
         },
         {
-          "title": "New Dinosaur Fossil Reveals Fearsome Species",
-          "body": "ScienceDaily reports on a newly discovered fossil of a prehistoric dinosaur with giant claws, providing insights into ancient ecosystems and evolutionary biology. The discovery adds to our understanding of paleontological research and the diversity of life in the past.",
-          "whyItMatters": "This fossil discovery contributes to our knowledge of prehistoric life and the evolutionary processes that shaped modern species.",
+          "title": "A fungus is threatening the world’s food supply. Scientists just found a new defense",
+          "body": "A fungus has been identified as a significant threat to global food supplies, but scientists have discovered a new defense mechanism that could help combat its spread. This development is crucial for food security and agricultural sustainability.",
+          "whyItMatters": "Identifying and developing new defenses against harmful fungi is essential for protecting crops and ensuring food availability in the face of climate and agricultural challenges.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261014015457.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261014001406.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261014015501.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-15T08:58:34.390Z"
+      "updatedAt": "2026-10-15T13:08:42.673Z"
     },
     "economy": {
-      "kicker": "Economic & Global",
-      "summary": "Today's lens covers economic developments, geopolitical events, and social issues affecting students globally.",
+      "kicker": "Economic",
+      "summary": "Today's lens covers economic developments, including tech market sell-offs, US inflation, AI-related risks, and UK government responses to economic challenges.",
       "stories": [
         {
-          "title": "Man United's Martinez defends criticism on social media",
-          "body": "Spanish footballer Luis Martinez took to social media to defend his criticism of Manchester United, which sparked debate about the club's management and culture. His comments drew attention from fans and media, highlighting the tension between player perspectives and institutional policies.",
-          "whyItMatters": "The incident reflects broader discussions about player autonomy and club governance in modern sports.",
+          "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
+          "body": "The tech market experienced a significant sell-off as investors grew concerned about rising US inflation and the potential impact of AI-related debt. The Guardian Business reported that fears over economic instability and AI's role in shaping future financial markets led to a decline in stock prices for tech companies.",
+          "whyItMatters": "The sell-off highlights the growing influence of AI and inflation on global financial markets, affecting both investors and companies.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/15/man-uniteds-martinez-takes-to-social-media-to-defend-his-criticism-of-club?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/containers-and-debris-captured-floating-around-the-strait-of-hormuz?traffic_source=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt"
             }
           ]
         },
         {
-          "title": "Inter Miami advances in MLS playoffs",
-          "body": "Messi's Inter Miami secured a third consecutive playoff spot after defeating New York City, showcasing the team's competitiveness and the evolving landscape of American football. The victory underscores the growing influence of international football in the United States.",
-          "whyItMatters": "The playoff advancement highlights the increasing global presence of football and the competitive nature of professional leagues.",
+          "title": "UK government addresses inflation concerns with new airport charges",
+          "body": "The UK government announced plans to review drop-off charges at airports following a sharp increase in costs. The BBC Business reported that the review aims to address rising inflation and its impact on public finances, reflecting broader economic concerns in the UK.",
+          "whyItMatters": "The review underscores the government's response to inflation and its impact on public services, highlighting the challenges of balancing economic growth with rising costs.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/15/messi-and-inter-miami-beat-new-york-city-to-reach-third-straight-playoff?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/containers-and-debris-captured-floating-around-the-strait-of-hormuz?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Strait of Hormuz debris raises environmental concerns",
-          "body": "Debris, including containers, has been captured floating around the Strait of Hormuz, a critical maritime passage. This event highlights the environmental and logistical challenges faced by global trade and naval operations in the region.",
-          "whyItMatters": "The incident underscores the vulnerability of global trade routes to environmental disruptions and the need for sustainable practices in maritime navigation.",
+          "title": "US inflation rises to 3.7% as economic concerns grow ahead of midterms",
+          "body": "US inflation reached 3.7% in September, marking a significant rise that has raised concerns among key voters. The Guardian Business reported that this increase, combined with rising costs of living, has led to widespread backlash against the economy, with voters expressing dissatisfaction ahead of the midterms.",
+          "whyItMatters": "The rise in inflation and economic dissatisfaction could influence political outcomes in the US, shaping the economic policies and public opinion of the upcoming midterms.",
           "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/containers-and-debris-captured-floating-around-the-strait-of-hormuz?traffic_source=rss"
-            },
             {
               "name": "The Guardian Business",
               "url": "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september"
@@ -160,7 +132,7 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-15T08:58:34.390Z"
+      "updatedAt": "2026-10-15T13:08:42.673Z"
     }
   }
 }
