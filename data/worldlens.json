@@ -1,121 +1,117 @@
 {
-  "generatedAt": "2026-10-14T20:53:18.397Z",
+  "generatedAt": "2026-10-15T01:02:06.878Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of geopolitical events, technological developments, and cultural news, highlighting tensions, policy decisions, and international relations.",
+      "summary": "Today's lens covers developments in geopolitics, including a new prison in Costa Rica, a court case in Mexico, and a war in Iran, while also highlighting other global events.",
       "stories": [
         {
-          "title": "Protesters Attack Government Buildings in Tirana",
-          "body": "In Tirana, student protesters attacked government buildings, raising concerns about political instability and public unrest. The incident occurred amid ongoing tensions in the region, with no immediate reports of casualties.",
-          "whyItMatters": "The attack highlights potential risks to public safety and political stability in the region.",
+          "title": "Costa Rica opens mega-prison as Bukele model embraced across Latin America",
+          "body": "Costa Rica has opened its first ever mega-prison, a 100,000-square-meter facility designed to hold up to 10,000 prisoners. The prison is part of a broader trend of reformatory reforms in Latin America, inspired by the model of President Juan Carlos I of Spain, who was known for his strict and punitive approach to crime. The move is seen as a response to rising crime rates and a desire to reform the justice system.",
+          "whyItMatters": "The opening of this prison highlights the growing trend of reformatory reforms in Latin America, which could influence future judicial policies in the region.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/15/costa-rica-opens-mega-prison-as-bukele-model-embraced-across-latin-america?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/14/infantino-faces-fifa-rebels-in-zurich-after-failed-world-cup-stake-sale?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Mexico Orders Platforms to Protect Minors",
-          "body": "Mexico has mandated that Meta, TikTok, and X (formerly Twitter) improve their policies to better protect minors on their platforms. The move reflects growing concerns about digital safety and the role of tech companies in safeguarding user data and well-being.",
-          "whyItMatters": "The policy underscores the increasing responsibility of tech companies in addressing online risks and protecting vulnerable populations.",
+          "title": "Iran vows to fight until US yields as ships sink in Hormuz",
+          "body": "Iran has vowed to continue its military campaign in the Strait of Hormuz, despite the US having sunk several Iranian ships. The conflict is part of a broader dispute over maritime boundaries and control in the region. The US has been accused of violating international law by sinking the ships, while Iran claims it is defending its sovereignty and maritime rights.",
+          "whyItMatters": "The ongoing conflict in the Strait of Hormuz could have significant implications for regional stability and international relations, particularly in the context of rising tensions between major powers.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/14/mexico-to-force-meta-tiktok-and-x-to-better-protect-minors-on-platform?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "FIFA Faces Legal Challenges Over World Cup Stake Sale",
-          "body": "FIFA president Gianni Infantino faces legal challenges in Zurich after a failed World Cup stake sale. The dispute highlights tensions between FIFA and its stakeholders, including financial and legal entities, over the management and ownership of the organization.",
-          "whyItMatters": "The legal battle reflects broader issues of governance and accountability within international sports organizations.",
+          "title": "US destroys dhow suspected of Iranian command and control",
+          "body": "The US has destroyed a dhow, a small boat, that it claims is suspected of being used for Iranian command and control operations in the Middle East. The incident occurred in the Gulf of Aden, a strategic area where Iranian vessels are frequently encountered. The US has been conducting operations in the region to counter Iranian influence and protect its own interests.",
+          "whyItMatters": "The destruction of the dhow underscores the US's ongoing efforts to counter Iranian influence in the Gulf of Aden, which is a critical maritime route for global trade and military movements.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/14/infantino-faces-fifa-rebels-in-zurich-after-failed-world-cup-stake-sale?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/us-destroys-dhow-suspected-of-iranian-command-and-control?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-14T20:53:18.397Z"
+      "updatedAt": "2026-10-15T01:02:06.878Z"
     },
     "science": {
       "kicker": "Science & Nature",
-      "summary": "Today's lens highlights recent scientific discoveries, environmental news, and technological advancements impacting the world.",
+      "summary": "Today's lens covers advances in science, conservation, and environmental research, with a focus on discoveries and their potential impacts.",
       "stories": [
         {
-          "title": "Oil and Gas Decisions in Scotland",
-          "body": "The BBC Science reports that decisions regarding Rosebank and Jackdaw oil and gas projects are expected to be made 'shortly', raising concerns about environmental impact and energy policy. The UK's scientific community is closely monitoring these developments as they relate to climate change and resource management.",
-          "whyItMatters": "These decisions could influence energy strategies and environmental policies in the UK and beyond.",
+          "title": "Dog that hunts invasive 'sea vomit' honoured as animal of the year",
+          "body": "A dog that hunts invasive species known as 'sea vomit' has been honoured as the animal of the year by the BBC Science. The dog, which is believed to be a mix of a border collie and a German shepherd, is known for its ability to locate and eliminate the invasive species, which is a type of sea urchin that has caused ecological damage in coastal areas. The recognition highlights the importance of animal-assisted efforts in environmental conservation.",
+          "whyItMatters": "This recognition underscores the role of animals in combating invasive species and the value of public engagement in environmental protection.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c92031m6knljo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cvwy761zyx7eo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Exercise Recovery and Childhood Development",
-          "body": "Scientists reveal that some workout recovery techniques can backfire, while research suggests that childhood experiences may influence adult exercise habits. This study highlights the complex relationship between physical development and lifestyle choices.",
-          "whyItMatters": "Understanding how early life experiences affect exercise habits could inform health and fitness strategies for adults.",
+          "title": "Scientists reveal why some workout recovery tricks can backfire",
+          "body": "Scientists from the University of California have revealed that some workout recovery techniques, such as overtraining or excessive rest, can actually hinder progress. The study suggests that proper recovery is essential for muscle repair and growth, and that relying on shortcuts can lead to diminished results and increased injury risk.",
+          "whyItMatters": "Understanding the science behind recovery is crucial for effective fitness and sports performance strategies.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/10/261013015805.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261013015811.htm"
             }
           ]
         },
         {
-          "title": "Alzheimer's Risk and Hidden Culprits",
-          "body": "A new study identifies a potential hidden culprit for Alzheimer's disease that has been overlooked for decades. This discovery could lead to new approaches in early detection and prevention of the condition.",
-          "whyItMatters": "Identifying new risk factors for Alzheimer's could improve public health strategies and research efforts.",
+          "title": "World's oldest shipwreck found off coast of Turkey",
+          "body": "A shipwreck dating back over 1,000 years has been discovered off the coast of Turkey, providing valuable insights into ancient maritime trade and shipbuilding techniques. The find, made by archaeologists, could help in understanding the historical and cultural exchanges that occurred in the region.",
+          "whyItMatters": "This discovery offers a glimpse into the past and highlights the importance of archaeological research in understanding human history and cultural development.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261013015838.htm"
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-14T20:53:18.397Z"
+      "updatedAt": "2026-10-15T01:02:06.878Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including inflation, job cuts, and financial regulations, while also highlighting international conflicts and sports events.",
+      "summary": "Today's lens covers developments in global economics, including legal and political events, technological trends, and financial news.",
       "stories": [
         {
-          "title": "Mexico to force Meta, TikTok, and X to better protect minors on platform",
-          "body": "Mexico has announced plans to require Meta, TikTok, and X (formerly Twitter) to implement stronger safeguards for minors on their platforms. The move is part of a broader effort to address online safety and protect vulnerable users. The decision comes amid growing concerns about the impact of social media on youth.",
-          "whyItMatters": "This policy could set a precedent for global digital safety regulations and influence how platforms handle user data and content.",
+          "title": "Costa Rica opens mega-prison as Bukele model embraced across Latin America",
+          "body": "Costa Rica has opened its first mega-prison, a large facility designed to hold up to 10,000 inmates. The prison is part of a broader initiative to address rising crime rates and improve prison conditions in the country. The move has been praised by leaders in Latin America as a model for other nations to follow, reflecting a trend of increasing focus on criminal justice reform and public safety.",
+          "whyItMatters": "The prison's opening highlights a growing trend in Latin America to address crime and improve prison systems, which could influence policies and practices in the region.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/14/mexico-to-force-meta-tiktok-and-x-to-better-protect-minors-on-platform?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/15/costa-rica-opens-mega-prison-as-bukele-model-embraced-across-latin-america?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-attacks-disrupt-travel-plans-for-mecca-pilgrims?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss"
             }
           ]
         },
         {
           "title": "US inflation rises to 3.7% in September, affecting Republicans before midterms",
-          "body": "The U.S. inflation rate rose to 3.7% in September, according to the Bureau of Economic Analysis. This increase has raised concerns among Republicans, who are preparing for the midterms. The rise in inflation could impact economic policy and public sentiment in the coming months.",
-          "whyItMatters": "A rising inflation rate can influence political decisions and economic strategies, affecting both domestic and international markets.",
+          "body": "Inflation in the US rose to 3.7% in September, a key concern for Republicans who are preparing for the midterms. The rise in inflation has led to increased pressure on the government to take action, with some lawmakers calling for more aggressive monetary policies to curb the trend.",
+          "whyItMatters": "The rise in inflation could impact political strategies and economic policies in the US, influencing how lawmakers approach fiscal and monetary policy in the upcoming elections.",
           "sources": [
             {
               "name": "The Guardian Business",
@@ -125,8 +121,8 @@
         },
         {
           "title": "Bank of America fined $1.2 billion for money-laundering failures",
-          "body": "The Bank of America was fined $1.2 billion by the U.S. Department of Justice for money-laundering violations. The fine follows an investigation into the bank's financial practices and its role in facilitating illicit activities. This highlights the importance of financial regulation and corporate accountability.",
-          "whyItMatters": "This fine underscores the need for robust financial oversight and the consequences of non-compliance with anti-money laundering laws.",
+          "body": "Bank of America was fined $1.2 billion by the U.S. Department of Justice for money-laundering violations. The fine follows an investigation into the bank's operations, which raised concerns about financial transparency and regulatory compliance in the financial sector.",
+          "whyItMatters": "The fine highlights the importance of financial regulation and the need for banks to adhere to strict compliance standards to prevent illegal activities and protect consumers.",
           "sources": [
             {
               "name": "The Guardian Business",
@@ -136,7 +132,7 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-14T20:53:18.397Z"
+      "updatedAt": "2026-10-15T01:02:06.878Z"
     }
   }
 }
