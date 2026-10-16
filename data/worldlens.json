@@ -1,61 +1,69 @@
 {
-  "generatedAt": "2026-10-16T01:02:21.395Z",
+  "generatedAt": "2026-10-16T04:55:44.839Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers developments in regional conflicts, international relations, and global events impacting students.",
+      "kicker": "Global Events",
+      "summary": "Today's lens covers a range of international events, including school shootings, political tensions, and human rights issues.",
       "stories": [
         {
-          "title": "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns",
-          "body": "Iraq's parliament has approved the cabinet of former Prime Minister Fuad al-Zaidi, amid growing economic concerns. The approval comes as the country faces challenges in balancing political stability with economic recovery. The move is seen as a step toward restoring governance in a region marked by political turmoil.",
-          "whyItMatters": "The approval of a new cabinet could signal a shift in political dynamics, potentially affecting regional stability and economic recovery efforts.",
+          "title": "US Primary School Shooting Claims",
+          "body": "A US primary school in California saw three children and a teacher killed in a shooting. The incident occurred on October 15, 2026, and the BBC World and Al Jazeera outlets reported the event. The shooting was described as a tragic incident that has sparked discussions about school safety and violence.",
+          "whyItMatters": "The incident highlights the ongoing challenges of school safety and the need for improved measures to prevent such tragedies.",
+          "sources": [
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "China and Israel Dispute West Bank Settlements",
+          "body": "China has urged Israel to stop the 'forced establishment' of West Bank settlements, as reported by Al Jazeera. The dispute reflects broader tensions in the region, with both sides advocating for their interests and concerns over territorial integrity and displacement.",
+          "whyItMatters": "The dispute underscores the complex geopolitical dynamics in the Middle East and the impact of regional conflicts on civilian populations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/16/china-tells-israel-to-stop-forced-establishment-of-west-bank-settlements?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/residents-douse-workers-with-flaming-gasoline-during-eviction-in-peru?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Saudi Arabia blasts Houthi 'war crimes' and US warns on Saudi airports",
-          "body": "Saudi Arabia has accused Houthi rebels of war crimes, while the US has warned of potential security risks at its airports. The conflict in Yemen continues to impact regional stability and international relations, with both sides escalating tensions.",
-          "whyItMatters": "The escalating tensions in Yemen could affect regional security and international cooperation, particularly in the context of global efforts to stabilize conflict zones.",
+          "title": "Peru Eviction Violence and Human Rights Concerns",
+          "body": "In Peru, residents doused workers with flaming gasoline during an eviction, as reported by Al Jazeera. The incident highlights the risks of forced evictions and the potential for violence in the context of housing policies and economic pressures.",
+          "whyItMatters": "The incident raises concerns about the human rights implications of housing policies and the need for legal protections to prevent such violence.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
-          "body": "Two Syrian pipelines have been damaged due to a spate of attacks on energy infrastructure. This development highlights the vulnerability of critical energy systems in conflict zones and the potential impact on regional energy supply and economic stability.",
-          "whyItMatters": "The damage to energy infrastructure could disrupt regional energy markets and affect economic development in Syria, underscoring the importance of energy security in conflict-prone areas.",
-          "sources": [
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/residents-douse-workers-with-flaming-gasoline-during-eviction-in-peru?traffic_source=rss"
+            },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss"
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-16T01:02:21.395Z"
+      "updatedAt": "2026-10-16T04:55:44.839Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers advancements in technology, climate science, and biological research, highlighting both current developments and their potential impacts on society.",
+      "summary": "Today's lens covers advancements in technology, climate change, and scientific discoveries impacting global life.",
       "stories": [
         {
-          "title": "New technology to combat bad odors",
-          "body": "A BBC Science article reports that technology might help people live with the stench of decay. Researchers are developing sensors and odor-detection systems to help individuals manage unpleasant smells in their environment, potentially improving quality of life for those with sensitive noses or in areas with strong odors.",
-          "whyItMatters": "Advancements in odor detection could lead to more comfortable living environments and better health outcomes for individuals with sensory sensitivities.",
+          "title": "New technology to help reduce odor in homes",
+          "body": "A new study suggests that advanced filtration systems and smart sensors could help reduce the stench of decaying organic matter in homes. The research highlights the potential of technology to address environmental and health concerns.",
+          "whyItMatters": "This innovation could lead to more sustainable and healthier living environments for millions of people.",
           "sources": [
             {
               "name": "BBC Science",
@@ -64,10 +72,14 @@
           ]
         },
         {
-          "title": "Shift in timekeeping due to climate change",
-          "body": "A Nature article discusses how climate change is influencing how timekeepers adjust the time to avoid catastrophic 'negative second' errors. Scientists are exploring new methods to ensure accurate timekeeping in the face of changing environmental conditions.",
-          "whyItMatters": "Improved timekeeping is essential for global coordination, especially in fields like aviation, finance, and international communication.",
+          "title": "Shift in timekeeping due to Earth's acceleration",
+          "body": "Scientists have adopted a leap hour instead of the previously used leap second to account for the Earth's slowing rotation. This change aims to prevent disruptions in global timekeeping and digital systems.",
+          "whyItMatters": "This adjustment ensures more accurate and consistent time measurements across different regions and technologies.",
           "sources": [
+            {
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/science/2026/oct/15/times-up-for-the-leap-second-as-scientists-swap-it-for-the-leap-hour"
+            },
             {
               "name": "Nature",
               "url": "https://www.nature.com/articles/d41586-026-03329-z"
@@ -76,8 +88,8 @@
         },
         {
           "title": "Fungus threatens global food supply",
-          "body": "A ScienceDaily report highlights a fungus that is threatening the world’s food supply. Scientists have identified a new defense mechanism that could help combat the fungus, offering hope for protecting crops and food sources worldwide.",
-          "whyItMatters": "Understanding and combating fungal threats is critical for food security and agricultural sustainability.",
+          "body": "A new fungus has been identified as a potential threat to global food production. Scientists have discovered a new defense mechanism that could help combat the fungus and protect crops.",
+          "whyItMatters": "This discovery could lead to new strategies to safeguard food supplies and reduce agricultural risks.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -87,52 +99,48 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-16T01:02:21.395Z"
+      "updatedAt": "2026-10-16T04:55:44.839Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers global economic developments, including political tensions, technological advancements, and financial market trends.",
+      "summary": "Today's lens covers a mix of economic developments, political tensions, and technological trends impacting global markets and societies.",
       "stories": [
         {
-          "title": "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns",
-          "body": "Iraq's parliament has approved the cabinet of former Prime Minister Najdan al-Zaidi, marking a significant step in the country's political transition. The approval comes amid growing economic concerns, including inflation and energy sector instability. The move is seen as a response to the country's economic challenges and the need for a stable leadership structure.",
-          "whyItMatters": "The approval of a new cabinet could influence Iraq's economic policies and stability in the coming months.",
+          "title": "China warns Israel against forced settlement expansion",
+          "body": "China has urged Israel to stop the 'forced establishment' of West Bank settlements, citing concerns over regional stability and human rights. The statement comes amid growing tensions in the Middle East, with both sides emphasizing the importance of peaceful dispute resolution.",
+          "whyItMatters": "China's intervention highlights the complex interplay between regional security, human rights, and geopolitical dynamics.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/16/china-tells-israel-to-stop-forced-establishment-of-west-bank-settlements?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
-          "body": "The tech market experienced a sell-off as investors grew concerned about US inflation and the debt associated with artificial intelligence (AI) development. The decline in stock prices reflects broader economic fears and the impact of rising inflation on consumer spending and corporate investment.",
-          "whyItMatters": "The sell-off highlights the vulnerability of the tech sector to macroeconomic factors and underscores the importance of managing inflation and debt in the global economy.",
+          "title": "Peru residents face eviction and use flammable gasoline",
+          "body": "In Peru, residents have doused workers with flammable gasoline during an eviction, raising concerns about labor rights and safety in the country's growing informal sector. The incident underscores the challenges faced by workers in unstable economic environments.",
+          "whyItMatters": "The use of flammable substances during evictions highlights the risks and tensions in labor markets across developing nations.",
           "sources": [
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/residents-douse-workers-with-flaming-gasoline-during-eviction-in-peru?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Bank of America fined $1.2bn for money-laundering failures",
-          "body": "Bank of America was fined $1.2 billion by the U.S. Department of Justice for money-laundering violations. The fine follows investigations into the bank's operations, which raised concerns about financial transparency and the risks associated with large financial institutions.",
-          "whyItMatters": "The fine highlights the importance of financial regulation and the potential consequences of non-compliance with anti-money laundering laws.",
+          "title": "US inflation rises to 3.7% as economy faces challenges",
+          "body": "US inflation reached 3.7% in September, a significant rise that has fueled concerns about economic stability. The situation is compounded by rising living costs and political polarization, with voters expressing dissatisfaction with the economy ahead of midterm elections.",
+          "whyItMatters": "The rise in inflation and economic concerns could shape political outcomes and policy decisions in the US.",
           "sources": [
             {
               "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering"
+              "url": "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-16T01:02:21.395Z"
+      "updatedAt": "2026-10-16T04:55:44.839Z"
     }
   }
 }
