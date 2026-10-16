@@ -1,110 +1,113 @@
 {
-  "generatedAt": "2026-10-16T08:57:22.900Z",
+  "generatedAt": "2026-10-16T13:07:46.182Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of international developments, technological innovations, and human rights issues, highlighting the complexity of global affairs.",
+      "kicker": "Global Brief",
+      "summary": "Today's lens covers a range of international events, including political tensions, humanitarian crises, and global economic developments.",
       "stories": [
         {
-          "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
-          "body": "President Vladimir Zelensky has secured increased support from the European Union, following Trump's criticism of his leadership style. Trump accused Zelensky of being 'more difficult to deal with than Putin,' highlighting the geopolitical tensions between the US and Ukraine. The EU's backing underscores the importance of diplomatic relations in the current global landscape.",
-          "whyItMatters": "The EU's support for Zelensky reflects the growing influence of international alliances in shaping political outcomes.",
+          "title": "Cyprus hotel fall leads to fine",
+          "body": "A father was fined after his son, aged 2, died in a hotel fall in Cyprus. The incident highlights ongoing concerns about safety standards and child protection in public spaces. The fine underscores the importance of accountability in ensuring child safety in tourist destinations.",
+          "whyItMatters": "The incident raises awareness about the need for improved safety measures in public spaces, particularly for young children.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/features/2026/10/16/an-easy-target-how-israel-is-embedding-itself-in-the-cypriot-state?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
-          "body": "China has urged Israel to cease the 'forced establishment' of West Bank settlements, emphasizing the need for peaceful coexistence and adherence to international law. This development highlights the ongoing tensions between Israel and its Arab neighbors, particularly in the context of territorial disputes and regional stability.",
-          "whyItMatters": "The call for halting settlement activities underscores the delicate balance between peace and territorial claims in the Middle East.",
-          "sources": [
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Alone in Gaza: Genocide leaves Palestinian man without family or a home",
-          "body": "A Palestinian man in Gaza has been left without family or a home, describing the situation as a 'genocide.' The incident highlights the humanitarian crisis and the impact of conflict on civilian populations. The situation reflects the broader challenges of sustaining peace and stability in a volatile region.",
-          "whyItMatters": "The plight of civilians in conflict zones underscores the importance of addressing humanitarian crises and promoting peace in fragile regions.",
+          "title": "Pro-Nazi chants before Ajax match",
+          "body": "Croatia's leaders condemned pro-Nazi chants before a football match, highlighting the country's efforts to combat extremist ideologies and promote national unity. The event reflects the broader struggle against far-right movements in Europe.",
+          "whyItMatters": "The condemnation of extremist rhetoric underscores the importance of addressing far-right ideologies to maintain social cohesion and stability.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/features/2026/10/16/alone-in-gaza-genocide-leaves-palestinian-man-without-family-or-a-home?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/10/16/pro-nazi-chants-ahead-of-ajax-match-slammed-by-croatia-leaders?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Fuel tanker fire in Nigeria",
+          "body": "A fuel tanker fire destroyed part of a market in southern Nigeria, causing significant disruption to local economy and safety concerns. The incident highlights the risks associated with fuel storage and the need for improved infrastructure and safety protocols.",
+          "whyItMatters": "The fire demonstrates the importance of addressing infrastructure risks to prevent economic and safety disruptions in vulnerable regions.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/fuel-tanker-fire-engulfs-market-in-southern-nigeria?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-16T08:57:22.900Z"
+      "updatedAt": "2026-10-16T13:07:46.182Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers advancements in technology, climate change, and scientific discoveries impacting global communities.",
+      "kicker": "ScienceDaily",
+      "summary": "Today's lens covers scientific advancements, environmental changes, and technological developments impacting students and the global community.",
       "stories": [
         {
-          "title": "New technology to help reduce odor in homes",
-          "body": "A new study from the BBC Science team suggests that advanced filtration systems and smart sensors could help reduce unpleasant smells in homes. The technology aims to monitor and adjust air quality in real-time, potentially improving living conditions for those affected by indoor odors.",
-          "whyItMatters": "This innovation could lead to more comfortable and healthier living environments for people around the world.",
+          "title": "Uranium cubes reveal Nazi Germany's nuclear failure",
+          "body": "A study published in ScienceDaily reveals that uranium cubes from Nazi Germany, which were never used in nuclear weapons, were analyzed for their composition. The findings suggest that the German nuclear program was ultimately abandoned due to technical challenges and ethical considerations, providing insight into the history of nuclear science and its development.",
+          "whyItMatters": "This discovery highlights the complexities of nuclear research and the ethical dilemmas faced during the development of nuclear technology.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261015073218.htm"
             }
           ]
         },
         {
-          "title": "Shift in timekeeping due to Earth's acceleration",
-          "body": "Scientists have adopted a leap hour instead of a leap second to account for the Earth's slowing rotation. This change aims to prevent issues with timekeeping and ensure consistency in global time zones.",
-          "whyItMatters": "This adjustment reflects the ongoing efforts to refine timekeeping standards and address the complexities of Earth's changing rotation rates.",
+          "title": "NASA captures strange waves high above Hurricane Simon",
+          "body": "NASA's satellites captured unusual atmospheric waves above Hurricane Simon, offering new data on storm dynamics and weather patterns. These observations could improve hurricane prediction models and enhance our understanding of extreme weather events.",
+          "whyItMatters": "This research could lead to better forecasting tools for severe weather, which is crucial for disaster preparedness and climate resilience.",
           "sources": [
             {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/oct/15/times-up-for-the-leap-second-as-scientists-swap-it-for-the-leap-hour"
-            },
-            {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/d41586-026-03329-z"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261015073207.htm"
             }
           ]
         },
         {
-          "title": "Fungus threatens global food supply",
-          "body": "A new study from ScienceDaily highlights a fungus that is threatening the world's food supply. Scientists have identified a potential defense mechanism that could help combat the fungus, offering hope for protecting crops and food sources worldwide.",
-          "whyItMatters": "Understanding and developing defenses against such pathogens is critical for ensuring food security and agricultural sustainability.",
+          "title": "Cancer protein could also fight cancer",
+          "body": "A study published in ScienceDaily identifies a protein that fuels cancer growth, but also suggests it may have potential as a treatment. Researchers are exploring its role in cancer biology and its therapeutic applications, offering new hope for cancer patients.",
+          "whyItMatters": "This breakthrough could lead to novel cancer therapies, improving treatment options and patient outcomes.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261014015501.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261014015457.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261015073203.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-16T08:57:22.900Z"
+      "updatedAt": "2026-10-16T13:07:46.182Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including tax hikes, tech market trends, inflation concerns, and political impacts.",
+      "summary": "Today's lens covers economic developments, including fuel tanker fires, tax expectations, and tech market sell-offs, while highlighting geopolitical tensions and consumer trends.",
       "stories": [
         {
-          "title": "Banks expect higher taxes",
-          "body": "BBC Business reports that banks anticipate higher taxes in the upcoming budget, potentially affecting their profitability. This development could influence investment decisions and consumer behavior, as businesses may adjust their strategies to comply with new regulations.",
-          "whyItMatters": "Higher taxes could impact corporate profits and consumer spending, influencing economic policy and market dynamics.",
+          "title": "Fuel tanker fire engulfs market in southern Nigeria",
+          "body": "A fuel tanker fire engulfed a market in southern Nigeria, causing significant disruption and potential economic losses. The incident highlights the risks associated with fuel storage and transportation, and the impact on local economies.",
+          "whyItMatters": "The incident underscores the importance of infrastructure safety and the potential economic consequences of such accidents.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/fuel-tanker-fire-engulfs-market-in-southern-nigeria?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Banks expect higher taxes in Budget",
+          "body": "British banks are expected to face higher taxes in the upcoming Budget, reflecting growing concerns about financial regulation and economic stability. This development may influence consumer behavior and corporate financial planning.",
+          "whyItMatters": "Higher taxes could impact consumer spending and business investment, influencing the broader economic landscape.",
           "sources": [
             {
               "name": "BBC Business",
@@ -113,30 +116,19 @@
           ]
         },
         {
-          "title": "Tesla unveils flying car",
-          "body": "Al Jazeera reports that Tesla has unveiled a car capable of driving upside down and jumping through the air. This innovation could revolutionize transportation, but its practical implementation and regulatory approval remain uncertain.",
-          "whyItMatters": "A flying car could redefine urban mobility, but its success depends on technological feasibility and regulatory approval.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/10-16-tesla-flying-car-clip?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "US inflation rises to 3.7%",
-          "body": "The Guardian reports that US inflation rose to 3.7% in September, a key concern for policymakers and investors. This increase could impact consumer spending, employment, and economic growth, particularly for those in lower-income brackets.",
-          "whyItMatters": "High inflation can lead to reduced purchasing power and increased unemployment, affecting overall economic stability and consumer confidence.",
+          "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
+          "body": "The tech market experienced a sell-off as investors grew concerned about US inflation and AI-related debt. This trend reflects broader economic uncertainties and the impact of global economic conditions on technology sectors.",
+          "whyItMatters": "The sell-off highlights the sensitivity of technology stocks to macroeconomic factors and the potential for future market shifts.",
           "sources": [
             {
               "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september"
+              "url": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-16T08:57:22.900Z"
+      "updatedAt": "2026-10-16T13:07:46.182Z"
     }
   }
 }
