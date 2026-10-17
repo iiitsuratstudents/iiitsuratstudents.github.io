@@ -1,154 +1,142 @@
 {
-  "generatedAt": "2026-10-17T12:57:25.519Z",
+  "generatedAt": "2026-10-17T16:49:11.295Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of geopolitical tensions, protests, and human rights issues, highlighting the complex interplay of regional conflicts, social movements, and international relations.",
+      "kicker": "Global Brief",
+      "summary": "Today's lens covers a mix of political developments, cultural events, and international news, highlighting key moments that could impact students globally.",
       "stories": [
         {
-          "title": "Israeli Rabbi Ruling Sparks Protests",
-          "body": "A hardline Israeli rabbi issued a ruling against the theft of Palestinian olives, prompting widespread outrage. The ruling, which emphasized the importance of justice and fairness, drew attention to the ongoing tensions between Israeli and Palestinian communities. The incident highlights the sensitivity of religious and cultural issues in the region.",
-          "whyItMatters": "The ruling underscores the complex interplay of religious beliefs and political tensions in the Middle East.",
+          "title": "Protests in France",
+          "body": "In France, widespread protests have erupted over rising living costs, with buildings and cars set on fire. The unrest reflects deep societal tensions and economic pressures, raising concerns about public safety and governance.",
+          "whyItMatters": "The growing unrest in France highlights the challenges of balancing economic stability with social cohesion in modern societies.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr?traffic_source=rss"
             },
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/10/17/neto-brace-fires-chelsea-past-everton-but-martinez-head-injury-mars-win?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "France Faces Nationwide Protests",
-          "body": "France is dealing with a new wave of nationwide protests, with the 'yellow vests' movement set to join. The protests are fueled by economic grievances and calls for social justice. The situation reflects broader tensions in French society and the impact of global economic shifts on local communities.",
-          "whyItMatters": "The protests highlight the growing influence of social movements on political discourse and the role of economic factors in shaping public sentiment.",
+          "title": "Pope Leo's Recovery",
+          "body": "Pope Leo leaves the hospital after undergoing lung cancer surgery, marking a significant personal milestone for the Catholic Church. His recovery underscores the resilience of religious leaders and the importance of health in public life.",
+          "whyItMatters": "The Pope's health and recovery reflect the intersection of personal and institutional challenges in global religious leadership.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Strait of Hormuz Tensions Intensify",
-          "body": "Both the United States and Iran claim control of the Strait of Hormuz amid attacks on vessels. The dispute over maritime sovereignty and resource access reflects broader geopolitical tensions in the region. The situation underscores the strategic importance of key maritime routes and the impact of regional conflicts on global trade and security.",
-          "whyItMatters": "The tensions in the Strait of Hormuz highlight the critical role of maritime routes in global trade and the potential for escalation in regional conflicts.",
+          "title": "Legal Battle in the US",
+          "body": "In the US, legal proceedings are ongoing regarding property seized in a house raid, with lawyers demanding its return. This case highlights the complexities of legal processes and the impact of judicial decisions on individuals and communities.",
+          "whyItMatters": "The legal battle over property rights underscores the importance of due process and the role of law in protecting individual freedoms.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/russian-strikes-kill-civilians-injure-dozens-across-ukraine?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/17/ilhan-omars-lawyers-demand-the-return-of-property-seized-in-house-raid?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-17T12:57:25.519Z"
+      "updatedAt": "2026-10-17T16:49:11.295Z"
     },
     "science": {
-      "kicker": "Science",
-      "summary": "Today's lens covers a range of scientific developments, from environmental changes to technological breakthroughs and ethical concerns.",
+      "kicker": "ScienceDaily",
+      "summary": "Today's lens covers advancements in space exploration, biological research, environmental issues, and technological innovations.",
       "stories": [
         {
-          "title": "Avian flu and economic impact",
-          "body": "The BBC reports that avian flu is among the reasons for the loss of captive birds at Castle Espie. This highlights the ongoing challenges in managing wildlife populations and the potential economic impacts of such diseases.",
-          "whyItMatters": "The loss of captive birds due to avian flu underscores the importance of disease management and conservation efforts in wildlife populations.",
+          "title": "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
+          "body": "NASA’s Roman Space Telescope, designed to survey the sky for exoplanets and cosmic events, exceeded its initial expectations by nearly 30%. The telescope, which is part of the James Webb Space Telescope program, has already captured stunning images of distant galaxies and exoplanets, providing valuable data for astrophysics research.",
+          "whyItMatters": "This advancement could enhance our understanding of the universe and support future space exploration missions.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c6m24e1ln130o?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm"
             }
           ]
         },
         {
-          "title": "Brazil's Amazon deforestation",
-          "body": "Brazil sees a record fall in Amazon deforestation as key election looms. This reflects the critical role of environmental policies and public awareness in preserving the Amazon rainforest.",
-          "whyItMatters": "The decline in deforestation rates highlights the importance of sustainable practices and political commitment to environmental protection.",
+          "title": "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain",
+          "body": "A recent study revealed that deep sleep plays a crucial role in muscle repair, fat burning, and brain function. During deep sleep, the body produces growth hormones and other compounds that aid in recovery and overall health. This finding could have implications for improving sleep quality and health outcomes.",
+          "whyItMatters": "Understanding the role of deep sleep could lead to better strategies for maintaining physical and mental well-being.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261016081140.htm"
             }
           ]
         },
         {
-          "title": "California wildfire and evacuation orders",
-          "body": "A fast-moving California wildfire has led to evacuation orders, emphasizing the increasing frequency and intensity of wildfires due to climate change and human activities.",
-          "whyItMatters": "The impact of wildfires underscores the need for climate resilience and effective disaster response strategies.",
+          "title": "Spacex delivers strange cargo to the International Space Station",
+          "body": "SpaceX successfully delivered some unusual items to the International Space Station, including experimental equipment and materials. These deliveries could contribute to advancements in space research and technology, offering new possibilities for future space missions.",
+          "whyItMatters": "This delivery highlights the ongoing innovation in space technology and its potential impact on future space exploration.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261016070628.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-17T12:57:25.519Z"
+      "updatedAt": "2026-10-17T16:49:11.295Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of global economic developments, protests, and technological news, highlighting the impact of geopolitical tensions, economic policies, and technological advancements.",
+      "summary": "Today's lens covers a mix of economic developments, protests, and global events impacting students.",
       "stories": [
         {
-          "title": "Israeli rabbi ruling on stolen olives sparks controversy",
-          "body": "A hardline Israeli rabbi issued a ruling condemning the theft of Palestinian olives, prompting widespread debate and outrage. The ruling highlights tensions between Israeli and Palestinian communities, and the role of religious leaders in shaping public discourse.",
-          "whyItMatters": "The ruling underscores the complex interplay between religious authority, territorial disputes, and cultural identity in the region.",
+          "title": "Protests in France over rising costs",
+          "body": "In France, protests erupted as citizens demanded lower living costs, with buildings and cars set on fire. The unrest reflects growing economic tensions and dissatisfaction with rising prices. The situation highlights the impact of inflation and economic disparity on public sentiment.",
+          "whyItMatters": "Economic inequality and rising living costs are increasingly affecting public stability and social cohesion.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/10/17/neto-brace-fires-chelsea-past-everton-but-martinez-head-injury-mars-win?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "France faces new wave of protests",
-          "body": "France is witnessing a new wave of nationwide protests, with the 'yellow vests' movement set to join. The protests are driven by concerns over economic inequality, rising living costs, and political dissatisfaction, reflecting broader societal tensions in the country.",
-          "whyItMatters": "The protests highlight the growing demand for economic reform and social justice in France, emphasizing the need for inclusive policy-making.",
+          "title": "Tunisia's protests against authoritarian rule",
+          "body": "In Tunisia, thousands gathered for the largest protest in years, demanding political reform and an end to authoritarian rule. The demonstration underscores the ongoing struggle for democratic governance and the role of civil society in shaping political change.",
+          "whyItMatters": "Protests and demands for political reform highlight the importance of civic engagement and the challenges of maintaining democratic institutions.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Strait of Hormuz tensions intensify",
-          "body": "The US and Iran both claim control of the Strait of Hormuz, with reports of attacks on vessels. This escalation in maritime tensions could impact global oil trade and regional stability, particularly as oil exports become more vulnerable to geopolitical conflicts.",
-          "whyItMatters": "The ongoing tensions in the Strait of Hormuz highlight the critical role of maritime security in global energy markets and the potential for wider geopolitical consequences.",
+          "title": "Corporate lobbying and environmental impact",
+          "body": "US corporate lobbyists intensified their efforts to influence the EU's deforestation law, raising concerns about environmental protection and corporate influence. The issue reflects the tension between economic interests and environmental sustainability.",
+          "whyItMatters": "Corporate lobbying and environmental policies highlight the complex interplay between economic growth and ecological responsibility.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation"
             },
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/environment/2026/oct/16/vw-ford-tesla-batteries-deforestation-indigenous-lands"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-17T12:57:25.519Z"
+      "updatedAt": "2026-10-17T16:49:11.295Z"
     }
   }
 }
