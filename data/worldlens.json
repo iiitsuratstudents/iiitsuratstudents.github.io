@@ -1,142 +1,146 @@
 {
-  "generatedAt": "2026-10-17T16:49:11.295Z",
+  "generatedAt": "2026-10-17T20:47:18.378Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of political developments, cultural events, and international news, highlighting key moments that could impact students globally.",
+      "summary": "Today's lens covers a range of global events, including protests, violence, and political developments, highlighting the complexity of contemporary geopolitics.",
       "stories": [
         {
-          "title": "Protests in France",
-          "body": "In France, widespread protests have erupted over rising living costs, with buildings and cars set on fire. The unrest reflects deep societal tensions and economic pressures, raising concerns about public safety and governance.",
-          "whyItMatters": "The growing unrest in France highlights the challenges of balancing economic stability with social cohesion in modern societies.",
+          "title": "Al Jazeera Reporter Harassed During Protests in France",
+          "body": "A Al Jazeera reporter was harassed and struck on the head during protests in France, with reports of looting. The incident highlights tensions in public demonstrations and the potential for violence in politically charged environments.",
+          "whyItMatters": "This incident underscores the risks associated with public protests and the potential for conflict in diverse societies.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reporter-harassed-struck-on-head-amid-france-protests-looting?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/17/neto-brace-fires-chelsea-past-everton-but-martinez-head-injury-mars-win?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Pope Leo's Recovery",
-          "body": "Pope Leo leaves the hospital after undergoing lung cancer surgery, marking a significant personal milestone for the Catholic Church. His recovery underscores the resilience of religious leaders and the importance of health in public life.",
-          "whyItMatters": "The Pope's health and recovery reflect the intersection of personal and institutional challenges in global religious leadership.",
+          "title": "Iranian TV Airstreams Video of Tanker Explosion in Hormuz",
+          "body": "Iranian TV aired a video purported to show a tanker explosion in Hormuz, raising concerns about maritime security and the potential for conflict in the Persian Gulf. The video's authenticity remains uncertain, but it highlights the region's geopolitical tensions.",
+          "whyItMatters": "This event reflects the ongoing instability in the Persian Gulf and the potential for conflict over maritime resources and security.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Legal Battle in the US",
-          "body": "In the US, legal proceedings are ongoing regarding property seized in a house raid, with lawyers demanding its return. This case highlights the complexities of legal processes and the impact of judicial decisions on individuals and communities.",
-          "whyItMatters": "The legal battle over property rights underscores the importance of due process and the role of law in protecting individual freedoms.",
+          "title": "At Least 17 Killed in Stampede at Religious Gathering in India",
+          "body": "At least 17 people were killed in a stampede at a religious gathering in India, raising concerns about public safety and the management of large-scale events. The incident highlights the risks associated with mass gatherings and the need for careful planning and safety measures.",
+          "whyItMatters": "This event underscores the importance of public safety and the need for effective risk management in large-scale gatherings.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/17/ilhan-omars-lawyers-demand-the-return-of-property-seized-in-house-raid?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-17T16:49:11.295Z"
+      "updatedAt": "2026-10-17T20:47:18.378Z"
     },
     "science": {
-      "kicker": "ScienceDaily",
-      "summary": "Today's lens covers advancements in space exploration, biological research, environmental issues, and technological innovations.",
+      "kicker": "Science & Nature",
+      "summary": "Today's lens covers a mix of scientific advancements, environmental concerns, and technological developments.",
       "stories": [
         {
-          "title": "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
-          "body": "NASA’s Roman Space Telescope, designed to survey the sky for exoplanets and cosmic events, exceeded its initial expectations by nearly 30%. The telescope, which is part of the James Webb Space Telescope program, has already captured stunning images of distant galaxies and exoplanets, providing valuable data for astrophysics research.",
-          "whyItMatters": "This advancement could enhance our understanding of the universe and support future space exploration missions.",
+          "title": "Wildfires in California",
+          "body": "A fast-moving wildfire in California has burned homes and forced people to evacuate. The fire is part of a broader trend of increasing wildfire activity due to climate change and dry conditions.",
+          "whyItMatters": "Understanding climate change impacts is crucial for developing effective disaster response strategies.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/c6m24e1ln130o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "NASA’s Roman Space Telescope",
+          "body": "NASA’s Roman Space Telescope has exceeded expectations, with significant advancements in its design and capabilities. The telescope is set to revolutionize our understanding of the universe.",
+          "whyItMatters": "Advancements in space telescopes can lead to new discoveries and improve our ability to explore the cosmos.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm"
-            }
-          ]
-        },
-        {
-          "title": "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain",
-          "body": "A recent study revealed that deep sleep plays a crucial role in muscle repair, fat burning, and brain function. During deep sleep, the body produces growth hormones and other compounds that aid in recovery and overall health. This finding could have implications for improving sleep quality and health outcomes.",
-          "whyItMatters": "Understanding the role of deep sleep could lead to better strategies for maintaining physical and mental well-being.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261016081140.htm"
-            }
-          ]
-        },
-        {
-          "title": "Spacex delivers strange cargo to the International Space Station",
-          "body": "SpaceX successfully delivered some unusual items to the International Space Station, including experimental equipment and materials. These deliveries could contribute to advancements in space research and technology, offering new possibilities for future space missions.",
-          "whyItMatters": "This delivery highlights the ongoing innovation in space technology and its potential impact on future space exploration.",
-          "sources": [
+            },
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/10/261016070628.htm"
             }
           ]
+        },
+        {
+          "title": "Brain Cells and Cognitive Decline",
+          "body": "Research suggests that brain cells meant to protect us may be contributing to cognitive decline. This finding highlights the complex relationship between brain health and aging.",
+          "whyItMatters": "Understanding the mechanisms of cognitive decline can lead to better strategies for maintaining brain health in older adults.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261015073222.htm"
+            },
+            {
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03303-9"
+            }
+          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-17T16:49:11.295Z"
+      "updatedAt": "2026-10-17T20:47:18.378Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, protests, and global events impacting students.",
+      "summary": "Today's lens covers a mix of global economic developments, including corporate lobbying, environmental impacts, and political tensions.",
       "stories": [
         {
-          "title": "Protests in France over rising costs",
-          "body": "In France, protests erupted as citizens demanded lower living costs, with buildings and cars set on fire. The unrest reflects growing economic tensions and dissatisfaction with rising prices. The situation highlights the impact of inflation and economic disparity on public sentiment.",
-          "whyItMatters": "Economic inequality and rising living costs are increasingly affecting public stability and social cohesion.",
+          "title": "Albanian Police Use Rubber Bullets During Protests",
+          "body": "Albanian police used rubber bullets during protests against Rama, a political figure, in response to public unrest. The incident highlights ongoing tensions between government and citizens in the country.",
+          "whyItMatters": "The use of force during protests raises concerns about civil liberties and the impact of political demonstrations on public safety.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/17/neto-brace-fires-chelsea-past-everton-but-martinez-head-injury-mars-win?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Tunisia's protests against authoritarian rule",
-          "body": "In Tunisia, thousands gathered for the largest protest in years, demanding political reform and an end to authoritarian rule. The demonstration underscores the ongoing struggle for democratic governance and the role of civil society in shaping political change.",
-          "whyItMatters": "Protests and demands for political reform highlight the importance of civic engagement and the challenges of maintaining democratic institutions.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Corporate lobbying and environmental impact",
-          "body": "US corporate lobbyists intensified their efforts to influence the EU's deforestation law, raising concerns about environmental protection and corporate influence. The issue reflects the tension between economic interests and environmental sustainability.",
-          "whyItMatters": "Corporate lobbying and environmental policies highlight the complex interplay between economic growth and ecological responsibility.",
+          "title": "US Corporate Lobbyists Target EU Deforestation Law",
+          "body": "US corporate lobbyists launched a 'blitz' to weaken a landmark EU deforestation law, as they seek to limit environmental regulations that could affect their operations.",
+          "whyItMatters": "The battle over environmental regulations highlights the influence of corporate lobbying on policy-making and the potential impact on global sustainability efforts.",
           "sources": [
             {
               "name": "The Guardian Business",
               "url": "https://www.theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation"
-            },
+            }
+          ]
+        },
+        {
+          "title": "Ship Attacks Near Hormuz Reach Record High",
+          "body": "Reports of ship attacks near Hormuz, the strategic oil hub, have reached record levels, raising concerns about the stability of global oil supply and potential geopolitical tensions.",
+          "whyItMatters": "The rise in ship attacks near critical oil infrastructure underscores the vulnerability of global energy markets and the risks associated with maritime security.",
+          "sources": [
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/environment/2026/oct/16/vw-ford-tesla-batteries-deforestation-indigenous-lands"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-17T16:49:11.295Z"
+      "updatedAt": "2026-10-17T20:47:18.378Z"
     }
   }
 }
