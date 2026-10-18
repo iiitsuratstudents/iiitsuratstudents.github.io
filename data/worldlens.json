@@ -1,73 +1,65 @@
 {
-  "generatedAt": "2026-10-18T16:49:45.591Z",
+  "generatedAt": "2026-10-18T20:47:23.534Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of geopolitical events, including military confrontations, protests, and international reactions, highlighting the complex interplay of conflict, diplomacy, and regional tensions.",
+      "summary": "Today's lens covers a mix of geopolitical tensions, protests, and incidents across different regions, highlighting the complexities of global events.",
       "stories": [
         {
-          "title": "Taiwan drives away 16 Chinese ships",
-          "body": "On October 18, 2026, Taiwan claimed to have driven away 16 Chinese ships in the South China Sea, citing accusations of maritime harassment. The incident occurred amid heightened tensions in the region, with both sides engaging in a tense standoff over territorial claims and maritime rights.",
-          "whyItMatters": "The incident underscores the growing militarization of maritime disputes and the strategic importance of the South China Sea in global geopolitics.",
+          "title": "France's Political Turmoil",
+          "body": "French President Macron condemned nationwide riots and looting, calling for calm and order. The unrest, which began in Paris, has spread to other cities, with reports of violence and property damage. Macron's response reflects growing public frustration over social and economic issues.",
+          "whyItMatters": "The escalating violence in France underscores the challenges of maintaining stability in politically volatile regions.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "European diplomats attacked by Israeli settlers",
-          "body": "In a violent incident, Israeli settlers attacked European diplomats in the occupied West Bank, marking a escalation in tensions between Israel and the West Bank. The attack occurred during a period of heightened conflict, with both sides engaging in a cycle of violence and diplomatic clashes.",
-          "whyItMatters": "The attack highlights the ongoing conflict in the West Bank and the broader challenges of maintaining peace in regions affected by ongoing violence and territorial disputes.",
+          "title": "Albanian Supreme Court Fire",
+          "body": "A fire broke out at Albania’s Supreme Court, marking the fifth day of protests. The incident has sparked widespread concern about the government's ability to manage public unrest and maintain order in the country.",
+          "whyItMatters": "The prolonged protests and the resulting fire highlight the risks of social instability and the need for effective governance in volatile regions.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Albanian protests intensify as violence continues",
-          "body": "In Albania, violent protests have intensified as the government refuses to resign, with demonstrators demanding political reform. The situation has been exacerbated by a wave of anti-government protests, leading to widespread unrest and calls for accountability.",
-          "whyItMatters": "The protests reflect the deepening political and social tensions in Albania and the broader challenges of governance and public dissent in the region.",
+          "title": "Canadian Military Base Fire",
+          "body": "A deadly fire at a Canadian military base in Alberta resulted in four deaths and injuries. The incident raises concerns about safety and management practices in military installations, particularly in regions experiencing social and political unrest.",
+          "whyItMatters": "The fire underscores the importance of safety protocols and the impact of regional instability on critical infrastructure.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily?traffic_source=rss"
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright"
             },
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-18T16:49:45.591Z"
+      "updatedAt": "2026-10-18T20:47:23.534Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens highlights recent scientific discoveries, environmental concerns, and technological advancements.",
+      "kicker": "Science & Nature",
+      "summary": "Today's lens covers recent scientific discoveries, environmental updates, and cultural highlights.",
       "stories": [
         {
           "title": "Fuel leak spreads more than two miles along River Taff",
-          "body": "A fuel leak has spread more than two miles along the River Taff, raising concerns about environmental and public safety. The incident occurred in the UK, and authorities are investigating the cause and potential impact on local ecosystems and communities.",
-          "whyItMatters": "This incident underscores the importance of monitoring and managing hazardous material spills to prevent environmental and health risks.",
+          "body": "A fuel leak has spread more than two miles along River Taff, raising concerns about environmental and public safety. The incident, observed by BBC Science, highlights the potential risks of fuel spills and the importance of environmental monitoring.",
+          "whyItMatters": "This incident underscores the need for improved infrastructure and emergency response protocols to prevent similar incidents.",
           "sources": [
             {
               "name": "BBC Science",
@@ -77,8 +69,8 @@
         },
         {
           "title": "Scientists discover a natural compound that could protect the brain from too much salt",
-          "body": "A new compound has been identified that may help protect the brain from the harmful effects of excessive salt. The discovery could have implications for dietary health and the development of new treatments for salt-related disorders.",
-          "whyItMatters": "This finding could lead to new approaches in managing salt intake and improving public health.",
+          "body": "A new compound has been identified that may help protect the brain from excessive salt intake. This discovery, reported by ScienceDaily, could have implications for dietary health and the treatment of salt-related disorders.",
+          "whyItMatters": "This finding could lead to new approaches in managing salt consumption and related health conditions.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -88,8 +80,8 @@
         },
         {
           "title": "Physicists create a bizarre new quantum state called a fractional fermi sea",
-          "body": "Physicists have created a new quantum state called a fractional fermi sea, a phenomenon that challenges current theories of quantum mechanics. This discovery could lead to advancements in understanding quantum systems and potential applications in technology.",
-          "whyItMatters": "This breakthrough may revolutionize our understanding of quantum physics and inspire new technologies in the future.",
+          "body": "Physicists have created a new quantum state called a fractional fermi sea, a phenomenon that challenges current theories of quantum mechanics. This discovery, reported by ScienceDaily, opens up new avenues for research in quantum physics.",
+          "whyItMatters": "This breakthrough could lead to advancements in understanding quantum systems and their potential applications in technology and materials science.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -99,48 +91,60 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-18T16:49:45.591Z"
+      "updatedAt": "2026-10-18T20:47:23.534Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers global economic developments, including military tensions, political unrest, and business news.",
+      "summary": "Today's lens covers global economic developments, including protests in Albania, political reactions in France, and discussions on youth-led protests in Europe, alongside business and environmental topics.",
       "stories": [
         {
-          "title": "Taiwan drives away 16 Chinese ships",
-          "body": "Taiwan has driven away 16 Chinese ships accused of maritime harassment, marking a significant escalation in regional tensions. The incident highlights ongoing disputes over maritime boundaries and security concerns in the South China Sea.",
-          "whyItMatters": "This event underscores the complex geopolitical dynamics in the region, affecting regional stability and international relations.",
+          "title": "Albania’s Supreme Court Fire",
+          "body": "Albania’s Supreme Court was engulfed in fire on Sunday, marking the fifth day of protests. The incident has sparked widespread concern about the stability of the country and the potential impact on its judiciary. The fire occurred amid ongoing demonstrations, which have been linked to broader social and political tensions.",
+          "whyItMatters": "The fire highlights the risks associated with large-scale protests and the potential for violence in regions experiencing political unrest.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/whats-behind-europes-youth-protests?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Albanian protests intensify as PM refuses to resign",
-          "body": "Albanian protesters have escalated their demands, leading to violent clashes with police in Tirana. The situation reflects deep political and social tensions in the country, with the prime minister refusing to resign despite the unrest.",
-          "whyItMatters": "The protests highlight the challenges of governance and the impact of political instability on public safety and economic development.",
+          "title": "Macron Denounces France’s Nationwide Rioting",
+          "body": "French President Emmanuel Macron condemned the nationwide rioting and looting in France, calling it a reflection of deep societal discontent. The protests, which have been fueled by economic grievances and political frustration, have led to calls for reform and increased public safety measures.",
+          "whyItMatters": "The protests underscore the challenges of maintaining social order in times of economic and political instability.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "EU condemns Israeli settler attack on diplomats",
-          "body": "The EU has condemned an Israeli settler attack on diplomats in the occupied West Bank, calling it a violation of international law. The incident underscores the ongoing conflict in the region and the challenges of maintaining peace and security.",
-          "whyItMatters": "This event reflects the broader tensions in the Middle East and the importance of upholding international norms in conflict zones.",
+          "title": "Europe’s Youth Protests and Their Impact",
+          "body": "Europe is witnessing a wave of youth-led protests, driven by issues such as climate change, inequality, and political disillusionment. These protests have led to calls for systemic change and increased public engagement with governance. The situation reflects a broader trend of growing social unrest across the continent.",
+          "whyItMatters": "Youth-led protests highlight the need for inclusive policies and effective governance to address the concerns of younger generations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/whats-behind-europes-youth-protests?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-18T16:49:45.591Z"
+      "updatedAt": "2026-10-18T20:47:23.534Z"
     }
   }
 }
