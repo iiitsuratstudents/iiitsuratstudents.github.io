@@ -1,134 +1,154 @@
 {
-  "generatedAt": "2026-10-18T08:50:32.139Z",
+  "generatedAt": "2026-10-18T12:57:31.287Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of geopolitical developments, including tensions in the Middle East, a major fire at a Canadian military base, and a sports event, while also highlighting a cultural and historical context.",
+      "summary": "Today's lens covers a mix of global events, including a major fire at a Canadian military base, ongoing conflicts in the Middle East, and international political developments.",
       "stories": [
         {
-          "title": "No Split in MAGA",
-          "body": "Al Jazeera reports that there is no split in MAGA (Make America Great Again) sentiment, indicating a unified public stance on the issue. This is supported by multiple sources, suggesting a lack of division in the political climate.",
-          "whyItMatters": "A unified public stance on MAGA could influence political discourse and policy decisions.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/opinions/2026/10/18/there-is-no-split-in-maga?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/opinions/2026/10/18/why-iran-us-negotiations-keep-failing?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Major Fire at Canadian Military Base",
-          "body": "A major fire has been reported at a Canadian military base, resulting in several deaths and injuries. The incident highlights the risks associated with military operations and the importance of safety protocols.",
-          "whyItMatters": "Such incidents can impact military readiness and public perception of security measures.",
+          "title": "Canadian Military Base Fire Claims",
+          "body": "A major fire broke out at a Canadian military base in the West Bank, resulting in several deaths and injuries. The incident has raised concerns about safety and operational readiness at military installations. The exact cause of the fire is under investigation, and officials have called for a thorough review of safety protocols.",
+          "whyItMatters": "The incident highlights the importance of maintaining safety standards at military facilities, which are critical for national security and international stability.",
           "sources": [
             {
               "name": "BBC World",
               "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Iran-US Negotiations Fail to Resolve Tensions",
-          "body": "Al Jazeera discusses the ongoing failures in Iran-US negotiations, which have not resolved the complex geopolitical tensions between the two nations. The situation reflects the challenges of diplomatic relations in the Middle East.",
-          "whyItMatters": "Failed negotiations can lead to increased conflict and instability in the region.",
+          "title": "Jordan-Israel Border Drug Trade",
+          "body": "The Jordan-Israel border has become a new hotspot for sophisticated drug trade, with reports of increased smuggling and trafficking activities. The region's strategic location and ongoing tensions between the two countries have contributed to the rise in drug-related crimes. Local authorities are working to combat the growing threat of drug smuggling across the border.",
+          "whyItMatters": "The drug trade along the Jordan-Israel border poses a significant challenge to regional security and public health, emphasizing the need for coordinated international efforts to address transnational crime.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/opinions/2026/10/18/why-iran-us-negotiations-keep-failing?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/18/jordans-israel-border-becomes-a-new-hotspot-for-a-sophisticated-drug-trade?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Iran's New Tech-Focused Defense Minister",
+          "body": "Iran has appointed Mehrdad Akhlaghi as its new tech-focused defense minister, signaling a shift in the country's defense strategy towards technological innovation. Akhlaghi is expected to lead initiatives in cyber defense, satellite technology, and other advanced military capabilities. His appointment reflects Iran's commitment to modernizing its military infrastructure in response to regional security challenges.",
+          "whyItMatters": "The appointment of a tech-focused defense minister underscores Iran's efforts to enhance its military capabilities through technological advancement, which is a key factor in its strategic positioning in the region.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/18/who-is-mehrdad-akhlagh-irans-new-tech-focused-defence-minister?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-18T08:50:32.139Z"
+      "updatedAt": "2026-10-18T12:57:31.287Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers scientific advancements, space exploration, environmental concerns, and technological innovations.",
+      "kicker": "Science & Nature",
+      "summary": "Today's lens covers scientific advancements, environmental concerns, and space exploration.",
       "stories": [
         {
-          "title": "New Mars Mission Launches",
-          "body": "Japan is set to launch its first mission to collect samples from Mars's moon Phobos, marking a significant step in planetary science. The mission aims to study the moon's composition and potential for future exploration.",
-          "whyItMatters": "This mission could provide critical data for understanding Mars's geological history and potential for sustaining human life.",
+          "title": "Fuel leak spreads more than two miles along River Taff",
+          "body": "A fuel leak has spread more than two miles along the River Taff, raising concerns about environmental and public safety. The incident highlights the potential risks of fuel spills and the importance of proper containment and emergency response protocols.",
+          "whyItMatters": "This incident underscores the need for robust safety measures and environmental monitoring in industrial areas.",
           "sources": [
             {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/oct/18/japan-mission-mars-moon-phobos-samples"
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "SpaceX Delivers Strange Cargo to ISS",
-          "body": "SpaceX delivered some unusual items to the International Space Station, including experimental materials and equipment, highlighting the ongoing development of space technology and its applications.",
-          "whyItMatters": "These deliveries may advance space research and demonstrate the feasibility of new space technologies.",
+          "title": "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
+          "body": "NASA’s Roman Space Telescope, designed to study the sky, has exceeded initial expectations by nearly 30%. The telescope’s success highlights the potential of large-scale space observatories and their role in advancing astrophysical research.",
+          "whyItMatters": "This achievement demonstrates the importance of investing in next-generation space technology and its impact on scientific discovery.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261016070628.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm"
             }
           ]
         },
         {
-          "title": "New Insights into Climate and Weather Patterns",
-          "body": "Scientists have identified new patterns of atmospheric turbulence, known as 'invisible clear air turbulence,' that can develop unexpectedly in clear skies. This discovery could improve weather forecasting and aviation safety.",
-          "whyItMatters": "Understanding such phenomena is crucial for enhancing weather prediction and ensuring safer air travel.",
+          "title": "Scientists predict doomsday for November 13, 2026",
+          "body": "Scientists have predicted a doomsday scenario for November 13, 2026, which raises concerns about potential global crises. The prediction highlights the need for preparedness and the importance of understanding emerging risks.",
+          "whyItMatters": "This prediction underscores the importance of staying informed about potential global threats and the need for proactive measures to mitigate risks.",
           "sources": [
             {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/18/invisible-clear-air-turbulence-airline-safety-climate-crisis"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261016070639.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-18T08:50:32.139Z"
+      "updatedAt": "2026-10-18T12:57:31.287Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including sports, environmental issues, and political dynamics.",
+      "summary": "Today's lens covers a mix of global economic developments, including sports events, geopolitical tensions, and business-related news.",
       "stories": [
         {
-          "title": "Al Jazeera reports no split in MAGA",
-          "body": "Al Jazeera reports that there is no split in MAGA (Make America Great Again) among voters, indicating a unified stance on conservative policies. This is attributed to the lack of significant ideological divisions in the electorate.",
-          "whyItMatters": "A unified public opinion on conservative policies could influence political strategies and electoral outcomes.",
+          "title": "Nottingham Forest vs. Arsenal Live",
+          "body": "A live Premier League match between Nottingham Forest and Arsenal is underway, highlighting the ongoing competitive spirit in football. The match is expected to be a significant event in the league, drawing attention to the competitive nature of the sport and the importance of local clubs in the UK football landscape.",
+          "whyItMatters": "The match reflects the dynamic nature of sports and its role in fostering community engagement and national pride.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/opinions/2026/10/18/there-is-no-split-in-maga?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/liveblog/2026/10/18/nottingham-forest-vs-arsenal-live-premier-league?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/18/who-is-mehrdad-akhlagh-irans-new-tech-focused-defence-minister?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Iran-US negotiations continue to fail",
-          "body": "Al Jazeera reports that Iran-US negotiations remain stalled, with both sides unable to reach a consensus on key issues such as sanctions and trade. The failure highlights the complexity of international diplomacy and the challenges of achieving mutual agreement.",
-          "whyItMatters": "The failure of negotiations could impact future trade relations and regional stability.",
+          "title": "Geopolitical Tensions in the Middle East",
+          "body": "Al Jazeera reports on the emergence of a 'New Middle East' despite Israel's planned strategy, highlighting the complex geopolitical landscape and the ongoing tensions in the region. The report underscores the challenges of balancing regional interests and the potential for conflict in the coming years.",
+          "whyItMatters": "The evolving geopolitical situation in the Middle East has significant implications for regional stability and international relations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/opinions/2026/10/18/why-iran-us-negotiations-keep-failing?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/pinch-point/2026/10/18/pp-new-middle-east?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "WNBA Finals: Gabby Williams leads Valkyries to win",
-          "body": "Al Jazeera reports that Gabby Williams, the star player of the Valkyries, led her team to a nervy win in the WNBA Finals. The victory marks a significant moment in the series and showcases the competitiveness of the league.",
-          "whyItMatters": "A strong performance by a star player can influence the team's overall success and fan engagement.",
+          "title": "Economic Developments and Corporate Influence",
+          "body": "BBC Business reports on the impact of corporate lobbying, the potential for economic growth at Heathrow Airport, and the role of technology in addressing environmental issues. These developments highlight the interplay between corporate interests, economic policy, and technological innovation.",
+          "whyItMatters": "Economic and technological developments have the potential to shape future policies and influence global markets.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/18/wnba-finals-gabby-williams-leads-valkyries-to-nervy-game-1-win-over-dream?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/environment/2026/oct/16/vw-ford-tesla-batteries-deforestation-indigenous-lands"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-18T08:50:32.139Z"
+      "updatedAt": "2026-10-18T12:57:31.287Z"
     }
   }
 }
