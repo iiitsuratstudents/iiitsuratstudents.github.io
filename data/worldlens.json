@@ -1,154 +1,146 @@
 {
-  "generatedAt": "2026-10-18T12:57:31.287Z",
+  "generatedAt": "2026-10-18T16:49:45.591Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of global events, including a major fire at a Canadian military base, ongoing conflicts in the Middle East, and international political developments.",
+      "summary": "Today's lens covers a mix of geopolitical events, including military confrontations, protests, and international reactions, highlighting the complex interplay of conflict, diplomacy, and regional tensions.",
       "stories": [
         {
-          "title": "Canadian Military Base Fire Claims",
-          "body": "A major fire broke out at a Canadian military base in the West Bank, resulting in several deaths and injuries. The incident has raised concerns about safety and operational readiness at military installations. The exact cause of the fire is under investigation, and officials have called for a thorough review of safety protocols.",
-          "whyItMatters": "The incident highlights the importance of maintaining safety standards at military facilities, which are critical for national security and international stability.",
+          "title": "Taiwan drives away 16 Chinese ships",
+          "body": "On October 18, 2026, Taiwan claimed to have driven away 16 Chinese ships in the South China Sea, citing accusations of maritime harassment. The incident occurred amid heightened tensions in the region, with both sides engaging in a tense standoff over territorial claims and maritime rights.",
+          "whyItMatters": "The incident underscores the growing militarization of maritime disputes and the strategic importance of the South China Sea in global geopolitics.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss"
             },
             {
               "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "European diplomats attacked by Israeli settlers",
+          "body": "In a violent incident, Israeli settlers attacked European diplomats in the occupied West Bank, marking a escalation in tensions between Israel and the West Bank. The attack occurred during a period of heightened conflict, with both sides engaging in a cycle of violence and diplomatic clashes.",
+          "whyItMatters": "The attack highlights the ongoing conflict in the West Bank and the broader challenges of maintaining peace in regions affected by ongoing violence and territorial disputes.",
+          "sources": [
+            {
+              "name": "BBC World",
               "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Jordan-Israel Border Drug Trade",
-          "body": "The Jordan-Israel border has become a new hotspot for sophisticated drug trade, with reports of increased smuggling and trafficking activities. The region's strategic location and ongoing tensions between the two countries have contributed to the rise in drug-related crimes. Local authorities are working to combat the growing threat of drug smuggling across the border.",
-          "whyItMatters": "The drug trade along the Jordan-Israel border poses a significant challenge to regional security and public health, emphasizing the need for coordinated international efforts to address transnational crime.",
+          "title": "Albanian protests intensify as violence continues",
+          "body": "In Albania, violent protests have intensified as the government refuses to resign, with demonstrators demanding political reform. The situation has been exacerbated by a wave of anti-government protests, leading to widespread unrest and calls for accountability.",
+          "whyItMatters": "The protests reflect the deepening political and social tensions in Albania and the broader challenges of governance and public dissent in the region.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/18/jordans-israel-border-becomes-a-new-hotspot-for-a-sophisticated-drug-trade?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Iran's New Tech-Focused Defense Minister",
-          "body": "Iran has appointed Mehrdad Akhlaghi as its new tech-focused defense minister, signaling a shift in the country's defense strategy towards technological innovation. Akhlaghi is expected to lead initiatives in cyber defense, satellite technology, and other advanced military capabilities. His appointment reflects Iran's commitment to modernizing its military infrastructure in response to regional security challenges.",
-          "whyItMatters": "The appointment of a tech-focused defense minister underscores Iran's efforts to enhance its military capabilities through technological advancement, which is a key factor in its strategic positioning in the region.",
-          "sources": [
+              "url": "https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss"
+            },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/18/who-is-mehrdad-akhlagh-irans-new-tech-focused-defence-minister?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily?traffic_source=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-18T12:57:31.287Z"
+      "updatedAt": "2026-10-18T16:49:45.591Z"
     },
     "science": {
-      "kicker": "Science & Nature",
-      "summary": "Today's lens covers scientific advancements, environmental concerns, and space exploration.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens highlights recent scientific discoveries, environmental concerns, and technological advancements.",
       "stories": [
         {
           "title": "Fuel leak spreads more than two miles along River Taff",
-          "body": "A fuel leak has spread more than two miles along the River Taff, raising concerns about environmental and public safety. The incident highlights the potential risks of fuel spills and the importance of proper containment and emergency response protocols.",
-          "whyItMatters": "This incident underscores the need for robust safety measures and environmental monitoring in industrial areas.",
+          "body": "A fuel leak has spread more than two miles along the River Taff, raising concerns about environmental and public safety. The incident occurred in the UK, and authorities are investigating the cause and potential impact on local ecosystems and communities.",
+          "whyItMatters": "This incident underscores the importance of monitoring and managing hazardous material spills to prevent environmental and health risks.",
           "sources": [
             {
               "name": "BBC Science",
               "url": "https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
-          "body": "NASA’s Roman Space Telescope, designed to study the sky, has exceeded initial expectations by nearly 30%. The telescope’s success highlights the potential of large-scale space observatories and their role in advancing astrophysical research.",
-          "whyItMatters": "This achievement demonstrates the importance of investing in next-generation space technology and its impact on scientific discovery.",
+          "title": "Scientists discover a natural compound that could protect the brain from too much salt",
+          "body": "A new compound has been identified that may help protect the brain from the harmful effects of excessive salt. The discovery could have implications for dietary health and the development of new treatments for salt-related disorders.",
+          "whyItMatters": "This finding could lead to new approaches in managing salt intake and improving public health.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm"
             }
           ]
         },
         {
-          "title": "Scientists predict doomsday for November 13, 2026",
-          "body": "Scientists have predicted a doomsday scenario for November 13, 2026, which raises concerns about potential global crises. The prediction highlights the need for preparedness and the importance of understanding emerging risks.",
-          "whyItMatters": "This prediction underscores the importance of staying informed about potential global threats and the need for proactive measures to mitigate risks.",
+          "title": "Physicists create a bizarre new quantum state called a fractional fermi sea",
+          "body": "Physicists have created a new quantum state called a fractional fermi sea, a phenomenon that challenges current theories of quantum mechanics. This discovery could lead to advancements in understanding quantum systems and potential applications in technology.",
+          "whyItMatters": "This breakthrough may revolutionize our understanding of quantum physics and inspire new technologies in the future.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261016070639.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-18T12:57:31.287Z"
+      "updatedAt": "2026-10-18T16:49:45.591Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of global economic developments, including sports events, geopolitical tensions, and business-related news.",
+      "summary": "Today's lens covers global economic developments, including military tensions, political unrest, and business news.",
       "stories": [
         {
-          "title": "Nottingham Forest vs. Arsenal Live",
-          "body": "A live Premier League match between Nottingham Forest and Arsenal is underway, highlighting the ongoing competitive spirit in football. The match is expected to be a significant event in the league, drawing attention to the competitive nature of the sport and the importance of local clubs in the UK football landscape.",
-          "whyItMatters": "The match reflects the dynamic nature of sports and its role in fostering community engagement and national pride.",
+          "title": "Taiwan drives away 16 Chinese ships",
+          "body": "Taiwan has driven away 16 Chinese ships accused of maritime harassment, marking a significant escalation in regional tensions. The incident highlights ongoing disputes over maritime boundaries and security concerns in the South China Sea.",
+          "whyItMatters": "This event underscores the complex geopolitical dynamics in the region, affecting regional stability and international relations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/liveblog/2026/10/18/nottingham-forest-vs-arsenal-live-premier-league?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/18/who-is-mehrdad-akhlagh-irans-new-tech-focused-defence-minister?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Geopolitical Tensions in the Middle East",
-          "body": "Al Jazeera reports on the emergence of a 'New Middle East' despite Israel's planned strategy, highlighting the complex geopolitical landscape and the ongoing tensions in the region. The report underscores the challenges of balancing regional interests and the potential for conflict in the coming years.",
-          "whyItMatters": "The evolving geopolitical situation in the Middle East has significant implications for regional stability and international relations.",
+          "title": "Albanian protests intensify as PM refuses to resign",
+          "body": "Albanian protesters have escalated their demands, leading to violent clashes with police in Tirana. The situation reflects deep political and social tensions in the country, with the prime minister refusing to resign despite the unrest.",
+          "whyItMatters": "The protests highlight the challenges of governance and the impact of political instability on public safety and economic development.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/pinch-point/2026/10/18/pp-new-middle-east?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Economic Developments and Corporate Influence",
-          "body": "BBC Business reports on the impact of corporate lobbying, the potential for economic growth at Heathrow Airport, and the role of technology in addressing environmental issues. These developments highlight the interplay between corporate interests, economic policy, and technological innovation.",
-          "whyItMatters": "Economic and technological developments have the potential to shape future policies and influence global markets.",
+          "title": "EU condemns Israeli settler attack on diplomats",
+          "body": "The EU has condemned an Israeli settler attack on diplomats in the occupied West Bank, calling it a violation of international law. The incident underscores the ongoing conflict in the region and the challenges of maintaining peace and security.",
+          "whyItMatters": "This event reflects the broader tensions in the Middle East and the importance of upholding international norms in conflict zones.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/environment/2026/oct/16/vw-ford-tesla-batteries-deforestation-indigenous-lands"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-18T12:57:31.287Z"
+      "updatedAt": "2026-10-18T16:49:45.591Z"
     }
   }
 }
