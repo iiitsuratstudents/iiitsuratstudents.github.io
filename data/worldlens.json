@@ -1,61 +1,69 @@
 {
-  "generatedAt": "2026-10-17T20:47:18.378Z",
+  "generatedAt": "2026-10-18T01:03:52.857Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers a range of global events, including protests, violence, and political developments, highlighting the complexity of contemporary geopolitics.",
+      "summary": "Today's lens covers a mix of geopolitical tensions, regional conflicts, and social unrest across multiple regions, with a focus on the impact of political and social dynamics on global stability.",
       "stories": [
         {
-          "title": "Al Jazeera Reporter Harassed During Protests in France",
-          "body": "A Al Jazeera reporter was harassed and struck on the head during protests in France, with reports of looting. The incident highlights tensions in public demonstrations and the potential for violence in politically charged environments.",
-          "whyItMatters": "This incident underscores the risks associated with public protests and the potential for conflict in diverse societies.",
+          "title": "Iran War Live: Tankers Hit in Hormuz",
+          "body": "Iranian warships struck tankers in Hormuz Strait, escalating tensions in the region. Israeli settlers attacked EU diplomats in the West Bank, while the US ambassador urged Israel to prosecute attackers of an American journalist. The incident highlights the complex interplay of regional conflicts and diplomatic tensions.",
+          "whyItMatters": "The conflict in the Middle East continues to impact global energy markets and diplomatic relations, with potential consequences for international stability.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reporter-harassed-struck-on-head-amid-france-protests-looting?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Iranian TV Airstreams Video of Tanker Explosion in Hormuz",
-          "body": "Iranian TV aired a video purported to show a tanker explosion in Hormuz, raising concerns about maritime security and the potential for conflict in the Persian Gulf. The video's authenticity remains uncertain, but it highlights the region's geopolitical tensions.",
-          "whyItMatters": "This event reflects the ongoing instability in the Persian Gulf and the potential for conflict over maritime resources and security.",
+          "title": "Cost of Living Protests in Europe",
+          "body": "Protests in Belgium, Italy, Portugal, and France over rising living costs have led to violent clashes and arrests. These demonstrations reflect broader economic concerns and the strain on public services in Western Europe.",
+          "whyItMatters": "Economic instability and social unrest in Europe could influence political outcomes and policy decisions, affecting the region's long-term development.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "At Least 17 Killed in Stampede at Religious Gathering in India",
-          "body": "At least 17 people were killed in a stampede at a religious gathering in India, raising concerns about public safety and the management of large-scale events. The incident highlights the risks associated with mass gatherings and the need for careful planning and safety measures.",
-          "whyItMatters": "This event underscores the importance of public safety and the need for effective risk management in large-scale gatherings.",
+          "title": "LGBTQ+ Rights in Senegal",
+          "body": "In Senegal, LGBTQ+ individuals went into hiding as hundreds were arrested for alleged involvement in HIV-related activities. The government has criminalized same-sex relationships, raising concerns about human rights and societal tolerance.",
+          "whyItMatters": "The persecution of LGBTQ+ individuals reflects broader challenges in achieving equality and rights, with implications for global human rights discourse and international policy.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss"
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch"
+            },
+            {
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-17T20:47:18.378Z"
+      "updatedAt": "2026-10-18T01:03:52.857Z"
     },
     "science": {
       "kicker": "Science & Nature",
-      "summary": "Today's lens covers a mix of scientific advancements, environmental concerns, and technological developments.",
+      "summary": "Today's lens covers recent scientific advancements, environmental concerns, and technological innovations.",
       "stories": [
         {
           "title": "Wildfires in California",
-          "body": "A fast-moving wildfire in California has burned homes and forced people to evacuate. The fire is part of a broader trend of increasing wildfire activity due to climate change and dry conditions.",
-          "whyItMatters": "Understanding climate change impacts is crucial for developing effective disaster response strategies.",
+          "body": "A fast-moving wildfire in California has burned homes and forced people to evacuate. The fire is part of a broader trend of increasing wildfire activity due to climate change and dry weather conditions.",
+          "whyItMatters": "Climate change is exacerbating wildfire risks, highlighting the need for sustainable land management and climate resilience strategies.",
           "sources": [
             {
               "name": "BBC Science",
@@ -69,8 +77,8 @@
         },
         {
           "title": "NASA’s Roman Space Telescope",
-          "body": "NASA’s Roman Space Telescope has exceeded expectations, with significant advancements in its design and capabilities. The telescope is set to revolutionize our understanding of the universe.",
-          "whyItMatters": "Advancements in space telescopes can lead to new discoveries and improve our ability to explore the cosmos.",
+          "body": "NASA’s Roman Space Telescope has exceeded expectations, with significant advancements in its design and capabilities. The telescope is set to provide groundbreaking insights into the universe.",
+          "whyItMatters": "The telescope’s success underscores the importance of investing in next-generation space exploration technologies.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -84,8 +92,8 @@
         },
         {
           "title": "Brain Cells and Cognitive Decline",
-          "body": "Research suggests that brain cells meant to protect us may be contributing to cognitive decline. This finding highlights the complex relationship between brain health and aging.",
-          "whyItMatters": "Understanding the mechanisms of cognitive decline can lead to better strategies for maintaining brain health in older adults.",
+          "body": "A study reveals that brain cells meant to protect against harm may be contributing to cognitive decline. This finding adds complexity to our understanding of neurodegenerative processes.",
+          "whyItMatters": "Understanding the interplay between protective mechanisms and cognitive decline could lead to new approaches in treating neurodegenerative diseases.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -99,27 +107,27 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-17T20:47:18.378Z"
+      "updatedAt": "2026-10-18T01:03:52.857Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of global economic developments, including corporate lobbying, environmental impacts, and political tensions.",
+      "summary": "Today's lens covers global economic developments, including cost of living protests, corporate lobbying, and environmental concerns, while also highlighting regional conflicts and technological advancements.",
       "stories": [
         {
-          "title": "Albanian Police Use Rubber Bullets During Protests",
-          "body": "Albanian police used rubber bullets during protests against Rama, a political figure, in response to public unrest. The incident highlights ongoing tensions between government and citizens in the country.",
-          "whyItMatters": "The use of force during protests raises concerns about civil liberties and the impact of political demonstrations on public safety.",
+          "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
+          "body": "In Europe, cost of living protests have reached record levels in Belgium, Italy, Portugal, and France, as rising inflation and wage stagnation strain households. The protests reflect growing economic anxiety among citizens, with demonstrators calling for government intervention and reforms to address rising living costs.",
+          "whyItMatters": "Economic instability and rising living costs are increasingly affecting public sentiment and policy decisions in major European economies.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "US Corporate Lobbyists Target EU Deforestation Law",
-          "body": "US corporate lobbyists launched a 'blitz' to weaken a landmark EU deforestation law, as they seek to limit environmental regulations that could affect their operations.",
-          "whyItMatters": "The battle over environmental regulations highlights the influence of corporate lobbying on policy-making and the potential impact on global sustainability efforts.",
+          "title": "US corporate lobbyists mount 'blitz' to dilute EU deforestation law",
+          "body": "US corporate lobbyists have intensified their efforts to influence the European Union's landmark deforestation law, aiming to weaken its enforcement. The report highlights the growing tension between corporate interests and environmental regulations, raising concerns about the law's impact on sustainable practices and indigenous land rights.",
+          "whyItMatters": "Corporate lobbying efforts can shape environmental policies, influencing global sustainability efforts and indigenous rights protections.",
           "sources": [
             {
               "name": "The Guardian Business",
@@ -128,9 +136,9 @@
           ]
         },
         {
-          "title": "Ship Attacks Near Hormuz Reach Record High",
-          "body": "Reports of ship attacks near Hormuz, the strategic oil hub, have reached record levels, raising concerns about the stability of global oil supply and potential geopolitical tensions.",
-          "whyItMatters": "The rise in ship attacks near critical oil infrastructure underscores the vulnerability of global energy markets and the risks associated with maritime security.",
+          "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+          "body": "Ship attacks near Hormuz Strait have reached record levels, with oil exports slowing due to increased security concerns. The situation reflects heightened tensions in the region, as both Iran and the United States monitor the situation closely, with potential implications for global energy markets and regional stability.",
+          "whyItMatters": "Regional security and energy supply disruptions can have significant geopolitical and economic impacts, affecting global trade and energy prices.",
           "sources": [
             {
               "name": "BBC Business",
@@ -140,7 +148,7 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-17T20:47:18.378Z"
+      "updatedAt": "2026-10-18T01:03:52.857Z"
     }
   }
 }
