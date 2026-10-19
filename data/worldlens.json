@@ -1,146 +1,130 @@
 {
-  "generatedAt": "2026-10-19T09:01:21.745Z",
+  "generatedAt": "2026-10-19T13:08:53.374Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers a range of international developments, including political tensions, humanitarian concerns, and cultural shifts.",
+      "kicker": "Geopolitics",
+      "summary": "Today's lens covers a range of global events, including ongoing conflicts, humanitarian crises, and political developments, highlighting the complex interplay of international relations and local issues.",
       "stories": [
         {
-          "title": "Palestinian children honored in NFL gesture",
-          "body": "NFL player Azeez Al-Shaair has been honoring Palestinian children for the fifth consecutive week, highlighting the ongoing conflict in the Middle East. The gesture, which involves donating items to children in need, reflects a broader effort to address humanitarian concerns and foster goodwill. The action has drawn attention to the complex geopolitical situation in the region.",
-          "whyItMatters": "The gesture underscores the importance of individual actions in addressing global humanitarian issues and the role of sports in promoting peace and empathy.",
+          "title": "Palestinians defend homes from settler violence",
+          "body": "In the ongoing conflict in the West Bank, Palestinian residents are defending their homes from settler violence, as reported by Al Jazeera. The situation reflects the tensions between Israeli settlers and Palestinian communities, with reports of attacks and clashes. This incident underscores the broader conflict over land and rights in the region.",
+          "whyItMatters": "The ongoing violence highlights the complex dynamics of territorial disputes and human rights concerns in the Middle East.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/19/nfls-azeez-al-shaair-honours-palestinian-children-for-fifth-straight-week?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests?traffic_source=rss"
+              "url": "https://www.aljazeera.com/features/2026/10/19/the-night-watch-palestinians-protecting-their-homes-from-settler-pogroms?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Hezbollah funding plan challenges Lebanese government",
-          "body": "A new funding plan by Hezbollah indicates a potential shift in the political landscape of Lebanon. The plan suggests increased financial support for groups that have long been a source of instability in the region. This development raises questions about the future of Lebanon's government and its ability to maintain stability in the face of growing tensions.",
-          "whyItMatters": "The funding plan highlights the ongoing challenges faced by Lebanon's government and the potential for increased conflict in the region.",
+          "title": "Al Jazeera investigates Israeli account of Heidi Levine attack",
+          "body": "Al Jazeera has published an investigation challenging the Israeli government's account of a recent attack on Heidi Levine, a woman who was allegedly targeted by Israeli forces. The report raises questions about the accuracy of the Israeli narrative and the treatment of civilians in conflict zones.",
+          "whyItMatters": "The investigation highlights the importance of verifying accounts in conflict zones and the potential for biased reporting in political contexts.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/19/hezbollah-funding-plan-indicates-a-new-challenge-to-lebanons-government?traffic_source=rss"
+              "url": "https://www.aljazeera.com/features/2026/10/19/al-jazeera-investigation-challenges-israeli-account-of-heidi-levine-attack?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "France's Macron declines minister's resignation amid protests",
-          "body": "French President Macron has declined a minister's resignation following violent protests in the country. The protests, which have been linked to broader social and political tensions, have led to calls for reform and accountability. Macron's decision to retain the minister reflects the complex dynamics of governance in a volatile political climate.",
-          "whyItMatters": "The decision highlights the challenges of maintaining stability in a country facing significant social unrest and the role of leadership in navigating political crises.",
+          "title": "Kenya faces Ebola outbreak and US aid cuts",
+          "body": "Kenya is experiencing its third Ebola case, highlighting the ongoing challenges of public health in the region. At the same time, the US has cut key services, exacerbating the situation. This event underscores the global impact of health crises and the role of international aid in addressing them.",
+          "whyItMatters": "The Ebola outbreak and US aid cuts illustrate the interconnectedness of global health and economic policies, and the need for coordinated international responses.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests?traffic_source=rss"
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-19T09:01:21.745Z"
+      "updatedAt": "2026-10-19T13:08:53.374Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers advancements in space exploration, meteorology, and biomedical research, highlighting both scientific discoveries and environmental concerns.",
+      "summary": "Today's lens covers scientific advancements, natural phenomena, and research findings impacting academia and global health.",
       "stories": [
         {
-          "title": "Mars Mission Set for Launch",
-          "body": "The BBC reports that a mission is set to blast off for Mars to collect a sample from its moon, Phobos. The mission aims to study the moon's composition and potential for future exploration.",
-          "whyItMatters": "This mission could provide critical data for understanding the geological history of Mars and its potential for sustaining human life.",
+          "title": "Alaska's Monster Tsunami",
+          "body": "A powerful tsunami was recorded in Alaska, with water surging 1,580 feet up a mountain. The event, observed by ScienceDaily, highlights the unpredictable nature of geological phenomena and the potential for sudden, massive natural disasters.",
+          "whyItMatters": "Understanding such events is crucial for improving disaster preparedness and risk assessment in vulnerable regions.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261018205047.htm"
+            }
+          ]
+        },
+        {
+          "title": "Scientists Win 2026 Nobel Prize for Brain Cell Control",
+          "body": "A Nobel Prize was awarded to scientists for their groundbreaking work in controlling brain cells using light. This advancement could revolutionize neuroscience and neurotechnology, offering new ways to treat neurological disorders.",
+          "whyItMatters": "This research may lead to breakthroughs in understanding and treating brain-related conditions, improving quality of life for millions.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261018205037.htm"
+            }
+          ]
+        },
+        {
+          "title": "Mars Mission to Retrieve Moon Sample",
+          "body": "A mission is set to launch to Mars to collect a sample from the moon. This mission represents a significant step in space exploration, potentially expanding our knowledge of lunar geology and planetary science.",
+          "whyItMatters": "Such missions are vital for advancing our understanding of the solar system and could lead to future exploration and resource utilization.",
           "sources": [
             {
               "name": "BBC Science",
               "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/oct/18/japan-mission-mars-moon-phobos-samples"
-            }
-          ]
-        },
-        {
-          "title": "Orionid Meteor Shower to Be Seen",
-          "body": "The Orionid meteor shower is expected to peak in the coming weeks, with meteors streaking across the night sky. The BBC and The Guardian both report on the event, offering tips on how to observe it safely.",
-          "whyItMatters": "The meteor shower offers a unique opportunity for public observation and can raise awareness about space phenomena and astronomy.",
-          "sources": [
-            {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/oct/19/orionid-meteor-shower-halley-comet-starwatch"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "New Compound May Protect the Brain from Salt",
-          "body": "Scientists have discovered a natural compound that could potentially protect the brain from excessive salt intake. The compound, identified in a study, shows promise in reducing the risk of hypertension and related conditions.",
-          "whyItMatters": "This discovery could lead to new treatments for salt-related health issues, contributing to global efforts in combating cardiovascular diseases.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-19T09:01:21.745Z"
+      "updatedAt": "2026-10-19T13:08:53.374Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including UK fines for loud bus music, EU tariffs impacting Ukraine, and AI-related news.",
+      "summary": "Today's lens covers economic developments, including housing market trends, AI investments, and regional geopolitical dynamics.",
       "stories": [
         {
-          "title": "UK fines for loud bus music",
-          "body": "The BBC reports that people playing loud music on buses could face a £100 fine. This is part of a broader effort to reduce noise pollution in urban areas. The fine is intended to encourage compliance with local noise regulations, which are designed to protect public health and well-being.",
-          "whyItMatters": "This fine reflects growing concerns about environmental and public health issues in urban settings, highlighting the need for effective noise control policies.",
+          "title": "Home sellers cut asking prices on 3,000 properties a day",
+          "body": "According to BBC Business, home sellers in the UK are reducing their asking prices by an average of 10% on 3,000 properties each day, driven by a slowdown in the housing market and reduced buyer confidence. This trend reflects broader economic uncertainty and the impact of global economic pressures on real estate.",
+          "whyItMatters": "The housing market's volatility could affect long-term economic planning and consumer behavior.",
           "sources": [
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "EU tariffs on China hit Ukraine",
-          "body": "BBC reports that EU tariffs aimed at China are now affecting Ukraine. The tariffs, which target Chinese imports, are expected to impact the steel industry in Ukraine. This development underscores the complex interplay between trade policies and regional economic relations.",
-          "whyItMatters": "The impact of EU trade policies on neighboring countries highlights the challenges of balancing economic interests with regional stability and trade relations.",
+          "title": "AI firm Anthropic commits 5% of shares to fund for ‘public good’",
+          "body": "The Guardian reports that AI firm Anthropic is allocating 5% of its shares to a fund aimed at supporting public good initiatives, highlighting the growing trend of corporate social responsibility in the tech sector. This move aligns with the company's commitment to ethical AI development and broader societal impact.",
+          "whyItMatters": "Corporate investments in public good initiatives can influence industry standards and drive innovation in ethical AI practices.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good"
             }
           ]
         },
         {
-          "title": "AI scams and consumer protection",
-          "body": "BBC Business warns against falling for AI scams, emphasizing the importance of digital literacy in an increasingly automated world. The report provides tips on how to protect oneself from AI-related fraud and misinformation.",
-          "whyItMatters": "As AI becomes more integrated into daily life, understanding how to safeguard against scams is crucial for maintaining digital security and trust in technology.",
+          "title": "Indonesia battles worst forest fires and toxic haze in 11 years",
+          "body": "Al Jazeera reports that Indonesia is facing its worst forest fires and toxic haze in 11 years, with the government implementing emergency measures to combat the crisis. The environmental impact is significant, affecting air quality, biodiversity, and public health across the country.",
+          "whyItMatters": "Environmental crises can lead to long-term economic and social challenges, including reduced agricultural productivity and increased healthcare costs.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/indonesia-battles-worst-forest-fires-and-toxic-haze-in-11-years?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-19T09:01:21.745Z"
+      "updatedAt": "2026-10-19T13:08:53.374Z"
     }
   }
 }
