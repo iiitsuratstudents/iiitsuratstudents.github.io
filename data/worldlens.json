@@ -1,76 +1,84 @@
 {
-  "generatedAt": "2026-10-18T20:47:23.534Z",
+  "generatedAt": "2026-10-19T01:05:24.996Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of geopolitical tensions, protests, and incidents across different regions, highlighting the complexities of global events.",
+      "summary": "Today's lens covers a mix of geopolitical developments, including ongoing conflicts, regional tensions, and international relations.",
       "stories": [
         {
-          "title": "France's Political Turmoil",
-          "body": "French President Macron condemned nationwide riots and looting, calling for calm and order. The unrest, which began in Paris, has spread to other cities, with reports of violence and property damage. Macron's response reflects growing public frustration over social and economic issues.",
-          "whyItMatters": "The escalating violence in France underscores the challenges of maintaining stability in politically volatile regions.",
+          "title": "Somali piracy resurgence",
+          "body": "Al Jazeera reports on the return of Somali piracy, highlighting the resurgence of maritime crimes in the Indian Ocean. The article notes the increasing use of advanced technology and the role of local communities in facilitating these activities. This development raises concerns about the security of global maritime routes and the potential for renewed pirate attacks.",
+          "whyItMatters": "The resurgence of Somali piracy could impact global trade and maritime security, necessitating enhanced international cooperation.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/19/kinship-and-surveillance-the-return-of-somali-piracy?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Albanian Supreme Court Fire",
-          "body": "A fire broke out at Albania’s Supreme Court, marking the fifth day of protests. The incident has sparked widespread concern about the government's ability to manage public unrest and maintain order in the country.",
-          "whyItMatters": "The prolonged protests and the resulting fire highlight the risks of social instability and the need for effective governance in volatile regions.",
+          "title": "Russia's anti-Putin sabotage",
+          "body": "BBC World reports on the shadowy world of anti-Putin sabotage from within Russia, describing covert operations and the challenges of maintaining stability in the region. The article emphasizes the complexity of balancing national security with political dissent and the potential for increased conflict.",
+          "whyItMatters": "The ongoing sabotage efforts highlight the delicate balance between political dissent and national security, underscoring the need for careful diplomatic engagement.",
+          "sources": [
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Yemen conflict and Canadian military incident",
+          "body": "Al Jazeera reports on the ongoing conflict in Yemen and the recent escalation in violence. Additionally, a major fire at a Canadian military base results in four deaths and dozens of injuries. The article highlights the risks associated with military operations and the importance of safety protocols in high-risk environments.",
+          "whyItMatters": "The military incident underscores the dangers faced by personnel in conflict zones and the need for robust safety measures in military operations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Canadian Military Base Fire",
-          "body": "A deadly fire at a Canadian military base in Alberta resulted in four deaths and injuries. The incident raises concerns about safety and management practices in military installations, particularly in regions experiencing social and political unrest.",
-          "whyItMatters": "The fire underscores the importance of safety protocols and the impact of regional instability on critical infrastructure.",
-          "sources": [
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss"
+            },
             {
               "name": "The Guardian World",
               "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright"
             },
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-18T20:47:23.534Z"
+      "updatedAt": "2026-10-19T01:05:24.996Z"
     },
     "science": {
-      "kicker": "Science & Nature",
-      "summary": "Today's lens covers recent scientific discoveries, environmental updates, and cultural highlights.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens covers advancements in space exploration, environmental science, and medical research, with a focus on discoveries and events impacting global understanding.",
       "stories": [
         {
-          "title": "Fuel leak spreads more than two miles along River Taff",
-          "body": "A fuel leak has spread more than two miles along River Taff, raising concerns about environmental and public safety. The incident, observed by BBC Science, highlights the potential risks of fuel spills and the importance of environmental monitoring.",
-          "whyItMatters": "This incident underscores the need for improved infrastructure and emergency response protocols to prevent similar incidents.",
+          "title": "Mars Mission Set for Launch",
+          "body": "The BBC Science reports that a mission is set to blast off for Mars to collect samples from its moon, Phobos. The mission aims to gather data that could enhance our understanding of the Martian environment and potential for future colonization.",
+          "whyItMatters": "This mission could provide critical insights into the composition and history of Mars, influencing future space exploration and planetary science.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/science/2026/oct/18/japan-mission-mars-moon-phobos-samples"
             }
           ]
         },
         {
-          "title": "Scientists discover a natural compound that could protect the brain from too much salt",
-          "body": "A new compound has been identified that may help protect the brain from excessive salt intake. This discovery, reported by ScienceDaily, could have implications for dietary health and the treatment of salt-related disorders.",
-          "whyItMatters": "This finding could lead to new approaches in managing salt consumption and related health conditions.",
+          "title": "New Compound May Protect Against Salt Damage",
+          "body": "Scientists have discovered a natural compound that could protect the brain from excessive salt intake. The compound, identified in a study, shows potential in mitigating the effects of high-salt diets, which are linked to health issues such as hypertension and kidney disease.",
+          "whyItMatters": "This discovery could lead to new dietary guidelines or interventions that help manage salt-related health risks, impacting public health policies and individual well-being.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -79,72 +87,68 @@
           ]
         },
         {
-          "title": "Physicists create a bizarre new quantum state called a fractional fermi sea",
-          "body": "Physicists have created a new quantum state called a fractional fermi sea, a phenomenon that challenges current theories of quantum mechanics. This discovery, reported by ScienceDaily, opens up new avenues for research in quantum physics.",
-          "whyItMatters": "This breakthrough could lead to advancements in understanding quantum systems and their potential applications in technology and materials science.",
+          "title": "Quantum State Revealed in Physics",
+          "body": "Physicists have created a new quantum state called a fractional fermi sea, a phenomenon that challenges current theories of quantum mechanics. This discovery could lead to advancements in quantum computing and materials science, as it offers new ways to manipulate and control quantum systems.",
+          "whyItMatters": "This breakthrough may revolutionize quantum technologies, enabling more efficient and powerful computing and communication systems.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-18T20:47:23.534Z"
+      "updatedAt": "2026-10-19T01:05:24.996Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers global economic developments, including protests in Albania, political reactions in France, and discussions on youth-led protests in Europe, alongside business and environmental topics.",
+      "summary": "Today's lens covers a mix of economic developments, including new policies, legal actions, and global events impacting markets and societies.",
       "stories": [
         {
-          "title": "Albania’s Supreme Court Fire",
-          "body": "Albania’s Supreme Court was engulfed in fire on Sunday, marking the fifth day of protests. The incident has sparked widespread concern about the stability of the country and the potential impact on its judiciary. The fire occurred amid ongoing demonstrations, which have been linked to broader social and political tensions.",
-          "whyItMatters": "The fire highlights the risks associated with large-scale protests and the potential for violence in regions experiencing political unrest.",
+          "title": "Somali piracy returns with increased surveillance",
+          "body": "Al Jazeera reports that Somali piracy has resurged, with increased use of kinship-based surveillance to monitor and control maritime activities. This shift reflects a blend of traditional practices and modern technology, raising concerns about privacy and security in global trade routes.",
+          "whyItMatters": "The resurgence of piracy highlights the complex interplay between historical practices and modern security measures, impacting global trade and maritime safety.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/19/kinship-and-surveillance-the-return-of-somali-piracy?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/whats-behind-europes-youth-protests?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Macron Denounces France’s Nationwide Rioting",
-          "body": "French President Emmanuel Macron condemned the nationwide rioting and looting in France, calling it a reflection of deep societal discontent. The protests, which have been fueled by economic grievances and political frustration, have led to calls for reform and increased public safety measures.",
-          "whyItMatters": "The protests underscore the challenges of maintaining social order in times of economic and political instability.",
+          "title": "UK fines for loud music on public transport",
+          "body": "The BBC reports that individuals who play loud music on buses could face a fine of £100. This policy aims to reduce noise pollution and improve the quality of public transport experiences, reflecting a growing emphasis on urban living conditions and environmental sustainability.",
+          "whyItMatters": "This policy underscores the importance of balancing public enjoyment with environmental and social considerations, affecting daily life and urban planning.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Europe’s Youth Protests and Their Impact",
-          "body": "Europe is witnessing a wave of youth-led protests, driven by issues such as climate change, inequality, and political disillusionment. These protests have led to calls for systemic change and increased public engagement with governance. The situation reflects a broader trend of growing social unrest across the continent.",
-          "whyItMatters": "Youth-led protests highlight the need for inclusive policies and effective governance to address the concerns of younger generations.",
+          "title": "EU tariffs and global trade tensions",
+          "body": "The BBC reports that EU tariffs aimed at China are impacting Ukraine and the steel industry. This reflects broader geopolitical tensions and the economic consequences of trade policies, highlighting the interconnectedness of global markets and trade relations.",
+          "whyItMatters": "These tariffs illustrate the complex dynamics of international trade and the potential economic repercussions of political decisions on global markets.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/whats-behind-europes-youth-protests?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-18T20:47:23.534Z"
+      "updatedAt": "2026-10-19T01:05:24.996Z"
     }
   }
 }
