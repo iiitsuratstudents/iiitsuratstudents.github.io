@@ -1,158 +1,142 @@
 {
-  "generatedAt": "2026-10-20T08:57:43.547Z",
+  "generatedAt": "2026-10-20T13:08:48.735Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of geopolitical developments, social unrest, and international relations, highlighting key events and their potential implications for students.",
+      "kicker": "Geopolitics",
+      "summary": "Today's lens covers a range of geopolitical developments, including protests in Albania, a fire at a town hall in France, and tensions in the Middle East. These stories highlight the complex interplay of political, social, and regional dynamics.",
       "stories": [
         {
-          "title": "UEFA demands FIFA release key documents on World Cup sell-off plan",
-          "body": "UEFA has demanded that FIFA release detailed documents regarding its plan to sell off World Cup rights. The request comes amid ongoing scrutiny of FIFA's financial practices and transparency. The documents would provide insight into the financial structure and potential revenue distribution of the World Cup event.",
-          "whyItMatters": "This development highlights the importance of transparency in international sports organizations and the potential impact on global sports economics.",
+          "title": "Albanian Protests: Young Protesters Demand PM Rama's Resignation",
+          "body": "In Albania, young protesters are calling for Prime Minister Edi Rama's resignation, citing concerns over governance and public dissatisfaction. The movement reflects broader tensions between political leadership and public expectations, highlighting the challenges of maintaining stability in a volatile political climate.",
+          "whyItMatters": "The protests underscore the importance of democratic accountability and the role of youth in shaping political outcomes.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/20/uefa-demands-fifa-release-key-documents-on-world-cup-sell-off-plan?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/20/horizontal-revolt-why-albanias-young-protesters-want-pm-rama-to-go?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/opinions/2026/10/20/moroccos-not-so-new-government-faces-new-challenges?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/20/why-rubio-is-visiting-reliances-oil-refinery-in-india-the-worlds-largest?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "France protests are ‘outburst of resentment’ against Macron",
-          "body": "French protests have erupted over concerns about Macron's policies, particularly regarding the budget and public spending. The demonstrations reflect broader societal tensions and the growing demand for political reform and accountability.",
-          "whyItMatters": "These protests underscore the role of public sentiment in shaping political outcomes and the challenges of maintaining governance in times of social unrest.",
+          "title": "France Imposes New Curfews After Calm Night",
+          "body": "France has announced plans to impose new curfews in areas where public order is maintained, following a period of relative calm. This decision reflects the government's efforts to regain control and address concerns about public safety and security.",
+          "whyItMatters": "The curfews highlight the ongoing struggle between maintaining public order and ensuring civil liberties, a key issue in modern democratic societies.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-protests-social-discontent-student-perspective?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/opinions/2026/10/20/moroccos-not-so-new-government-faces-new-challenges?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Alberta voters reject plan for referendum to leave Canada",
-          "body": "Alberta voters have rejected a plan for a referendum to leave Canada, indicating a strong majority preference for remaining within the country. The decision reflects the region's economic and political ties to Canada and the potential impact on national policies and federal relations.",
-          "whyItMatters": "This decision highlights the complexities of regional autonomy and the influence of local politics on national governance.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/20/france-to-impose-new-curfews-where-required-after-calm-night?traffic_source=rss"
             },
             {
               "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum"
+              "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan"
+            }
+          ]
+        },
+        {
+          "title": "Russia's Satellite Surveillance Claims",
+          "body": "Russian officials have claimed that their satellites are being used to monitor activities in regions of concern, including areas near Ukraine. This development raises questions about the extent of surveillance and the potential impact on regional stability and international relations.",
+          "whyItMatters": "The satellite surveillance claims highlight the growing concerns over technological monitoring and its implications for international security and privacy.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/20/is-russia-stalking-satellites-which-help-ukraine-from-space?traffic_source=rss"
+            },
+            {
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-20T08:57:43.547Z"
+      "updatedAt": "2026-10-20T13:08:48.735Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers meteor showers, climate change, space exploration, AI advancements, and natural phenomena.",
+      "kicker": "ScienceDaily",
+      "summary": "Today's lens covers advances in science, climate, and technology, highlighting discoveries and warnings related to health, environment, and global challenges.",
       "stories": [
         {
-          "title": "Orionid Meteor Shower Peaks in UK Skies",
-          "body": "The Orionid meteor shower is expected to peak in the UK skies this week, with meteors streaking across the night. The event is caused by debris from a comet, and the peak is forecasted for early November. The shower is visible from mid-October to early November, with the best viewing conditions in the UK during the early hours of the morning.",
-          "whyItMatters": "Students can observe natural phenomena and understand the science behind meteor showers, fostering an appreciation for astronomy and space exploration.",
+          "title": "Scientists uncover mechanism behind statin-induced muscle pain",
+          "body": "A study by scientists has identified the molecular pathway through which statins, commonly used to lower cholesterol, may cause muscle pain. The findings suggest that statins can interfere with the body's ability to regulate muscle metabolism, potentially leading to inflammation and discomfort. This research provides a deeper understanding of the side effects of widely prescribed medications.",
+          "whyItMatters": "Understanding the biological basis of statin side effects can help improve drug safety and patient care.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/weather/articles/cm17knj9kpv8o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/oct/19/orionid-meteor-shower-halley-comet-starwatch"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261019093447.htm"
             }
           ]
         },
         {
-          "title": "AI Tool Predicts Cancer Survival from Patient Selfies",
-          "body": "A new AI tool has been developed to predict cancer survival based on a single patient's selfie. The tool uses machine learning to analyze images and identify patterns that correlate with survival rates. The study highlights the potential of AI in personalized medicine and early diagnosis.",
-          "whyItMatters": "This advancement could improve cancer treatment outcomes by enabling early detection and tailored care, showcasing the role of technology in healthcare.",
+          "title": "AI tool predicts cancer survival from patient selfies",
+          "body": "A new AI tool has been developed to predict cancer survival based on a single patient's selfie. The tool uses deep learning algorithms to analyze images and identify patterns that correlate with treatment outcomes. This advancement could revolutionize personalized medicine by enabling more accurate and timely predictions for cancer patients.",
+          "whyItMatters": "This technology has the potential to improve cancer diagnosis and treatment planning by leveraging visual data from patients.",
           "sources": [
             {
               "name": "The Guardian Science",
               "url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie"
-            },
-            {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/oct/18/research-predict-inflammatory-bowel-disease-decade-before-diagnosis"
             }
           ]
         },
         {
-          "title": "Quantum State Observed in Martian Moon Samples",
-          "body": "Physicists have created a new quantum state called a fractional fermi sea, which could have implications for quantum computing and materials science. The discovery is based on experiments conducted in a laboratory, and the findings are expected to influence future research in quantum physics.",
-          "whyItMatters": "This breakthrough could lead to advancements in quantum technology, offering new possibilities for computing and materials development.",
+          "title": "El Niño impacts global weather patterns",
+          "body": "El Niño, a climate phenomenon characterized by the warming of ocean surface temperatures in the Pacific, is affecting weather patterns worldwide. Recent studies show that El Niño can lead to extreme weather events, including droughts, floods, and stronger storms. These impacts are expected to intensify in the coming years due to climate change.",
+          "whyItMatters": "Understanding El Niño's effects is crucial for developing effective climate adaptation strategies and improving weather forecasting.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm"
-            },
-            {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/oct/18/japan-mission-mars-moon-phobos-samples"
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-20T08:57:43.547Z"
+      "updatedAt": "2026-10-20T13:08:48.735Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers key economic developments, including changes in parking charges, job market trends, tax policies, and international relations affecting the economy.",
+      "summary": "Today's lens covers economic developments, including job market shifts, technological advancements, and geopolitical tensions.",
       "stories": [
         {
-          "title": "Burnham vows end to 'rip-off parking charges'",
-          "body": "British Prime Minister Boris Johnson has vowed to end the practice of 'rip-off parking charges' under new rules, which aim to make parking more affordable for citizens. The decision comes amid growing public dissatisfaction with high parking fees in major cities.",
-          "whyItMatters": "This policy shift could impact urban mobility and public spending, influencing how cities manage infrastructure and taxation.",
+          "title": "BBC Business: Paddy Power cuts 1,400 jobs due to betting tax rises",
+          "body": "BBC Business reported that Paddy Power, a UK betting company, has cut 1,400 jobs in response to a rise in betting taxes. The decision comes as the company faces increased financial pressure from the new tax policy. This move reflects the broader economic impact of tax reforms on the hospitality and gaming sectors.",
+          "whyItMatters": "The impact of tax policy on businesses can influence employment and economic stability in the hospitality and gaming industries.",
           "sources": [
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Job vacancies fall as small firms cut back on recruitment",
-          "body": "A decline in job vacancies has been observed as small businesses reduce their recruitment efforts, driven by economic uncertainty and a shift in workforce preferences. This trend may affect employment rates and economic growth in the short term.",
-          "whyItMatters": "The impact of reduced hiring on employment and economic activity could influence future labor market dynamics and business strategies.",
+          "title": "Google Cloud outage and service recovery",
+          "body": "Google Cloud experienced a widespread outage due to a power problem, disrupting services for users. The company reported that the issue was resolved, highlighting the vulnerability of critical infrastructure in the digital sector. This incident underscores the importance of reliable technology in maintaining business operations.",
+          "whyItMatters": "Technological disruptions can affect business continuity and user experience, emphasizing the need for robust infrastructure and contingency planning.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates"
             }
           ]
         },
         {
-          "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-          "body": "The UK Chancellor has rejected calls to raise the Capital Gains Tax, indicating a potential continuation of current tax policies. This decision may affect wealth distribution and investment behavior in the UK economy.",
-          "whyItMatters": "The stance on tax policy could influence economic growth and investment decisions, affecting both domestic and international markets.",
+          "title": "Albania's young protesters demand PM Rama's resignation",
+          "body": "Al Jazeera reported that young protesters in Albania are calling for Prime Minister Rama's resignation, citing dissatisfaction with economic policies and governance. The movement reflects broader concerns about political stability and economic development in the region.",
+          "whyItMatters": "Political instability can impact economic growth and public trust in government institutions, highlighting the interplay between governance and economic performance.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/20/horizontal-revolt-why-albanias-young-protesters-want-pm-rama-to-go?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-20T08:57:43.547Z"
+      "updatedAt": "2026-10-20T13:08:48.735Z"
     }
   }
 }
