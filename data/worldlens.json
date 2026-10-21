@@ -1,166 +1,154 @@
 {
-  "generatedAt": "2026-10-21T08:59:10.719Z",
+  "generatedAt": "2026-10-21T13:10:06.412Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers geopolitical developments, humanitarian crises, and sports events, highlighting key events and their potential impacts on global dynamics.",
+      "summary": "Today's lens covers a mix of geopolitical tensions, international relations, and global events, highlighting key developments that could impact students studying global affairs.",
       "stories": [
         {
-          "title": "Elon Musk considers merging Tesla and SpaceX",
-          "body": "Elon Musk has confirmed he is considering merging Tesla and SpaceX, a move that could reshape the automotive and space industries. The decision would create a unified entity with combined resources and capabilities, potentially influencing competition and innovation in both sectors.",
-          "whyItMatters": "This merger could lead to significant changes in the global tech landscape, affecting competition, investment, and technological advancement.",
+          "title": "UK Approves New Gas Drilling in North Sea",
+          "body": "Protests have erupted in the UK following the government's approval of new gas drilling in the North Sea, as environmental groups and local communities express concerns about ecological damage and potential oil spills. The decision has sparked widespread debate about energy policy and environmental sustainability.",
+          "whyItMatters": "The controversy highlights the tension between energy needs and environmental responsibility, a critical issue for students studying global geopolitics and sustainability.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/protests-as-uk-approves-new-gas-drilling-in-north-sea?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/21/lebron-jamess-76ers-beat-ny-knicks-on-nbas-opening-night-at-msg?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/21/they-try-to-break-us-pro-palestine-activists-in-czech-custody?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Australian MP loses both legs in vehicle attack",
-          "body": "An Australian MP was injured in a vehicle attack, losing both legs. The incident highlights ongoing security concerns and the risks faced by public figures in conflict zones. The suspect is currently in court, and the case is under investigation.",
-          "whyItMatters": "This event underscores the vulnerability of public figures in conflict zones and the importance of security measures to protect them.",
+          "title": "US and Russia: Diplomatic Tensions",
+          "body": "A US citizen was freed by Russia after a meeting with a Trump envoy, raising questions about diplomatic relations and the impact of US policy on international affairs. The event underscores the complex dynamics of global diplomacy and the potential for conflict or cooperation between major powers.",
+          "whyItMatters": "This incident illustrates the challenges of navigating international relations and the influence of political figures on global events, relevant for students analyzing geopolitical strategies.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macron-says-trump-spread-rumours-about-protests?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Drone attack in Sudan kills at least 153",
-          "body": "A drone attack in the disputed Sudan-South Sudan border region killed at least 153 people. The incident highlights the ongoing conflict and the humanitarian impact of such attacks. The attack is part of a broader pattern of violence in the region.",
-          "whyItMatters": "This event reflects the persistent instability in the region and the urgent need for peace and humanitarian aid to prevent further casualties.",
+          "title": "Iran's Enriched Uranium and US Talks",
+          "body": "Iran's enriched uranium has re-emerged as a point of contention in US negotiations, reflecting ongoing tensions in the Middle East and the broader geopolitical landscape. The issue highlights the delicate balance between nuclear non-proliferation and regional stability.",
+          "whyItMatters": "The nuclear issue underscores the importance of international cooperation and the risks of escalation in global conflicts, a key topic for students studying international security and diplomacy.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/21/drone-attack-in-disputed-sudan-south-sudan-border-region-kills-at-least-153?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks?traffic_source=rss"
             },
             {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-21T08:59:10.719Z"
+      "updatedAt": "2026-10-21T13:10:06.412Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers groundbreaking scientific discoveries, environmental concerns, and technological advancements impacting students and researchers globally.",
+      "summary": "Today's lens covers advancements in science, climate, and technology, including new research, weather warnings, and innovations in biotechnology.",
       "stories": [
         {
-          "title": "Chlamydomonas: Nobel Prize-Winning Microorganism",
-          "body": "A single-celled alga, Chlamydomonas, has been instrumental in advancing our understanding of cellular processes and has earned the Nobel Prize in Chemistry. Its research has provided critical insights into photosynthesis, cell division, and gene regulation, offering foundational knowledge for modern biology and biotechnology.",
-          "whyItMatters": "This discovery highlights the importance of basic scientific research in shaping future technological and medical advancements.",
+          "title": "New alga wins Nobel Prize for groundbreaking research",
+          "body": "A single-celled alga, *Chlamydomonas*, has been recognized for its role in advancing scientific understanding, particularly in the field of biochemistry. Researchers have used this organism to study cellular processes and develop new methods for biotechnology. The discovery has the potential to impact various scientific disciplines, including medicine and environmental science.",
+          "whyItMatters": "This research highlights the importance of basic scientific studies in driving innovation and solving real-world problems.",
           "sources": [
             {
               "name": "The Guardian Science",
               "url": "https://www.theguardian.com/science/2026/oct/21/chlamydomonas-one-celled-alga-nobel-prize"
+            }
+          ]
+        },
+        {
+          "title": "Storm Austen threatens UK with strong winds and heavy rain",
+          "body": "A severe storm, Storm Austen, is expected to bring strong winds and heavy rain to the UK, particularly affecting Wales. The BBC reports that the storm will bring gusts of up to 70 mph, with potential for flooding and disruption to daily life. The warning system is in place to prepare for the impact of the storm on infrastructure and public safety.",
+          "whyItMatters": "Weather warnings like this emphasize the importance of preparedness and the need for effective disaster response strategies in the face of increasing climate-related threats.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cm3wv9pdj33zo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/oct/21/bad-apples-rule-breaking-study"
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/weather/articles/c6m24ln2j43go?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/videos/cxly491v6p7yo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "AI Bioweapons Threat: Real Risks in the Modern Age",
-          "body": "A new study warns that artificial intelligence could be used to develop bioweapons, raising concerns about the ethical and security implications of emerging technologies. Researchers emphasize the need for international cooperation to prevent the misuse of AI in biological warfare.",
-          "whyItMatters": "This highlights the growing need for global oversight and ethical guidelines in the development and application of AI technologies.",
+          "title": "Tesla and SpaceX explore potential merger",
+          "body": "Elon Musk has announced his support for a potential merger between Tesla and SpaceX, aiming to create a more powerful and innovative company. This move could lead to significant advancements in electric vehicles, space exploration, and related technologies. The merger would combine resources and expertise from both companies to drive future technological progress.",
+          "whyItMatters": "Corporate mergers can lead to breakthroughs in technology and industry, but they also raise questions about competition and market dominance.",
           "sources": [
             {
               "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/video/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-video"
-            }
-          ]
-        },
-        {
-          "title": "Scientists Uncover Link Between Vitamin C and Cancer Survival",
-          "body": "A recent study reveals a surprising connection between vitamin C and cancer survival, suggesting that adequate intake may play a role in improving treatment outcomes. This finding could influence dietary recommendations and cancer research strategies.",
-          "whyItMatters": "This research underscores the potential role of nutrition in cancer management and highlights the importance of further investigation into dietary factors affecting health.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261019093437.htm"
+              "url": "https://www.theguardian.com/science/2026/oct/20/spacex-revenue-earnings-report"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-21T08:59:10.719Z"
+      "updatedAt": "2026-10-21T13:10:06.412Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including fuel prices, inflation, tech trends, and geopolitical events.",
+      "summary": "Today's lens covers protests in the UK over gas drilling, pro-Palestine activists in the Czech Republic, Macron's comments on Trump's role in protests, and economic concerns in the UK and globally.",
       "stories": [
         {
-          "title": "Elon Musk Confirms Consideration of Tesla and SpaceX Merger",
-          "body": "Elon Musk has confirmed he is considering merging Tesla and SpaceX, a move that could reshape the automotive and space industries. The decision would allow for combined resources and innovation, potentially leading to new product lines and market strategies. This development could influence global competition in both sectors.",
-          "whyItMatters": "A potential merger could enhance competitive positioning and innovation in the automotive and space industries.",
+          "title": "UK approves new gas drilling in North Sea, sparking protests",
+          "body": "Protests have erupted in the UK following the government's approval of new gas drilling in the North Sea. The decision has drawn criticism from environmental groups and local communities concerned about the environmental and social impacts of the drilling. The protests highlight growing tensions between energy production and environmental protection.",
+          "whyItMatters": "The debate over energy production and environmental impact is a critical issue for students studying global economics and sustainability.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/protests-as-uk-approves-new-gas-drilling-in-north-sea?traffic_source=rss"
             },
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macron-says-trump-spread-rumours-about-protests?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "UK Inflation Surges to 3.5% as Fuel Prices Rise",
-          "body": "Fuel prices are surging, pushing UK inflation to 3.5% ahead of the Budget. This increase is expected to impact consumer spending and economic policy discussions. The government may need to adjust monetary policies to manage inflationary pressures.",
-          "whyItMatters": "Rising fuel prices and inflation could influence economic policy and consumer behavior in the UK.",
+          "title": "Pro-Palestine activists in Czech custody",
+          "body": "In the Czech Republic, pro-Palestine activists have been placed in custody after attempting to disrupt a government event. The incident reflects ongoing tensions between political groups and the state, highlighting the complexity of social and political dynamics in the region.",
+          "whyItMatters": "The situation underscores the challenges of maintaining social order and protecting minority groups in a politically charged environment.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/21/they-try-to-break-us-pro-palestine-activists-in-czech-custody?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Geopolitical Tensions and Tech Trends in Global Economy",
-          "body": "Geopolitical tensions, including a drone attack in Sudan-South Sudan border and Israeli soldiers mocking Lebanese homes, highlight the complex interplay of global events. Meanwhile, tech advancements like AI in film and cloud outages in the UK reflect ongoing economic and technological shifts.",
-          "whyItMatters": "Global events and technological trends can impact economic stability and policy decisions worldwide.",
+          "title": "Macron defends Trump's role in spreading protest rumors",
+          "body": "French President Macron has defended President Trump's role in spreading rumors about protests, emphasizing the importance of political discourse. This statement reflects the broader context of political tensions and the impact of international media on domestic politics.",
+          "whyItMatters": "The role of international media in shaping domestic political discourse is a key topic for students analyzing global political dynamics.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/21/drone-attack-in-disputed-sudan-south-sudan-border-region-kills-at-least-153?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/israeli-soldiers-mock-lebanese-home-they-rigged-with-explosives?traffic_source=rss"
-            },
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood"
-            },
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/19/hellofresh-abuse-lawsuit"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macron-says-trump-spread-rumours-about-protests?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-21T08:59:10.719Z"
+      "updatedAt": "2026-10-21T13:10:06.412Z"
     }
   }
 }
