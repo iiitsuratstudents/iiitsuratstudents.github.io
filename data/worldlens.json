@@ -1,57 +1,61 @@
 {
-  "generatedAt": "2026-10-20T20:54:23.920Z",
+  "generatedAt": "2026-10-21T01:07:29.973Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of geopolitical developments, including US-China relations, regional conflicts, and international crises, with a focus on the impact on global stability and student understanding.",
+      "summary": "Today's lens covers international developments, including refugee returns, political tensions, health crises, and regional conflicts.",
       "stories": [
         {
-          "title": "Trump slams Somalia as a 's—house'",
-          "body": "Al Jazeera reports that US President Donald Trump has criticized Somalia, calling it a 's—house' and suggesting potential deportation of Ilhan Omar, a Somali-American Congresswoman. The comment reflects broader tensions between US policy and regional stability in the Horn of Africa.",
-          "whyItMatters": "The statement highlights the complex interplay between US foreign policy and regional dynamics, emphasizing the need for diplomatic engagement and humanitarian concerns.",
+          "title": "Former FDLR fighters return to Rwanda",
+          "body": "Former fighters of the FDLR, now known as the Rwandan Patriotic Alliance, are returning to Rwanda, marking a significant shift in the country's political landscape. This return is seen as a step toward reconciliation and peace, with local leaders expressing hope for a more stable future. The move is supported by international organizations and local communities that seek to rebuild trust after the 1994 genocide.",
+          "whyItMatters": "This development highlights the potential for reconciliation and peace in post-genocide Rwanda, offering a model for conflict resolution and community rebuilding.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/trump-ilhan-omar-could-be-deported-slams-somalia-as-a-s?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/21/why-former-fdlr-fighters-are-returning-to-rwanda?traffic_source=rss"
+            },
+            {
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest"
             }
           ]
         },
         {
-          "title": "UK police arrest two men on suspicion of assisting Iran’s intelligence",
-          "body": "Al Jazeera reports that UK police have re-arrested two men on suspicion of assisting Iran’s intelligence services. This development underscores the ongoing tensions between Western nations and Iran, particularly in the context of the 2022 Russian invasion of Ukraine.",
-          "whyItMatters": "The arrest reflects the growing complexity of international relations and the challenges of balancing national security with diplomatic engagement.",
+          "title": "Kenya's opposition faces challenges without Raila Odinga",
+          "body": "One year after Raila Odinga's departure from Kenya's opposition, the party faces significant challenges in maintaining its influence. The opposition's ability to function without Odinga is questioned, with analysts noting the lack of clear leadership and the impact of his absence on political stability. The situation reflects broader tensions in Kenyan politics and the need for a new political strategy.",
+          "whyItMatters": "The political instability in Kenya highlights the importance of leadership and institutional strength in maintaining democratic processes and public trust.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/21/one-year-on-has-kenyas-opposition-lost-its-way-without-raila-odinga?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "France riots damage thousands of businesses",
-          "body": "Al Jazeera reports that France experienced riots, leading to significant damage to businesses. The unrest highlights the impact of social and political tensions on economic stability and public safety.",
-          "whyItMatters": "The riots underscore the importance of addressing social grievances and maintaining public order to prevent broader societal disruptions.",
+          "title": "Nigeria confirms Ebola outbreak",
+          "body": "Nigeria has confirmed a new Ebola case, signaling the continuation of an outbreak that has spread into western Africa. The outbreak poses a significant public health risk, with health officials urging caution and increased monitoring. The situation underscores the importance of global cooperation in managing infectious diseases and the need for sustained public health efforts.",
+          "whyItMatters": "The ongoing Ebola outbreak in Nigeria highlights the importance of global health cooperation and the need for continued vigilance in preventing the spread of infectious diseases.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-riots-leave-thousands-of-businesses-damaged?traffic_source=rss"
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-20T20:54:23.920Z"
+      "updatedAt": "2026-10-21T01:07:29.973Z"
     },
     "science": {
       "kicker": "Science & Nature",
-      "summary": "Today's lens highlights groundbreaking scientific discoveries, environmental concerns, and technological advancements impacting global research and policy.",
+      "summary": "Today's lens covers advances in science, climate, and technology, with a focus on discoveries, warnings, and global impacts.",
       "stories": [
         {
-          "title": "Fin Whale Film Captures Natural Wonder",
-          "body": "A giant fin whale was filmed off the Welsh coast, showcasing the majestic creature's large mouth and powerful swimming abilities. The event highlights the natural beauty and ecological significance of marine life, emphasizing the importance of conservation efforts.",
-          "whyItMatters": "Understanding and protecting marine ecosystems is crucial for maintaining biodiversity and ecological balance.",
+          "title": "Fin Whale Film Captures Natural Phenomenon",
+          "body": "A giant fin whale was filmed off the Welsh coast, showcasing its massive size and the power of its mouth. The event highlights the natural world's wonders and the importance of conservation efforts.",
+          "whyItMatters": "Understanding natural phenomena can raise awareness about marine ecosystems and the need for environmental protection.",
           "sources": [
             {
               "name": "BBC Science",
@@ -64,10 +68,14 @@
           ]
         },
         {
-          "title": "New Link Between Vitamin C and Cancer Survival",
-          "body": "Scientists have discovered a surprising connection between vitamin C and cancer survival, suggesting that adequate intake may play a role in improving treatment outcomes. This finding could influence dietary recommendations and cancer research strategies.",
-          "whyItMatters": "Understanding nutritional factors that influence health outcomes may lead to new approaches in cancer prevention and treatment.",
+          "title": "Scientists Uncover Mechanism Behind Statin-Induced Muscle Pain",
+          "body": "A study by scientists has identified the mechanism by which statins, commonly used to lower cholesterol, can cause muscle pain. This research could lead to better understanding and management of side effects associated with these medications.",
+          "whyItMatters": "Understanding drug side effects is crucial for patient safety and informed medical decisions.",
           "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261019093447.htm"
+            },
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/10/261019093437.htm"
@@ -75,60 +83,68 @@
           ]
         },
         {
-          "title": "AI Tools Enhance Cancer Prediction",
-          "body": "A new AI tool can predict cancer survival based on a single patient's selfie, offering a non-invasive method for early detection. This advancement could improve healthcare accessibility and patient outcomes by leveraging technology for personalized medicine.",
-          "whyItMatters": "Advancements in AI and data analysis can revolutionize healthcare by enabling more accurate and efficient disease prediction and treatment.",
+          "title": "AI Bioweapons Threat: Real Risks in the Modern Era",
+          "body": "A video from The Guardian highlights the real risks of AI bioweapons, emphasizing the need for ethical oversight and international cooperation to prevent misuse of emerging technologies.",
+          "whyItMatters": "The development of AI bioweapons underscores the importance of global collaboration and ethical guidelines in technological advancement.",
           "sources": [
             {
               "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie"
+              "url": "https://www.theguardian.com/science/video/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-video"
+            },
+            {
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03352-0"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-20T20:54:23.920Z"
+      "updatedAt": "2026-10-21T01:07:29.973Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, political tensions, and business-related news, highlighting potential impacts on global markets and public sentiment.",
+      "summary": "Today's lens covers a mix of global economic developments, technological advancements, and geopolitical events.",
       "stories": [
         {
-          "title": "Trump slams Somalia as a 's—house'",
-          "body": "Al Jazeera reported that U.S. President Donald Trump criticized Somalia as a 's—house,' suggesting the country is a failed state. The comment was made in the context of potential deportations of Ilhan Omar, a Muslim immigrant from Somalia, who had been accused of spreading extremist ideologies. The statement reflects broader tensions between U.S. policy and regional stability.",
-          "whyItMatters": "The comment highlights the complex relationship between U.S. foreign policy and regional security concerns.",
+          "title": "Former FDLR fighters return to Rwanda",
+          "body": "Former fighters of the FDLR, now known as the Rwandan Patriotic Front, are returning to Rwanda, marking a significant shift in the country's political landscape. This movement is driven by a desire for reconciliation and reintegration, as well as the potential for economic and social development in the region.",
+          "whyItMatters": "This development highlights the ongoing efforts to address past conflicts and promote peace and stability in Rwanda.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/trump-ilhan-omar-could-be-deported-slams-somalia-as-a-s?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/21/why-former-fdlr-fighters-are-returning-to-rwanda?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/21/king-charles-welcomes-omani-sultan-hails-peace-efforts-in-uk-state-visit?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "UK police re-arrest two men on suspicion of assisting Iran’s intelligence",
-          "body": "Al Jazeera reported that UK police re-arrested two men on suspicion of assisting Iran’s intelligence services. The arrest comes amid growing concerns about cross-border intelligence cooperation and potential security threats. The incident underscores the ongoing geopolitical tensions between the UK and Iran.",
-          "whyItMatters": "The arrest highlights the complexities of intelligence cooperation and security concerns in a globalized world.",
+          "title": "US warns of difficulty in peace deal with Iran",
+          "body": "The US has expressed concerns about the feasibility of a peace deal with Iran, citing the complex political and military situation in the region. The US government is closely monitoring the situation and is prepared to take action if the deal is not reached.",
+          "whyItMatters": "The US warning about the difficulty of a peace deal with Iran underscores the challenges of achieving diplomatic resolutions in high-stakes geopolitical contexts.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "France riots leave thousands of businesses damaged",
-          "body": "Al Jazeera reported that France experienced riots, resulting in significant damage to businesses and public infrastructure. The unrest was fueled by a combination of economic and social factors, including rising unemployment and political tensions. The incident reflects the impact of social unrest on economic stability.",
-          "whyItMatters": "The riots highlight the potential for social unrest to disrupt economic activity and public services.",
+          "title": "Google resolves cloud outage affecting UK banks and websites",
+          "body": "Google has resolved a cloud outage that affected UK banks and websites, restoring services to users. The incident highlights the importance of reliable digital infrastructure and the potential impact of technical disruptions on financial and public services.",
+          "whyItMatters": "The resolution of a major cloud outage demonstrates the critical role of technology in maintaining digital services and the need for robust infrastructure to prevent future disruptions.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-riots-leave-thousands-of-businesses-damaged?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-20T20:54:23.920Z"
+      "updatedAt": "2026-10-21T01:07:29.973Z"
     }
   }
 }
