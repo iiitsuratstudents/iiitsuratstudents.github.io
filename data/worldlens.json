@@ -1,98 +1,106 @@
 {
-  "generatedAt": "2026-10-22T09:00:13.348Z",
+  "generatedAt": "2026-10-22T13:10:37.888Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of geopolitical developments, human rights issues, and technological news, highlighting the complex interplay between international relations, humanitarian concerns, and technological advancements.",
+      "kicker": "Geopolitics",
+      "summary": "Today's lens covers a mix of global events, including a potential internet outage, geopolitical tensions, a maritime deal, health concerns, natural disasters, environmental issues, and international legal actions.",
       "stories": [
         {
-          "title": "Bill Clinton quotes Quran and condemns anti-Muslim rhetoric",
-          "body": "Al Jazeera reported that Bill Clinton quoted the Quran and condemned anti-Muslim rhetoric, reflecting on the role of religion in fostering peace and understanding. The statement was made in the context of global tensions and the importance of dialogue in resolving conflicts.",
-          "whyItMatters": "This highlights the potential for religious leaders to influence public discourse and promote peace, even in times of geopolitical tension.",
+          "title": "PHP Coding Flaw Could Impact Global Internet",
+          "body": "Al Jazeera reports a potential PHP coding flaw that could affect 70% of the internet, raising concerns about cybersecurity and infrastructure stability. The flaw, if exploited, could lead to widespread service disruptions.",
+          "whyItMatters": "A critical cybersecurity vulnerability could impact global internet connectivity and data security.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/bill-clinton-quotes-quran-and-condemns-anti-muslim-rhetoric?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/22/whats-the-php-coding-flaw-that-could-pull-down-70-percent-of-the-internet?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Two European women held captive for more than a year in Niger freed in Libya",
-          "body": "BBC World reported that two European women who were held captive for over a year in Niger were freed in Libya. The incident underscores the challenges of cross-border conflicts and the importance of international cooperation in humanitarian crises.",
-          "whyItMatters": "It illustrates the complexities of human rights and international law in conflict zones, and the role of diplomacy in resolving such crises.",
+          "title": "Iran Reveals Offensive Doctrine, US Issues Alert",
+          "body": "Al Jazeera reports Iran has unveiled an offensive doctrine, prompting the US to issue an alert about potential military escalation. The situation highlights ongoing geopolitical tensions and strategic uncertainty.",
+          "whyItMatters": "Geopolitical tensions between Iran and the US could lead to increased military activity or diplomatic confrontations.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Russian strikes hit Kyiv after Witkoff meets Putin",
-          "body": "Al Jazeera reported that Russian strikes hit Kyiv following a meeting between Witkoff and Putin. This event highlights the ongoing tensions in the region and the potential for military escalation in the conflict.",
-          "whyItMatters": "It reflects the volatile nature of regional conflicts and the impact of high-level diplomatic interactions on military actions.",
+          "title": "Turkiye-Libya Maritime Deal Faces Opposition",
+          "body": "Al Jazeera reports a maritime deal between Turkey and Libya, aimed at resolving territorial disputes, but faces opposition from the EU and Egypt over sovereignty and resource allocation. The deal underscores complex regional dynamics.",
+          "whyItMatters": "A maritime deal between Turkey and Libya could influence regional stability and resource management in the Mediterranean.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-22T09:00:13.348Z"
+      "updatedAt": "2026-10-22T13:10:37.888Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens highlights advances in science, technology, and environmental research, including breakthroughs in energy, space exploration, and ecological studies.",
+      "summary": "Today's lens covers recent scientific discoveries, weather warnings, and geopolitical developments related to energy and environmental issues.",
       "stories": [
         {
-          "title": "NI risks missing 2030 energy goals, says Stormont committee",
-          "body": "A committee in Northern Ireland has warned that the country may miss its 2030 energy goals if it fails to address the risks associated with renewable energy deployment. The committee is urging policymakers to prioritize infrastructure and technological innovation to meet climate targets.",
-          "whyItMatters": "The committee's warning highlights the importance of strategic planning and investment in renewable energy to meet global climate goals.",
+          "title": "Weather warning in place ahead of Storm Boelo",
+          "body": "A weather warning is in place ahead of Storm Boelo, which is expected to affect the UK. The storm, part of a larger system, could bring heavy rainfall and potential flooding. The BBC Science outlet reports the warning, emphasizing the need for preparedness.",
+          "whyItMatters": "Understanding and preparing for extreme weather events is crucial for public safety and infrastructure resilience.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c623d18dl3v0o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Astronauts’ hearts just passed a surprising test for Mars",
-          "body": "Scientists have discovered that astronauts' hearts undergo significant changes during long-duration space missions, which could have implications for future space travel and human health. The findings are based on data from the Mars 2020 mission.",
-          "whyItMatters": "Understanding the physiological effects of space travel is crucial for developing medical protocols that support long-term human presence in space.",
+          "title": "Oxford scientists discover how viruses build themselves without a blueprint",
+          "body": "Oxford scientists have made a breakthrough in understanding how viruses assemble themselves without a pre-existing blueprint. The discovery could have significant implications for virology and antiviral development.",
+          "whyItMatters": "This research could lead to new strategies for combating viral infections, including those affecting human health and agriculture.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261021231248.htm"
             }
           ]
         },
         {
-          "title": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells",
-          "body": "A recent study has demonstrated that scientists can reverse 60 years of aging in human cells by targeting specific molecular pathways. This breakthrough could have significant implications for anti-aging research and potential medical applications.",
-          "whyItMatters": "This research opens new possibilities for extending healthy human life and could lead to advancements in aging-related diseases.",
+          "title": "NASA’s Curiosity rover reveals a spectacular new view of Mars",
+          "body": "NASA’s Curiosity rover has captured a stunning new view of Mars, revealing details about the planet’s surface and potential for future exploration. The image highlights the complexity of Martian geology and the importance of continued planetary exploration.",
+          "whyItMatters": "Understanding Mars’ geology and potential for life is critical for future space missions and the search for extraterrestrial life.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261020085013.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261021231238.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-22T09:00:13.348Z"
+      "updatedAt": "2026-10-22T13:10:37.888Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, technological trends, and global events impacting students and professionals.",
+      "summary": "Today's lens covers a mix of economic developments, including job cuts, technological shifts, environmental concerns, and geopolitical tensions.",
       "stories": [
         {
-          "title": "Barclays cuts 5,000 jobs as AI adoption grows",
-          "body": "Barclays has announced plans to cut 5,000 jobs, signaling a shift toward increased reliance on artificial intelligence. The decision comes as the financial sector continues to integrate AI technologies to enhance efficiency and decision-making processes. This move reflects broader trends in the industry where automation and AI are reshaping traditional employment structures.",
-          "whyItMatters": "The rise of AI in the financial sector highlights the need for workforce retraining and adaptation in a rapidly evolving job market.",
+          "title": "Barclays cuts 5,000 jobs as it increases AI reliance",
+          "body": "Barclays has announced plans to cut 5,000 jobs, signaling a shift toward greater reliance on artificial intelligence. The move comes as the bank seeks to modernize its operations and improve efficiency. This reflects broader trends in the financial sector as companies invest in AI technologies to stay competitive.",
+          "whyItMatters": "The shift toward AI in the financial sector may influence job markets and corporate strategies in the coming years.",
           "sources": [
             {
               "name": "BBC Business",
@@ -100,34 +108,26 @@
             },
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Bill Clinton quotes Quran and condemns anti-Muslim rhetoric",
-          "body": "Bill Clinton, former U.S. President, has quoted the Quran and condemned anti-Muslim rhetoric, reflecting on his personal beliefs and the importance of interfaith dialogue. This statement comes amid ongoing discussions about religious tolerance and the role of public figures in shaping societal attitudes.",
-          "whyItMatters": "Public figures' actions can influence public perception and foster greater understanding of diverse religious perspectives.",
+          "title": "Toxic haze in Southeast Asia sparks legal action against polluters",
+          "body": "Southeast Asia is facing a severe toxic haze crisis, prompting calls for legal action against polluters. The haze, caused by burning of fossil fuels and agricultural waste, has led to health concerns and environmental damage. Governments and environmental groups are pushing for stricter regulations and accountability for those responsible.",
+          "whyItMatters": "The haze crisis highlights the urgent need for environmental policies and international cooperation to address climate and pollution challenges.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/bill-clinton-quotes-quran-and-condemns-anti-muslim-rhetoric?traffic_source=rss"
-            },
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/21/french-borrowing-costs-failure-to-pass-budget-govenment-bonds-violent-street-protests"
+              "url": "https://www.aljazeera.com/economy/2026/10/22/southeast-asias-toxic-haze-spurs-calls-for-legal-action-against-polluters?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Russian strikes hit Kyiv after Witkoff meets Putin",
-          "body": "Russian military strikes have targeted Kyiv, following a meeting between former U.S. Secretary of State John Witkoff and Russian President Vladimir Putin. The conflict underscores the geopolitical tensions in the region and the potential for military escalation in a volatile geopolitical landscape.",
-          "whyItMatters": "Geopolitical tensions can have far-reaching consequences, affecting regional stability and international relations.",
+          "title": "French borrowing costs hit 24-year high as budget fears spark market concerns",
+          "body": "French borrowing costs have reached a 24-year high, driven by budget deficits and civil unrest. The government faces pressure to manage its finances while addressing social and economic instability. Market reactions are influenced by the country's financial health and its ability to meet debt obligations.",
+          "whyItMatters": "The financial situation in France underscores the challenges of balancing fiscal responsibility with social and economic stability in modern democracies.",
           "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss"
-            },
             {
               "name": "The Guardian Business",
               "url": "https://www.theguardian.com/business/2026/oct/21/french-borrowing-costs-failure-to-pass-budget-govenment-bonds-violent-street-protests"
@@ -136,7 +136,7 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-22T09:00:13.348Z"
+      "updatedAt": "2026-10-22T13:10:37.888Z"
     }
   }
 }
