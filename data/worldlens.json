@@ -1,95 +1,83 @@
 {
-  "generatedAt": "2026-10-22T16:56:46.060Z",
+  "generatedAt": "2026-10-22T23:28:39.573Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of geopolitical developments, human rights issues, and international news, highlighting tensions, conflicts, and ongoing crises.",
+      "kicker": "Geopolitics",
+      "summary": "Today's lens covers regional conflicts, human rights, political developments, and global health concerns.",
       "stories": [
         {
-          "title": "UK Supreme Court Orders Trump to Answer Questions Under Oath",
-          "body": "The UK Supreme Court ruled that former President Donald Trump must answer questions under oath in a BBC World lawsuit. The case involves allegations of misconduct and legal violations. The ruling underscores the importance of legal accountability and the role of judicial oversight in political matters.",
-          "whyItMatters": "The ruling highlights the intersection of law, politics, and media, emphasizing the need for transparency and accountability in public figures.",
+          "title": "Ethiopians flee conflict into Kenya",
+          "body": "Hundreds of Ethiopians have crossed into Kenya to escape regional fighting, highlighting the impact of conflict on migration and humanitarian crises. The situation underscores the vulnerability of populations in conflict zones and the challenges of cross-border humanitarian efforts.",
+          "whyItMatters": "Migration due to conflict can strain neighboring countries' resources and exacerbate regional tensions.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/22/hundreds-of-ethiopians-cross-into-kenya-to-flee-regional-fighting?traffic_source=rss"
             },
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Albanian Parliament Faces Protests and Political Scuffles",
-          "body": "Albanian lawmakers faced political clashes in parliament as street protests continued. The situation reflects ongoing tensions in the country, with calls for reform and accountability. The protests highlight the challenges of maintaining stability in a politically sensitive environment.",
-          "whyItMatters": "The protests underscore the complexities of governance and the impact of public unrest on political stability and social cohesion.",
+          "title": "US sanctions and human rights awards",
+          "body": "The International Criminal Court (ICC) won the Sakharov Prize, a top human rights award from the European Union, following US sanctions. This highlights the growing recognition of international courts in addressing human rights violations and the complex interplay between sanctions and judicial independence.",
+          "whyItMatters": "The award underscores the role of international institutions in advancing human rights and the potential for sanctions to influence judicial processes.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_albanian-lawmakers-scuffle-in-parliament-221026?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/22/south-africa-crush-australia-by-an-innings-to-level-cricket-test-series?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "FIFA Announces USA to Host First Women’s Club World Cup in 2028",
-          "body": "FIFA has announced that the USA will host the first Women’s Club World Cup in 2028. This development marks a significant step towards gender equality in sports and highlights the potential for international collaboration and cultural exchange. The event could inspire future generations and promote inclusivity in the sport.",
-          "whyItMatters": "The announcement reflects FIFA's commitment to advancing women's sports and promoting global participation, emphasizing the importance of inclusivity and progress in the sports world.",
+          "title": "US vaccine trial halted in Africa",
+          "body": "A controversial US-backed vaccine trial for African newborns was halted due to ethical concerns. This reflects ongoing debates about vaccine distribution, safety, and the ethical responsibilities of international health initiatives.",
+          "whyItMatters": "The halt highlights the need for transparent and ethically sound vaccine trials, especially in vulnerable populations.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/22/fifa-announces-usa-to-host-womens-2028-world-cup?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/22/real-madrids-complaint-over-la-liga-chiefs-nazi-slant-sent-to-tribunal?traffic_source=rss"
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-22T16:56:46.060Z"
+      "updatedAt": "2026-10-22T23:28:39.573Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers weather warnings, scientific discoveries, and technological advancements impacting global understanding.",
+      "summary": "Today's lens covers scientific advancements, weather warnings, and research findings impacting global understanding.",
       "stories": [
         {
-          "title": "Weather warning in place ahead of Storm Boelo",
-          "body": "A weather warning is in place ahead of Storm Boelo, which is expected to bring heavy rain and potential flooding to parts of Europe. The storm is part of a larger system affecting the UK and surrounding regions. The warning is issued by the BBC Science department, highlighting the need for preparedness and safety measures.",
-          "whyItMatters": "Understanding and preparing for extreme weather events is crucial for public safety and infrastructure resilience.",
+          "title": "BBC reports grid operator says lights will stay on this winter after concerns",
+          "body": "A grid operator has stated that electricity supply will remain stable this winter, addressing concerns about potential disruptions. The decision is based on improved energy management systems and increased renewable energy capacity. This development is significant for ensuring reliable power distribution in the coming season.",
+          "whyItMatters": "This stability in energy supply is crucial for supporting both residential and industrial needs, highlighting the importance of adaptive energy management strategies.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "First human case of Shamonda virus detected in France",
-          "body": "A first human case of the Shamonda virus has been detected in France, according to officials. The virus is believed to be a new strain that has emerged in the region. Scientists are conducting further research to understand its transmission and potential impact on public health.",
-          "whyItMatters": "Identifying new pathogens and their potential impact is essential for global health security and disease prevention.",
+          "title": "Storm Austen brings heavy rain to Scotland",
+          "body": "A heavy rain warning is in place as Storm Austen moves across Scotland, potentially causing flooding and disrupting transportation. The storm is expected to bring significant rainfall, prompting authorities to monitor conditions and issue timely warnings to the public.",
+          "whyItMatters": "Weather warnings are essential for public safety and preparedness, demonstrating the importance of monitoring and responding to extreme weather events.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "title": "Scientists discover how viruses build themselves without a blueprint",
-          "body": "Oxford scientists have made a breakthrough in understanding how viruses assemble themselves without a pre-existing blueprint. This discovery could revolutionize our understanding of viral replication and potentially lead to new antiviral treatments.",
-          "whyItMatters": "Understanding viral mechanisms is critical for developing effective therapies and vaccines against emerging pathogens.",
+          "body": "Oxford scientists have made a breakthrough in understanding how viruses assemble themselves without a pre-existing blueprint. This research could lead to new insights into viral replication and potential applications in antiviral therapies.",
+          "whyItMatters": "This discovery has the potential to revolutionize our understanding of viral biology and could lead to innovative treatments for viral infections.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -99,52 +87,60 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-22T16:56:46.060Z"
+      "updatedAt": "2026-10-22T23:28:39.573Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including political tensions, sports events, and business news.",
+      "summary": "Today's lens covers regional conflicts, human rights, political developments, and economic trends impacting students globally.",
       "stories": [
         {
-          "title": "Albanian lawmakers scuffle in parliament as street protests continue",
-          "body": "Albanian lawmakers are in conflict in parliament, with street protests continuing. The situation reflects ongoing political instability and social unrest in the region.",
-          "whyItMatters": "The political tensions in Albania could impact regional stability and economic development.",
+          "title": "Ethiopian refugees flee conflict",
+          "body": "Hundreds of Ethiopians have crossed into Kenya to escape regional fighting, highlighting the ongoing instability in the Horn of Africa. The movement underscores the impact of conflict on migration and human rights, with international organizations urging peace efforts to prevent further displacement.",
+          "whyItMatters": "The displacement of civilians due to conflict can affect regional stability and access to education and healthcare.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_albanian-lawmakers-scuffle-in-parliament-221026?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/22/hundreds-of-ethiopians-cross-into-kenya-to-flee-regional-fighting?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/22/two-syrian-security-officers-killed-in-raid-on-isil-cell-near-damascus?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "South Africa crushes Australia in cricket Test series",
-          "body": "South Africa defeated Australia in a closely contested cricket Test series, leveling the series. The victory highlights the competitive nature of international sports and the importance of team performance.",
-          "whyItMatters": "The cricket series outcome demonstrates the impact of competitive sports on national pride and international relations.",
+          "title": "US sanctions and human rights awards",
+          "body": "The US-sanctioned International Criminal Court (ICC) has won the Sakharov Prize, a top human rights award from the European Union. This recognition highlights the growing influence of international legal bodies in addressing global human rights issues, despite political tensions.",
+          "whyItMatters": "Recognition of international legal institutions can shape global perceptions of justice and human rights enforcement.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/22/south-africa-crush-australia-by-an-innings-to-level-cricket-test-series?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss"
+            },
+            {
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax"
             }
           ]
         },
         {
-          "title": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
-          "body": "A US judge has ordered former President Donald Trump to sit for a deposition in a $10 billion lawsuit against the BBC. The case highlights the ongoing legal battles over media and political accountability.",
-          "whyItMatters": "The legal proceedings reflect the complexities of media law and the impact of political figures on public discourse.",
+          "title": "Meta and Zuckerberg deal on tax obligations",
+          "body": "Meta has struck a deal with Mark Zuckerberg to help him fulfill a potential tax obligation in California. This development reflects the growing complexity of corporate taxation and the role of technology giants in global financial systems.",
+          "whyItMatters": "Corporate tax obligations can influence business strategies and economic policies, affecting both domestic and international markets.",
           "sources": [
             {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss"
+            },
+            {
               "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery"
+              "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-22T16:56:46.060Z"
+      "updatedAt": "2026-10-22T23:28:39.573Z"
     }
   }
 }
