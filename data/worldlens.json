@@ -1,60 +1,68 @@
 {
-  "generatedAt": "2026-10-22T13:10:37.888Z",
+  "generatedAt": "2026-10-22T16:56:46.060Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of global events, including a potential internet outage, geopolitical tensions, a maritime deal, health concerns, natural disasters, environmental issues, and international legal actions.",
+      "kicker": "Global Brief",
+      "summary": "Today's lens covers a mix of geopolitical developments, human rights issues, and international news, highlighting tensions, conflicts, and ongoing crises.",
       "stories": [
         {
-          "title": "PHP Coding Flaw Could Impact Global Internet",
-          "body": "Al Jazeera reports a potential PHP coding flaw that could affect 70% of the internet, raising concerns about cybersecurity and infrastructure stability. The flaw, if exploited, could lead to widespread service disruptions.",
-          "whyItMatters": "A critical cybersecurity vulnerability could impact global internet connectivity and data security.",
+          "title": "UK Supreme Court Orders Trump to Answer Questions Under Oath",
+          "body": "The UK Supreme Court ruled that former President Donald Trump must answer questions under oath in a BBC World lawsuit. The case involves allegations of misconduct and legal violations. The ruling underscores the importance of legal accountability and the role of judicial oversight in political matters.",
+          "whyItMatters": "The ruling highlights the intersection of law, politics, and media, emphasizing the need for transparency and accountability in public figures.",
+          "sources": [
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Albanian Parliament Faces Protests and Political Scuffles",
+          "body": "Albanian lawmakers faced political clashes in parliament as street protests continued. The situation reflects ongoing tensions in the country, with calls for reform and accountability. The protests highlight the challenges of maintaining stability in a politically sensitive environment.",
+          "whyItMatters": "The protests underscore the complexities of governance and the impact of public unrest on political stability and social cohesion.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/22/whats-the-php-coding-flaw-that-could-pull-down-70-percent-of-the-internet?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_albanian-lawmakers-scuffle-in-parliament-221026?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/10/22/south-africa-crush-australia-by-an-innings-to-level-cricket-test-series?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Iran Reveals Offensive Doctrine, US Issues Alert",
-          "body": "Al Jazeera reports Iran has unveiled an offensive doctrine, prompting the US to issue an alert about potential military escalation. The situation highlights ongoing geopolitical tensions and strategic uncertainty.",
-          "whyItMatters": "Geopolitical tensions between Iran and the US could lead to increased military activity or diplomatic confrontations.",
+          "title": "FIFA Announces USA to Host First Women’s Club World Cup in 2028",
+          "body": "FIFA has announced that the USA will host the first Women’s Club World Cup in 2028. This development marks a significant step towards gender equality in sports and highlights the potential for international collaboration and cultural exchange. The event could inspire future generations and promote inclusivity in the sport.",
+          "whyItMatters": "The announcement reflects FIFA's commitment to advancing women's sports and promoting global participation, emphasizing the importance of inclusivity and progress in the sports world.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Turkiye-Libya Maritime Deal Faces Opposition",
-          "body": "Al Jazeera reports a maritime deal between Turkey and Libya, aimed at resolving territorial disputes, but faces opposition from the EU and Egypt over sovereignty and resource allocation. The deal underscores complex regional dynamics.",
-          "whyItMatters": "A maritime deal between Turkey and Libya could influence regional stability and resource management in the Mediterranean.",
-          "sources": [
+              "url": "https://www.aljazeera.com/sports/2026/10/22/fifa-announces-usa-to-host-womens-2028-world-cup?traffic_source=rss"
+            },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/10/22/real-madrids-complaint-over-la-liga-chiefs-nazi-slant-sent-to-tribunal?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-22T13:10:37.888Z"
+      "updatedAt": "2026-10-22T16:56:46.060Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers recent scientific discoveries, weather warnings, and geopolitical developments related to energy and environmental issues.",
+      "summary": "Today's lens covers weather warnings, scientific discoveries, and technological advancements impacting global understanding.",
       "stories": [
         {
           "title": "Weather warning in place ahead of Storm Boelo",
-          "body": "A weather warning is in place ahead of Storm Boelo, which is expected to affect the UK. The storm, part of a larger system, could bring heavy rainfall and potential flooding. The BBC Science outlet reports the warning, emphasizing the need for preparedness.",
+          "body": "A weather warning is in place ahead of Storm Boelo, which is expected to bring heavy rain and potential flooding to parts of Europe. The storm is part of a larger system affecting the UK and surrounding regions. The warning is issued by the BBC Science department, highlighting the need for preparedness and safety measures.",
           "whyItMatters": "Understanding and preparing for extreme weather events is crucial for public safety and infrastructure resilience.",
           "sources": [
             {
@@ -68,75 +76,75 @@
           ]
         },
         {
-          "title": "Oxford scientists discover how viruses build themselves without a blueprint",
-          "body": "Oxford scientists have made a breakthrough in understanding how viruses assemble themselves without a pre-existing blueprint. The discovery could have significant implications for virology and antiviral development.",
-          "whyItMatters": "This research could lead to new strategies for combating viral infections, including those affecting human health and agriculture.",
+          "title": "First human case of Shamonda virus detected in France",
+          "body": "A first human case of the Shamonda virus has been detected in France, according to officials. The virus is believed to be a new strain that has emerged in the region. Scientists are conducting further research to understand its transmission and potential impact on public health.",
+          "whyItMatters": "Identifying new pathogens and their potential impact is essential for global health security and disease prevention.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Scientists discover how viruses build themselves without a blueprint",
+          "body": "Oxford scientists have made a breakthrough in understanding how viruses assemble themselves without a pre-existing blueprint. This discovery could revolutionize our understanding of viral replication and potentially lead to new antiviral treatments.",
+          "whyItMatters": "Understanding viral mechanisms is critical for developing effective therapies and vaccines against emerging pathogens.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/10/261021231248.htm"
             }
           ]
-        },
-        {
-          "title": "NASA’s Curiosity rover reveals a spectacular new view of Mars",
-          "body": "NASA’s Curiosity rover has captured a stunning new view of Mars, revealing details about the planet’s surface and potential for future exploration. The image highlights the complexity of Martian geology and the importance of continued planetary exploration.",
-          "whyItMatters": "Understanding Mars’ geology and potential for life is critical for future space missions and the search for extraterrestrial life.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261021231238.htm"
-            }
-          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-22T13:10:37.888Z"
+      "updatedAt": "2026-10-22T16:56:46.060Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including job cuts, technological shifts, environmental concerns, and geopolitical tensions.",
+      "summary": "Today's lens covers economic developments, including political tensions, sports events, and business news.",
       "stories": [
         {
-          "title": "Barclays cuts 5,000 jobs as it increases AI reliance",
-          "body": "Barclays has announced plans to cut 5,000 jobs, signaling a shift toward greater reliance on artificial intelligence. The move comes as the bank seeks to modernize its operations and improve efficiency. This reflects broader trends in the financial sector as companies invest in AI technologies to stay competitive.",
-          "whyItMatters": "The shift toward AI in the financial sector may influence job markets and corporate strategies in the coming years.",
-          "sources": [
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Toxic haze in Southeast Asia sparks legal action against polluters",
-          "body": "Southeast Asia is facing a severe toxic haze crisis, prompting calls for legal action against polluters. The haze, caused by burning of fossil fuels and agricultural waste, has led to health concerns and environmental damage. Governments and environmental groups are pushing for stricter regulations and accountability for those responsible.",
-          "whyItMatters": "The haze crisis highlights the urgent need for environmental policies and international cooperation to address climate and pollution challenges.",
+          "title": "Albanian lawmakers scuffle in parliament as street protests continue",
+          "body": "Albanian lawmakers are in conflict in parliament, with street protests continuing. The situation reflects ongoing political instability and social unrest in the region.",
+          "whyItMatters": "The political tensions in Albania could impact regional stability and economic development.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/10/22/southeast-asias-toxic-haze-spurs-calls-for-legal-action-against-polluters?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_albanian-lawmakers-scuffle-in-parliament-221026?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/22/two-syrian-security-officers-killed-in-raid-on-isil-cell-near-damascus?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "French borrowing costs hit 24-year high as budget fears spark market concerns",
-          "body": "French borrowing costs have reached a 24-year high, driven by budget deficits and civil unrest. The government faces pressure to manage its finances while addressing social and economic instability. Market reactions are influenced by the country's financial health and its ability to meet debt obligations.",
-          "whyItMatters": "The financial situation in France underscores the challenges of balancing fiscal responsibility with social and economic stability in modern democracies.",
+          "title": "South Africa crushes Australia in cricket Test series",
+          "body": "South Africa defeated Australia in a closely contested cricket Test series, leveling the series. The victory highlights the competitive nature of international sports and the importance of team performance.",
+          "whyItMatters": "The cricket series outcome demonstrates the impact of competitive sports on national pride and international relations.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/10/22/south-africa-crush-australia-by-an-innings-to-level-cricket-test-series?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
+          "body": "A US judge has ordered former President Donald Trump to sit for a deposition in a $10 billion lawsuit against the BBC. The case highlights the ongoing legal battles over media and political accountability.",
+          "whyItMatters": "The legal proceedings reflect the complexities of media law and the impact of political figures on public discourse.",
           "sources": [
             {
               "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/21/french-borrowing-costs-failure-to-pass-budget-govenment-bonds-violent-street-protests"
+              "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-22T13:10:37.888Z"
+      "updatedAt": "2026-10-22T16:56:46.060Z"
     }
   }
 }
