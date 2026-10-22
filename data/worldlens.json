@@ -1,154 +1,130 @@
 {
-  "generatedAt": "2026-10-21T20:55:08.743Z",
+  "generatedAt": "2026-10-22T01:05:05.651Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers a range of global events, including a violent incident in the Middle East, political developments in Europe, and international health and humanitarian concerns.",
+      "kicker": "Global Brief",
+      "summary": "Today's lens covers recent geopolitical developments, technological concerns, and international health updates, highlighting key events and their potential implications for students.",
       "stories": [
         {
-          "title": "Violent Incident in the Middle East",
-          "body": "A video from Al Jazeera shows an Israeli settler assaulting a Palestinian child, highlighting ongoing tensions in the region. The incident has sparked international concern over the safety of civilians in conflict zones.",
-          "whyItMatters": "The violence underscores the complex human cost of geopolitical tensions and the need for dialogue to prevent further escalation.",
+          "title": "Attack on Saudi Arabia's King Fahd Airport",
+          "body": "Al Jazeera reported a deadly attack on Saudi Arabia's King Fahd Airport, resulting in one death and eight injuries. The incident occurred in the early hours of October 22, 2026. The attack is under investigation, and the exact nature of the threat remains unclear. This event underscores the ongoing risks faced by international airports and the importance of security measures in global travel.",
+          "whyItMatters": "The attack highlights the need for enhanced security protocols and international cooperation to prevent such incidents.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child?traffic_source=rss"
-            },
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Political Developments in Europe",
-          "body": "The Conservative Party in the UK suspends an ex-candidate linked to an Al Jazeera investigation, reflecting broader concerns about media scrutiny and political integrity. Meanwhile, Macron accuses foreign leaders of exploiting French riots, signaling a shift in political discourse.",
-          "whyItMatters": "These developments highlight the interplay between media, politics, and public opinion, emphasizing the importance of accountability and transparency in governance.",
+          "title": "World Leaders Warn of Security Flaws in PHP Programming",
+          "body": "Al Jazeera reported that world leaders have warned of security flaws in the PHP programming language, which is widely used in web development. The concerns stem from vulnerabilities that could be exploited by malicious actors. This issue is particularly relevant in the context of digital infrastructure and the need for robust cybersecurity practices.",
+          "whyItMatters": "The security vulnerabilities in widely used programming languages can have far-reaching implications for global digital systems and data protection.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/21/conservative-party-suspends-ex-candidate-filmed-in-al-jazeera-investigation?traffic_source=rss"
-            },
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Health and Humanitarian Concerns",
-          "body": "Cuba accuses the US of threatening countries ahead of an UN embargo vote, while Nigeria confirms an Ebola case as the outbreak spreads into western Africa. These events underscore the global impact of health crises and geopolitical tensions.",
-          "whyItMatters": "The spread of health threats and geopolitical conflicts highlight the interconnected nature of global challenges and the need for coordinated international responses.",
+          "title": "Iran's Defense Doctrine Shifts to Offensive",
+          "body": "Al Jazeera reported that the Iranian Revolutionary Guard Corps (IRGC) has announced a shift in its defense doctrine, moving towards an offensive strategy. This development is part of Iran's broader efforts to enhance its military capabilities and assert its position in the region. The shift reflects a strategic realignment in Iran's military approach.",
+          "whyItMatters": "The shift in Iran's defense doctrine could impact regional stability and military dynamics, particularly in the Middle East.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/21/cuba-accuses-us-of-threatening-countries-ahead-of-un-embargo-vote?traffic_source=rss"
-            },
-            {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest"
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-21T20:55:08.743Z"
+      "updatedAt": "2026-10-22T01:05:05.651Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers scientific advancements, environmental concerns, and space exploration, highlighting innovations and discoveries impacting students and researchers globally.",
+      "summary": "Today's lens covers a range of scientific and technological developments, from environmental concerns to space exploration and biological discoveries.",
       "stories": [
         {
-          "title": "Astronauts’ hearts pass Mars test",
-          "body": "Astronauts’ hearts have passed a surprising test for Mars, revealing how the human body adapts to space conditions. The study, conducted by scientists at the European Space Agency, shows that the heart can tolerate the stress of long-duration space travel, providing valuable insights for future missions.",
-          "whyItMatters": "This research could improve our understanding of human physiology in space and aid in the development of better health protocols for astronauts.",
+          "title": "Peat fire in Indonesia raises environmental concerns",
+          "body": "BBC Science reports that a peat fire in Indonesia is causing significant environmental damage, with authorities deploying resources to contain the fire. The fire is linked to climate change and deforestation, highlighting the growing impact of environmental crises on global ecosystems.",
+          "whyItMatters": "The peat fire underscores the urgent need for climate action and sustainable land management practices to prevent similar incidents.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm"
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "RNA can starve cells of energy",
-          "body": "Scientists have discovered that excessive RNA can starve cells of energy, highlighting the complex role of RNA in cellular metabolism. This finding could lead to new strategies for managing cellular energy levels and potentially treating metabolic disorders.",
-          "whyItMatters": "Understanding RNA's role in energy metabolism may open new avenues for research in cellular biology and disease treatment.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261020085023.htm"
-            }
-          ]
-        },
-        {
-          "title": "Mars rover breaks driving record",
-          "body": "NASA’s Perseverance Mars rover shattered the all-time off-world driving record, demonstrating its capability to navigate complex terrain. The rover’s success underscores the technological advancements in space exploration and the potential for future missions to explore more distant planets.",
-          "whyItMatters": "This achievement highlights the progress in space technology and the feasibility of future Mars exploration missions.",
+          "title": "NASA’s Perseverance rover breaks off-world driving record",
+          "body": "NASA’s Perseverance Mars rover set a new record by driving 20.5 kilometers in just 12 minutes, showcasing the advancements in robotic exploration technology. The achievement highlights the progress in space exploration and the capability of modern robotics to navigate extreme environments.",
+          "whyItMatters": "This milestone demonstrates the potential for future robotic missions to explore distant planets and gather valuable scientific data.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/10/261020084818.htm"
             }
           ]
+        },
+        {
+          "title": "Scientists discover how excessive RNA can starve cells of energy",
+          "body": "A study published in ScienceDaily reveals that excessive RNA can interfere with cellular energy production, offering new insights into metabolic regulation and potential therapeutic applications. The findings could lead to innovative approaches in treating metabolic disorders and improving cellular efficiency.",
+          "whyItMatters": "Understanding RNA's role in energy metabolism may pave the way for new treatments and interventions in medical research.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261020085023.htm"
+            }
+          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-21T20:55:08.743Z"
+      "updatedAt": "2026-10-22T01:05:05.651Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including a fine for data privacy, political investigations, and inflation concerns.",
+      "summary": "Today's lens covers economic developments, security concerns, and political dynamics, with a focus on global economic trends, cybersecurity, and geopolitical tensions.",
       "stories": [
         {
-          "title": "Israeli settler assaults Palestinian child",
-          "body": "A video from Al Jazeera shows an Israeli settler assaulting a Palestinian child. The incident occurred in the West Bank, raising concerns about violence and human rights in the region. The video was shared by Al Jazeera, and the event is being reported by multiple outlets.",
-          "whyItMatters": "This incident highlights ongoing tensions and risks in the region, emphasizing the need for dialogue and peace efforts.",
+          "title": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
+          "body": "A terrorist attack occurred at Saudi Arabia’s King Fahd Airport, resulting in one death and eight injuries. The incident highlights ongoing security concerns in the region, with Al Jazeera reporting the event. The attack is part of a broader pattern of violence and instability in the Middle East.",
+          "whyItMatters": "The attack underscores the persistent security risks in the region, which could impact regional stability and economic activity.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child?traffic_source=rss"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Meta fined $25bn for user data privacy issues",
-          "body": "BBC Business reported that Meta has been fined $25 billion for violations of user data privacy policies. The fine follows allegations that the company failed to protect user data, leading to concerns about corporate responsibility and data security.",
-          "whyItMatters": "The fine underscores the importance of corporate accountability and the need for stronger data protection laws to safeguard user information.",
+          "title": "World leaders warn of security flaws in PHP programming language",
+          "body": "World leaders have raised concerns about security vulnerabilities in the PHP programming language, which is widely used in web development. The warning comes as cybersecurity experts highlight potential risks to digital infrastructure and data protection.",
+          "whyItMatters": "The security flaws in PHP could affect global digital systems, emphasizing the importance of secure coding practices and regular software updates.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/21/french-borrowing-costs-failure-to-pass-budget-govenment-bonds-violent-street-protests"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Inflation and borrowing rise ahead of UK Budget",
-          "body": "BBC Business reported that inflation and government borrowing have reached historic levels, with the UK government facing significant financial challenges. The situation is expected to impact public spending and economic policy in the coming weeks.",
-          "whyItMatters": "The economic pressures highlighted by these figures could influence policy decisions and public sentiment regarding fiscal responsibility and economic stability.",
+          "title": "Iran war live: IRGC vows invasion as defense doctrine turns 'offensive'",
+          "body": "Iran’s Islamic Revolutionary Guard Corps (IRGC) has announced a potential invasion, citing a shift in its defense doctrine to a more offensive stance. The statement comes amid heightened tensions in the region, with Al Jazeera reporting the development.",
+          "whyItMatters": "The potential invasion could escalate regional conflicts, affecting global security and economic stability in the Middle East.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-21T20:55:08.743Z"
+      "updatedAt": "2026-10-22T01:05:05.651Z"
     }
   }
 }
