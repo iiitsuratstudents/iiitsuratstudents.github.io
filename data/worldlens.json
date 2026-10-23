@@ -1,17 +1,36 @@
 {
-  "generatedAt": "2026-10-23T19:59:51.778Z",
+  "generatedAt": "2026-10-23T23:14:53.621Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of geopolitical events, sports updates, and health concerns, highlighting the interconnected nature of global affairs.",
+      "summary": "Today's lens covers recent geopolitical developments, health concerns, and international news updates.",
       "stories": [
         {
-          "title": "Jordan: Gunmen Kill Seven at Church Funeral",
-          "body": "In Jordan, seven people were shot dead by gunmen during a church funeral, according to BBC World. The attack occurred in the southern city of Ramla, raising concerns about violence in the region. The incident underscores the ongoing challenges faced by communities in conflict zones.",
-          "whyItMatters": "The attack highlights the vulnerability of religious and communal gatherings in conflict-prone areas, emphasizing the need for safety measures and international attention.",
+          "title": "Kenya Announces Second Ebola Death, Says No Evidence of Community Spread",
+          "body": "Kenya reported a second Ebola death, with the health ministry stating there is no evidence of community spread. The case comes as the country continues to monitor the outbreak, which has been linked to a Swiss patient. The government has urged vigilance and public health measures to prevent further transmission.",
+          "whyItMatters": "The outbreak highlights the importance of public health monitoring and the need for clear communication during health crises.",
           "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Jordan Faces Gunmen Attack at Church Funeral",
+          "body": "In Jordan, masked gunmen attacked a church funeral, killing seven people. The attack occurred in the city of Ajeon, and officials have called for a thorough investigation. The incident has raised concerns about violence and security in the region, particularly in areas with religious significance.",
+          "whyItMatters": "The attack underscores the risks of violence in conflict-prone regions and the importance of maintaining security in religious and cultural sites.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss"
+            },
             {
               "name": "BBC World",
               "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
@@ -19,95 +38,88 @@
           ]
         },
         {
-          "title": "Paris Shooting Described as 'Racist Terrorist Attack'",
-          "body": "French President Macron labeled a deadly shooting near Paris as a 'racist terrorist attack,' reflecting the broader tensions in Europe. The incident, which left several casualties, has sparked discussions about racial tensions and security concerns in the region.",
-          "whyItMatters": "The incident highlights the complex interplay of racial and security issues, underscoring the importance of addressing both domestic and international factors in public safety.",
+          "title": "Brazil's Election and Amazon Battle – Podcast Update",
+          "body": "The podcast discusses Brazil's election and the ongoing battle for the Amazon rainforest. The election has been marked by political tensions, and the Amazon remains a focal point of environmental and political concerns. The podcast highlights the complex interplay between politics, ecology, and regional stability.",
+          "whyItMatters": "The election and Amazon battle reflect broader geopolitical and environmental challenges in the region, emphasizing the need for sustainable development and political accountability.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Ukraine and Trump Administration Face Complex Political Landscape",
-          "body": "The White House announced that former President Trump had brokered a truce in a Ukrainian city on the brink of disaster, according to BBC World. This development highlights the ongoing political tensions between the US and Ukraine, as well as the challenges of maintaining stability in conflict zones.",
-          "whyItMatters": "The truce underscores the delicate balance of power and the potential for political compromise in international relations, particularly in regions affected by conflict.",
-          "sources": [
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-23T19:59:51.778Z"
+      "updatedAt": "2026-10-23T23:14:53.621Z"
     },
     "science": {
       "kicker": "Science & Environment",
-      "summary": "Today's lens covers weather warnings, environmental concerns, and scientific breakthroughs impacting health and technology.",
+      "summary": "Today's lens covers weather disruptions, environmental concerns, and scientific breakthroughs impacting global health and technology.",
       "stories": [
         {
-          "title": "Storm Boelo hits Scotland with 80mph wind gusts",
-          "body": "Scotland is warned of severe weather as Storm Boelo intensifies, with 80mph wind gusts and road closures expected. The storm, which has been upgraded to an amber warning, brings potential for flooding and power outages. The UK government has issued travel advisories and urged residents to stay safe.",
-          "whyItMatters": "Severe weather warnings highlight the importance of preparedness and the need for effective emergency response systems in vulnerable regions.",
+          "title": "Storm Austen disrupts travel and power in UK",
+          "body": "Storm Austen is expected to bring power cuts and travel disruptions in the UK as it brings heavy rain and wind. The storm is forecast to affect multiple regions, with warnings issued for potential flooding and infrastructure damage. The BBC Science team has reported the potential impact of the storm on daily life and transportation.",
+          "whyItMatters": "Understanding weather patterns and their potential impacts is crucial for planning and preparedness in the face of increasing climate-related events.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "UAE beaches face oil spill after tanker strike",
-          "body": "A tanker strike in the UAE has led to an oil spill on coastal beaches, raising environmental concerns. The spill could impact marine life and local ecosystems, prompting calls for stricter safety regulations and cleanup efforts. The incident underscores the risks associated with maritime transport.",
-          "whyItMatters": "Environmental disasters highlight the need for improved safety measures and sustainable practices in industries that pose risks to natural habitats.",
+          "title": "Wales plans to ban steel pylons",
+          "body": "The Welsh government has announced plans to ban steel pylons as part of a broader initiative to reduce the risk of electrical faults and prevent future incidents. This decision is part of a consultation process aimed at improving public safety and infrastructure in the region.",
+          "whyItMatters": "Infrastructure safety and public health are critical concerns in the context of growing environmental and technological challenges.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Breakthrough in PTSD treatment achieves 68% remission rate",
-          "body": "A clinical trial has demonstrated that a new PTSD treatment achieves a 68% remission rate, offering hope for patients struggling with mental health challenges. The treatment, which involves a combination of therapies, is a significant step forward in understanding and managing post-traumatic stress disorder.",
-          "whyItMatters": "Advancements in mental health treatments can improve quality of life and reduce societal burdens, emphasizing the importance of ongoing research and accessibility in mental health care.",
+          "title": "Supervolcano refills with magma",
+          "body": "Scientists have discovered that one of Earth's most powerful supervolcanoes is refilling with fresh magma, indicating potential future eruptions. The study highlights the importance of monitoring volcanic activity and understanding its impact on global climate and geology.",
+          "whyItMatters": "Understanding volcanic activity is essential for predicting natural disasters and mitigating their effects on human populations and the environment.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-23T19:59:51.778Z"
+      "updatedAt": "2026-10-23T23:14:53.621Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including oil prices, legal actions, and business trends.",
+      "summary": "The lens covers economic developments, including trade policies, oil prices, and social trends, highlighting global and regional impacts.",
       "stories": [
         {
-          "title": "Tigray Official Urges Rebels to Disarm",
-          "body": "An official from Tigray has urged rebels to disarm, aiming to reduce violence and promote peace. The statement comes amid ongoing conflict in the region, with both sides seeking to de-escalate tensions.",
-          "whyItMatters": "The call for disarm could influence regional peace efforts and humanitarian outcomes.",
+          "title": "White House Lifts Tariffs on Canadian Goods",
+          "body": "The U.S. White House has lifted tariffs on some Canadian goods as the midterm elections approach, aiming to support the struggling U.S. Senator Susan Collins in Maine. This decision reflects broader geopolitical tensions and economic considerations in the region.",
+          "whyItMatters": "The decision highlights the interplay between trade policies, political campaigns, and regional economic dynamics.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/23/tigray-official-urges-rebels-to-disarm?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada"
             }
           ]
         },
         {
-          "title": "Oil Price Surges Above $117 a Barrel",
-          "body": "Oil prices have risen above $117 per barrel, driven by fears of potential US strikes on Iran and geopolitical tensions. The increase highlights the impact of global economic and political dynamics on energy markets.",
-          "whyItMatters": "Higher oil prices could affect global trade, energy costs, and economic stability.",
+          "title": "Oil Prices Rise Above $117 a Barrel",
+          "body": "Oil prices have risen above $117 per barrel due to fears of U.S. renewed strikes on Iran and other geopolitical concerns. This development impacts global energy markets and could influence economic forecasts and consumer behavior.",
+          "whyItMatters": "Rising oil prices can affect inflation, energy costs, and economic growth, influencing both domestic and international markets.",
           "sources": [
             {
               "name": "The Guardian Business",
@@ -116,19 +128,19 @@
           ]
         },
         {
-          "title": "Meta Strikes Deal with Mark Zuckerberg",
-          "body": "Meta has entered into a deal with Mark Zuckerberg to help him foot the bill for potential California billionaire tax. The agreement aims to address tax obligations and financial responsibilities in the tech sector.",
-          "whyItMatters": "The deal reflects the growing complexity of corporate taxation and financial responsibilities in the tech industry.",
+          "title": "TikTok Grannies Take Over the Platform",
+          "body": "A civil servant who juggled five jobs claims to be surprised by a fraud charge has sparked discussions about the impact of social media on work-life balance. Meanwhile, the trend of grannies taking over TikTok highlights the evolving nature of digital culture and its influence on younger generations.",
+          "whyItMatters": "The rise of TikTok grannies reflects broader shifts in digital culture and the changing dynamics of work and leisure in the digital age.",
           "sources": [
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-23T19:59:51.778Z"
+      "updatedAt": "2026-10-23T23:14:53.621Z"
     }
   }
 }
