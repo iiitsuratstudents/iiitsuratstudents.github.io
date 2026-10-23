@@ -1,80 +1,57 @@
 {
-  "generatedAt": "2026-10-23T13:36:20.069Z",
+  "generatedAt": "2026-10-23T19:59:51.778Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers geopolitical events, public health concerns, and sports developments, highlighting the interconnectedness of global issues.",
+      "summary": "Today's lens covers a mix of geopolitical events, sports updates, and health concerns, highlighting the interconnected nature of global affairs.",
       "stories": [
         {
           "title": "Jordan: Gunmen Kill Seven at Church Funeral",
-          "body": "In Jordan, state media reported that seven people were killed by gunmen during a church funeral. The incident occurred in the West Bank, near the border with Israel, and has raised concerns about security tensions in the region. The attack underscores the ongoing conflict and instability in the area.",
-          "whyItMatters": "The incident highlights the risks of religious gatherings in conflict zones and the potential for violence in regions with fragile security.",
+          "body": "In Jordan, seven people were shot dead by gunmen during a church funeral, according to BBC World. The attack occurred in the southern city of Ramla, raising concerns about violence in the region. The incident underscores the ongoing challenges faced by communities in conflict zones.",
+          "whyItMatters": "The attack highlights the vulnerability of religious and communal gatherings in conflict-prone areas, emphasizing the need for safety measures and international attention.",
           "sources": [
             {
               "name": "BBC World",
               "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "France: Anti-Terror Police Investigate Shooting",
-          "body": "In Paris, anti-terror police are investigating a shooting that resulted in one death. The incident occurred near a major public area, and authorities are assessing the threat level. The investigation is part of broader efforts to combat terrorism in the region.",
-          "whyItMatters": "The shooting highlights the ongoing threat of terrorism and the importance of coordinated police responses in urban centers.",
+          "title": "Paris Shooting Described as 'Racist Terrorist Attack'",
+          "body": "French President Macron labeled a deadly shooting near Paris as a 'racist terrorist attack,' reflecting the broader tensions in Europe. The incident, which left several casualties, has sparked discussions about racial tensions and security concerns in the region.",
+          "whyItMatters": "The incident highlights the complex interplay of racial and security issues, underscoring the importance of addressing both domestic and international factors in public safety.",
           "sources": [
             {
               "name": "BBC World",
               "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "NFL Cancels Game Due to Safety Concerns",
-          "body": "The NFL announced it would cancel its game in Paris if the situation became unsafe due to riots. The decision was made by the Steelers' quarterback, Rodgers, who emphasized the importance of player safety. The incident reflects the impact of social unrest on international sports events.",
-          "whyItMatters": "The cancellation underscores the role of political and social factors in shaping global sports events and the need for safety protocols in high-profile matches.",
+          "title": "Ukraine and Trump Administration Face Complex Political Landscape",
+          "body": "The White House announced that former President Trump had brokered a truce in a Ukrainian city on the brink of disaster, according to BBC World. This development highlights the ongoing political tensions between the US and Ukraine, as well as the challenges of maintaining stability in conflict zones.",
+          "whyItMatters": "The truce underscores the delicate balance of power and the potential for political compromise in international relations, particularly in regions affected by conflict.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/23/nfl-would-cancel-paris-game-if-unsafe-due-to-riots-steelers-rodgers-says?traffic_source=rss"
-            },
-            {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-23T13:36:20.069Z"
+      "updatedAt": "2026-10-23T19:59:51.778Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers scientific advancements, environmental warnings, and health-related developments.",
+      "kicker": "Science & Environment",
+      "summary": "Today's lens covers weather warnings, environmental concerns, and scientific breakthroughs impacting health and technology.",
       "stories": [
         {
-          "title": "Supervolcanoes refilling with magma",
-          "body": "Scientists have detected that one of Earth's most powerful supervolcanoes is refilling with fresh magma, raising concerns about potential future eruptions. The discovery highlights the dynamic nature of volcanic activity and the need for ongoing monitoring.",
-          "whyItMatters": "Understanding volcanic activity is crucial for predicting and mitigating natural disasters and assessing geological risks.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm"
-            }
-          ]
-        },
-        {
-          "title": "Storm Boelo brings 80mph wind gusts to Scotland",
-          "body": "A storm named Boelo has been upgraded to an amber alert, with warnings of 80mph wind gusts in Scotland. The weather warning underscores the potential for severe weather impacts and the importance of preparedness.",
-          "whyItMatters": "Severe weather events can affect infrastructure, public safety, and economic activities, emphasizing the need for effective weather forecasting and emergency management.",
+          "title": "Storm Boelo hits Scotland with 80mph wind gusts",
+          "body": "Scotland is warned of severe weather as Storm Boelo intensifies, with 80mph wind gusts and road closures expected. The storm, which has been upgraded to an amber warning, brings potential for flooding and power outages. The UK government has issued travel advisories and urged residents to stay safe.",
+          "whyItMatters": "Severe weather warnings highlight the importance of preparedness and the need for effective emergency response systems in vulnerable regions.",
           "sources": [
             {
               "name": "BBC Science",
@@ -87,39 +64,50 @@
           ]
         },
         {
-          "title": "Dental implants and immune system interference",
-          "body": "New research reveals that dental implants can interfere with the immune system, potentially leading to increased susceptibility to infections. This discovery has implications for dental procedures and patient health.",
-          "whyItMatters": "Understanding the effects of medical implants can inform better patient care and lead to improved treatment protocols.",
+          "title": "UAE beaches face oil spill after tanker strike",
+          "body": "A tanker strike in the UAE has led to an oil spill on coastal beaches, raising environmental concerns. The spill could impact marine life and local ecosystems, prompting calls for stricter safety regulations and cleanup efforts. The incident underscores the risks associated with maritime transport.",
+          "whyItMatters": "Environmental disasters highlight the need for improved safety measures and sustainable practices in industries that pose risks to natural habitats.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Breakthrough in PTSD treatment achieves 68% remission rate",
+          "body": "A clinical trial has demonstrated that a new PTSD treatment achieves a 68% remission rate, offering hope for patients struggling with mental health challenges. The treatment, which involves a combination of therapies, is a significant step forward in understanding and managing post-traumatic stress disorder.",
+          "whyItMatters": "Advancements in mental health treatments can improve quality of life and reduce societal burdens, emphasizing the importance of ongoing research and accessibility in mental health care.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-23T13:36:20.069Z"
+      "updatedAt": "2026-10-23T19:59:51.778Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including potential impacts of oil prices, new loan schemes, and tech-related business news.",
+      "summary": "Today's lens covers economic developments, including oil prices, legal actions, and business trends.",
       "stories": [
         {
-          "title": "NFL Cancels Paris Game Due to Safety Concerns",
-          "body": "The NFL has announced it would cancel its planned game in Paris if the venue becomes unsafe due to ongoing riots. Steelers’ quarterback Dak Prescott stated the decision was based on the safety of players and fans. The situation highlights the impact of social unrest on global sports events.",
-          "whyItMatters": "The decision reflects the influence of political instability on international sports, raising questions about the role of security in global events.",
+          "title": "Tigray Official Urges Rebels to Disarm",
+          "body": "An official from Tigray has urged rebels to disarm, aiming to reduce violence and promote peace. The statement comes amid ongoing conflict in the region, with both sides seeking to de-escalate tensions.",
+          "whyItMatters": "The call for disarm could influence regional peace efforts and humanitarian outcomes.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/23/nfl-would-cancel-paris-game-if-unsafe-due-to-riots-steelers-rodgers-says?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/23/tigray-official-urges-rebels-to-disarm?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Oil Hits Five-Month High Amid Iran Strike Fears",
-          "body": "Oil prices reached a five-month high as fears of US renewed strikes on Iran increased. The market reaction to potential military action underscores the geopolitical risks affecting energy markets.",
-          "whyItMatters": "The fluctuation in oil prices highlights the interplay between geopolitical tensions and global economic stability.",
+          "title": "Oil Price Surges Above $117 a Barrel",
+          "body": "Oil prices have risen above $117 per barrel, driven by fears of potential US strikes on Iran and geopolitical tensions. The increase highlights the impact of global economic and political dynamics on energy markets.",
+          "whyItMatters": "Higher oil prices could affect global trade, energy costs, and economic stability.",
           "sources": [
             {
               "name": "The Guardian Business",
@@ -128,19 +116,19 @@
           ]
         },
         {
-          "title": "Dortmund Rewards Fans for No-Phone Matches",
-          "body": "Dortmund has introduced a reward system for fans who refrain from using phones during matches. This initiative aims to promote a more immersive fan experience and reduce distractions during games.",
-          "whyItMatters": "The policy reflects a growing trend in sports to enhance fan engagement through behavioral changes, highlighting the evolving relationship between technology and spectator experience.",
+          "title": "Meta Strikes Deal with Mark Zuckerberg",
+          "body": "Meta has entered into a deal with Mark Zuckerberg to help him foot the bill for potential California billionaire tax. The agreement aims to address tax obligations and financial responsibilities in the tech sector.",
+          "whyItMatters": "The deal reflects the growing complexity of corporate taxation and financial responsibilities in the tech industry.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/23/dortmund-to-reward-football-supporters-who-dont-use-phone-during-matches?traffic_source=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-23T13:36:20.069Z"
+      "updatedAt": "2026-10-23T19:59:51.778Z"
     }
   }
 }
