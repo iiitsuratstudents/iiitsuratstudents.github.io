@@ -1,150 +1,150 @@
 {
-  "generatedAt": "2026-10-24T04:48:32.244Z",
+  "generatedAt": "2026-10-24T12:47:26.203Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of geopolitical developments, human rights concerns, and international health issues, highlighting the complexity of global affairs.",
+      "summary": "Today's lens covers developments in geopolitics, human rights, and international health, highlighting tensions, advocacy, and ongoing crises.",
       "stories": [
         {
-          "title": "France Prepares for Day of Protest After National Riots",
-          "body": "France is preparing for a day of protests following nationwide riots that erupted after a controversial decision by the government to restrict the use of public spaces. The unrest has sparked widespread concern about civil liberties and government control.",
-          "whyItMatters": "The potential for public unrest highlights the delicate balance between state authority and individual freedoms in modern democracies.",
+          "title": "Malaysia considers ban on Waze",
+          "body": "Malaysia is considering a complete ban on the popular navigation app Waze, which is based in Israel. The decision comes amid concerns over data privacy and potential interference with local infrastructure. The move has sparked debate over digital sovereignty and the role of multinational tech companies in national affairs.",
+          "whyItMatters": "The decision reflects growing tensions between national control of digital infrastructure and multinational tech firms, raising questions about data privacy and geopolitical influence.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/malaysia-waze-israel-ban?traffic_source=rss"
             },
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/barcelona-housing-activists-evicted-by-police-from-residential-building?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Argentina Identifies Dozens of Victims in 'Dirty War'",
-          "body": "Argentina has identified dozens of victims killed during its 'Dirty War' against dissidents in the 1970s. The revelation adds to the ongoing debate about historical injustices and the legacy of authoritarianism in the country.",
-          "whyItMatters": "The recognition of victims underscores the importance of historical accountability and the need to address past human rights violations.",
+          "title": "Serbia elections test student movement for justice",
+          "body": "Serbian voters are facing a test as the student movement demands justice for 16 victims of a violent attack. The election campaign has been marked by protests and calls for accountability, highlighting the intersection of political activism and social justice in the country.",
+          "whyItMatters": "The election reflects the growing influence of student-led movements in shaping political discourse and demanding accountability for violence, underscoring the role of youth in democratic processes.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Mosque Under Threat in India as Government Targets Religious Sites",
-          "body": "A century-old mosque near the residence of Indian Prime Minister Narendra Modi has been under threat from the government. The situation raises concerns about the protection of religious sites and the impact of political pressure on religious institutions.",
-          "whyItMatters": "The targeting of religious sites highlights the tension between state authority and religious freedom, a critical issue in democratic societies.",
+          "title": "Ebola outbreak in Nigeria raises public health concerns",
+          "body": "A mystery surrounds the source of an Ebola outbreak in Nigeria, fueling concerns about the virus's spread. Health officials are investigating potential links to a Swiss patient and the broader implications for global health security and public health preparedness.",
+          "whyItMatters": "The outbreak highlights the importance of transparent public health investigations and the need for global cooperation in managing infectious disease threats, particularly in regions with limited healthcare resources.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/century-old-mosque-near-indian-pms-residence-under-govt-threat?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-24T04:48:32.244Z"
+      "updatedAt": "2026-10-24T12:47:26.203Z"
     },
     "science": {
       "kicker": "Science & Weather",
-      "summary": "Today's lens covers recent scientific advancements and weather-related developments impacting global populations.",
+      "summary": "Today's lens covers weather updates, scientific breakthroughs, and global health developments.",
       "stories": [
         {
-          "title": "UK Storms Cause Power Outages and Travel Disruption",
-          "body": "Two storms, Storm Austen and Storm Boelo, are affecting the UK, with heavy rain and wind causing widespread power outages and travel disruptions. Storm Boelo has been upgraded to an amber warning, indicating strong winds. Thousands remain without power, highlighting the potential for further impact as the storms continue.",
-          "whyItMatters": "The impact of extreme weather on infrastructure and daily life underscores the importance of preparedness and resilience in the face of climate-related challenges.",
+          "title": "Storm Boelo impacts Scotland",
+          "body": "Scotland is preparing for Storm Boelo, a storm system that is expected to bring severe gales and heavy rain. The BBC Science reports that trains have been cancelled and road warnings are in place as the storm approaches. The weather warnings are being issued to ensure public safety and minimize disruption.",
+          "whyItMatters": "The storm could impact transportation and daily life in Scotland, highlighting the importance of weather preparedness and communication.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Earth's Supervolcano Refills with Magma",
-          "body": "A supervolcano in the Pacific Northwest is refilling with fresh magma, raising concerns about potential future eruptions. Scientists are monitoring the volcano closely to assess the risk to nearby regions and the potential for large-scale environmental impacts.",
-          "whyItMatters": "Understanding volcanic activity is critical for predicting natural disasters and mitigating risks to human populations and ecosystems.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm"
-            }
-          ]
-        },
-        {
-          "title": "Breakthrough in PTSD Treatment",
-          "body": "A new treatment for post-traumatic stress disorder (PTSD) has achieved a 68% remission rate in clinical trials. The treatment, which involves a novel approach to the brain's immune system, shows promise in reducing symptoms and improving quality of life for those affected by trauma.",
-          "whyItMatters": "Advancements in mental health treatments can significantly improve outcomes for individuals suffering from PTSD, highlighting the importance of ongoing research in psychological therapies.",
+          "title": "New breakthrough in PTSD treatment",
+          "body": "A clinical trial has achieved a 68% remission rate in patients with PTSD using a new treatment. The treatment, which is based on a breakthrough in neuroscience, shows promise in reducing symptoms and improving quality of life. This development could have significant implications for mental health care globally.",
+          "whyItMatters": "This treatment could offer a new and effective approach to managing PTSD, potentially benefiting millions of people affected by the condition.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm"
             }
           ]
+        },
+        {
+          "title": "Supervolcano refills with magma",
+          "body": "Scientists have discovered that one of Earth's most powerful supervolcanoes is refilling with fresh magma. This finding could impact volcanic activity predictions and risk assessments in the region. The discovery adds to the ongoing research about Earth's geological processes and their potential impacts.",
+          "whyItMatters": "Understanding the refilling of supervolcanoes is crucial for predicting and mitigating the risks associated with volcanic eruptions.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm"
+            }
+          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-24T04:48:32.244Z"
+      "updatedAt": "2026-10-24T12:47:26.203Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including geopolitical tensions, technological advancements, and policy decisions affecting global markets.",
+      "summary": "Today's lens covers economic developments, including a potential ban on an Israeli navigation app in Malaysia, student movements in Serbia, and housing activism in Barcelona, alongside international economic news.",
       "stories": [
         {
-          "title": "Argentina identifies dozens of victims killed in its 'Dirty War'",
-          "body": "Argentina has identified dozens of victims killed during its 'Dirty War' in the 1980s, a period of state-sponsored violence against suspected leftist activists. The government has acknowledged the atrocities, but the details of the exact number and circumstances remain unclear. This event highlights the ongoing legacy of authoritarian repression in the region.",
-          "whyItMatters": "The recognition of historical violence underscores the importance of understanding past conflicts and their impact on current political and social dynamics.",
+          "title": "Malaysia considers ban on Waze due to Israeli ties",
+          "body": "Malaysia has reportedly considered a complete ban on the popular navigation app Waze, which is based in Israel. The move comes amid concerns over data privacy and potential geopolitical tensions. The decision, if implemented, would affect millions of users in the region.",
+          "whyItMatters": "A potential ban on a widely used app could impact digital navigation and data privacy concerns in the region.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/malaysia-waze-israel-ban?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/barcelona-housing-activists-evicted-by-police-from-residential-building?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Pentagon designates Confucius Institutes as national security threat",
-          "body": "The U.S. Pentagon has designated Confucius Institutes as a national security threat, citing concerns about the spread of Chinese influence in education. This decision comes amid growing tensions between the U.S. and China, particularly over issues like intellectual property and cultural exchange. The move reflects broader concerns about geopolitical influence and educational policies.",
-          "whyItMatters": "This designation highlights the complex interplay between education, national security, and geopolitical rivalry in the modern world.",
+          "title": "Serbian elections test student movement for justice",
+          "body": "Serbian elections have drawn attention from student activists demanding justice for 16 victims of a violent attack. The movement highlights growing social unrest and calls for accountability in the political process.",
+          "whyItMatters": "Student activism in Serbia reflects broader societal tensions and the role of youth in shaping political outcomes.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/24/pentagon-designates-confucius-institutes-a-national-security-threat?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "UK invests £100m in AI Biosecurity Lab",
-          "body": "The UK has announced a £100 million investment in an AI-driven biosecurity lab, aiming to enhance its capabilities in monitoring and preventing biological threats. This initiative reflects the country's commitment to leveraging technology for national security and public health, while also addressing concerns about data privacy and ethical use of AI.",
-          "whyItMatters": "The investment underscores the growing role of AI in national security and the need for ethical frameworks to guide its application.",
+          "title": "Barcelona housing activists evicted by police",
+          "body": "Barcelona housing activists who protested against gentrification were evicted by police from a residential building. The incident highlights ongoing tensions between residents and developers in the city.",
+          "whyItMatters": "The eviction of activists underscores the challenges of urban development and the rights of residents in rapidly changing cities.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/barcelona-housing-activists-evicted-by-police-from-residential-building?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-24T04:48:32.244Z"
+      "updatedAt": "2026-10-24T12:47:26.203Z"
     }
   }
 }
