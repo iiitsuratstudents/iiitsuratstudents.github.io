@@ -1,69 +1,61 @@
 {
-  "generatedAt": "2026-10-24T12:47:26.203Z",
+  "generatedAt": "2026-10-24T18:51:48.008Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers developments in geopolitics, human rights, and international health, highlighting tensions, advocacy, and ongoing crises.",
+      "kicker": "Global Events",
+      "summary": "Today's lens highlights a mix of political developments, humanitarian crises, and cultural events, reflecting the complex and interconnected nature of global affairs.",
       "stories": [
         {
-          "title": "Malaysia considers ban on Waze",
-          "body": "Malaysia is considering a complete ban on the popular navigation app Waze, which is based in Israel. The decision comes amid concerns over data privacy and potential interference with local infrastructure. The move has sparked debate over digital sovereignty and the role of multinational tech companies in national affairs.",
-          "whyItMatters": "The decision reflects growing tensions between national control of digital infrastructure and multinational tech firms, raising questions about data privacy and geopolitical influence.",
+          "title": "Albanian Antigovernment Rally",
+          "body": "Thousands gathered in Albania for a new antigovernment rally, reflecting growing political tensions and public discontent. The event underscores the role of grassroots movements in shaping political outcomes, particularly in countries with fragile institutions.",
+          "whyItMatters": "Public sentiment and grassroots activism can significantly influence political outcomes, highlighting the importance of civic engagement and democratic participation.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/malaysia-waze-israel-ban?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/barcelona-housing-activists-evicted-by-police-from-residential-building?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Serbia elections test student movement for justice",
-          "body": "Serbian voters are facing a test as the student movement demands justice for 16 victims of a violent attack. The election campaign has been marked by protests and calls for accountability, highlighting the intersection of political activism and social justice in the country.",
-          "whyItMatters": "The election reflects the growing influence of student-led movements in shaping political discourse and demanding accountability for violence, underscoring the role of youth in democratic processes.",
+          "title": "Brazilian Election Runoff",
+          "body": "Tens of thousands of Lula supporters gathered in Brazil on the eve of the election runoff, demonstrating the power of mass mobilization and the influence of political figures on public opinion. The event reflects the ongoing political dynamics in Brazil, where key candidates face intense scrutiny and public pressure.",
+          "whyItMatters": "Mass mobilization and political figures' influence can shape electoral outcomes, underscoring the role of public opinion in democratic processes.",
           "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss"
-            },
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Ebola outbreak in Nigeria raises public health concerns",
-          "body": "A mystery surrounds the source of an Ebola outbreak in Nigeria, fueling concerns about the virus's spread. Health officials are investigating potential links to a Swiss patient and the broader implications for global health security and public health preparedness.",
-          "whyItMatters": "The outbreak highlights the importance of transparent public health investigations and the need for global cooperation in managing infectious disease threats, particularly in regions with limited healthcare resources.",
-          "sources": [
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss"
-            },
             {
               "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread"
+              "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro"
+            }
+          ]
+        },
+        {
+          "title": "Kim Jong Un Crosses Bridge Between North Korea and China",
+          "body": "Kim Jong Un crossed a new bridge linking North Korea and China, symbolizing potential diplomatic or strategic ties between the two regions. This event highlights the evolving geopolitical landscape and the role of infrastructure in fostering regional cooperation or conflict.",
+          "whyItMatters": "Geopolitical developments, such as infrastructure projects, can influence regional stability and international relations, reflecting the complex interplay of state actions and global dynamics.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-24T12:47:26.203Z"
+      "updatedAt": "2026-10-24T18:51:48.008Z"
     },
     "science": {
-      "kicker": "Science & Weather",
-      "summary": "Today's lens covers weather updates, scientific breakthroughs, and global health developments.",
+      "kicker": "Science & Nature",
+      "summary": "Today's lens covers weather warnings, scientific breakthroughs, and health advancements.",
       "stories": [
         {
           "title": "Storm Boelo impacts Scotland",
-          "body": "Scotland is preparing for Storm Boelo, a storm system that is expected to bring severe gales and heavy rain. The BBC Science reports that trains have been cancelled and road warnings are in place as the storm approaches. The weather warnings are being issued to ensure public safety and minimize disruption.",
-          "whyItMatters": "The storm could impact transportation and daily life in Scotland, highlighting the importance of weather preparedness and communication.",
+          "body": "Scotland is preparing for Storm Boelo, a severe storm that could bring heavy rain and gales. The BBC Science reports road warnings and train cancellations as the storm approaches. The weather warning highlights the potential for significant disruptions to daily life in the region.",
+          "whyItMatters": "Understanding weather patterns and their potential impacts is crucial for planning and safety in vulnerable areas.",
           "sources": [
             {
               "name": "BBC Science",
@@ -71,80 +63,88 @@
             },
             {
               "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Science",
               "url": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/c6gqwz79ylw4o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "New breakthrough in PTSD treatment",
-          "body": "A clinical trial has achieved a 68% remission rate in patients with PTSD using a new treatment. The treatment, which is based on a breakthrough in neuroscience, shows promise in reducing symptoms and improving quality of life. This development could have significant implications for mental health care globally.",
-          "whyItMatters": "This treatment could offer a new and effective approach to managing PTSD, potentially benefiting millions of people affected by the condition.",
+          "title": "New research on ear stimulation and blood pressure",
+          "body": "A study from ScienceDaily explores the possibility that stimulating the ear could help lower high blood pressure. The research suggests that ear stimulation might influence blood pressure levels, offering a new approach to managing hypertension.",
+          "whyItMatters": "This research could lead to innovative non-invasive methods for blood pressure management, potentially benefiting millions of people.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261023023732.htm"
             }
           ]
         },
         {
-          "title": "Supervolcano refills with magma",
-          "body": "Scientists have discovered that one of Earth's most powerful supervolcanoes is refilling with fresh magma. This finding could impact volcanic activity predictions and risk assessments in the region. The discovery adds to the ongoing research about Earth's geological processes and their potential impacts.",
-          "whyItMatters": "Understanding the refilling of supervolcanoes is crucial for predicting and mitigating the risks associated with volcanic eruptions.",
+          "title": "Breakthrough in melanoma treatment",
+          "body": "A clinical trial shows that a 'bespoke' mRNA vaccine significantly reduces the risk of melanoma recurrence or death. The vaccine is tailored to individual patients, offering a personalized approach to cancer treatment.",
+          "whyItMatters": "This breakthrough highlights the potential of personalized medicine in improving cancer outcomes and patient survival rates.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm"
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/society/2026/oct/23/mrna-vaccine-melanoma-cancer-breakthrough-australia"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-24T12:47:26.203Z"
+      "updatedAt": "2026-10-24T18:51:48.008Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including a potential ban on an Israeli navigation app in Malaysia, student movements in Serbia, and housing activism in Barcelona, alongside international economic news.",
+      "summary": "Today's lens covers a mix of global economic developments, political events, and cultural trends, highlighting key trends and their potential impacts on students.",
       "stories": [
         {
-          "title": "Malaysia considers ban on Waze due to Israeli ties",
-          "body": "Malaysia has reportedly considered a complete ban on the popular navigation app Waze, which is based in Israel. The move comes amid concerns over data privacy and potential geopolitical tensions. The decision, if implemented, would affect millions of users in the region.",
-          "whyItMatters": "A potential ban on a widely used app could impact digital navigation and data privacy concerns in the region.",
+          "title": "Albanian Antigovernment Rally",
+          "body": "Thousands gathered in Albania for a new antigovernment rally, reflecting ongoing political tensions and public sentiment. The event highlights the role of mass demonstrations in shaping political discourse and public opinion.",
+          "whyItMatters": "Mass demonstrations can influence political outcomes and public policy, underscoring the importance of understanding political dynamics in global contexts.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/malaysia-waze-israel-ban?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/barcelona-housing-activists-evicted-by-police-from-residential-building?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Serbian elections test student movement for justice",
-          "body": "Serbian elections have drawn attention from student activists demanding justice for 16 victims of a violent attack. The movement highlights growing social unrest and calls for accountability in the political process.",
-          "whyItMatters": "Student activism in Serbia reflects broader societal tensions and the role of youth in shaping political outcomes.",
+          "title": "UK AI Biosecurity Lab Investment",
+          "body": "The UK announced a £100 million investment in an AI biosecurity lab, marking a significant step towards advancing technological capabilities in defense and security. This development reflects the growing importance of AI in national security strategies.",
+          "whyItMatters": "Investments in AI-driven biosecurity labs can enhance national defense capabilities and inform future technological policies, impacting global security trends.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Barcelona housing activists evicted by police",
-          "body": "Barcelona housing activists who protested against gentrification were evicted by police from a residential building. The incident highlights ongoing tensions between residents and developers in the city.",
-          "whyItMatters": "The eviction of activists underscores the challenges of urban development and the rights of residents in rapidly changing cities.",
+          "title": "Oil Price Surge and US Strike Fears",
+          "body": "Oil prices rose above $117 per barrel, driven by fears of US renewed strikes on Iran. This development highlights the interplay between energy markets and geopolitical tensions, affecting global economic stability.",
+          "whyItMatters": "Rising oil prices can impact global economies and energy policies, influencing students' understanding of international economic and political dynamics.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/barcelona-housing-activists-evicted-by-police-from-residential-building?traffic_source=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-24T12:47:26.203Z"
+      "updatedAt": "2026-10-24T18:51:48.008Z"
     }
   }
 }
