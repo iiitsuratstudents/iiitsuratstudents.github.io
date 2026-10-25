@@ -1,65 +1,76 @@
 {
-  "generatedAt": "2026-10-24T22:35:33.931Z",
+  "generatedAt": "2026-10-25T04:57:08.955Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers political developments in Brazil, Iran, and conflict in Gaza, along with other global events.",
+      "kicker": "Global Brief",
+      "summary": "Today's lens covers political developments in Serbia, France, Michigan, and other regions, including international news on media, elections, and humanitarian concerns.",
       "stories": [
         {
-          "title": "Brazilian election eve rallies",
-          "body": "Brazilian politicians Lula da Silva and Bolsonaro held large rallies on the eve of the election runoff, drawing thousands of supporters. Lula's campaign focused on social welfare and anti-corruption, while Bolsonaro emphasized economic growth and national security. The rallies highlighted the intense political competition in the country's pivotal election.",
-          "whyItMatters": "The election results could shape Brazil's political landscape and influence regional dynamics.",
+          "title": "Serbia's Election Amid Political Tensions",
+          "body": "Serbia is set to vote in a presidential election pitting longtime leader Aleksandar Vučić against a student-led movement. The vote comes amid growing political polarization and concerns over the future of the country's democratic institutions. The outcome could shape Serbia's political landscape and influence regional dynamics.",
+          "whyItMatters": "The election results could impact Serbia's stability and its relationship with neighboring countries, particularly given the ongoing geopolitical tensions in the Balkans.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss"
             },
             {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Iran's response to US deal failure",
-          "body": "Iran accused the United States of failing to meet terms of a recent deal, prompting renewed diplomatic tensions. The country expressed concerns over potential new attacks and called for a new attempt to resolve the issue through dialogue. This development underscores the ongoing geopolitical friction between Iran and the West.",
-          "whyItMatters": "Iran's actions could impact regional stability and international relations in the Middle East.",
+          "title": "Mass Protests in France and Media Crackdowns in Turkey",
+          "body": "France faces renewed protests after a day of mass demonstrations, with over 999 arrests reported. Meanwhile, Turkey has imposed a media crackdown, leading to the arrest of journalists and a shutdown of media outlets. These events highlight the challenges of maintaining free press and social stability in volatile environments.",
+          "whyItMatters": "The protests and media crackdowns in France and Turkey underscore the risks of political unrest and the importance of press freedom in democratic societies.",
           "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Gaza's severe hunger and displacement",
-          "body": "Severe hunger and food shortages have affected civilians in Gaza, with bakeries closing down and families displaced. The situation reflects the ongoing humanitarian crisis in the region, exacerbated by conflict and limited access to resources. The situation highlights the challenges of sustaining peace and aid in conflict zones.",
-          "whyItMatters": "The humanitarian crisis in Gaza underscores the importance of addressing food security and displacement in conflict-affected areas.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/severe-hunger-stalks-people-in-gaza-as-bakeries-close-down?traffic_source=rss"
-            },
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-turkiye-media-crackdown-sv?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Bulgarian Election and Russian War Impact",
+          "body": "Bulgarians are voting in a presidential election, with the outcome closely tied to Russia's ongoing war in Ukraine. The election is taking place in the shadow of the conflict, and the results could influence regional power dynamics and the balance of influence in Eastern Europe.",
+          "whyItMatters": "The Bulgarian election results could affect the geopolitical landscape in the region, particularly in relation to Russia's military actions and the stability of the Eastern European states.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-24T22:35:33.931Z"
+      "updatedAt": "2026-10-25T04:57:08.955Z"
     },
     "science": {
-      "kicker": "Science & Weather",
-      "summary": "Today's lens covers weather warnings, scientific breakthroughs, and health-related developments.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens covers scientific advancements, environmental events, and policy developments impacting students globally.",
       "stories": [
         {
-          "title": "Storm Boelo brings severe weather to Scotland",
-          "body": "Storm Boelo is expected to bring severe gales and heavy rain to Scotland, with warnings issued by BBC Science. The storm is causing road closures and train cancellations in the region. Residents are advised to seek shelter and follow local instructions.",
-          "whyItMatters": "Severe weather events like Storm Boelo can impact travel, safety, and infrastructure, highlighting the importance of weather forecasting and emergency preparedness.",
+          "title": "BBC Science: Oil Field Political Storm",
+          "body": "The Rosebank oil field, located in the North Sea, has become a focal point of political controversy due to disputes over resource management and environmental impact. The area has seen increased geopolitical tensions as countries vie for control over the region's oil reserves. This situation highlights the complex interplay between economic interests and environmental sustainability.",
+          "whyItMatters": "The political and environmental challenges at the Rosebank oil field underscore the global implications of resource management and the need for balanced policies.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Storm Boelo's Impact on Scotland",
+          "body": "Storm Boelo is expected to bring severe gales and heavy rain to Scotland, prompting authorities to issue weather warnings and advise residents to take precautions. The storm is part of a broader pattern of extreme weather events that have become more frequent in recent years, raising concerns about climate change and its effects on regional infrastructure.",
+          "whyItMatters": "The increasing frequency of extreme weather events highlights the urgent need for climate resilience and adaptive strategies in vulnerable regions.",
           "sources": [
             {
               "name": "BBC Science",
@@ -68,87 +79,80 @@
             {
               "name": "BBC Science",
               "url": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c6gqwz79ylw4o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "New research on ear stimulation and high blood pressure",
-          "body": "A study from ScienceDaily explores whether stimulating the ear can help lower high blood pressure. The research suggests that ear stimulation may have a potential therapeutic effect, offering a novel approach to managing hypertension.",
-          "whyItMatters": "This research could lead to new treatment options for individuals struggling with high blood pressure, emphasizing the importance of innovative medical research.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261023023732.htm"
-            }
-          ]
-        },
-        {
-          "title": "MRNA vaccine shows promise in reducing melanoma risk",
-          "body": "A clinical trial reports that a 'bespoke' mRNA vaccine significantly reduces the risk of melanoma recurrence or death. The vaccine is being tested in Australia and could offer new hope for cancer patients.",
-          "whyItMatters": "This breakthrough highlights the potential of mRNA technology in developing effective cancer treatments, showcasing the impact of scientific innovation on healthcare.",
+          "title": "Scientific Breakthrough in Cancer Treatment",
+          "body": "A new clinical trial reveals that a 'bespoke' mRNA vaccine significantly reduces the risk of melanoma recurrence or death. This development represents a significant advancement in cancer immunotherapy, offering hope for more effective treatments in the future. The trial was conducted in Australia and involves a diverse group of participants.",
+          "whyItMatters": "This breakthrough highlights the potential of personalized medicine in cancer treatment and the importance of continued research into innovative therapeutic approaches.",
           "sources": [
             {
               "name": "The Guardian Science",
               "url": "https://www.theguardian.com/society/2026/oct/23/mrna-vaccine-melanoma-cancer-breakthrough-australia"
+            },
+            {
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-24T22:35:33.931Z"
+      "updatedAt": "2026-10-25T04:57:08.955Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers political and economic developments, including election rallies, regional conflicts, and business news.",
+      "summary": "Today's lens covers a mix of political developments, economic policies, and cultural trends impacting global students.",
       "stories": [
         {
-          "title": "Brazilian election rallies draw large crowds",
-          "body": "Brazilian political figures Lula da Silva and Bolsonaro held final rallies before the election, drawing thousands of supporters. Lula, a left-wing candidate, emphasized his platform's focus on social welfare, while Bolsonaro, a right-wing president, highlighted his economic policies. The rallies were part of a broader campaign to gauge public sentiment before the final vote.",
-          "whyItMatters": "The political climate in Brazil remains volatile, with candidates vying for support in a closely contested election.",
+          "title": "Serbia's Election Amidst Political Tensions",
+          "body": "Serbia's election saw a contest between longtime leader Aleksandar Vučić and student-led movements, reflecting broader political divisions in the Balkans. The outcome could influence regional stability and governance.",
+          "whyItMatters": "The election highlights the growing influence of youth movements in shaping political outcomes, which could impact future governance and social dynamics.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/brazils-candidates-hold-final-rallies-before-knife-edge-run-off?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/25/new-york-archdiocese-agrees-to-pay-800m-to-1300-sexual-abuse-survivors?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Houthi attacks on Saudi Arabia and Yemen",
-          "body": "Houthi rebels in Yemen launched attacks on Saudi Arabia and the Aden region, citing concerns over regional stability and security. The attacks followed a recent escalation in tensions between Saudi Arabia and the Houthi group, which has been a persistent threat to regional peace.",
-          "whyItMatters": "The ongoing conflict in Yemen continues to impact regional security and stability, with potential consequences for global peace and cooperation.",
+          "title": "UK Budget Allocates £1bn for Social Housing",
+          "body": "The UK government announced a £1 billion allocation for social and affordable housing, aiming to address rising costs and support vulnerable populations. This reflects a commitment to economic inclusivity and social welfare.",
+          "whyItMatters": "The budget underscores the government's focus on economic equity and housing affordability, which could influence policy decisions and public sentiment on economic fairness.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Oil prices rise above $117 per barrel",
-          "body": "Oil prices reached above $117 per barrel due to fears of US renewed strikes on Iran and geopolitical tensions. The rise in prices is expected to impact global energy markets and economies, particularly in countries reliant on oil exports.",
-          "whyItMatters": "The fluctuating oil prices could influence global economic policies and energy strategies, affecting both developed and developing nations.",
+          "title": "Oil Prices Rise Amid US Strikes on Iran",
+          "body": "Oil prices surged above $117 per barrel due to fears of US renewed strikes on Iran. This development impacts global energy markets and economic planning, particularly for countries reliant on oil imports.",
+          "whyItMatters": "Rising oil prices can affect global trade, energy costs, and economic stability, influencing both domestic and international economic strategies.",
           "sources": [
             {
               "name": "The Guardian Business",
               "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-24T22:35:33.931Z"
+      "updatedAt": "2026-10-25T04:57:08.955Z"
     }
   }
 }
