@@ -1,158 +1,138 @@
 {
-  "generatedAt": "2026-10-25T04:57:08.955Z",
+  "generatedAt": "2026-10-25T13:15:25.834Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers political developments in Serbia, France, Michigan, and other regions, including international news on media, elections, and humanitarian concerns.",
+      "summary": "Today's lens covers a mix of international events, including sports, politics, and environmental concerns, highlighting key developments and their potential impacts on global dynamics.",
       "stories": [
         {
-          "title": "Serbia's Election Amid Political Tensions",
-          "body": "Serbia is set to vote in a presidential election pitting longtime leader Aleksandar Vučić against a student-led movement. The vote comes amid growing political polarization and concerns over the future of the country's democratic institutions. The outcome could shape Serbia's political landscape and influence regional dynamics.",
-          "whyItMatters": "The election results could impact Serbia's stability and its relationship with neighboring countries, particularly given the ongoing geopolitical tensions in the Balkans.",
+          "title": "Elena Rybakina retains Ningbo title, wins first trophy as world number one",
+          "body": "Russian tennis player Elena Rybakina retained her title in Ningbo, securing her first major trophy as the world number one. The victory marks a significant milestone in her career, showcasing her rising prominence in the sport. This achievement highlights the competitive landscape of women's tennis and the growing influence of emerging talent.",
+          "whyItMatters": "This victory underscores the evolving nature of women's tennis and the importance of international competitions in shaping athletic careers.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/10/25/elena-rybakina-retains-ningbo-title-wins-first-trophy-as-world-number-one?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/10/25/wembanyama-scores-23-as-spurs-beat-mavericks-for-first-win-of-nba-season?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Mass Protests in France and Media Crackdowns in Turkey",
-          "body": "France faces renewed protests after a day of mass demonstrations, with over 999 arrests reported. Meanwhile, Turkey has imposed a media crackdown, leading to the arrest of journalists and a shutdown of media outlets. These events highlight the challenges of maintaining free press and social stability in volatile environments.",
-          "whyItMatters": "The protests and media crackdowns in France and Turkey underscore the risks of political unrest and the importance of press freedom in democratic societies.",
+          "title": "UK PM Burnham says he wants to discuss a return to EU freedom of movement",
+          "body": "UK Prime Minister Rishi Sunak announced his intention to discuss a potential return to EU freedom of movement. This development comes amid ongoing debates over Brexit and the future of UK-EU relations. The discussion reflects the complex political landscape and the potential for renewed negotiations on migration and trade policies.",
+          "whyItMatters": "This statement highlights the ongoing political tensions between the UK and the EU, emphasizing the potential for renewed dialogue on key issues affecting bilateral relations.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
-            },
-            {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-turkiye-media-crackdown-sv?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/25/uk-pm-burnham-says-he-wants-to-discuss-a-return-to-eu-freedom-of-movement?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Bulgarian Election and Russian War Impact",
-          "body": "Bulgarians are voting in a presidential election, with the outcome closely tied to Russia's ongoing war in Ukraine. The election is taking place in the shadow of the conflict, and the results could influence regional power dynamics and the balance of influence in Eastern Europe.",
-          "whyItMatters": "The Bulgarian election results could affect the geopolitical landscape in the region, particularly in relation to Russia's military actions and the stability of the Eastern European states.",
+          "title": "Wembanyama scores 23 as Spurs beat Mavericks for first win of NBA season",
+          "body": "Lukaku's teammate, Wembanyama, scored 23 points as the Spurs secured their first win of the NBA season. The victory marks a crucial moment in the team's campaign and highlights the competitive nature of the league. This win also underscores the importance of international basketball and the role of global sports in fostering international relations.",
+          "whyItMatters": "This win demonstrates the growing influence of international basketball and its role in shaping global sports culture and international relations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/10/25/wembanyama-scores-23-as-spurs-beat-mavericks-for-first-win-of-nba-season?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-25T04:57:08.955Z"
+      "updatedAt": "2026-10-25T13:15:25.834Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers scientific advancements, environmental events, and policy developments impacting students globally.",
+      "summary": "Today's lens covers weather disruptions, scientific discoveries, and health research, highlighting both natural and technological advancements.",
       "stories": [
         {
-          "title": "BBC Science: Oil Field Political Storm",
-          "body": "The Rosebank oil field, located in the North Sea, has become a focal point of political controversy due to disputes over resource management and environmental impact. The area has seen increased geopolitical tensions as countries vie for control over the region's oil reserves. This situation highlights the complex interplay between economic interests and environmental sustainability.",
-          "whyItMatters": "The political and environmental challenges at the Rosebank oil field underscore the global implications of resource management and the need for balanced policies.",
+          "title": "Storm Boelo causes flight disruptions and power outages",
+          "body": "Storm Boelo, a powerful storm, caused widespread flight disruptions and power outages across multiple regions. Over 1,000 people were without electricity, and flights were delayed or canceled in several countries. The storm, which reached overnight winds of up to 85mph in Scotland, highlighted the impact of extreme weather on daily life and infrastructure.",
+          "whyItMatters": "Extreme weather events like Storm Boelo underscore the importance of climate resilience and emergency preparedness in global communities.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Storm Boelo's Impact on Scotland",
-          "body": "Storm Boelo is expected to bring severe gales and heavy rain to Scotland, prompting authorities to issue weather warnings and advise residents to take precautions. The storm is part of a broader pattern of extreme weather events that have become more frequent in recent years, raising concerns about climate change and its effects on regional infrastructure.",
-          "whyItMatters": "The increasing frequency of extreme weather events highlights the urgent need for climate resilience and adaptive strategies in vulnerable regions.",
-          "sources": [
+              "url": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss"
+            },
             {
               "name": "BBC Science",
               "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Scientific Breakthrough in Cancer Treatment",
-          "body": "A new clinical trial reveals that a 'bespoke' mRNA vaccine significantly reduces the risk of melanoma recurrence or death. This development represents a significant advancement in cancer immunotherapy, offering hope for more effective treatments in the future. The trial was conducted in Australia and involves a diverse group of participants.",
-          "whyItMatters": "This breakthrough highlights the potential of personalized medicine in cancer treatment and the importance of continued research into innovative therapeutic approaches.",
+          "title": "Scientists discover how pancreatic cancer rewrites its DNA to escape treatment",
+          "body": "Researchers have identified a mechanism by which pancreatic cancer cells rewire their DNA to evade treatment. This discovery could lead to new therapeutic strategies for combating this aggressive form of cancer. The findings are based on a detailed analysis of cancer cell behavior and genetic mutations.",
+          "whyItMatters": "Understanding how cancer cells adapt to treatment could revolutionize cancer therapy and improve patient outcomes.",
           "sources": [
             {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/society/2026/oct/23/mrna-vaccine-melanoma-cancer-breakthrough-australia"
-            },
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261024221849.htm"
+            }
+          ]
+        },
+        {
+          "title": "Low-dose aspirin linked to 70% lower dementia risk, but there's a catch",
+          "body": "A recent study found that low-dose aspirin is associated with a 70% reduction in dementia risk. However, the study also noted that the benefits may be limited to certain populations, and more research is needed to fully understand the long-term effects of aspirin use.",
+          "whyItMatters": "This research highlights the potential of lifestyle interventions in preventing dementia, while also emphasizing the need for further investigation into the factors that influence treatment effectiveness.",
+          "sources": [
             {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-25T04:57:08.955Z"
+      "updatedAt": "2026-10-25T13:15:25.834Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of political developments, economic policies, and cultural trends impacting global students.",
+      "summary": "Today's lens covers a mix of economic developments, including a UK government statement, an oil spill, a budget proposal, and international political events.",
       "stories": [
         {
-          "title": "Serbia's Election Amidst Political Tensions",
-          "body": "Serbia's election saw a contest between longtime leader Aleksandar Vučić and student-led movements, reflecting broader political divisions in the Balkans. The outcome could influence regional stability and governance.",
-          "whyItMatters": "The election highlights the growing influence of youth movements in shaping political outcomes, which could impact future governance and social dynamics.",
+          "title": "Elena Rybakina retains Ningbo title, wins first trophy as world number one",
+          "body": "Russian tennis player Elena Rybakina retained her title in Ningbo, winning her first trophy as the world number one. The victory marks a significant milestone in her career, highlighting her rising prominence in the sport.",
+          "whyItMatters": "This victory underscores the growing influence of female athletes in international sports and the competitive nature of the tennis world.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/25/new-york-archdiocese-agrees-to-pay-800m-to-1300-sexual-abuse-survivors?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/10/25/elena-rybakina-retains-ningbo-title-wins-first-trophy-as-world-number-one?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "UK Budget Allocates £1bn for Social Housing",
-          "body": "The UK government announced a £1 billion allocation for social and affordable housing, aiming to address rising costs and support vulnerable populations. This reflects a commitment to economic inclusivity and social welfare.",
-          "whyItMatters": "The budget underscores the government's focus on economic equity and housing affordability, which could influence policy decisions and public sentiment on economic fairness.",
+          "title": "UK PM Burnham says he wants to discuss a return to EU freedom of movement",
+          "body": "UK Prime Minister Rishi Sunak announced his intention to discuss a return to EU freedom of movement. This statement comes amid ongoing debates about the UK's relationship with the EU and the potential impact on migration policies.",
+          "whyItMatters": "The discussion reflects the complex political landscape between the UK and the EU, and the potential implications for migration and economic cooperation.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/25/uk-pm-burnham-says-he-wants-to-discuss-a-return-to-eu-freedom-of-movement?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Oil Prices Rise Amid US Strikes on Iran",
-          "body": "Oil prices surged above $117 per barrel due to fears of US renewed strikes on Iran. This development impacts global energy markets and economic planning, particularly for countries reliant on oil imports.",
-          "whyItMatters": "Rising oil prices can affect global trade, energy costs, and economic stability, influencing both domestic and international economic strategies.",
+          "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+          "body": "Oil prices rose above $117 per barrel, driven by fears of US renewed strikes on Iran. The increase in oil prices could impact global energy markets and affect economies reliant on oil exports.",
+          "whyItMatters": "The rise in oil prices could influence global trade, energy costs, and economic policies, particularly for countries dependent on oil exports.",
           "sources": [
             {
               "name": "The Guardian Business",
               "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-25T04:57:08.955Z"
+      "updatedAt": "2026-10-25T13:15:25.834Z"
     }
   }
 }
