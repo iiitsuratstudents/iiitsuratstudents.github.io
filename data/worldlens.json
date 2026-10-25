@@ -1,69 +1,73 @@
 {
-  "generatedAt": "2026-10-25T19:08:15.141Z",
+  "generatedAt": "2026-10-25T22:40:30.394Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Events",
-      "summary": "Today's lens covers political developments, sports updates, and public health concerns, highlighting key events and their potential impacts on global dynamics.",
+      "kicker": "Global Affairs",
+      "summary": "Today's lens covers key developments in geopolitics, elections, and regional conflicts, highlighting the interplay of political dynamics, public sentiment, and international relations.",
       "stories": [
         {
-          "title": "Venezuela's Opposition Leader Returns to Country",
-          "body": "Maria Corina Machado, the opposition leader of Venezuela, has returned to the country after spending months in exile. She is expected to play a key role in the political landscape of Venezuela, potentially challenging the government's authority. This development could influence the country's political dynamics and public sentiment.",
-          "whyItMatters": "The return of a prominent opposition leader may lead to significant political changes in Venezuela, affecting governance and public policy.",
+          "title": "Brazil's 2026 Election: Second Round Results",
+          "body": "Brazil's presidential election in 2026 entered a second round after the first round saw a close contest between candidates. The second round results are expected to determine the final outcome, with significant implications for regional stability and political dynamics in South America.",
+          "whyItMatters": "The outcome of this election could influence Brazil's role in the region and its relationship with neighboring countries, particularly in terms of trade and security.",
           "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss"
-            },
             {
               "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
+              "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Israel Conducts Air Strike on Gaza University",
-          "body": "An Israeli air strike targeted a university in Gaza City, resulting in the death of three individuals. This incident highlights the ongoing conflict in the region and the potential for further escalation in military actions. The impact of such strikes on civilian populations and the broader regional stability is a critical concern.",
-          "whyItMatters": "The military action in Gaza raises questions about the humanitarian impact of conflict and the potential for increased violence in the region.",
+          "title": "Israel Braces for Pivotal Election",
+          "body": "Israel is set to hold a critical election in 2026, with political tensions and public discontent shaping the electoral landscape. The election could determine the continuation of the current government or the rise of a new political force, impacting the country's governance and security policies.",
+          "whyItMatters": "The results of this election could affect Israel's political stability, security strategies, and its relationship with neighboring countries, particularly in the context of regional conflicts.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Uganda Implements 21-Day Ebola Quarantine for Returning Citizens",
-          "body": "Uganda has ordered a 21-day quarantine for citizens returning from the Democratic Republic of Congo to prevent the spread of Ebola. This measure reflects the ongoing public health concerns related to the virus and the importance of controlling its transmission in vulnerable regions.",
-          "whyItMatters": "The implementation of quarantine measures highlights the global challenge of managing infectious diseases and the need for coordinated public health responses.",
+          "title": "Serbia's Veteran Leader Concedes to Student-Led Movement",
+          "body": "Serbia's former president, Aleksandar Vučić, conceded his presidential election to a student-led movement, signaling a shift in political power and the rise of youth-driven political forces in the country. This development reflects broader trends in political transformation and public engagement.",
+          "whyItMatters": "The concedes of a veteran leader to a new political force highlights the evolving nature of political power and the growing influence of younger generations in shaping national governance.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/25/uganda-orders-21-day-ebola-quarantine-for-citizens-returning-from-dr-congo?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-25T19:08:15.141Z"
+      "updatedAt": "2026-10-25T22:40:30.394Z"
     },
     "science": {
-      "kicker": "Weather and science",
-      "summary": "Today's lens covers weather disruptions, scientific discoveries, and ethical concerns in technology.",
+      "kicker": "Storm Boelo and scientific discoveries",
+      "summary": "A severe storm, Storm Boelo, causes widespread power outages and destruction in Scotland and Northern Ireland, while scientific advancements in astronomy, medicine, and materials science are reported.",
       "stories": [
         {
-          "title": "Storm Boelo causes travel disruption and power cuts",
-          "body": "Storm Boelo has caused travel disruptions and power cuts in the UK, with reports of falling trees and man-made power outages. The storm has affected multiple regions, leading to widespread disruptions in daily life and infrastructure.",
-          "whyItMatters": "The impact of extreme weather on infrastructure and public safety highlights the need for better preparedness and resilience in the face of climate-related events.",
+          "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
+          "body": "A severe storm, Storm Boelo, has caused two fatalities and left 160,000 properties without power in Scotland. The storm has also caused extensive damage, with reports of falling trees and power outages affecting multiple regions.",
+          "whyItMatters": "The impact of extreme weather events highlights the importance of disaster preparedness and infrastructure resilience.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "BBC Science",
@@ -72,9 +76,9 @@
           ]
         },
         {
-          "title": "Scientists discover how pancreatic cancer rewrites its DNA",
-          "body": "Researchers have identified a mechanism by which pancreatic cancer cells rewire their DNA to evade treatment. This discovery could lead to new therapeutic strategies for cancer patients.",
-          "whyItMatters": "Understanding cancer biology could pave the way for more effective treatments and improved patient outcomes.",
+          "title": "Scientists discover how pancreatic cancer rewrites its DNA to escape treatment",
+          "body": "Researchers have identified a mechanism by which pancreatic cancer cells can evade treatment by rewriting their DNA. This discovery could lead to new therapeutic strategies for cancer patients.",
+          "whyItMatters": "Understanding cancer biology may pave the way for more effective treatments and improved patient outcomes.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -83,64 +87,60 @@
           ]
         },
         {
-          "title": "AI risks making discrimination worse",
-          "body": "A study warns that the use of AI in policing could lead to increased discrimination, as algorithms may not account for human biases and may inadvertently reinforce existing inequalities.",
-          "whyItMatters": "The ethical implications of AI in decision-making highlight the importance of developing fair and transparent technologies.",
+          "title": "New evidence suggests spinosaurus spent most of its life underwater",
+          "body": "New scientific evidence suggests that the ancient dinosaur Spinosaurus spent most of its life in water, based on fossil records and comparative anatomy. This challenges previous assumptions about its habitat and behavior.",
+          "whyItMatters": "This discovery provides insight into the evolutionary history of marine dinosaurs and their adaptation to aquatic environments.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/ckpdg4pl7pgvo?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261024221956.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-25T19:08:15.141Z"
+      "updatedAt": "2026-10-25T22:40:30.394Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of global economic developments, political events, and international health concerns, highlighting key trends and updates.",
+      "summary": "Today's lens covers key economic developments, including a football match, a French political campaign, and a US legal case, alongside global economic trends and infrastructure updates.",
       "stories": [
         {
-          "title": "Venezuela’s opposition leader returns from exile",
-          "body": "Maria Corina Machado, the opposition leader of Venezuela, has returned from exile after spending time in the United States. This development marks a significant moment in the country's political landscape, as it signals a potential shift in the balance of power between the government and the opposition.",
-          "whyItMatters": "The return of a prominent opposition figure could influence political dynamics and public sentiment in Venezuela.",
+          "title": "Real Madrid beats Barcelona in La Liga",
+          "body": "Real Madrid defeated Barcelona 2-1 in a crucial La Liga match, narrowing the gap to the league leaders. The victory marks a significant moment in the competition, highlighting the competitive nature of the league.",
+          "whyItMatters": "This result underscores the intensity of competition in La Liga and the importance of each match in determining the season's outcome.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/25/will-michael-carrick-be-sacked-man-united-manager-says-he-doesnt-know?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Oil price rises above $117 a barrel amid fears of US strikes on Iran",
-          "body": "Oil prices have risen above $117 per barrel, driven by fears of potential US strikes on Iran. This increase in prices could impact global energy markets and economic planning, particularly for countries reliant on oil exports.",
-          "whyItMatters": "Rising oil prices can affect inflation, trade balances, and energy security strategies worldwide.",
+          "title": "Marine Le Pen launches French presidential campaign",
+          "body": "French politician Marine Le Pen officially begins her presidential campaign, positioning herself as a key contender in the upcoming election. Her campaign focuses on a vision of a 'French renaissance' and political reform.",
+          "whyItMatters": "Le Pen's campaign could influence the political landscape of France and potentially impact the country's future policy direction.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Volkswagen to build $4bn Audi SUV factory in the US",
+          "body": "Volkswagen plans to establish a $4 billion Audi SUV factory in the United States, despite job cuts at its home factory. This decision reflects the company's strategic focus on expanding its global presence.",
+          "whyItMatters": "The factory's construction could impact employment in the US and influence Volkswagen's long-term economic strategy.",
           "sources": [
             {
               "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran"
-            }
-          ]
-        },
-        {
-          "title": "Uganda orders 21-day Ebola quarantine for citizens returning from DR Congo",
-          "body": "Uganda has imposed a 21-day quarantine on citizens returning from the Democratic Republic of Congo to prevent the spread of Ebola. This measure reflects the country's commitment to public health and safety, even as it navigates the challenges of international travel and disease prevention.",
-          "whyItMatters": "Quarantine measures can impact international travel, economic activity, and public health policies in affected regions.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/25/uganda-orders-21-day-ebola-quarantine-for-citizens-returning-from-dr-congo?traffic_source=rss"
+              "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-25T19:08:15.141Z"
+      "updatedAt": "2026-10-25T22:40:30.394Z"
     }
   }
 }
