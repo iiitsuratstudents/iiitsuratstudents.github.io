@@ -1,62 +1,66 @@
 {
-  "generatedAt": "2026-10-25T13:15:25.834Z",
+  "generatedAt": "2026-10-25T19:08:15.141Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of international events, including sports, politics, and environmental concerns, highlighting key developments and their potential impacts on global dynamics.",
+      "kicker": "Global Events",
+      "summary": "Today's lens covers political developments, sports updates, and public health concerns, highlighting key events and their potential impacts on global dynamics.",
       "stories": [
         {
-          "title": "Elena Rybakina retains Ningbo title, wins first trophy as world number one",
-          "body": "Russian tennis player Elena Rybakina retained her title in Ningbo, securing her first major trophy as the world number one. The victory marks a significant milestone in her career, showcasing her rising prominence in the sport. This achievement highlights the competitive landscape of women's tennis and the growing influence of emerging talent.",
-          "whyItMatters": "This victory underscores the evolving nature of women's tennis and the importance of international competitions in shaping athletic careers.",
+          "title": "Venezuela's Opposition Leader Returns to Country",
+          "body": "Maria Corina Machado, the opposition leader of Venezuela, has returned to the country after spending months in exile. She is expected to play a key role in the political landscape of Venezuela, potentially challenging the government's authority. This development could influence the country's political dynamics and public sentiment.",
+          "whyItMatters": "The return of a prominent opposition leader may lead to significant political changes in Venezuela, affecting governance and public policy.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/25/elena-rybakina-retains-ningbo-title-wins-first-trophy-as-world-number-one?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/25/wembanyama-scores-23-as-spurs-beat-mavericks-for-first-win-of-nba-season?traffic_source=rss"
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return"
             }
           ]
         },
         {
-          "title": "UK PM Burnham says he wants to discuss a return to EU freedom of movement",
-          "body": "UK Prime Minister Rishi Sunak announced his intention to discuss a potential return to EU freedom of movement. This development comes amid ongoing debates over Brexit and the future of UK-EU relations. The discussion reflects the complex political landscape and the potential for renewed negotiations on migration and trade policies.",
-          "whyItMatters": "This statement highlights the ongoing political tensions between the UK and the EU, emphasizing the potential for renewed dialogue on key issues affecting bilateral relations.",
+          "title": "Israel Conducts Air Strike on Gaza University",
+          "body": "An Israeli air strike targeted a university in Gaza City, resulting in the death of three individuals. This incident highlights the ongoing conflict in the region and the potential for further escalation in military actions. The impact of such strikes on civilian populations and the broader regional stability is a critical concern.",
+          "whyItMatters": "The military action in Gaza raises questions about the humanitarian impact of conflict and the potential for increased violence in the region.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/25/uk-pm-burnham-says-he-wants-to-discuss-a-return-to-eu-freedom-of-movement?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Wembanyama scores 23 as Spurs beat Mavericks for first win of NBA season",
-          "body": "Lukaku's teammate, Wembanyama, scored 23 points as the Spurs secured their first win of the NBA season. The victory marks a crucial moment in the team's campaign and highlights the competitive nature of the league. This win also underscores the importance of international basketball and the role of global sports in fostering international relations.",
-          "whyItMatters": "This win demonstrates the growing influence of international basketball and its role in shaping global sports culture and international relations.",
+          "title": "Uganda Implements 21-Day Ebola Quarantine for Returning Citizens",
+          "body": "Uganda has ordered a 21-day quarantine for citizens returning from the Democratic Republic of Congo to prevent the spread of Ebola. This measure reflects the ongoing public health concerns related to the virus and the importance of controlling its transmission in vulnerable regions.",
+          "whyItMatters": "The implementation of quarantine measures highlights the global challenge of managing infectious diseases and the need for coordinated public health responses.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/25/wembanyama-scores-23-as-spurs-beat-mavericks-for-first-win-of-nba-season?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/25/uganda-orders-21-day-ebola-quarantine-for-citizens-returning-from-dr-congo?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-25T13:15:25.834Z"
+      "updatedAt": "2026-10-25T19:08:15.141Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers weather disruptions, scientific discoveries, and health research, highlighting both natural and technological advancements.",
+      "kicker": "Weather and science",
+      "summary": "Today's lens covers weather disruptions, scientific discoveries, and ethical concerns in technology.",
       "stories": [
         {
-          "title": "Storm Boelo causes flight disruptions and power outages",
-          "body": "Storm Boelo, a powerful storm, caused widespread flight disruptions and power outages across multiple regions. Over 1,000 people were without electricity, and flights were delayed or canceled in several countries. The storm, which reached overnight winds of up to 85mph in Scotland, highlighted the impact of extreme weather on daily life and infrastructure.",
-          "whyItMatters": "Extreme weather events like Storm Boelo underscore the importance of climate resilience and emergency preparedness in global communities.",
+          "title": "Storm Boelo causes travel disruption and power cuts",
+          "body": "Storm Boelo has caused travel disruptions and power cuts in the UK, with reports of falling trees and man-made power outages. The storm has affected multiple regions, leading to widespread disruptions in daily life and infrastructure.",
+          "whyItMatters": "The impact of extreme weather on infrastructure and public safety highlights the need for better preparedness and resilience in the face of climate-related events.",
           "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o?at_medium=RSS&at_campaign=rss"
+            },
             {
               "name": "BBC Science",
               "url": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss"
@@ -68,9 +72,9 @@
           ]
         },
         {
-          "title": "Scientists discover how pancreatic cancer rewrites its DNA to escape treatment",
-          "body": "Researchers have identified a mechanism by which pancreatic cancer cells rewire their DNA to evade treatment. This discovery could lead to new therapeutic strategies for combating this aggressive form of cancer. The findings are based on a detailed analysis of cancer cell behavior and genetic mutations.",
-          "whyItMatters": "Understanding how cancer cells adapt to treatment could revolutionize cancer therapy and improve patient outcomes.",
+          "title": "Scientists discover how pancreatic cancer rewrites its DNA",
+          "body": "Researchers have identified a mechanism by which pancreatic cancer cells rewire their DNA to evade treatment. This discovery could lead to new therapeutic strategies for cancer patients.",
+          "whyItMatters": "Understanding cancer biology could pave the way for more effective treatments and improved patient outcomes.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -79,60 +83,64 @@
           ]
         },
         {
-          "title": "Low-dose aspirin linked to 70% lower dementia risk, but there's a catch",
-          "body": "A recent study found that low-dose aspirin is associated with a 70% reduction in dementia risk. However, the study also noted that the benefits may be limited to certain populations, and more research is needed to fully understand the long-term effects of aspirin use.",
-          "whyItMatters": "This research highlights the potential of lifestyle interventions in preventing dementia, while also emphasizing the need for further investigation into the factors that influence treatment effectiveness.",
+          "title": "AI risks making discrimination worse",
+          "body": "A study warns that the use of AI in policing could lead to increased discrimination, as algorithms may not account for human biases and may inadvertently reinforce existing inequalities.",
+          "whyItMatters": "The ethical implications of AI in decision-making highlight the importance of developing fair and transparent technologies.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm"
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/ckpdg4pl7pgvo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-25T13:15:25.834Z"
+      "updatedAt": "2026-10-25T19:08:15.141Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including a UK government statement, an oil spill, a budget proposal, and international political events.",
+      "summary": "Today's lens covers a mix of global economic developments, political events, and international health concerns, highlighting key trends and updates.",
       "stories": [
         {
-          "title": "Elena Rybakina retains Ningbo title, wins first trophy as world number one",
-          "body": "Russian tennis player Elena Rybakina retained her title in Ningbo, winning her first trophy as the world number one. The victory marks a significant milestone in her career, highlighting her rising prominence in the sport.",
-          "whyItMatters": "This victory underscores the growing influence of female athletes in international sports and the competitive nature of the tennis world.",
+          "title": "Venezuela’s opposition leader returns from exile",
+          "body": "Maria Corina Machado, the opposition leader of Venezuela, has returned from exile after spending time in the United States. This development marks a significant moment in the country's political landscape, as it signals a potential shift in the balance of power between the government and the opposition.",
+          "whyItMatters": "The return of a prominent opposition figure could influence political dynamics and public sentiment in Venezuela.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/10/25/elena-rybakina-retains-ningbo-title-wins-first-trophy-as-world-number-one?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/10/25/will-michael-carrick-be-sacked-man-united-manager-says-he-doesnt-know?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "UK PM Burnham says he wants to discuss a return to EU freedom of movement",
-          "body": "UK Prime Minister Rishi Sunak announced his intention to discuss a return to EU freedom of movement. This statement comes amid ongoing debates about the UK's relationship with the EU and the potential impact on migration policies.",
-          "whyItMatters": "The discussion reflects the complex political landscape between the UK and the EU, and the potential implications for migration and economic cooperation.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/25/uk-pm-burnham-says-he-wants-to-discuss-a-return-to-eu-freedom-of-movement?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
-          "body": "Oil prices rose above $117 per barrel, driven by fears of US renewed strikes on Iran. The increase in oil prices could impact global energy markets and affect economies reliant on oil exports.",
-          "whyItMatters": "The rise in oil prices could influence global trade, energy costs, and economic policies, particularly for countries dependent on oil exports.",
+          "title": "Oil price rises above $117 a barrel amid fears of US strikes on Iran",
+          "body": "Oil prices have risen above $117 per barrel, driven by fears of potential US strikes on Iran. This increase in prices could impact global energy markets and economic planning, particularly for countries reliant on oil exports.",
+          "whyItMatters": "Rising oil prices can affect inflation, trade balances, and energy security strategies worldwide.",
           "sources": [
             {
               "name": "The Guardian Business",
               "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran"
             }
           ]
+        },
+        {
+          "title": "Uganda orders 21-day Ebola quarantine for citizens returning from DR Congo",
+          "body": "Uganda has imposed a 21-day quarantine on citizens returning from the Democratic Republic of Congo to prevent the spread of Ebola. This measure reflects the country's commitment to public health and safety, even as it navigates the challenges of international travel and disease prevention.",
+          "whyItMatters": "Quarantine measures can impact international travel, economic activity, and public health policies in affected regions.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/25/uganda-orders-21-day-ebola-quarantine-for-citizens-returning-from-dr-congo?traffic_source=rss"
+            }
+          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-25T13:15:25.834Z"
+      "updatedAt": "2026-10-25T19:08:15.141Z"
     }
   }
 }
