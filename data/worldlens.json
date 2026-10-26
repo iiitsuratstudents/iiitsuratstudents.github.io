@@ -1,66 +1,77 @@
 {
-  "generatedAt": "2026-10-26T15:18:39.658Z",
+  "generatedAt": "2026-10-26T21:06:28.014Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers key developments in geopolitics, human rights, and international relations, including election outcomes, regional conflicts, and international sanctions.",
+      "summary": "Today's lens covers key developments in geopolitics, including Brazil's election, US legal rulings, and regional conflicts.",
       "stories": [
         {
-          "title": "Brazil election runoff: Lula wins historic victory",
-          "body": "Brazil's presidential election runoff saw Luiz Inácio Lula da Silva, the former president, secure a historic victory over former president Jair Bolsonaro. Bolsonaro refused to concede, leading to live updates and global reactions. Lula's win marks a significant shift in Brazilian politics.",
-          "whyItMatters": "This election outcome reflects broader shifts in political dynamics and could influence regional and global relations.",
+          "title": "Brazilian President Lula wins fourth term",
+          "body": "Brazilian President Lula won a dramatic fourth term in the October 2026 election, overcoming strong opposition from President Bolsonaro. The victory was attributed to a successful grassroots campaign, including a WhatsApp-based outreach strategy. Lula's win marks a significant shift in Brazilian politics, with implications for the country's future direction.",
+          "whyItMatters": "Lula's re-election could signal a shift in Brazil's political landscape, potentially leading to policy changes and increased focus on social welfare and economic stability.",
           "sources": [
-            {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
-            },
             {
               "name": "BBC World",
               "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "UK sanctions Sudanese military leaders over El Fasher atrocities",
-          "body": "The UK imposed sanctions on Sudanese military leaders implicated in the El Fasher campaign of rape, highlighting concerns over human rights abuses in the region. The sanctions aim to pressure the Sudanese government to address the situation.",
-          "whyItMatters": "This action underscores the international community's response to human rights violations and the role of foreign policy in addressing regional conflicts.",
-          "sources": [
+            },
             {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/brazil-lula-victory-whatsapp-campaign-janones?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Anthropic warns of catastrophic risk to humankind",
-          "body": "Anthropic, a leading AI research organization, warned of a 'catastrophic risk' to humankind ahead of a major share listing. The warning highlights the potential risks associated with AI development and the need for responsible innovation.",
-          "whyItMatters": "This warning emphasizes the importance of ethical considerations in technological advancement and its potential impact on global stability.",
+          "title": "US court rules James Comey's daughter was illegally fired",
+          "body": "A US court ruled that James Comey's daughter was illegally fired from her job as a Trump campaign aide. The decision highlights ongoing legal battles over employment practices and the rights of individuals in political environments.",
+          "whyItMatters": "This ruling underscores the importance of legal protections for individuals in political careers and the potential for future legal challenges in similar cases.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Syrian explosion threatens regional stability",
+          "body": "A massive explosion occurred at a weapons depot in Syria, raising concerns about the ongoing conflict and its impact on regional stability. The incident highlights the continued risks of conflict and the potential for further escalation in the region.",
+          "whyItMatters": "The explosion underscores the persistent challenges of maintaining peace in conflict zones and the potential for renewed violence in the region.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/huge-explosion-at-a-weapons-depot-in-syria?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-26T15:18:39.658Z"
+      "updatedAt": "2026-10-26T21:06:28.014Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers recent scientific discoveries, weather events, and cultural phenomena impacting students globally.",
+      "kicker": "Science & Nature",
+      "summary": "Today's lens covers scientific discoveries, weather events, and cultural phenomena, highlighting advancements in biology, climate, and technology.",
       "stories": [
         {
-          "title": "Electricity restored to all of NI after Storm Boelo",
-          "body": "After a severe storm, electricity was restored to all of Northern Ireland. The storm, known as Boelo, caused widespread power outages, but the region was eventually reconnected to the grid. The Met Office issued a new wind warning, indicating potential for further weather changes.",
-          "whyItMatters": "The restoration of electricity highlights the importance of resilient infrastructure and the impact of extreme weather on daily life.",
+          "title": "Political battle intensifies within Labour over Rosebank oil field",
+          "body": "A political battle has intensified within the UK Labour Party over the Rosebank oil field, a major energy resource in the North Sea. The dispute centers on the allocation of rights and responsibilities for exploration and production. The issue highlights the complex interplay between energy policy, environmental concerns, and economic interests.",
+          "whyItMatters": "The political and economic implications of resource allocation can influence national energy strategy and environmental policies.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cqe9lykm93jmo?at_medium=RSS&at_campaign=rss"
-            },
+              "url": "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
+          "body": "Storm Boelo, a powerful storm system, has left 22,000 people without power in the UK. The Met Office has issued a new wind warning, signaling the potential for further severe weather. The storm has caused widespread disruption and highlights the impact of extreme weather on daily life and infrastructure.",
+          "whyItMatters": "Extreme weather events can have significant impacts on public safety, infrastructure, and economic activity, emphasizing the need for effective disaster preparedness and response.",
+          "sources": [
             {
               "name": "BBC Science",
               "url": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss"
@@ -72,71 +83,64 @@
           ]
         },
         {
-          "title": "‘Maxxing’ is Dictionary.com’s word of the year",
-          "body": "The word ‘maxxing’ was selected as Dictionary.com’s word of the year, describing the experience of feeling cooler than saying you're doing more. It emerged from a viral social media trend and has since become a cultural reference in the scientific community.",
-          "whyItMatters": "The word reflects contemporary language trends and the role of digital culture in shaping modern communication.",
+          "title": "A 2,700-year-old solar eclipse just revealed something surprising about Earth",
+          "body": "A 2,700-year-old solar eclipse has been observed and studied, revealing new insights into Earth's atmospheric conditions and solar activity. The discovery underscores the long-term changes in Earth's climate and the role of solar radiation in shaping planetary environments.",
+          "whyItMatters": "Understanding historical climate patterns and solar activity can provide valuable context for current climate research and environmental policies.",
           "sources": [
             {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/oct/26/maxxing-word-of-the-year-dictionary"
-            }
-          ]
-        },
-        {
-          "title": "Ancient Roman colour-changing glass rediscovered",
-          "body": "Scientists rediscovered a method to create ancient Roman colour-changing glass, revealing how the material was made. The discovery provides insight into historical manufacturing techniques and the evolution of materials science.",
-          "whyItMatters": "This finding contributes to our understanding of historical technology and the development of modern materials.",
-          "sources": [
-            {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261025073055.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-26T15:18:39.658Z"
+      "updatedAt": "2026-10-26T21:06:28.014Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers key economic developments, including AI investments, geopolitical tensions, and economic policies affecting global markets.",
+      "summary": "Today's lens covers a mix of global economic developments, including political and technological shifts, and their potential impacts on students.",
       "stories": [
         {
-          "title": "Anthropic files for US stock market listing",
-          "body": "Anthropic, a major AI research company, has filed for an IPO on the US stock market with a valuation exceeding $1.5 trillion. The move follows a $95 billion fundraising drive to expand its AI capabilities. This development highlights the growing importance of AI in the global economy and the potential impact on tech stocks and investment trends.",
-          "whyItMatters": "The IPO could signal a shift in the tech industry's focus and investment priorities, influencing stock market dynamics and investor sentiment.",
+          "title": "Brazil's Lula's Political Future",
+          "body": "Al Jazeera reports on the potential implications of Lula's fourth term in Brazil, focusing on political stability and economic policy. The article highlights the significance of his leadership in shaping the country's future, including potential economic reforms and governance strategies.",
+          "whyItMatters": "The political stability of Brazil could influence regional economic cooperation and international relations.",
           "sources": [
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/brazil-lula-victory-whatsapp-campaign-janones?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Rohingya displacement in disputed Kashmir region",
-          "body": "In the disputed Kashmir region, Rohingya communities are facing eviction threats, prompting them to dismantle homes. This situation highlights the ongoing tensions and challenges in the region, affecting local communities and potentially influencing regional policies and humanitarian efforts.",
-          "whyItMatters": "The displacement of Rohingya communities raises concerns about human rights and stability in the region, impacting international relations and humanitarian interventions.",
+          "title": "US Court Rules James Comey's Daughter Was Illegally Fired",
+          "body": "Al Jazeera reports that a US court ruled against the firing of James Comey's daughter, a Trump critic, citing legal violations. This development underscores the importance of legal accountability and the protection of individuals in political contexts.",
+          "whyItMatters": "The ruling highlights the role of legal systems in safeguarding political figures and their families from unjust actions.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/rohingya-deported-disputed-kashmir-region?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "US foreign aid to Israel highlighted in campaign ad",
-          "body": "A campaign ad in support of El-Sayed highlights US foreign aid to Israel, reflecting the complex geopolitical dynamics in the Middle East. This development underscores the ongoing tensions between Israel and Iran, as well as the strategic importance of military and economic support in the region.",
-          "whyItMatters": "The emphasis on US aid to Israel highlights the strategic and military considerations in the region, influencing international relations and potential future conflicts.",
+          "title": "Palestinian Children Crawl to School Amid Israeli Military Restrictions",
+          "body": "Al Jazeera documents the challenges faced by Palestinian children in accessing education due to Israeli military restrictions. This situation reflects the ongoing tensions in the region and the impact of conflict on civilian populations.",
+          "whyItMatters": "The humanitarian impact of military actions on civilian populations highlights the need for international intervention and peace efforts.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/us-foreign-aid-to-israel-highlighted-in-campaign-ad-in-support-of-el-sayed?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/palestinian-children-crawl-under-israeli-military-gates-to-get-to-school?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-26T15:18:39.658Z"
+      "updatedAt": "2026-10-26T21:06:28.014Z"
     }
   }
 }
