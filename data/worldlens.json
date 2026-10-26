@@ -1,162 +1,142 @@
 {
-  "generatedAt": "2026-10-26T05:00:27.605Z",
+  "generatedAt": "2026-10-26T15:18:39.658Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers political developments, health concerns, and international reactions, highlighting key events and their potential impacts on global dynamics.",
+      "summary": "Today's lens covers key developments in geopolitics, human rights, and international relations, including election outcomes, regional conflicts, and international sanctions.",
       "stories": [
         {
-          "title": "Brazilian Election Runoff",
-          "body": "Brazilian President Bolsonaro claimed it was 'impossible to concede' the election after Lula's historic victory. Al Jazeera reported that Bolsonaro called for the result to be annulled, while The Guardian noted the outcome was live updated. The election saw Lula secure a major victory, marking a shift in political power.",
-          "whyItMatters": "The outcome of the election could influence regional politics and the balance of power in South America.",
+          "title": "Brazil election runoff: Lula wins historic victory",
+          "body": "Brazil's presidential election runoff saw Luiz Inácio Lula da Silva, the former president, secure a historic victory over former president Jair Bolsonaro. Bolsonaro refused to concede, leading to live updates and global reactions. Lula's win marks a significant shift in Brazilian politics.",
+          "whyItMatters": "This election outcome reflects broader shifts in political dynamics and could influence regional and global relations.",
           "sources": [
             {
               "name": "The Guardian World",
               "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "US Military and Oil Export",
-          "body": "The US military stated it helped Gulf states export 1.5 billion barrels of oil. Al Jazeera reported that the US appeals court was sceptical of Trump's lawsuit over California voter rolls. The oil export data highlights the strategic importance of energy cooperation between the US and Gulf states.",
-          "whyItMatters": "The US military's role in oil exports underscores the geopolitical significance of energy cooperation and regional stability.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss"
-            },
-            {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Ebola Outbreak in Nigeria",
-          "body": "Concerns over the source of an Ebola outbreak in Nigeria have been raised, with fears of its spread. Al Jazeera reported that the virus has been linked to a Swiss patient in Dr. Congo. The situation highlights the ongoing challenges in controlling infectious diseases and the need for international collaboration.",
-          "whyItMatters": "The Ebola outbreak in Nigeria underscores the global health risks and the importance of international cooperation in managing infectious diseases.",
+          "title": "UK sanctions Sudanese military leaders over El Fasher atrocities",
+          "body": "The UK imposed sanctions on Sudanese military leaders implicated in the El Fasher campaign of rape, highlighting concerns over human rights abuses in the region. The sanctions aim to pressure the Sudanese government to address the situation.",
+          "whyItMatters": "This action underscores the international community's response to human rights violations and the role of foreign policy in addressing regional conflicts.",
           "sources": [
             {
               "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread"
-            },
+              "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of"
+            }
+          ]
+        },
+        {
+          "title": "Anthropic warns of catastrophic risk to humankind",
+          "body": "Anthropic, a leading AI research organization, warned of a 'catastrophic risk' to humankind ahead of a major share listing. The warning highlights the potential risks associated with AI development and the need for responsible innovation.",
+          "whyItMatters": "This warning emphasizes the importance of ethical considerations in technological advancement and its potential impact on global stability.",
+          "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-26T05:00:27.605Z"
+      "updatedAt": "2026-10-26T15:18:39.658Z"
     },
     "science": {
-      "kicker": "Science & Nature",
-      "summary": "Today's lens covers natural disasters, technological advancements, and scientific discoveries impacting global understanding.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens covers recent scientific discoveries, weather events, and cultural phenomena impacting students globally.",
       "stories": [
         {
-          "title": "Tree Fall Claims in Storm-Stricken Areas",
-          "body": "Two men were killed in a tree fall during Storm Boelo, which left 90,000 properties without power in Scotland. The storm caused widespread destruction, with reports of power outages and structural damage. The BBC Science team reported the incident as part of their coverage of the storm's impact.",
-          "whyItMatters": "Natural disasters highlight the importance of disaster preparedness and infrastructure resilience, especially in regions prone to extreme weather events.",
+          "title": "Electricity restored to all of NI after Storm Boelo",
+          "body": "After a severe storm, electricity was restored to all of Northern Ireland. The storm, known as Boelo, caused widespread power outages, but the region was eventually reconnected to the grid. The Met Office issued a new wind warning, indicating potential for further weather changes.",
+          "whyItMatters": "The restoration of electricity highlights the importance of resilient infrastructure and the impact of extreme weather on daily life.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cqe9lykm93jmo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/weather/articles/cqwy7w8dryrxo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Technological Innovations in Agriculture",
-          "body": "BBC Science reports on how technology is transforming agriculture, from AI-driven farming to sustainable practices. Innovations in precision agriculture and data analytics are improving efficiency and reducing environmental impact. These developments are crucial for food security and climate resilience.",
-          "whyItMatters": "Technological advancements in agriculture are essential for addressing global food production challenges and sustainability concerns.",
+          "title": "‘Maxxing’ is Dictionary.com’s word of the year",
+          "body": "The word ‘maxxing’ was selected as Dictionary.com’s word of the year, describing the experience of feeling cooler than saying you're doing more. It emerged from a viral social media trend and has since become a cultural reference in the scientific community.",
+          "whyItMatters": "The word reflects contemporary language trends and the role of digital culture in shaping modern communication.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/science/2026/oct/26/maxxing-word-of-the-year-dictionary"
             }
           ]
         },
         {
-          "title": "Scientific Breakthroughs in Cancer Research",
-          "body": "Scientists have made progress in understanding how pancreatic cancer rewrites its DNA to evade treatment. Additionally, low-dose aspirin has been linked to a 70% reduction in dementia risk, though there are caveats to consider. These findings highlight the importance of ongoing research in oncology and public health.",
-          "whyItMatters": "Scientific discoveries in cancer research and health can lead to improved treatments and prevention strategies, impacting global health outcomes.",
+          "title": "Ancient Roman colour-changing glass rediscovered",
+          "body": "Scientists rediscovered a method to create ancient Roman colour-changing glass, revealing how the material was made. The discovery provides insight into historical manufacturing techniques and the evolution of materials science.",
+          "whyItMatters": "This finding contributes to our understanding of historical technology and the development of modern materials.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261024221849.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm"
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-26T05:00:27.605Z"
+      "updatedAt": "2026-10-26T15:18:39.658Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The lens covers economic developments, including political tensions in Brazil, US legal and military actions, oil prices, and technological trends in the business sector.",
+      "summary": "Today's lens covers key economic developments, including AI investments, geopolitical tensions, and economic policies affecting global markets.",
       "stories": [
         {
-          "title": "Brazilian Election Tensions",
-          "body": "Bolsonaro called for the annulment of Brazil's election results, highlighting political instability and uncertainty in the country's political landscape. The request reflects broader concerns about the legitimacy of the election and the potential for further political conflict.",
-          "whyItMatters": "The outcome of the election could significantly impact Brazil's political and economic future, influencing regional dynamics and international relations.",
+          "title": "Anthropic files for US stock market listing",
+          "body": "Anthropic, a major AI research company, has filed for an IPO on the US stock market with a valuation exceeding $1.5 trillion. The move follows a $95 billion fundraising drive to expand its AI capabilities. This development highlights the growing importance of AI in the global economy and the potential impact on tech stocks and investment trends.",
+          "whyItMatters": "The IPO could signal a shift in the tech industry's focus and investment priorities, influencing stock market dynamics and investor sentiment.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race?traffic_source=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market"
             }
           ]
         },
         {
-          "title": "US Military and Oil Export",
-          "body": "The US military reported assisting Gulf states in exporting 1.5 billion barrels of oil, emphasizing the strategic importance of energy security and military support in the region. This development underscores the complex interplay between military and economic interests.",
-          "whyItMatters": "The US military's role in oil exports highlights the critical link between national security, economic stability, and regional cooperation.",
+          "title": "Rohingya displacement in disputed Kashmir region",
+          "body": "In the disputed Kashmir region, Rohingya communities are facing eviction threats, prompting them to dismantle homes. This situation highlights the ongoing tensions and challenges in the region, affecting local communities and potentially influencing regional policies and humanitarian efforts.",
+          "whyItMatters": "The displacement of Rohingya communities raises concerns about human rights and stability in the region, impacting international relations and humanitarian interventions.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/rohingya-deported-disputed-kashmir-region?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Oil Prices and Global Market Trends",
-          "body": "Oil prices rose above $117 per barrel due to fears of renewed strikes on Iran and other geopolitical tensions. This increase affects global energy markets and influences economic decisions across industries.",
-          "whyItMatters": "Rising oil prices impact energy costs and economic planning, affecting both developed and emerging economies globally.",
+          "title": "US foreign aid to Israel highlighted in campaign ad",
+          "body": "A campaign ad in support of El-Sayed highlights US foreign aid to Israel, reflecting the complex geopolitical dynamics in the Middle East. This development underscores the ongoing tensions between Israel and Iran, as well as the strategic importance of military and economic support in the region.",
+          "whyItMatters": "The emphasis on US aid to Israel highlights the strategic and military considerations in the region, influencing international relations and potential future conflicts.",
           "sources": [
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran"
-            },
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/us-foreign-aid-to-israel-highlighted-in-campaign-ad-in-support-of-el-sayed?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-26T05:00:27.605Z"
+      "updatedAt": "2026-10-26T15:18:39.658Z"
     }
   }
 }
