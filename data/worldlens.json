@@ -1,138 +1,146 @@
 {
-  "generatedAt": "2026-10-28T05:56:41.161Z",
+  "generatedAt": "2026-10-28T15:13:46.447Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of geopolitical developments, including political statements, international relations, and global economic trends.",
+      "summary": "Today's lens covers a mix of international events, including political developments, regional security concerns, and global health issues.",
       "stories": [
         {
-          "title": "Mbappe faces backlash in China for meme fiasco",
-          "body": "French footballer Kylian Mbappé faced backlash in China after a meme featuring him in a controversial context went viral. The meme, which depicted Mbappé in a disrespectful manner, sparked widespread criticism and led to calls for his removal from the national team. The incident highlights the global nature of digital culture and its impact on public figures.",
-          "whyItMatters": "The incident underscores the role of digital culture in shaping public perception and the potential for online content to influence political and social dynamics.",
+          "title": "Bolsonaro's Return to Florida",
+          "body": "Brazilian President Bolsonaro vanished from public view after losing the 2026 presidential election. He later returned to Florida, where he is under surveillance. This event highlights the political tensions in Brazil and the impact of electoral outcomes on public figures.",
+          "whyItMatters": "The return of a former president raises questions about political accountability and the role of public figures in democratic processes.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/mbappe-faces-backlash-in-china-for-meme-fiasco?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_bolsonaro-in-florida-after-vanishing-from-public-281026?traffic_source=rss"
             },
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
-          "body": "The UK has imposed sanctions on Sudanese military leaders accused of participating in a campaign of rape in the El Fasher region. The sanctions follow allegations of human rights violations and reflect the UK's commitment to holding leaders accountable for atrocities committed in conflict zones.",
-          "whyItMatters": "The sanctions highlight the international response to human rights violations in conflict zones and the role of foreign governments in addressing atrocities committed by local actors.",
+          "title": "GCC and Iran's Regional Security Pact",
+          "body": "The Gulf Cooperation Council (GCC) countries are considering a regional security pact with Iran, aiming to enhance security cooperation and counter threats. This development reflects the growing strategic alignment between Gulf states and Iran, despite historical tensions.",
+          "whyItMatters": "A potential regional security pact could reshape alliances and security dynamics in the Middle East.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/28/are-gcc-countries-looking-for-a-regional-security-pact-with-iran?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Ebola Outbreak in Africa and UK Health Concerns",
+          "body": "An unprecedented Ebola outbreak in Africa has raised concerns about its potential spread to the UK. Health officials are monitoring the situation closely, highlighting the global health risks associated with infectious diseases.",
+          "whyItMatters": "The outbreak underscores the importance of global health preparedness and the interconnected nature of modern epidemiology.",
           "sources": [
             {
               "name": "The Guardian World",
-              "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of"
-            }
-          ]
-        },
-        {
-          "title": "Global stock markets rise as investors continue to bet on AI",
-          "body": "Global stock markets experienced a rise as investors continued to bet on the future of artificial intelligence. The optimism around AI technology and its potential to drive economic growth and innovation contributed to the market's positive movement, reflecting the growing importance of AI in shaping the global economy.",
-          "whyItMatters": "The rise in stock markets underscores the transformative potential of AI and its impact on global economic structures and technological advancement.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai?traffic_source=rss"
+              "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-28T05:56:41.161Z"
+      "updatedAt": "2026-10-28T15:13:46.447Z"
     },
     "science": {
       "kicker": "ScienceDaily",
-      "summary": "Today's lens covers advances in neuroscience, astrophysics, environmental science, and policy issues, highlighting both groundbreaking research and real-world implications.",
+      "summary": "Today's lens highlights groundbreaking scientific discoveries and developments across various fields, including biology, geology, and environmental science.",
       "stories": [
         {
-          "title": "Autistic brain processes faces differently",
-          "body": "A study reveals that the autistic brain processes faces differently than previously thought, suggesting potential insights into facial recognition and social cognition. Researchers found that individuals with autism may have enhanced facial processing abilities, which could explain their unique social interactions and perception of faces.",
-          "whyItMatters": "Understanding these differences could lead to better support and interventions for individuals with autism.",
+          "title": "Scientists discover a secret glow in toxic fire salamanders",
+          "body": "A study published in ScienceDaily reveals that toxic fire salamanders emit a faint blue glow when exposed to certain chemicals, suggesting a unique biological mechanism for detoxification. The discovery could lead to new insights into how organisms process toxins and potentially inspire novel biotechnological applications.",
+          "whyItMatters": "This finding may provide a deeper understanding of how life adapts to environmental stressors and could influence future research in toxicology and biotechnology.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261027063824.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261027063707.htm"
             }
           ]
         },
         {
-          "title": "New strategy to protect Northern Ireland's nature",
-          "body": "A new conservation strategy is being explored to protect Northern Ireland's biodiversity, focusing on sustainable land management and habitat preservation. The approach aims to address current threats to ecosystems while promoting ecological resilience.",
-          "whyItMatters": "Effective conservation strategies are crucial for maintaining ecological balance and supporting local communities.",
+          "title": "Earth's ice ages may have been driven by a hidden ocean chain reaction",
+          "body": "A recent study from ScienceDaily suggests that Earth's ice ages may have been triggered by a complex oceanic feedback loop, involving the interaction of deep ocean currents and climate systems. This could reshape our understanding of global climate patterns and their historical influences.",
+          "whyItMatters": "This research may offer critical insights into the mechanisms driving long-term climate changes and inform climate modeling efforts.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cq0megg87n3po?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261026225610.htm"
             }
           ]
         },
         {
-          "title": "Nobel Prize in Economic Science faces gender bias",
-          "body": "The Nobel Prize in Economic Science has been criticized for its gender imbalance, with reports indicating underrepresentation of women in the award's committee. This raises questions about the fairness and inclusivity of the prize's selection process.",
-          "whyItMatters": "Addressing gender bias in prestigious awards is essential for promoting equity and diversity in the field of economics.",
+          "title": "NASA’s Artemis I mission reveals surprising radiation levels near the Moon",
+          "body": "NASA’s Artemis I mission, which successfully launched the first uncrewed test flight of the Artemis lunar exploration program, detected higher-than-expected radiation levels near the Moon’s surface. This finding is crucial for planning future human missions and understanding space radiation risks.",
+          "whyItMatters": "This discovery could improve safety protocols for future lunar and Mars missions and enhance our knowledge of space radiation environments.",
           "sources": [
             {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/d41586-026-03404-5"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-28T05:56:41.161Z"
+      "updatedAt": "2026-10-28T15:13:46.447Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The lens covers a mix of economic developments, including market trends, political shifts, and social issues affecting global students.",
+      "summary": "The lens covers key economic developments, including changes to minimum wage, budget updates, and global market trends.",
       "stories": [
         {
-          "title": "Mbappe faces backlash in China for meme fiasco",
-          "body": "French football star Kylian Mbappé faced backlash in China after a meme featuring him was widely shared, leading to criticism of the internet culture and its impact on global sports. The incident highlights the challenges of cross-cultural communication in the digital age.",
-          "whyItMatters": "The incident underscores the importance of cultural sensitivity in global online interactions and the potential for memes to influence public opinion across borders.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/mbappe-faces-backlash-in-china-for-meme-fiasco?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/bolsonaro-ally-denies-knowledge-of-senators-plan-to-flee-brazil?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Global stock markets rise as investors continue to bet on AI",
-          "body": "Global stock markets showed mixed performance as investors continued to bet on artificial intelligence (AI) advancements. The rise in AI-related stocks reflects optimism about future technological growth and its potential economic impact.",
-          "whyItMatters": "The growing investment in AI could reshape industries and create new opportunities, influencing economic trends and job markets globally.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-          "body": "Luxury cruise passengers were stranded in Cambodia due to rising fuel costs, highlighting the vulnerability of the tourism industry to global economic fluctuations. The situation reflects the broader challenges faced by the hospitality sector in a volatile market.",
-          "whyItMatters": "The incident demonstrates the impact of fuel price increases on travel and tourism, affecting both consumers and businesses globally.",
+          "title": "Minimum Wage Increase",
+          "body": "The BBC Business reports that the minimum wage is set to increase, affecting workers' earnings and potentially influencing employment trends. The update comes as part of the 2026 Budget, which aims to address inflation and living costs.",
+          "whyItMatters": "The minimum wage increase could impact employment rates and consumer spending, influencing economic policy and labor markets.",
           "sources": [
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Budget 2026 Key Points",
+          "body": "The BBC Business outlines key points from the 2026 Budget, including economic policies and financial reforms. These changes are expected to affect households and businesses, with a focus on inflation control and economic stability.",
+          "whyItMatters": "The Budget's economic policies could have long-term effects on consumer behavior, business investment, and overall economic growth.",
+          "sources": [
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Global AI Market Trends",
+          "body": "The Guardian Business reports on the AI market, noting that Chinese markets are losing trillions due to the AI race with the US. This highlights the economic impact of technological competition and investment in AI technologies.",
+          "whyItMatters": "The AI market competition could reshape global economic strategies and influence technological innovation and investment trends.",
+          "sources": [
+            {
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing"
+            },
+            {
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-stock-market-filing-takeaways"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-28T05:56:41.161Z"
+      "updatedAt": "2026-10-28T15:13:46.447Z"
     }
   }
 }
