@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-10-28T15:13:46.447Z",
+  "generatedAt": "2026-10-28T21:11:40.898Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of international events, including political developments, regional security concerns, and global health issues.",
+      "kicker": "Global Brief",
+      "summary": "This brief highlights key developments in geopolitics, international relations, and regional events affecting students globally.",
       "stories": [
         {
-          "title": "Bolsonaro's Return to Florida",
-          "body": "Brazilian President Bolsonaro vanished from public view after losing the 2026 presidential election. He later returned to Florida, where he is under surveillance. This event highlights the political tensions in Brazil and the impact of electoral outcomes on public figures.",
-          "whyItMatters": "The return of a former president raises questions about political accountability and the role of public figures in democratic processes.",
+          "title": "Flávio Bolsonaro flees Brazil after election defeat",
+          "body": "Flávio Bolsonaro, former Brazilian president, has fled the country after losing the presidential election. He has arrived in Miami, Florida, where he is seeking legal protection. His departure marks the end of his political career in Brazil, and he is now under the jurisdiction of U.S. authorities. This event highlights the impact of political instability on individuals and the international legal landscape.",
+          "whyItMatters": "The movement of political figures across borders underscores the complexities of international law and the challenges faced by individuals in times of political turmoil.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_bolsonaro-in-florida-after-vanishing-from-public-281026?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "GCC and Iran's Regional Security Pact",
-          "body": "The Gulf Cooperation Council (GCC) countries are considering a regional security pact with Iran, aiming to enhance security cooperation and counter threats. This development reflects the growing strategic alignment between Gulf states and Iran, despite historical tensions.",
-          "whyItMatters": "A potential regional security pact could reshape alliances and security dynamics in the Middle East.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/28/are-gcc-countries-looking-for-a-regional-security-pact-with-iran?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Ebola Outbreak in Africa and UK Health Concerns",
-          "body": "An unprecedented Ebola outbreak in Africa has raised concerns about its potential spread to the UK. Health officials are monitoring the situation closely, highlighting the global health risks associated with infectious diseases.",
-          "whyItMatters": "The outbreak underscores the importance of global health preparedness and the interconnected nature of modern epidemiology.",
-          "sources": [
-            {
               "name": "The Guardian World",
-              "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official"
+              "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat"
+            }
+          ]
+        },
+        {
+          "title": "UN votes to condemn Cuban embargo despite U.S. lobbying",
+          "body": "The United Nations has voted to condemn the embargo on Cuba, despite U.S. efforts to prevent it. This decision reflects the growing international pressure on the U.S. to address human rights issues in Cuba. The vote highlights the tension between U.S. policy and global humanitarian concerns.",
+          "whyItMatters": "The UN's decision to condemn the embargo underscores the importance of international cooperation in addressing human rights violations and the role of global institutions in shaping policy.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Serbian shot dead after attacking Israeli embassy",
+          "body": "A Serbian citizen was shot dead after attacking an Israeli embassy officer outside the Israeli embassy in Serbia. The incident has sparked discussions about security and diplomatic relations between Serbia and Israel. It highlights the risks faced by diplomats and the importance of maintaining peace in the region.",
+          "whyItMatters": "This incident underscores the challenges of maintaining security in diplomatic settings and the potential for violence in regions with complex political dynamics.",
+          "sources": [
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-28T15:13:46.447Z"
+      "updatedAt": "2026-10-28T21:11:40.898Z"
     },
     "science": {
       "kicker": "ScienceDaily",
-      "summary": "Today's lens highlights groundbreaking scientific discoveries and developments across various fields, including biology, geology, and environmental science.",
+      "summary": "Today's lens highlights groundbreaking scientific discoveries and environmental insights from multiple sources.",
       "stories": [
         {
           "title": "Scientists discover a secret glow in toxic fire salamanders",
-          "body": "A study published in ScienceDaily reveals that toxic fire salamanders emit a faint blue glow when exposed to certain chemicals, suggesting a unique biological mechanism for detoxification. The discovery could lead to new insights into how organisms process toxins and potentially inspire novel biotechnological applications.",
-          "whyItMatters": "This finding may provide a deeper understanding of how life adapts to environmental stressors and could influence future research in toxicology and biotechnology.",
+          "body": "A study published in ScienceDaily reveals that toxic fire salamanders emit a faint glow under certain conditions, suggesting a unique biological mechanism. The discovery could provide insights into how organisms adapt to environmental toxins.",
+          "whyItMatters": "This finding may help in understanding evolutionary adaptations and potential applications in biotechnology.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -65,8 +65,8 @@
         },
         {
           "title": "Earth's ice ages may have been driven by a hidden ocean chain reaction",
-          "body": "A recent study from ScienceDaily suggests that Earth's ice ages may have been triggered by a complex oceanic feedback loop, involving the interaction of deep ocean currents and climate systems. This could reshape our understanding of global climate patterns and their historical influences.",
-          "whyItMatters": "This research may offer critical insights into the mechanisms driving long-term climate changes and inform climate modeling efforts.",
+          "body": "A new study from ScienceDaily suggests that Earth's ice ages might have been influenced by a hidden oceanic chain reaction, potentially altering climate patterns over millions of years. This could reshape our understanding of climate dynamics and historical climate changes.",
+          "whyItMatters": "Understanding the mechanisms behind ice age formation may improve climate models and inform future climate predictions.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -76,8 +76,8 @@
         },
         {
           "title": "NASA’s Artemis I mission reveals surprising radiation levels near the Moon",
-          "body": "NASA’s Artemis I mission, which successfully launched the first uncrewed test flight of the Artemis lunar exploration program, detected higher-than-expected radiation levels near the Moon’s surface. This finding is crucial for planning future human missions and understanding space radiation risks.",
-          "whyItMatters": "This discovery could improve safety protocols for future lunar and Mars missions and enhance our knowledge of space radiation environments.",
+          "body": "NASA’s Artemis I mission, which launched in October 2026, found that radiation levels near the Moon are higher than previously thought, posing challenges for future lunar missions. This discovery highlights the need for advanced shielding technologies for future space exploration.",
+          "whyItMatters": "This finding could influence the design of spacecraft and habitats for future lunar and Martian missions.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -87,60 +87,64 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-28T15:13:46.447Z"
+      "updatedAt": "2026-10-28T21:11:40.898Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The lens covers key economic developments, including changes to minimum wage, budget updates, and global market trends.",
+      "summary": "Today's lens covers key economic developments, including political shifts in Brazil, UN actions on Cuba, UK economic updates, US budget policies, and global market trends.",
       "stories": [
         {
-          "title": "Minimum Wage Increase",
-          "body": "The BBC Business reports that the minimum wage is set to increase, affecting workers' earnings and potentially influencing employment trends. The update comes as part of the 2026 Budget, which aims to address inflation and living costs.",
-          "whyItMatters": "The minimum wage increase could impact employment rates and consumer spending, influencing economic policy and labor markets.",
+          "title": "Brazil's Flavio Bolsonaro faces political challenges after election defeat",
+          "body": "Brazil's former President Flavio Bolsonaro faces political scrutiny after his election defeat. Al Jazeera reports that Bolsonaro is seeking to regain political support by focusing on economic policies and anti-corruption measures. The outcome of the election has raised questions about the future of Brazil's political landscape.",
+          "whyItMatters": "The political instability in Brazil could impact regional economic dynamics and international relations.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss"
             },
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/rwandas-milk-bars?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Budget 2026 Key Points",
-          "body": "The BBC Business outlines key points from the 2026 Budget, including economic policies and financial reforms. These changes are expected to affect households and businesses, with a focus on inflation control and economic stability.",
-          "whyItMatters": "The Budget's economic policies could have long-term effects on consumer behavior, business investment, and overall economic growth.",
+          "title": "UN votes to condemn embargo of Cuba despite US lobbying",
+          "body": "The United Nations has voted to condemn an embargo on Cuba, despite efforts by the United States to influence the decision. Al Jazeera reports that the decision reflects a broader international stance against the Cuban government's policies, highlighting the complexity of global political tensions.",
+          "whyItMatters": "The UN decision underscores the challenges of balancing national interests with international norms and the potential for diplomatic conflicts.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "UK economy faces uncertainty with new budget policies",
+          "body": "The UK government unveils new budget policies that aim to address economic challenges, including energy costs and savings for citizens. BBC Business reports that the budget introduces measures such as a £100 energy payment and a bank tax, which could have significant implications for consumer behavior and economic stability.",
+          "whyItMatters": "The UK's economic policies could influence consumer spending, inflation, and long-term economic growth.",
           "sources": [
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "BBC Business",
               "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss"
             }
           ]
-        },
-        {
-          "title": "Global AI Market Trends",
-          "body": "The Guardian Business reports on the AI market, noting that Chinese markets are losing trillions due to the AI race with the US. This highlights the economic impact of technological competition and investment in AI technologies.",
-          "whyItMatters": "The AI market competition could reshape global economic strategies and influence technological innovation and investment trends.",
-          "sources": [
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing"
-            },
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-stock-market-filing-takeaways"
-            }
-          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-28T15:13:46.447Z"
+      "updatedAt": "2026-10-28T21:11:40.898Z"
     }
   }
 }
