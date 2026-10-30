@@ -1,80 +1,76 @@
 {
-  "generatedAt": "2026-10-30T15:07:49.333Z",
+  "generatedAt": "2026-10-30T20:54:32.406Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of international developments, including political decisions, humanitarian crises, and global health concerns.",
+      "kicker": "Global Brief",
+      "summary": "Today's lens covers a mix of geopolitical developments, technological issues, and humanitarian concerns, highlighting the complexity of global affairs.",
       "stories": [
         {
-          "title": "Spain's Transport Minister Declines Resignation Over High-Speed Rail Disaster",
-          "body": "Spain's transport minister has stated he will not resign following the high-speed rail disaster, indicating a potential shift in political leadership or a commitment to maintaining stability in the region. The incident highlights the ongoing challenges of infrastructure management and public trust in government institutions.",
-          "whyItMatters": "The decision reflects the balance between political accountability and the need for continued public infrastructure support.",
+          "title": "Russia's Newspaper Founder Claims Abuse",
+          "body": "A founder of a Russian newspaper shut under pressure from authorities claimed that the organization was 'strangled,' suggesting a lack of freedom of expression. The incident highlights tensions in media autonomy and censorship in the region.",
+          "whyItMatters": "The incident underscores the challenges faced by independent media in regions with strict regulatory frameworks.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Pope Leo XIV's Election Vote in the US",
-          "body": "The Pope has become the first pontiff to vote in a US election, marking a significant moment in the intersection of religious and political power. This event underscores the growing influence of religious figures in democratic processes and the potential for religious leaders to shape public opinion.",
-          "whyItMatters": "It highlights the evolving role of religious institutions in political landscapes and the potential for such figures to influence public discourse.",
-          "sources": [
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil"
-            }
-          ]
-        },
-        {
-          "title": "Humanitarian Efforts in Oleshky Amid Russian-Ukrainian Conflict",
-          "body": "Russian and Ukrainian humanitarian officials have entered Oleshky, a village in the Donbas region, to provide aid and support to affected civilians. This development reflects the ongoing humanitarian crisis in the region and the international response to the conflict.",
-          "whyItMatters": "The humanitarian efforts highlight the complex interplay between conflict, displacement, and international aid in regions affected by war.",
+          "title": "US Appeals Court Rejects Trump Bid to Set Aside California Ballots",
+          "body": "A US appeals court rejected Trump's bid to set aside California ballots, reinforcing the importance of electoral processes and the role of judicial oversight in democratic elections.",
+          "whyItMatters": "The decision highlights the significance of judicial review in maintaining electoral integrity and public trust in democratic systems.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-ukrainian-humanitarian-officials-enter-oleshky?traffic_source=rss"
-            },
+              "url": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "G20 Drops Group Photo as Europeans Refuse to Stand with Lavrov",
+          "body": "The G20 dropped its group photo as European nations refused to stand with Russian President Vladimir Putin, reflecting growing geopolitical tensions and the impact of regional alliances on global summits.",
+          "whyItMatters": "The decision reflects the evolving dynamics of international relations and the influence of regional alliances on global events.",
+          "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-30T15:07:49.333Z"
+      "updatedAt": "2026-10-30T20:54:32.406Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers recent scientific advancements, natural events, and technological developments impacting students and researchers globally.",
+      "summary": "Today's lens covers archaeological discoveries, natural phenomena, and scientific advancements across various domains.",
       "stories": [
         {
-          "title": "Helicopter crash in India kills six",
-          "body": "A helicopter crash in northern India resulted in the death of six people. The incident occurred in a remote area, highlighting the risks associated with aerial transportation. The event underscores the importance of safety measures and infrastructure in high-risk environments.",
-          "whyItMatters": "This incident highlights the need for improved safety protocols and infrastructure in aerial transportation to prevent similar tragedies.",
+          "title": "Ancient Treasures from Pompeii",
+          "body": "A team of archaeologists discovered a perfume bottle and a child’s necklace in the wardrobe of Pompeii, offering insights into the daily lives and cultural practices of ancient Romans. These artifacts, preserved in the tomb, provide a glimpse into the materials and aesthetics of the time, and their discovery could enhance our understanding of ancient craftsmanship and social customs.",
+          "whyItMatters": "The discovery of ancient artifacts can offer valuable historical and cultural context, enriching our knowledge of the past.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/science/2026/oct/30/perfume-bottle-child-necklace-pompeii-wardrobe"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261028234703.htm"
             }
           ]
         },
         {
-          "title": "Physicists create a tiny universe and observe time emergence",
-          "body": "Physicists have created a tiny universe and observed time emerging without a clock. This breakthrough in theoretical physics may provide new insights into the nature of time and the fundamental laws of the universe. The study is a significant step in understanding the origins of time and space.",
-          "whyItMatters": "This research could lead to new theories about the nature of time and the universe, potentially influencing future scientific discoveries and our understanding of the cosmos.",
+          "title": "Time Emerges in a Tiny Universe",
+          "body": "Physicists created a tiny universe and observed time emerging without a clock, challenging existing theories about the nature of time. This experiment could lead to new insights into the fundamental principles of physics and the origins of time in the universe.",
+          "whyItMatters": "Understanding the emergence of time in a controlled environment may revolutionize our comprehension of the fundamental laws of physics.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -83,9 +79,9 @@
           ]
         },
         {
-          "title": "Asteroid impact and crocodile survival",
-          "body": "An asteroid impact is believed to have killed the dinosaurs, but crocodiles survived due to their adaptability and ecological niche. This event illustrates the complex interplay between geological events and biological evolution, showing how species can thrive in changing environments.",
-          "whyItMatters": "This event demonstrates the long-term effects of major geological events on ecosystems and the adaptability of species, providing insights into evolutionary biology and environmental change.",
+          "title": "Asteroid Impact and Survival of Crocodiles",
+          "body": "Scientists explored the impact of an asteroid that killed the dinosaurs and how crocodiles survived. The study highlights the complex interplay between geological events and evolutionary biology, shedding light on the factors that allowed certain species to thrive after mass extinction events.",
+          "whyItMatters": "Understanding the factors that influenced the survival of species after mass extinctions can provide insights into evolutionary resilience and ecological dynamics.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -95,16 +91,27 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-30T15:07:49.333Z"
+      "updatedAt": "2026-10-30T20:54:32.406Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The economic landscape is shaped by a mix of technological, geopolitical, and corporate developments, with key themes including AI impacts, cybersecurity, and consumer trends.",
+      "summary": "Today's lens covers economic developments, including US court rulings, tech stock declines, crypto hacks, and inflation trends.",
       "stories": [
         {
-          "title": "US tech stocks see sharp falls over AI cost concerns",
-          "body": "US tech stocks fell sharply on Friday as concerns over rising AI costs and potential job displacement intensified. The decline was driven by fears that automation could displace workers in the tech sector, prompting investors to reassess their portfolios. The market reaction highlighted the growing tension between technological advancement and employment concerns.",
-          "whyItMatters": "The shift in investor sentiment reflects broader anxieties about the future of work and the role of technology in shaping employment trends.",
+          "title": "US appeals court again rejects Trump bid to set aside California ballots",
+          "body": "A US appeals court ruled against President Trump's attempt to invalidate California election ballots, citing procedural issues and the need for further legal review. The decision highlights ongoing legal battles over election procedures and the role of judicial review in democratic processes.",
+          "whyItMatters": "The ruling underscores the importance of legal frameworks in ensuring fair elections and the potential for future litigation over electoral outcomes.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Tech stocks see sharp falls as AI spending nears $1tn",
+          "body": "US tech stocks fell sharply as AI spending approached $1 trillion, driven by concerns over market volatility and regulatory uncertainty. The decline reflects investor caution amid rapid technological change and the impact of global economic shifts.",
+          "whyItMatters": "The tech sector's performance highlights the challenges of investing in emerging technologies and the influence of macroeconomic factors on stock markets.",
           "sources": [
             {
               "name": "BBC Business",
@@ -113,21 +120,14 @@
           ]
         },
         {
-          "title": "Bhutan hot springs hit by flood from glacial lake burst",
-          "body": "Bhutan's hot springs were severely damaged by a glacial lake burst, causing widespread flooding and disrupting tourism. The incident underscores the vulnerability of natural landmarks to climate change and highlights the need for improved disaster preparedness in vulnerable regions.",
-          "whyItMatters": "The impact of climate-related disasters on tourism and local economies underscores the importance of environmental resilience and sustainable practices.",
+          "title": "Binance attempts to recover $6.3bn stolen in crypto hack linked to North Korea",
+          "body": "Crypto giant Binance is working to recover $6.3 billion stolen in a large-scale hack linked to North Korea. The incident highlights the growing risks of cybercrime and the need for improved security measures in digital finance.",
+          "whyItMatters": "The scale of the hack underscores the importance of cybersecurity in the digital economy and the potential for large financial losses in the global crypto market.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/30/bhutan-hot-springs-hit-by-flood-from-glacial-lake-burst?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "North Korean group blamed for $6.3bn Binance hack",
-          "body": "A North Korean group was identified as the perpetrators of the largest-ever crypto heist, targeting Binance. The hack exposed vulnerabilities in global financial systems and raised concerns about cybersecurity threats to major financial institutions. The incident highlights the growing risks associated with digital finance and the need for enhanced security measures.",
-          "whyItMatters": "The scale of the cyberattack underscores the increasing importance of cybersecurity in the digital economy and the potential for large-scale financial disruptions.",
-          "sources": [
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
+            },
             {
               "name": "The Guardian Business",
               "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"
@@ -136,7 +136,7 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-30T15:07:49.333Z"
+      "updatedAt": "2026-10-30T20:54:32.406Z"
     }
   }
 }
