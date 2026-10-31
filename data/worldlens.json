@@ -1,150 +1,158 @@
 {
-  "generatedAt": "2026-10-31T05:57:39.834Z",
+  "generatedAt": "2026-10-31T14:36:28.366Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of geopolitical developments, human rights issues, and international cooperation efforts, highlighting the complex interplay of global events.",
+      "kicker": "Geopolitics",
+      "summary": "Today's lens covers developments in regional conflicts, cultural preservation, and international relations, highlighting both local and global tensions.",
       "stories": [
         {
-          "title": "Yemen's War Leaves Families in Disarray",
-          "body": "The funeral of a 'martyr' in Yemen has drawn attention to the human cost of the ongoing conflict. Families left without support face challenges, reflecting the broader impact of the war on civilian populations.",
-          "whyItMatters": "The humanitarian crisis in Yemen underscores the need for international aid and peace efforts in conflict zones.",
+          "title": "Syria considers joining Mecca Defence Pact",
+          "body": "Syria's foreign minister has announced the country is considering entry into the Mecca Defence Pact, a military alliance involving Arab states. The move is seen as a strategic move to strengthen regional ties and counter external pressures. The pact aims to enhance defense capabilities and promote regional stability.",
+          "whyItMatters": "This development could influence Syria's foreign policy and its relationship with Arab states, potentially affecting regional security dynamics.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/features/2026/10/31/after-the-martyrs-funeral-the-families-left-behind-by-yemens-war?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/31/why-are-us-russia-and-china-racing-to-put-nuclear-reactors-on-the-moon?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Ukraine and US Consider Missile Sales",
-          "body": "The US has greenlit a $2.1 billion sale of Patriot missiles to Ukraine, while the UK also approved a similar deal. These actions highlight the ongoing military support for Ukraine in the context of the conflict.",
-          "whyItMatters": "Military aid reflects the strategic importance of the Ukraine conflict and the global response to Russian aggression.",
+          "title": "Evacuees from Russia-occupied city arrive in Ukraine",
+          "body": "Evacuees from a Russian-occupied city in Ukraine have arrived in the country, bringing attention to the ongoing conflict and the humanitarian crisis. The situation highlights the displacement and suffering caused by the war, and the challenges of returning displaced populations to their homes.",
+          "whyItMatters": "This event underscores the human cost of the conflict and the importance of humanitarian aid and international support for affected populations.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss"
-            },
-            {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "North Korea and Binance Hack",
-          "body": "North Korea is suspected of being behind a major Binance hack that stole $6.3 billion. The incident highlights the growing threat of cyberattacks and the need for global cybersecurity measures.",
-          "whyItMatters": "Cybersecurity threats underscore the importance of international cooperation in protecting digital assets and infrastructure.",
+          "title": "Spain train disaster clouds Sánchez's re-election chances",
+          "body": "A train disaster in Spain has raised concerns about the stability of Prime Minister Pedro Sánchez's re-election prospects. The incident has sparked debates about the government's ability to manage crises and maintain public trust.",
+          "whyItMatters": "The train disaster highlights the challenges of governance and crisis management, and its impact on public perception and political stability.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official"
+              "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-31T05:57:39.834Z"
+      "updatedAt": "2026-10-31T14:36:28.366Z"
     },
     "science": {
-      "kicker": "Science & Nature",
-      "summary": "Today's lens covers scientific advancements, environmental events, and global research updates.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens covers scientific advancements, environmental issues, and cultural insights from around the world.",
       "stories": [
         {
-          "title": "Scientists create a tiny universe and observe time without a clock",
-          "body": "Physicists at a leading research institution have successfully created a miniature universe and observed time emerging without the need for a clock, marking a significant breakthrough in understanding the origins of time and space. The experiment, conducted using advanced quantum simulations, provides new insights into the fundamental nature of time and its relationship to the universe's structure.",
-          "whyItMatters": "This research could reshape our understanding of the origins of time and the fundamental laws governing the universe.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261028234703.htm"
-            }
-          ]
-        },
-        {
-          "title": "UK faces 10 days without rain after wettest week in two years",
-          "body": "The UK has experienced its wettest week in two years, with heavy rainfall leading to potential shortages of water and increased flood risks. The weather event highlights the growing impact of climate change on regional precipitation patterns and the need for improved water management strategies.",
-          "whyItMatters": "This event underscores the increasing frequency and intensity of extreme weather events, emphasizing the importance of climate resilience and adaptive water management practices.",
+          "title": "Environmental Protest at Bute House",
+          "body": "Environmental campaigners protested against the UK government's decision to build a new housing development near Bute House, a historic site. The protest highlights growing concerns about environmental impact and urban development policies.",
+          "whyItMatters": "The protest underscores the importance of balancing urban expansion with environmental preservation.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Ancient treasures found in Pompeii's wardrobe",
-          "body": "Archaeologists have discovered a rare perfume bottle and a child's necklace among the belongings of a Roman resident in Pompeii, offering a glimpse into the daily lives and cultural practices of ancient Romans. The findings provide valuable insights into the material culture and social customs of the time.",
-          "whyItMatters": "These discoveries contribute to our understanding of ancient civilizations and their cultural heritage, highlighting the importance of preserving historical artifacts for future generations.",
+          "title": "Mysterious Wall Rewrites North Africa's History",
+          "body": "A 4,000-year-old wall discovered in North Africa is challenging previous assumptions about the region's history, suggesting early trade networks and cultural exchanges were more extensive than previously thought.",
+          "whyItMatters": "This discovery could reshape our understanding of ancient civilizations and their interconnectedness.",
           "sources": [
             {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/oct/30/perfume-bottle-child-necklace-pompeii-wardrobe"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261029072127.htm"
+            }
+          ]
+        },
+        {
+          "title": "Scientists Discover Metals That Defy the Deep Freeze",
+          "body": "Scientists have identified metals that remain solid at temperatures approaching absolute zero, potentially revolutionizing materials science and cryogenics research.",
+          "whyItMatters": "This breakthrough could lead to new applications in extreme environments and technological innovations.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261029072127.htm"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-31T05:57:39.834Z"
+      "updatedAt": "2026-10-31T14:36:28.366Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The lens covers economic developments, including a US economy growth, a crypto hack, and a tech stock sell-off, while also highlighting geopolitical and corporate news.",
+      "summary": "Today's lens covers a mix of global economic developments, including political and cultural events, technological trends, and business news.",
       "stories": [
         {
-          "title": "US economy grows faster than expected but inflation rises to 3.7%",
-          "body": "The US economy grew faster than expected in the third quarter, with GDP increasing by 2.3% year-on-year. However, inflation rose to 3.7%, indicating a potential slowdown in economic growth. The Federal Reserve may need to adjust its rate policy to manage inflation.",
-          "whyItMatters": "The economic growth and inflation data highlight the delicate balance between expansion and rising costs, which could influence future monetary policy decisions.",
-          "sources": [
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/29/economy-growth-third-quarter"
-            }
-          ]
-        },
-        {
-          "title": "Binance attempts to recover $6.3bn stolen in crypto hack linked to North Korea",
-          "body": "Binance, a major cryptocurrency exchange, is working to recover $6.3bn stolen in a large-scale hack. The breach is linked to North Korea, and the company is seeking legal and financial assistance to recover the funds. This highlights the growing risks associated with digital finance and the need for stronger security measures.",
-          "whyItMatters": "The scale of the hack and its connection to North Korea underscore the vulnerabilities in global digital finance and the importance of cybersecurity in the crypto sector.",
-          "sources": [
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "US greenlights $2.1bn Patriot missile sale to Ukraine",
-          "body": "The US has approved a $2.1bn sale of Patriot missiles to Ukraine, marking a significant defense contract. This decision reflects the ongoing tensions in the geopolitical landscape and the US commitment to supporting Ukraine in its defense against potential threats.",
-          "whyItMatters": "The sale of defense equipment underscores the complex interplay between geopolitical tensions and military support, highlighting the role of international relations in global security.",
+          "title": "Syria considers joining Mecca defence pact",
+          "body": "Syria's foreign minister has announced the country is considering joining the Mecca Defence Pact, a military alliance involving Arab states. The move is seen as a strategic step to enhance regional security and counter external threats. The decision, if approved, would mark a significant shift in Syria's foreign policy.",
+          "whyItMatters": "This development could influence regional security dynamics and Syria's future diplomatic relations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "US coal plants receive taxpayer support",
+          "body": "A report reveals that the US government has provided financial support to half of the coal plants, allowing them to operate despite environmental concerns. This decision reflects a shift in energy policy towards fossil fuels, despite growing climate concerns.",
+          "whyItMatters": "This highlights the ongoing debate over energy policy and its impact on the environment and economy.",
+          "sources": [
+            {
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/us-news/2026/oct/31/trump-coal-plants-taxpayer-dollars"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Sudan's culture faces destruction",
+          "body": "Artists in Sudan are fighting to preserve their cultural heritage as studios are being destroyed. The loss of traditional art and music could lead to a cultural decline and a loss of identity for the local population.",
+          "whyItMatters": "This issue underscores the importance of cultural preservation and the impact of modernization on traditional societies.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/features/2026/10/31/studios-destroyed-traditions-saved-artists-fight-to-save-sudans-culture?traffic_source=rss"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-31T05:57:39.834Z"
+      "updatedAt": "2026-10-31T14:36:28.366Z"
     }
   }
 }
