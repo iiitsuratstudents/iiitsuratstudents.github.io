@@ -1,128 +1,121 @@
 {
-  "generatedAt": "2026-10-30T20:54:32.406Z",
+  "generatedAt": "2026-10-31T05:57:39.834Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of geopolitical developments, technological issues, and humanitarian concerns, highlighting the complexity of global affairs.",
+      "summary": "Today's lens covers a mix of geopolitical developments, human rights issues, and international cooperation efforts, highlighting the complex interplay of global events.",
       "stories": [
         {
-          "title": "Russia's Newspaper Founder Claims Abuse",
-          "body": "A founder of a Russian newspaper shut under pressure from authorities claimed that the organization was 'strangled,' suggesting a lack of freedom of expression. The incident highlights tensions in media autonomy and censorship in the region.",
-          "whyItMatters": "The incident underscores the challenges faced by independent media in regions with strict regulatory frameworks.",
+          "title": "Yemen's War Leaves Families in Disarray",
+          "body": "The funeral of a 'martyr' in Yemen has drawn attention to the human cost of the ongoing conflict. Families left without support face challenges, reflecting the broader impact of the war on civilian populations.",
+          "whyItMatters": "The humanitarian crisis in Yemen underscores the need for international aid and peace efforts in conflict zones.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/features/2026/10/31/after-the-martyrs-funeral-the-families-left-behind-by-yemens-war?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/31/why-are-us-russia-and-china-racing-to-put-nuclear-reactors-on-the-moon?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "US Appeals Court Rejects Trump Bid to Set Aside California Ballots",
-          "body": "A US appeals court rejected Trump's bid to set aside California ballots, reinforcing the importance of electoral processes and the role of judicial oversight in democratic elections.",
-          "whyItMatters": "The decision highlights the significance of judicial review in maintaining electoral integrity and public trust in democratic systems.",
+          "title": "Ukraine and US Consider Missile Sales",
+          "body": "The US has greenlit a $2.1 billion sale of Patriot missiles to Ukraine, while the UK also approved a similar deal. These actions highlight the ongoing military support for Ukraine in the context of the conflict.",
+          "whyItMatters": "Military aid reflects the strategic importance of the Ukraine conflict and the global response to Russian aggression.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "G20 Drops Group Photo as Europeans Refuse to Stand with Lavrov",
-          "body": "The G20 dropped its group photo as European nations refused to stand with Russian President Vladimir Putin, reflecting growing geopolitical tensions and the impact of regional alliances on global summits.",
-          "whyItMatters": "The decision reflects the evolving dynamics of international relations and the influence of regional alliances on global events.",
+          "title": "North Korea and Binance Hack",
+          "body": "North Korea is suspected of being behind a major Binance hack that stole $6.3 billion. The incident highlights the growing threat of cyberattacks and the need for global cybersecurity measures.",
+          "whyItMatters": "Cybersecurity threats underscore the importance of international cooperation in protecting digital assets and infrastructure.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-30T20:54:32.406Z"
+      "updatedAt": "2026-10-31T05:57:39.834Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers archaeological discoveries, natural phenomena, and scientific advancements across various domains.",
+      "kicker": "Science & Nature",
+      "summary": "Today's lens covers scientific advancements, environmental events, and global research updates.",
       "stories": [
         {
-          "title": "Ancient Treasures from Pompeii",
-          "body": "A team of archaeologists discovered a perfume bottle and a child’s necklace in the wardrobe of Pompeii, offering insights into the daily lives and cultural practices of ancient Romans. These artifacts, preserved in the tomb, provide a glimpse into the materials and aesthetics of the time, and their discovery could enhance our understanding of ancient craftsmanship and social customs.",
-          "whyItMatters": "The discovery of ancient artifacts can offer valuable historical and cultural context, enriching our knowledge of the past.",
+          "title": "Scientists create a tiny universe and observe time without a clock",
+          "body": "Physicists at a leading research institution have successfully created a miniature universe and observed time emerging without the need for a clock, marking a significant breakthrough in understanding the origins of time and space. The experiment, conducted using advanced quantum simulations, provides new insights into the fundamental nature of time and its relationship to the universe's structure.",
+          "whyItMatters": "This research could reshape our understanding of the origins of time and the fundamental laws governing the universe.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261028234703.htm"
+            }
+          ]
+        },
+        {
+          "title": "UK faces 10 days without rain after wettest week in two years",
+          "body": "The UK has experienced its wettest week in two years, with heavy rainfall leading to potential shortages of water and increased flood risks. The weather event highlights the growing impact of climate change on regional precipitation patterns and the need for improved water management strategies.",
+          "whyItMatters": "This event underscores the increasing frequency and intensity of extreme weather events, emphasizing the importance of climate resilience and adaptive water management practices.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Ancient treasures found in Pompeii's wardrobe",
+          "body": "Archaeologists have discovered a rare perfume bottle and a child's necklace among the belongings of a Roman resident in Pompeii, offering a glimpse into the daily lives and cultural practices of ancient Romans. The findings provide valuable insights into the material culture and social customs of the time.",
+          "whyItMatters": "These discoveries contribute to our understanding of ancient civilizations and their cultural heritage, highlighting the importance of preserving historical artifacts for future generations.",
           "sources": [
             {
               "name": "The Guardian Science",
               "url": "https://www.theguardian.com/science/2026/oct/30/perfume-bottle-child-necklace-pompeii-wardrobe"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261028234703.htm"
-            }
-          ]
-        },
-        {
-          "title": "Time Emerges in a Tiny Universe",
-          "body": "Physicists created a tiny universe and observed time emerging without a clock, challenging existing theories about the nature of time. This experiment could lead to new insights into the fundamental principles of physics and the origins of time in the universe.",
-          "whyItMatters": "Understanding the emergence of time in a controlled environment may revolutionize our comprehension of the fundamental laws of physics.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261028234703.htm"
-            }
-          ]
-        },
-        {
-          "title": "Asteroid Impact and Survival of Crocodiles",
-          "body": "Scientists explored the impact of an asteroid that killed the dinosaurs and how crocodiles survived. The study highlights the complex interplay between geological events and evolutionary biology, shedding light on the factors that allowed certain species to thrive after mass extinction events.",
-          "whyItMatters": "Understanding the factors that influenced the survival of species after mass extinctions can provide insights into evolutionary resilience and ecological dynamics.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-30T20:54:32.406Z"
+      "updatedAt": "2026-10-31T05:57:39.834Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including US court rulings, tech stock declines, crypto hacks, and inflation trends.",
+      "summary": "The lens covers economic developments, including a US economy growth, a crypto hack, and a tech stock sell-off, while also highlighting geopolitical and corporate news.",
       "stories": [
         {
-          "title": "US appeals court again rejects Trump bid to set aside California ballots",
-          "body": "A US appeals court ruled against President Trump's attempt to invalidate California election ballots, citing procedural issues and the need for further legal review. The decision highlights ongoing legal battles over election procedures and the role of judicial review in democratic processes.",
-          "whyItMatters": "The ruling underscores the importance of legal frameworks in ensuring fair elections and the potential for future litigation over electoral outcomes.",
+          "title": "US economy grows faster than expected but inflation rises to 3.7%",
+          "body": "The US economy grew faster than expected in the third quarter, with GDP increasing by 2.3% year-on-year. However, inflation rose to 3.7%, indicating a potential slowdown in economic growth. The Federal Reserve may need to adjust its rate policy to manage inflation.",
+          "whyItMatters": "The economic growth and inflation data highlight the delicate balance between expansion and rising costs, which could influence future monetary policy decisions.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Tech stocks see sharp falls as AI spending nears $1tn",
-          "body": "US tech stocks fell sharply as AI spending approached $1 trillion, driven by concerns over market volatility and regulatory uncertainty. The decline reflects investor caution amid rapid technological change and the impact of global economic shifts.",
-          "whyItMatters": "The tech sector's performance highlights the challenges of investing in emerging technologies and the influence of macroeconomic factors on stock markets.",
-          "sources": [
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/oct/29/economy-growth-third-quarter"
             }
           ]
         },
         {
           "title": "Binance attempts to recover $6.3bn stolen in crypto hack linked to North Korea",
-          "body": "Crypto giant Binance is working to recover $6.3 billion stolen in a large-scale hack linked to North Korea. The incident highlights the growing risks of cybercrime and the need for improved security measures in digital finance.",
-          "whyItMatters": "The scale of the hack underscores the importance of cybersecurity in the digital economy and the potential for large financial losses in the global crypto market.",
+          "body": "Binance, a major cryptocurrency exchange, is working to recover $6.3bn stolen in a large-scale hack. The breach is linked to North Korea, and the company is seeking legal and financial assistance to recover the funds. This highlights the growing risks associated with digital finance and the need for stronger security measures.",
+          "whyItMatters": "The scale of the hack and its connection to North Korea underscore the vulnerabilities in global digital finance and the importance of cybersecurity in the crypto sector.",
           "sources": [
             {
               "name": "BBC Business",
@@ -131,12 +124,27 @@
             {
               "name": "The Guardian Business",
               "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "US greenlights $2.1bn Patriot missile sale to Ukraine",
+          "body": "The US has approved a $2.1bn sale of Patriot missiles to Ukraine, marking a significant defense contract. This decision reflects the ongoing tensions in the geopolitical landscape and the US commitment to supporting Ukraine in its defense against potential threats.",
+          "whyItMatters": "The sale of defense equipment underscores the complex interplay between geopolitical tensions and military support, highlighting the role of international relations in global security.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-30T20:54:32.406Z"
+      "updatedAt": "2026-10-31T05:57:39.834Z"
     }
   }
 }
