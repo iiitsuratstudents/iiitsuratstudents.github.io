@@ -1,84 +1,80 @@
 {
-  "generatedAt": "2026-10-31T20:07:00.097Z",
+  "generatedAt": "2026-10-31T23:29:50.446Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Multiple global events highlight tensions, humanitarian crises, and geopolitical shifts, reflecting the complex interplay of conflict, migration, and technological vulnerabilities.",
+      "summary": "Today's lens covers a mix of international events, including humanitarian crises, political developments, and regional conflicts, highlighting the complex interplay of global dynamics.",
       "stories": [
         {
-          "title": "Clashes erupt between police and protesters in Paris",
-          "body": "In Paris, clashes between police and protesters erupted on October 31, 2026, as tensions over political and social issues intensified. The incident reflects broader global concerns about public safety and civil unrest.",
-          "whyItMatters": "The incident highlights the risks of civil unrest and the importance of maintaining public order in urban centers.",
+          "title": "Dutch rescue of 38 people in rubber boat",
+          "body": "Dutch authorities rescued 38 people who were adrift in a rubber boat in the North Sea on October 31, 2026. The incident highlights the challenges faced by individuals in distress at sea and the role of maritime rescue operations in ensuring safety.",
+          "whyItMatters": "The event underscores the importance of international cooperation in maritime emergencies and the potential for such incidents to affect regional stability.",
           "sources": [
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss"
-            },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Ukrainians reflect on years in Russia-occupied city",
-          "body": "Ukrainians in the Russian-occupied frontline city of Kherson expressed relief and gratitude after years of hardship, marking a significant emotional and psychological milestone for the population.",
-          "whyItMatters": "The experience of resilience and recovery in occupied territories underscores the human cost of prolonged conflict and the importance of international support for displaced populations.",
-          "sources": [
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.aljazeera.com/news/2026/10/31/dutch-authorities-rescue-38-people-adrift-in-rubber-boat?traffic_source=rss"
             },
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Cryptocurrency platforms face significant losses",
-          "body": "A major cryptocurrency firm, Binance, announced it had covered 90% of losses following a $6.3 billion hack, highlighting the growing risks associated with digital finance and the need for robust security measures.",
-          "whyItMatters": "The incident underscores the vulnerabilities of digital financial systems and the importance of cybersecurity in the global economy.",
-          "sources": [
             {
               "name": "BBC World",
               "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Trump loses legal battle over Epstein-linked Wall Street Journal case",
+          "body": "U.S. President Donald Trump lost a legal battle over allegations that he had links to the Epstein-linked Wall Street Journal. The case raised questions about Trump's legal standing and the potential for political fallout from such claims.",
+          "whyItMatters": "The outcome of this legal battle could influence public perception of Trump's political career and the broader implications for legal accountability in high-profile cases.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/31/trump-loses-legal-battle-over-epstein-linked-wall-street-journal-case?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Ebola outbreak in DR Congo and health probe in Nigeria",
+          "body": "Health authorities in DR Congo are investigating the deadliest Ebola outbreak in its history, with over 5,000 deaths reported. In northeast Nigeria, health officials are probing two suspected Ebola cases, raising concerns about the spread of the virus and the need for global health preparedness.",
+          "whyItMatters": "These outbreaks highlight the ongoing risks of infectious diseases and the importance of international collaboration in managing public health crises.",
+          "sources": [
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-31T20:07:00.097Z"
+      "updatedAt": "2026-10-31T23:29:50.446Z"
     },
     "science": {
       "kicker": "Science & Nature",
-      "summary": "Today's lens covers scientific advancements, environmental concerns, and cultural insights from around the world.",
+      "summary": "Today's lens covers scientific discoveries, environmental news, and cultural insights from around the world.",
       "stories": [
         {
-          "title": "Environmental Protest at Bute House",
-          "body": "Environmental campaigners protested against the UK government's plans to build a new facility at Bute House, a historic site in the Isle of Wight. The protest highlights growing concerns about environmental impact and sustainable development. The event underscores the importance of public engagement in shaping policy.",
-          "whyItMatters": "Public involvement in environmental policy is crucial for ensuring sustainable development and addressing climate change.",
+          "title": "Rare Beetle Reappears in Wales",
+          "body": "A rare beetle species, *Lepidoptera* spp., was discovered in Wales after a 60-year absence. The find highlights the importance of biodiversity and conservation efforts in maintaining ecological balance.",
+          "whyItMatters": "The discovery underscores the need for continued ecological monitoring and conservation strategies to protect unique species.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm"
             }
           ]
         },
         {
-          "title": "Mysterious Wall Rewrites North Africa’s History",
-          "body": "A 4,000-year-old wall in North Africa has been discovered, offering new insights into the region's ancient history. The wall, found in the Sahara, suggests complex trade networks and cultural exchanges that shaped the area's development. This discovery challenges previous assumptions about the region's history and highlights the importance of archaeological research.",
-          "whyItMatters": "Archaeological discoveries can reshape our understanding of historical events and cultural exchanges, providing valuable context for modern research and education.",
+          "title": "Scientists Discover Metals That Defy Deep Freeze",
+          "body": "Researchers have identified metals that can maintain their structural integrity at temperatures as low as -424°F (-240°C), potentially revolutionizing materials science and cryogenics research.",
+          "whyItMatters": "This breakthrough could lead to the development of new materials with unprecedented properties, impacting industries such as aerospace and energy.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -91,58 +87,43 @@
           ]
         },
         {
-          "title": "Scientists Discover Metals That Defy the Deep Freeze",
-          "body": "Scientists have discovered metals that remain solid at temperatures as low as -424°F (-240°C), defying the typical properties of matter. This breakthrough could have implications for materials science and space exploration, as such materials might be used in extreme environments. The discovery highlights the potential for scientific innovation in overcoming physical limitations.",
-          "whyItMatters": "Advancements in materials science can lead to innovations with practical applications, such as in space travel and extreme weather conditions.",
+          "title": "A Simple Blood Test Could Predict Alzheimer’s Risk",
+          "body": "A new blood test has been developed that can detect early signs of Alzheimer's disease up to 10 years before symptoms appear, offering a promising avenue for early intervention and treatment.",
+          "whyItMatters": "Early detection of Alzheimer's could lead to better management of the disease and improved quality of life for affected individuals.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261029072127.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm"
             },
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm"
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03553-7"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-31T20:07:00.097Z"
+      "updatedAt": "2026-10-31T23:29:50.446Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The economic landscape is shaped by both global market trends and localized events, with key developments in cryptocurrency, tech stocks, and inflation.",
+      "summary": "The lens covers economic developments, including inflation, tech stocks, crypto hacks, and US midterm politics.",
       "stories": [
         {
-          "title": "Cryptocurrency Platforms Vulnerable to Hack",
-          "body": "Al Jazeera reports that Binance, a major crypto exchange, is attempting to recover $6.3 billion stolen in a hack linked to North Korea. The incident highlights the growing risks faced by digital financial platforms, as cyberattacks continue to target global financial systems.",
-          "whyItMatters": "The incident underscores the increasing vulnerability of digital financial systems and the potential for large-scale financial losses.",
+          "title": "Dutch authorities rescue 38 people adrift in rubber boat",
+          "body": "Dutch authorities rescued 38 people from a rubber boat in the North Sea on October 31, 2026. The incident occurred in the early evening and was reported by Al Jazeera. The individuals were stranded due to a sudden storm, and the rescue operation was conducted by local maritime authorities.",
+          "whyItMatters": "This incident highlights the importance of maritime safety and the role of international cooperation in crisis response.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/31/dutch-authorities-rescue-38-people-adrift-in-rubber-boat?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "US Economy Grows Faster Than Expected but Inflation Rises",
-          "body": "The US economy grew faster than expected in the third quarter, but inflation rose to 3.7%, indicating a balance between economic growth and rising prices. This highlights the complexities of economic policy and the challenges of managing inflation.",
-          "whyItMatters": "The interplay between economic growth and inflation reflects the broader economic challenges faced by the US and other global economies.",
-          "sources": [
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/29/economy-growth-third-quarter"
-            }
-          ]
-        },
-        {
-          "title": "Tech Stocks Fall as AI Spending Approaches $1 Trillion",
-          "body": "The US tech sector faces a sharp decline, with stocks dropping after earnings reports. AI spending is nearing $1 trillion, raising concerns about the sustainability of tech investments and the impact on market performance.",
-          "whyItMatters": "The tech sector's performance reflects broader economic and technological trends, influencing investor confidence and market behavior.",
+          "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+          "body": "US tech stocks fell sharply on October 31, 2026, as AI spending approached $1 trillion. The decline was attributed to weak earnings reports and investor concerns over the long-term viability of AI-driven technologies. The decline was reported by BBC Business and The Guardian Business.",
+          "whyItMatters": "The tech sector's performance reflects broader economic and technological trends, influencing investment and innovation strategies.",
           "sources": [
             {
               "name": "BBC Business",
@@ -153,10 +134,21 @@
               "url": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report"
             }
           ]
+        },
+        {
+          "title": "US economy grows faster than expected but inflation rises to 3.7%",
+          "body": "The US economy grew faster than expected in the third quarter of 2026, according to The Guardian Business. However, inflation rose to 3.7%, indicating a balance between economic growth and rising costs. The report was published on October 29, 2026, and attributed the growth to increased consumer spending and business investment.",
+          "whyItMatters": "Economic growth and inflation are critical factors for understanding macroeconomic trends and policy decisions.",
+          "sources": [
+            {
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/oct/29/economy-growth-third-quarter"
+            }
+          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-31T20:07:00.097Z"
+      "updatedAt": "2026-10-31T23:29:50.446Z"
     }
   }
 }
