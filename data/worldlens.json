@@ -1,76 +1,84 @@
 {
-  "generatedAt": "2026-11-01T15:18:23.118Z",
+  "generatedAt": "2026-11-01T20:37:22.489Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers developments in geopolitics, including protests, elections, and international relations.",
+      "summary": "Today's lens covers a range of global events, including political tensions, humanitarian crises, and international relations.",
       "stories": [
         {
-          "title": "India's Opposition Rally Against Election Chief",
-          "body": "Thousands of Indians joined a rally in support of the opposition, calling for the resignation of the election chief. The event highlights growing political tensions and public dissent in India.",
-          "whyItMatters": "Public sentiment and political dissent can influence election outcomes and policy decisions.",
+          "title": "Police clash with housing crisis protesters in Portugal",
+          "body": "In Portugal, police clashed with protesters demanding action on the housing crisis, highlighting tensions between government and citizens over economic instability. The incident reflects broader concerns about social unrest and governance in the region.",
+          "whyItMatters": "The clash underscores the impact of economic hardship on public safety and governance in developing nations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/gallery/2026/11/1/photos-indian-opposition-rallies-against-elections-chief?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss"
             },
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Israel's Election and Potential Government Formation",
-          "body": "The Israeli election is underway, with the outcome affecting the country's political landscape. The election is critical for determining the government's direction and policies.",
-          "whyItMatters": "Election outcomes can shape national policies and international relations, especially in a volatile region.",
+          "title": "UK's stance on slavery reparations and Commonwealth summit agenda",
+          "body": "The UK expressed skepticism about the inclusion of slavery reparations on the Commonwealth summit agenda, emphasizing the need for a more nuanced approach to historical injustices. This reflects ongoing debates about historical accountability and international cooperation.",
+          "whyItMatters": "The UK's position highlights the complexity of addressing historical injustices and the role of international institutions in shaping policy.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it?traffic_source=rss"
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda"
+            },
+            {
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg"
             }
           ]
         },
         {
-          "title": "Binance's Response to $6.3bn Hack",
-          "body": "Crypto firm Binance has covered 90% of its losses following a $6.3bn hack. This event highlights the vulnerabilities in the cryptocurrency sector and the importance of security measures.",
-          "whyItMatters": "Cybersecurity and financial stability are critical for global financial systems and investor confidence.",
+          "title": "Russian strikes disrupt power in Ukraine",
+          "body": "Russian strikes disrupted power to thousands in Ukraine, with the Kherson ceasefire set to end. The conflict continues to impact regional stability and energy supplies, raising concerns about ongoing military and humanitarian challenges.",
+          "whyItMatters": "The disruption of power and the potential end of the ceasefire highlight the ongoing military and humanitarian tensions in the region.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-01T15:18:23.118Z"
+      "updatedAt": "2026-11-01T20:37:22.489Z"
     },
     "science": {
       "kicker": "Science & Nature",
-      "summary": "Today's lens covers scientific advancements, environmental issues, and cultural discoveries, highlighting both cutting-edge research and real-world impacts.",
+      "summary": "Today's lens covers breakthroughs in science, environmental issues, and cultural insights.",
       "stories": [
         {
-          "title": "Pesticide Linked to Parkinson’s Risk",
-          "body": "A study reveals that exposure to a common pesticide is associated with a 2.5 times higher risk of Parkinson’s disease. The findings raise concerns about environmental health and potential regulatory actions.",
-          "whyItMatters": "This highlights the importance of environmental safety and the need for stricter regulations on harmful chemicals.",
+          "title": "Rare Beetle Reappears in Wales",
+          "body": "A rare beetle species, *Lepidoptera* spp., was discovered in Wales after a 60-year absence, marking a significant ecological event. The find highlights the importance of biodiversity and conservation efforts in maintaining ecological balance.",
+          "whyItMatters": "The discovery underscores the role of conservation in preserving rare species and the interconnectedness of ecosystems.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm"
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261031011638.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261030003017.htm"
             }
           ]
         },
         {
-          "title": "Sound Waves Target Brain Cancer",
-          "body": "Scientists have developed a novel method using sound waves to attack deadly brain cancer cells. This non-invasive technique could revolutionize cancer treatment approaches.",
-          "whyItMatters": "This innovation could lead to more effective and less invasive cancer therapies, improving patient outcomes.",
+          "title": "New Attack on Brain Cancer Using Sound Waves",
+          "body": "Scientists have developed a novel method using sound waves to target and destroy aggressive brain cancer cells. This breakthrough could lead to more effective treatments and improved patient outcomes, offering hope for future cancer therapies.",
+          "whyItMatters": "This advancement may revolutionize cancer treatment by providing a non-invasive alternative to traditional therapies.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -78,14 +86,14 @@
             },
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261030003006.htm"
             }
           ]
         },
         {
-          "title": "Ancient Ape Fossil in Egypt",
-          "body": "A newly discovered fossil in Egypt may provide critical insights into human evolution, potentially challenging existing theories about the origins of our species.",
-          "whyItMatters": "This discovery could reshape our understanding of human evolution and the timeline of our species' development.",
+          "title": "Ancient Ape Fossil in Egypt Rewrites Human Origins",
+          "body": "A newly discovered fossil of an ancient ape in Egypt has sparked debate about human evolution. The find challenges existing theories and provides critical insights into the timeline and processes of human development.",
+          "whyItMatters": "This discovery could reshape our understanding of human evolution and the origins of our species.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -99,27 +107,27 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-01T15:18:23.118Z"
+      "updatedAt": "2026-11-01T20:37:22.489Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The lens covers recent developments in global economics, including political tensions, financial crises, and voter concerns.",
+      "summary": "Today's lens covers a mix of economic developments, including a housing crisis in Portugal, a crypto firm's losses, and political tensions in the US midterm elections.",
       "stories": [
         {
-          "title": "Israel election: When will government be formed, who will lead it?",
-          "body": "Israel's election results are still pending, with voters in the final sprint to midterms. The outcome will determine the next government, potentially reshaping regional politics and security dynamics.",
-          "whyItMatters": "The election outcome could impact Israel's political stability and its relationship with neighboring countries.",
+          "title": "Police clash with housing crisis protesters in Portugal",
+          "body": "In Portugal, police clashed with protesters during a demonstration against the housing crisis, highlighting growing social tensions and the impact of rising rents on low-income residents. The incident occurred amid a broader economic downturn, with many citizens facing financial strain due to stagnant wages and rising costs.",
+          "whyItMatters": "The housing crisis in Portugal underscores the vulnerability of low-income populations and the role of political instability in exacerbating economic hardship.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Binance crypto firm covers 90% of losses after $6.3bn hack",
-          "body": "Binance, a major cryptocurrency exchange, has covered 90% of its losses following a $6.3 billion hack attributed to North Korea. This highlights the growing risks in the crypto market and the potential for large-scale financial disruptions.",
-          "whyItMatters": "The hack underscores the vulnerabilities in global financial systems and the need for improved security measures in digital assets.",
+          "title": "Binance covers 90% of losses after $6.3bn crypto hack",
+          "body": "Crypto firm Binance announced it would cover 90% of the losses from a $6.3 billion hack, marking a significant recovery effort following the breach. The incident raised concerns about cybersecurity and the stability of the cryptocurrency market, with analysts warning of potential ripple effects on global finance.",
+          "whyItMatters": "Binance's response to the hack highlights the risks of digital finance and the need for robust security measures in the rapidly evolving crypto space.",
           "sources": [
             {
               "name": "BBC Business",
@@ -132,19 +140,23 @@
           ]
         },
         {
-          "title": "US-China trade war seems to have subsided – but the sense of calm is misleading",
-          "body": "The US-China trade war appears to have eased, but concerns about economic competition and trade imbalances persist. This development could influence global trade policies and investor confidence.",
-          "whyItMatters": "The trade war's resolution may affect global economic cooperation and the balance of power between major economies.",
+          "title": "US-China trade war subsides but concerns remain",
+          "body": "The US-China trade war appears to have subsided, but the Guardian reported that the sense of calm is misleading, with ongoing tensions over technology and trade policies. The situation reflects broader geopolitical complexities and the challenges of achieving economic cooperation in a fragmented global landscape.",
+          "whyItMatters": "The US-China trade war underscores the difficulty of achieving economic cooperation in a fragmented global landscape, with implications for trade, technology, and investment.",
           "sources": [
             {
               "name": "The Guardian Business",
               "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi"
+            },
+            {
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/us-news/2026/nov/01/affordability-voters-final-sprint-midterms"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-01T15:18:23.118Z"
+      "updatedAt": "2026-11-01T20:37:22.489Z"
     }
   }
 }
