@@ -1,154 +1,150 @@
 {
-  "generatedAt": "2026-11-01T06:25:45.918Z",
+  "generatedAt": "2026-11-01T15:18:23.118Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of regional conflicts, political protests, climate events, and international alliances, highlighting the complex interplay of global issues.",
+      "summary": "Today's lens covers developments in geopolitics, including protests, elections, and international relations.",
       "stories": [
         {
-          "title": "India's toxic marble dump becomes tourist attraction",
-          "body": "In India, a hazardous marble dump site, once a source of environmental pollution, has transformed into a tourist destination, drawing visitors interested in its unique landscape. The site, located in the state of Tamil Nadu, has become a symbol of environmental neglect and tourism, raising concerns about the long-term impact on local communities and ecosystems.",
-          "whyItMatters": "The shift from environmental hazard to tourist attraction highlights the tension between economic development and environmental sustainability.",
+          "title": "India's Opposition Rally Against Election Chief",
+          "body": "Thousands of Indians joined a rally in support of the opposition, calling for the resignation of the election chief. The event highlights growing political tensions and public dissent in India.",
+          "whyItMatters": "Public sentiment and political dissent can influence election outcomes and policy decisions.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/1/like-kashmir-how-a-toxic-marble-dump-yard-became-a-tourist-spot-in-india?traffic_source=rss"
+              "url": "https://www.aljazeera.com/gallery/2026/11/1/photos-indian-opposition-rallies-against-elections-chief?traffic_source=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "France's protests escalate into violent clashes",
-          "body": "In France, protests against the government's policies have escalated into violent clashes between demonstrators and police, with tear gas being used. The situation reflects broader tensions between civil society and state authority, and the potential for further unrest if the situation remains unresolved.",
-          "whyItMatters": "The escalation of protests underscores the challenges of maintaining public order in politically charged environments.",
+          "title": "Israel's Election and Potential Government Formation",
+          "body": "The Israeli election is underway, with the outcome affecting the country's political landscape. The election is critical for determining the government's direction and policies.",
+          "whyItMatters": "Election outcomes can shape national policies and international relations, especially in a volatile region.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/france-protests-teargas-police-clashes?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Bolivia declares state of emergency over El Niño",
-          "body": "Bolivia has declared a state of emergency in response to the severe impact of the El Niño weather pattern, which has caused widespread flooding, crop failures, and displacement of communities. The government is working to mitigate the effects of the climate crisis and support affected populations.",
-          "whyItMatters": "The declaration of a state of emergency highlights the growing urgency of climate change and its impact on vulnerable regions.",
+          "title": "Binance's Response to $6.3bn Hack",
+          "body": "Crypto firm Binance has covered 90% of its losses following a $6.3bn hack. This event highlights the vulnerabilities in the cryptocurrency sector and the importance of security measures.",
+          "whyItMatters": "Cybersecurity and financial stability are critical for global financial systems and investor confidence.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/1/bolivia-declares-state-of-emergency-over-el-nino-weather-pattern?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-01T06:25:45.918Z"
+      "updatedAt": "2026-11-01T15:18:23.118Z"
     },
     "science": {
-      "kicker": "Global Science Highlights",
-      "summary": "Today's lens covers scientific discoveries, environmental news, and cultural insights from around the world.",
+      "kicker": "Science & Nature",
+      "summary": "Today's lens covers scientific advancements, environmental issues, and cultural discoveries, highlighting both cutting-edge research and real-world impacts.",
       "stories": [
         {
-          "title": "New particle discovery could explain the universe's existence",
-          "body": "Scientists have identified a forgotten particle that may provide an explanation for why the universe exists. The discovery, made using advanced particle physics experiments, could lead to a new understanding of fundamental physics and the origins of the cosmos.",
-          "whyItMatters": "This discovery could shift the foundations of modern physics and inspire future research into the nature of existence.",
+          "title": "Pesticide Linked to Parkinson’s Risk",
+          "body": "A study reveals that exposure to a common pesticide is associated with a 2.5 times higher risk of Parkinson’s disease. The findings raise concerns about environmental health and potential regulatory actions.",
+          "whyItMatters": "This highlights the importance of environmental safety and the need for stricter regulations on harmful chemicals.",
           "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261031011638.htm"
+            }
+          ]
+        },
+        {
+          "title": "Sound Waves Target Brain Cancer",
+          "body": "Scientists have developed a novel method using sound waves to attack deadly brain cancer cells. This non-invasive technique could revolutionize cancer treatment approaches.",
+          "whyItMatters": "This innovation could lead to more effective and less invasive cancer therapies, improving patient outcomes.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261030003017.htm"
+            },
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Trees use hidden muscles to straighten themselves",
-          "body": "Researchers have discovered that trees use specialized structures, known as 'muscles,' to bend and straighten themselves, helping them adapt to environmental changes. This finding could improve our understanding of plant biology and ecological resilience.",
-          "whyItMatters": "This discovery may help scientists develop better strategies for protecting and managing ecosystems in the face of climate change.",
+          "title": "Ancient Ape Fossil in Egypt",
+          "body": "A newly discovered fossil in Egypt may provide critical insights into human evolution, potentially challenging existing theories about the origins of our species.",
+          "whyItMatters": "This discovery could reshape our understanding of human evolution and the timeline of our species' development.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261030003006.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261031011638.htm"
             },
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Rare beetle found in Wales after 60 years",
-          "body": "A rare beetle species, which had been absent from Wales for 60 years, was discovered in the wild. This finding highlights the importance of conservation efforts and the role of biodiversity in maintaining ecological balance.",
-          "whyItMatters": "This discovery underscores the value of preserving natural habitats and the potential for new species to be found in previously unknown regions.",
-          "sources": [
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-01T06:25:45.918Z"
+      "updatedAt": "2026-11-01T15:18:23.118Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including a US economy growth and inflation, a crypto hack, and a tech sell-off.",
+      "summary": "The lens covers recent developments in global economics, including political tensions, financial crises, and voter concerns.",
       "stories": [
         {
-          "title": "Canelo Alvarez reclaims WBC title",
-          "body": "Canelo Alvarez defeated Christian Mbilli in Riyadh to reclaim the WBC title, marking a significant moment in boxing. The victory highlights the competitive nature of professional sports and the global reach of boxing events.",
-          "whyItMatters": "This victory underscores the importance of international sports events and their impact on global audiences.",
+          "title": "Israel election: When will government be formed, who will lead it?",
+          "body": "Israel's election results are still pending, with voters in the final sprint to midterms. The outcome will determine the next government, potentially reshaping regional politics and security dynamics.",
+          "whyItMatters": "The election outcome could impact Israel's political stability and its relationship with neighboring countries.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/11/1/canelo-alvarez-defeats-christian-mbilli-to-reclaim-wbc-title-in-riyadh?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/1/like-kashmir-how-a-toxic-marble-dump-yard-became-a-tourist-spot-in-india?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "US economy grows but inflation rises",
-          "body": "The US economy grew faster than expected in the third quarter, but inflation rose to 3.7%, indicating a balance between economic growth and rising costs. This highlights the complexities of economic policy and the challenges of managing inflation.",
-          "whyItMatters": "This development reflects the delicate balance between economic growth and inflation, a key concern for policymakers and students of economics.",
-          "sources": [
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/29/economy-growth-third-quarter"
-            }
-          ]
-        },
-        {
-          "title": "Binance faces $6.3bn crypto hack",
-          "body": "Binance, a major cryptocurrency exchange, is attempting to recover $6.3bn stolen in a hack linked to North Korea. The incident highlights the growing risks in the cryptocurrency market and the need for robust security measures.",
-          "whyItMatters": "This hack underscores the vulnerabilities in digital finance and the importance of cybersecurity in the global economy.",
+          "title": "Binance crypto firm covers 90% of losses after $6.3bn hack",
+          "body": "Binance, a major cryptocurrency exchange, has covered 90% of its losses following a $6.3 billion hack attributed to North Korea. This highlights the growing risks in the crypto market and the potential for large-scale financial disruptions.",
+          "whyItMatters": "The hack underscores the vulnerabilities in global financial systems and the need for improved security measures in digital assets.",
           "sources": [
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "The Guardian Business",
               "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"
-            },
+            }
+          ]
+        },
+        {
+          "title": "US-China trade war seems to have subsided – but the sense of calm is misleading",
+          "body": "The US-China trade war appears to have eased, but concerns about economic competition and trade imbalances persist. This development could influence global trade policies and investor confidence.",
+          "whyItMatters": "The trade war's resolution may affect global economic cooperation and the balance of power between major economies.",
+          "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-01T06:25:45.918Z"
+      "updatedAt": "2026-11-01T15:18:23.118Z"
     }
   }
 }
