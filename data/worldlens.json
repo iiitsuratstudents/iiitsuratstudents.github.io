@@ -1,154 +1,154 @@
 {
-  "generatedAt": "2026-10-31T23:29:50.446Z",
+  "generatedAt": "2026-11-01T06:25:45.918Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of international events, including humanitarian crises, political developments, and regional conflicts, highlighting the complex interplay of global dynamics.",
+      "summary": "Today's lens covers a mix of regional conflicts, political protests, climate events, and international alliances, highlighting the complex interplay of global issues.",
       "stories": [
         {
-          "title": "Dutch rescue of 38 people in rubber boat",
-          "body": "Dutch authorities rescued 38 people who were adrift in a rubber boat in the North Sea on October 31, 2026. The incident highlights the challenges faced by individuals in distress at sea and the role of maritime rescue operations in ensuring safety.",
-          "whyItMatters": "The event underscores the importance of international cooperation in maritime emergencies and the potential for such incidents to affect regional stability.",
+          "title": "India's toxic marble dump becomes tourist attraction",
+          "body": "In India, a hazardous marble dump site, once a source of environmental pollution, has transformed into a tourist destination, drawing visitors interested in its unique landscape. The site, located in the state of Tamil Nadu, has become a symbol of environmental neglect and tourism, raising concerns about the long-term impact on local communities and ecosystems.",
+          "whyItMatters": "The shift from environmental hazard to tourist attraction highlights the tension between economic development and environmental sustainability.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/31/dutch-authorities-rescue-38-people-adrift-in-rubber-boat?traffic_source=rss"
-            },
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/1/like-kashmir-how-a-toxic-marble-dump-yard-became-a-tourist-spot-in-india?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Trump loses legal battle over Epstein-linked Wall Street Journal case",
-          "body": "U.S. President Donald Trump lost a legal battle over allegations that he had links to the Epstein-linked Wall Street Journal. The case raised questions about Trump's legal standing and the potential for political fallout from such claims.",
-          "whyItMatters": "The outcome of this legal battle could influence public perception of Trump's political career and the broader implications for legal accountability in high-profile cases.",
+          "title": "France's protests escalate into violent clashes",
+          "body": "In France, protests against the government's policies have escalated into violent clashes between demonstrators and police, with tear gas being used. The situation reflects broader tensions between civil society and state authority, and the potential for further unrest if the situation remains unresolved.",
+          "whyItMatters": "The escalation of protests underscores the challenges of maintaining public order in politically charged environments.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/31/trump-loses-legal-battle-over-epstein-linked-wall-street-journal-case?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/france-protests-teargas-police-clashes?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Ebola outbreak in DR Congo and health probe in Nigeria",
-          "body": "Health authorities in DR Congo are investigating the deadliest Ebola outbreak in its history, with over 5,000 deaths reported. In northeast Nigeria, health officials are probing two suspected Ebola cases, raising concerns about the spread of the virus and the need for global health preparedness.",
-          "whyItMatters": "These outbreaks highlight the ongoing risks of infectious diseases and the importance of international collaboration in managing public health crises.",
+          "title": "Bolivia declares state of emergency over El Niño",
+          "body": "Bolivia has declared a state of emergency in response to the severe impact of the El Niño weather pattern, which has caused widespread flooding, crop failures, and displacement of communities. The government is working to mitigate the effects of the climate crisis and support affected populations.",
+          "whyItMatters": "The declaration of a state of emergency highlights the growing urgency of climate change and its impact on vulnerable regions.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss"
-            },
-            {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/1/bolivia-declares-state-of-emergency-over-el-nino-weather-pattern?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-31T23:29:50.446Z"
+      "updatedAt": "2026-11-01T06:25:45.918Z"
     },
     "science": {
-      "kicker": "Science & Nature",
+      "kicker": "Global Science Highlights",
       "summary": "Today's lens covers scientific discoveries, environmental news, and cultural insights from around the world.",
       "stories": [
         {
-          "title": "Rare Beetle Reappears in Wales",
-          "body": "A rare beetle species, *Lepidoptera* spp., was discovered in Wales after a 60-year absence. The find highlights the importance of biodiversity and conservation efforts in maintaining ecological balance.",
-          "whyItMatters": "The discovery underscores the need for continued ecological monitoring and conservation strategies to protect unique species.",
+          "title": "New particle discovery could explain the universe's existence",
+          "body": "Scientists have identified a forgotten particle that may provide an explanation for why the universe exists. The discovery, made using advanced particle physics experiments, could lead to a new understanding of fundamental physics and the origins of the cosmos.",
+          "whyItMatters": "This discovery could shift the foundations of modern physics and inspire future research into the nature of existence.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Trees use hidden muscles to straighten themselves",
+          "body": "Researchers have discovered that trees use specialized structures, known as 'muscles,' to bend and straighten themselves, helping them adapt to environmental changes. This finding could improve our understanding of plant biology and ecological resilience.",
+          "whyItMatters": "This discovery may help scientists develop better strategies for protecting and managing ecosystems in the face of climate change.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261030003006.htm"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Rare beetle found in Wales after 60 years",
+          "body": "A rare beetle species, which had been absent from Wales for 60 years, was discovered in the wild. This finding highlights the importance of conservation efforts and the role of biodiversity in maintaining ecological balance.",
+          "whyItMatters": "This discovery underscores the value of preserving natural habitats and the potential for new species to be found in previously unknown regions.",
           "sources": [
             {
               "name": "BBC Science",
               "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm"
-            }
-          ]
-        },
-        {
-          "title": "Scientists Discover Metals That Defy Deep Freeze",
-          "body": "Researchers have identified metals that can maintain their structural integrity at temperatures as low as -424°F (-240°C), potentially revolutionizing materials science and cryogenics research.",
-          "whyItMatters": "This breakthrough could lead to the development of new materials with unprecedented properties, impacting industries such as aerospace and energy.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261029072127.htm"
-            }
-          ]
-        },
-        {
-          "title": "A Simple Blood Test Could Predict Alzheimer’s Risk",
-          "body": "A new blood test has been developed that can detect early signs of Alzheimer's disease up to 10 years before symptoms appear, offering a promising avenue for early intervention and treatment.",
-          "whyItMatters": "Early detection of Alzheimer's could lead to better management of the disease and improved quality of life for affected individuals.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm"
-            },
-            {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/d41586-026-03553-7"
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-31T23:29:50.446Z"
+      "updatedAt": "2026-11-01T06:25:45.918Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The lens covers economic developments, including inflation, tech stocks, crypto hacks, and US midterm politics.",
+      "summary": "Today's lens covers economic developments, including a US economy growth and inflation, a crypto hack, and a tech sell-off.",
       "stories": [
         {
-          "title": "Dutch authorities rescue 38 people adrift in rubber boat",
-          "body": "Dutch authorities rescued 38 people from a rubber boat in the North Sea on October 31, 2026. The incident occurred in the early evening and was reported by Al Jazeera. The individuals were stranded due to a sudden storm, and the rescue operation was conducted by local maritime authorities.",
-          "whyItMatters": "This incident highlights the importance of maritime safety and the role of international cooperation in crisis response.",
+          "title": "Canelo Alvarez reclaims WBC title",
+          "body": "Canelo Alvarez defeated Christian Mbilli in Riyadh to reclaim the WBC title, marking a significant moment in boxing. The victory highlights the competitive nature of professional sports and the global reach of boxing events.",
+          "whyItMatters": "This victory underscores the importance of international sports events and their impact on global audiences.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/10/31/dutch-authorities-rescue-38-people-adrift-in-rubber-boat?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-          "body": "US tech stocks fell sharply on October 31, 2026, as AI spending approached $1 trillion. The decline was attributed to weak earnings reports and investor concerns over the long-term viability of AI-driven technologies. The decline was reported by BBC Business and The Guardian Business.",
-          "whyItMatters": "The tech sector's performance reflects broader economic and technological trends, influencing investment and innovation strategies.",
-          "sources": [
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.aljazeera.com/sports/2026/11/1/canelo-alvarez-defeats-christian-mbilli-to-reclaim-wbc-title-in-riyadh?traffic_source=rss"
             },
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/1/like-kashmir-how-a-toxic-marble-dump-yard-became-a-tourist-spot-in-india?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "US economy grows faster than expected but inflation rises to 3.7%",
-          "body": "The US economy grew faster than expected in the third quarter of 2026, according to The Guardian Business. However, inflation rose to 3.7%, indicating a balance between economic growth and rising costs. The report was published on October 29, 2026, and attributed the growth to increased consumer spending and business investment.",
-          "whyItMatters": "Economic growth and inflation are critical factors for understanding macroeconomic trends and policy decisions.",
+          "title": "US economy grows but inflation rises",
+          "body": "The US economy grew faster than expected in the third quarter, but inflation rose to 3.7%, indicating a balance between economic growth and rising costs. This highlights the complexities of economic policy and the challenges of managing inflation.",
+          "whyItMatters": "This development reflects the delicate balance between economic growth and inflation, a key concern for policymakers and students of economics.",
           "sources": [
             {
               "name": "The Guardian Business",
               "url": "https://www.theguardian.com/business/2026/oct/29/economy-growth-third-quarter"
             }
           ]
+        },
+        {
+          "title": "Binance faces $6.3bn crypto hack",
+          "body": "Binance, a major cryptocurrency exchange, is attempting to recover $6.3bn stolen in a hack linked to North Korea. The incident highlights the growing risks in the cryptocurrency market and the need for robust security measures.",
+          "whyItMatters": "This hack underscores the vulnerabilities in digital finance and the importance of cybersecurity in the global economy.",
+          "sources": [
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-10-31T23:29:50.446Z"
+      "updatedAt": "2026-11-01T06:25:45.918Z"
     }
   }
 }
