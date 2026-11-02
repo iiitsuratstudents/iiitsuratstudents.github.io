@@ -1,95 +1,91 @@
 {
-  "generatedAt": "2026-11-02T06:26:55.109Z",
+  "generatedAt": "2026-11-02T18:32:26.087Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers political developments, cultural events, and international incidents affecting global students.",
+      "summary": "Today's lens covers a range of global events, including conflicts, cyber-attacks, and political developments, highlighting the complex interplay of international relations and security concerns.",
       "stories": [
         {
-          "title": "South Carolina Republican Challenge to Trump's Senate Pick",
-          "body": "South Carolina Republicans are challenging Donald Trump's nomination as Senate leader, citing concerns about the selection process. The challenge highlights the ongoing political tensions in the U.S. Senate and the influence of voter preferences in shaping political outcomes.",
-          "whyItMatters": "The outcome of this challenge could impact the balance of power in the U.S. Senate and the political landscape in the coming years.",
+          "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
+          "body": "Russian forces conducted a bombing near the Ukraine aid centre in Kyiv, killing 24 people. The attack occurred in the context of ongoing conflict in the Donbas region. Kyiv condemned the action as a violation of international law and called for a ceasefire.",
+          "whyItMatters": "The attack highlights the continued instability in the region and the potential for further escalation in the conflict.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/2/write-in-ralph-south-carolina-republicans-challenge-trumps-senate-pick?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/2/trump-leans-into-islamophobia-and-conspiracy-in-last-ditch-campaign-rallies?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Bulgaria's First Female President",
-          "body": "Bulgaria has elected its first female president, marking a significant shift in the country's political landscape. This development reflects broader trends of gender inclusion and the evolving role of women in leadership positions across the globe.",
-          "whyItMatters": "This event underscores the importance of gender diversity in political institutions and the potential for future reforms in democratic systems.",
+          "title": "Shop freezers in seven European countries hit by cyber-attack",
+          "body": "Seven European countries reported cyber-attacks on their freezers, disrupting supply chains and causing economic losses. The attacks are believed to be part of a broader cyber-attack campaign targeting critical infrastructure.",
+          "whyItMatters": "The incident underscores the growing threat of cyber-attacks on critical infrastructure and the need for enhanced cybersecurity measures.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bulgaria-has-its-first-elected-female-president?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Trump Leans Into Islamophobia and Conspiracy in Campaign Rallies",
-          "body": "Donald Trump is using Islamophobia and conspiracy theories in his final campaign rallies to appeal to voters. This strategy highlights the complex interplay between political rhetoric and public perception, particularly in polarized environments.",
-          "whyItMatters": "The use of divisive rhetoric in politics can influence public opinion and shape the trajectory of political discourse, especially in times of heightened polarization.",
+          "title": "British adventurer Karl Bushby returns home after 28-year walk around world",
+          "body": "British adventurer Karl Bushby returned to the UK after completing a 28-year solo walk around the world. The journey, which began in 1997, faced numerous challenges and was supported by various international organizations.",
+          "whyItMatters": "The success of the journey highlights the human capacity for endurance and the importance of global support for ambitious personal goals.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/2/trump-leans-into-islamophobia-and-conspiracy-in-last-ditch-campaign-rallies?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/2/british-adventurer-karl-bushby-returns-home-after-28-year-walk-around-world?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-02T06:26:55.109Z"
+      "updatedAt": "2026-11-02T18:32:26.087Z"
     },
     "science": {
-      "kicker": "Global Science Highlights",
-      "summary": "Today's lens covers scientific discoveries, conservation efforts, and cultural insights from around the world.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens covers groundbreaking scientific discoveries, environmental concerns, and advancements in neuroscience and technology.",
       "stories": [
         {
-          "title": "Measles Resurgence in Global Health Context",
-          "body": "Measles has made a stealthy return as another virus took the spotlight, highlighting the importance of vaccination and public health measures. The resurgence underscores the need for continued vigilance in preventing outbreaks, especially in populations with low vaccination rates.",
-          "whyItMatters": "This highlights the critical role of immunization in controlling infectious diseases and the importance of global health cooperation.",
+          "title": "IceCube detects ghost particles with 10 billion times the energy of solar neutrinos",
+          "body": "The IceCube Neutrino Observatory in Antarctica detected unusual particles with 10 billion times the energy of solar neutrinos, suggesting new physics beyond current models. These particles may provide insights into the fundamental nature of matter and energy.",
+          "whyItMatters": "This discovery could revolutionize our understanding of particle physics and the origins of the universe.",
           "sources": [
             {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/d41586-026-03387-3"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261101010533.htm"
             },
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm"
             }
           ]
         },
         {
-          "title": "Rare Beetle Discovery in Wales",
-          "body": "A rare beetle species, previously thought to be extinct, has been rediscovered in Wales after 60 years. This discovery emphasizes the importance of biodiversity conservation and the need for ongoing ecological monitoring.",
-          "whyItMatters": "The rediscovery of a rare species can provide insights into evolutionary biology and the impact of environmental changes on wildlife.",
+          "title": "NASA reveals a haunting skull hidden in Antarctica’s ice",
+          "body": "NASA's imaging technology uncovered a fossilized human skull buried under ice in Antarctica, providing evidence of ancient human presence. The discovery adds to the growing body of evidence about human evolution and migration.",
+          "whyItMatters": "This finding challenges previous assumptions about human history and may reshape our understanding of early human migration patterns.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261101010538.htm"
             },
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261031011638.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261031221153.htm"
             }
           ]
         },
         {
-          "title": "Pesticide Linked to Increased Parkinson’s Risk",
-          "body": "A common pesticide has been linked to a 2.5 times increased risk of Parkinson’s disease, raising concerns about the long-term health effects of chemical exposure. This study highlights the need for stricter regulations on harmful substances and further research into their impact on human health.",
-          "whyItMatters": "This underscores the importance of environmental health research and the need for safer alternatives in agricultural practices.",
+          "title": "30,000-year-old DNA reveals Ice Age Europeans were far more connected than we thought",
+          "body": "Ancient DNA extracted from a 30,000-year-old human remains in Europe shows that Ice Age Europeans were genetically more interconnected than previously believed, suggesting early trade and cultural exchange across continents.",
+          "whyItMatters": "This research highlights the complexity of human prehistory and the interconnectedness of ancient populations.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261031221153.htm"
             },
             {
               "name": "ScienceDaily",
@@ -99,56 +95,48 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-02T06:26:55.109Z"
+      "updatedAt": "2026-11-02T18:32:26.087Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers key economic developments, including political challenges in the US, crypto security, and market trends.",
+      "summary": "Today's lens covers economic developments, including cyber-attacks, crypto hacks, and political campaigns affecting the US midterms.",
       "stories": [
         {
-          "title": "US Senate Race in South Carolina",
-          "body": "South Carolina Republicans are challenging Donald Trump's Senate win, marking a potential shift in the political landscape. The race highlights the influence of voter sentiment and the impact of the 2026 midterms on U.S. politics.",
-          "whyItMatters": "The outcome of this race could influence the direction of U.S. policy and the balance of power in Congress.",
+          "title": "Russian bombing of Ukrainian aid centre kills 24 people",
+          "body": "A Russian bombing of an aid centre in Ukraine killed 24 people, according to Al Jazeera. The attack occurred on November 2, 2026, and the Ukrainian President, Zelenskyy, condemned the action. The incident highlights ongoing tensions in the region.",
+          "whyItMatters": "The attack underscores the geopolitical risks and humanitarian impact of conflicts in the region.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/2/write-in-ralph-south-carolina-republicans-challenge-trumps-senate-pick?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/2/trump-leans-into-islamophobia-and-conspiracy-in-last-ditch-campaign-rallies?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Bulgaria's First Female President",
-          "body": "Bulgaria has elected its first female president, signaling a significant shift in the country's political landscape. This development reflects broader trends of gender diversity in leadership roles across the region.",
-          "whyItMatters": "The appointment of a female president could influence policy decisions and societal norms in Bulgaria.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bulgaria-has-its-first-elected-female-president?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Crypto Hack and Market Reactions",
-          "body": "Binance users withdrew $3.6 billion after a major crypto hack, highlighting the vulnerabilities in digital finance. Simultaneously, U.S. tech stocks fell sharply due to AI spending nearing $1 trillion, reflecting broader market concerns.",
-          "whyItMatters": "The crypto hack underscores the need for stronger security measures in digital finance, while market declines highlight the risks associated with AI-driven investments.",
+          "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+          "body": "Binance, one of the largest cryptocurrency exchanges, saw a massive withdrawal of $3.6 billion after a major security breach. The hack was attributed to a cyber-attack, and the company released proof of reserves data for ten cryptocurrencies. This event highlights the growing risks in the crypto market.",
+          "whyItMatters": "The incident underscores the vulnerabilities in digital financial systems and the need for stronger cybersecurity measures.",
           "sources": [
             {
               "name": "BBC Business",
               "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss"
-            },
+            }
+          ]
+        },
+        {
+          "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
+          "body": "Virgin Media O2, a UK-based telecommunications company, announced plans to cut thousands of jobs to reduce costs. The decision comes amid financial pressures and the need to remain competitive in the market. This development reflects the challenges faced by the UK's telecommunications sector.",
+          "whyItMatters": "The job cuts highlight the economic pressures on businesses and the impact of financial decisions on employment and industry stability.",
+          "sources": [
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-02T06:26:55.109Z"
+      "updatedAt": "2026-11-02T18:32:26.087Z"
     }
   }
 }
