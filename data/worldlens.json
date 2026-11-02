@@ -1,69 +1,76 @@
 {
-  "generatedAt": "2026-11-01T20:37:22.489Z",
+  "generatedAt": "2026-11-02T06:26:55.109Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a range of global events, including political tensions, humanitarian crises, and international relations.",
+      "summary": "Today's lens covers political developments, cultural events, and international incidents affecting global students.",
       "stories": [
         {
-          "title": "Police clash with housing crisis protesters in Portugal",
-          "body": "In Portugal, police clashed with protesters demanding action on the housing crisis, highlighting tensions between government and citizens over economic instability. The incident reflects broader concerns about social unrest and governance in the region.",
-          "whyItMatters": "The clash underscores the impact of economic hardship on public safety and governance in developing nations.",
+          "title": "South Carolina Republican Challenge to Trump's Senate Pick",
+          "body": "South Carolina Republicans are challenging Donald Trump's nomination as Senate leader, citing concerns about the selection process. The challenge highlights the ongoing political tensions in the U.S. Senate and the influence of voter preferences in shaping political outcomes.",
+          "whyItMatters": "The outcome of this challenge could impact the balance of power in the U.S. Senate and the political landscape in the coming years.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/2/write-in-ralph-south-carolina-republicans-challenge-trumps-senate-pick?traffic_source=rss"
             },
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/2/trump-leans-into-islamophobia-and-conspiracy-in-last-ditch-campaign-rallies?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "UK's stance on slavery reparations and Commonwealth summit agenda",
-          "body": "The UK expressed skepticism about the inclusion of slavery reparations on the Commonwealth summit agenda, emphasizing the need for a more nuanced approach to historical injustices. This reflects ongoing debates about historical accountability and international cooperation.",
-          "whyItMatters": "The UK's position highlights the complexity of addressing historical injustices and the role of international institutions in shaping policy.",
+          "title": "Bulgaria's First Female President",
+          "body": "Bulgaria has elected its first female president, marking a significant shift in the country's political landscape. This development reflects broader trends of gender inclusion and the evolving role of women in leadership positions across the globe.",
+          "whyItMatters": "This event underscores the importance of gender diversity in political institutions and the potential for future reforms in democratic systems.",
           "sources": [
             {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda"
-            },
-            {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bulgaria-has-its-first-elected-female-president?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Russian strikes disrupt power in Ukraine",
-          "body": "Russian strikes disrupted power to thousands in Ukraine, with the Kherson ceasefire set to end. The conflict continues to impact regional stability and energy supplies, raising concerns about ongoing military and humanitarian challenges.",
-          "whyItMatters": "The disruption of power and the potential end of the ceasefire highlight the ongoing military and humanitarian tensions in the region.",
+          "title": "Trump Leans Into Islamophobia and Conspiracy in Campaign Rallies",
+          "body": "Donald Trump is using Islamophobia and conspiracy theories in his final campaign rallies to appeal to voters. This strategy highlights the complex interplay between political rhetoric and public perception, particularly in polarized environments.",
+          "whyItMatters": "The use of divisive rhetoric in politics can influence public opinion and shape the trajectory of political discourse, especially in times of heightened polarization.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/2/trump-leans-into-islamophobia-and-conspiracy-in-last-ditch-campaign-rallies?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-01T20:37:22.489Z"
+      "updatedAt": "2026-11-02T06:26:55.109Z"
     },
     "science": {
-      "kicker": "Science & Nature",
-      "summary": "Today's lens covers breakthroughs in science, environmental issues, and cultural insights.",
+      "kicker": "Global Science Highlights",
+      "summary": "Today's lens covers scientific discoveries, conservation efforts, and cultural insights from around the world.",
       "stories": [
         {
-          "title": "Rare Beetle Reappears in Wales",
-          "body": "A rare beetle species, *Lepidoptera* spp., was discovered in Wales after a 60-year absence, marking a significant ecological event. The find highlights the importance of biodiversity and conservation efforts in maintaining ecological balance.",
-          "whyItMatters": "The discovery underscores the role of conservation in preserving rare species and the interconnectedness of ecosystems.",
+          "title": "Measles Resurgence in Global Health Context",
+          "body": "Measles has made a stealthy return as another virus took the spotlight, highlighting the importance of vaccination and public health measures. The resurgence underscores the need for continued vigilance in preventing outbreaks, especially in populations with low vaccination rates.",
+          "whyItMatters": "This highlights the critical role of immunization in controlling infectious diseases and the importance of global health cooperation.",
+          "sources": [
+            {
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03387-3"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm"
+            }
+          ]
+        },
+        {
+          "title": "Rare Beetle Discovery in Wales",
+          "body": "A rare beetle species, previously thought to be extinct, has been rediscovered in Wales after 60 years. This discovery emphasizes the importance of biodiversity conservation and the need for ongoing ecological monitoring.",
+          "whyItMatters": "The rediscovery of a rare species can provide insights into evolutionary biology and the impact of environmental changes on wildlife.",
           "sources": [
             {
               "name": "BBC Science",
@@ -71,92 +78,77 @@
             },
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261030003017.htm"
-            }
-          ]
-        },
-        {
-          "title": "New Attack on Brain Cancer Using Sound Waves",
-          "body": "Scientists have developed a novel method using sound waves to target and destroy aggressive brain cancer cells. This breakthrough could lead to more effective treatments and improved patient outcomes, offering hope for future cancer therapies.",
-          "whyItMatters": "This advancement may revolutionize cancer treatment by providing a non-invasive alternative to traditional therapies.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261030003017.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261030003006.htm"
-            }
-          ]
-        },
-        {
-          "title": "Ancient Ape Fossil in Egypt Rewrites Human Origins",
-          "body": "A newly discovered fossil of an ancient ape in Egypt has sparked debate about human evolution. The find challenges existing theories and provides critical insights into the timeline and processes of human development.",
-          "whyItMatters": "This discovery could reshape our understanding of human evolution and the origins of our species.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/10/261031011638.htm"
+            }
+          ]
+        },
+        {
+          "title": "Pesticide Linked to Increased Parkinson’s Risk",
+          "body": "A common pesticide has been linked to a 2.5 times increased risk of Parkinson’s disease, raising concerns about the long-term health effects of chemical exposure. This study highlights the need for stricter regulations on harmful substances and further research into their impact on human health.",
+          "whyItMatters": "This underscores the importance of environmental health research and the need for safer alternatives in agricultural practices.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm"
             },
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-01T20:37:22.489Z"
+      "updatedAt": "2026-11-02T06:26:55.109Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including a housing crisis in Portugal, a crypto firm's losses, and political tensions in the US midterm elections.",
+      "summary": "Today's lens covers key economic developments, including political challenges in the US, crypto security, and market trends.",
       "stories": [
         {
-          "title": "Police clash with housing crisis protesters in Portugal",
-          "body": "In Portugal, police clashed with protesters during a demonstration against the housing crisis, highlighting growing social tensions and the impact of rising rents on low-income residents. The incident occurred amid a broader economic downturn, with many citizens facing financial strain due to stagnant wages and rising costs.",
-          "whyItMatters": "The housing crisis in Portugal underscores the vulnerability of low-income populations and the role of political instability in exacerbating economic hardship.",
+          "title": "US Senate Race in South Carolina",
+          "body": "South Carolina Republicans are challenging Donald Trump's Senate win, marking a potential shift in the political landscape. The race highlights the influence of voter sentiment and the impact of the 2026 midterms on U.S. politics.",
+          "whyItMatters": "The outcome of this race could influence the direction of U.S. policy and the balance of power in Congress.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/2/write-in-ralph-south-carolina-republicans-challenge-trumps-senate-pick?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/2/trump-leans-into-islamophobia-and-conspiracy-in-last-ditch-campaign-rallies?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Binance covers 90% of losses after $6.3bn crypto hack",
-          "body": "Crypto firm Binance announced it would cover 90% of the losses from a $6.3 billion hack, marking a significant recovery effort following the breach. The incident raised concerns about cybersecurity and the stability of the cryptocurrency market, with analysts warning of potential ripple effects on global finance.",
-          "whyItMatters": "Binance's response to the hack highlights the risks of digital finance and the need for robust security measures in the rapidly evolving crypto space.",
+          "title": "Bulgaria's First Female President",
+          "body": "Bulgaria has elected its first female president, signaling a significant shift in the country's political landscape. This development reflects broader trends of gender diversity in leadership roles across the region.",
+          "whyItMatters": "The appointment of a female president could influence policy decisions and societal norms in Bulgaria.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bulgaria-has-its-first-elected-female-president?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Crypto Hack and Market Reactions",
+          "body": "Binance users withdrew $3.6 billion after a major crypto hack, highlighting the vulnerabilities in digital finance. Simultaneously, U.S. tech stocks fell sharply due to AI spending nearing $1 trillion, reflecting broader market concerns.",
+          "whyItMatters": "The crypto hack underscores the need for stronger security measures in digital finance, while market declines highlight the risks associated with AI-driven investments.",
           "sources": [
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"
-            }
-          ]
-        },
-        {
-          "title": "US-China trade war subsides but concerns remain",
-          "body": "The US-China trade war appears to have subsided, but the Guardian reported that the sense of calm is misleading, with ongoing tensions over technology and trade policies. The situation reflects broader geopolitical complexities and the challenges of achieving economic cooperation in a fragmented global landscape.",
-          "whyItMatters": "The US-China trade war underscores the difficulty of achieving economic cooperation in a fragmented global landscape, with implications for trade, technology, and investment.",
-          "sources": [
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi"
-            },
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/us-news/2026/nov/01/affordability-voters-final-sprint-midterms"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-01T20:37:22.489Z"
+      "updatedAt": "2026-11-02T06:26:55.109Z"
     }
   }
 }
