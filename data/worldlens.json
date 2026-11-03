@@ -1,132 +1,136 @@
 {
-  "generatedAt": "2026-11-03T12:05:20.464Z",
+  "generatedAt": "2026-11-03T19:38:31.858Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers geopolitical developments, election dynamics, and scientific discoveries, highlighting the interplay between international relations, political elections, and scientific advancements.",
+      "summary": "Today's lens covers political developments, climate concerns, and international security issues affecting global students.",
       "stories": [
         {
-          "title": "US strikes Iranian island ahead of midterm elections",
-          "body": "The United States conducted defensive strikes against an Iranian island, raising concerns about regional stability and the potential impact on U.S. midterm elections. The action occurred as polls opened in the 2026 U.S. midterm elections, which are critical for shaping the political landscape.",
-          "whyItMatters": "The U.S. military action may influence voter sentiment and election outcomes, affecting domestic policy and international relations.",
+          "title": "US Senate Race in Michigan",
+          "body": "Michigan's US Senate race between Rogers and El-Sayed sees increased voter turnout as the election approaches. Both candidates are urging citizens to participate in the critical race, highlighting the importance of democratic engagement.",
+          "whyItMatters": "The outcome of this race could influence political dynamics in the Midwest and affect voter perceptions of democratic processes.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/us-conducts-series-of-defensive-strikes-against-iran?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Closely contested U.S. midterm elections 2026",
-          "body": "Polls in the 2026 U.S. midterm elections are open, with candidates in key states vying for support. The election is seen as a pivotal moment for U.S. politics, with candidates emphasizing their platforms and strategies to gain traction.",
-          "whyItMatters": "The outcome of the midterm elections could reshape the political landscape, influencing future legislation and national policies.",
+          "title": "Severe Weather Disrupts Election Day",
+          "body": "Severe weather conditions across several US states have disrupted election day, leading to delays and challenges in voter registration and ballot counting. The situation underscores the vulnerability of electoral processes to natural disasters.",
+          "whyItMatters": "Disruptions to election day can impact public trust in electoral systems and highlight the need for robust contingency plans.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/3/polls-open-in-closely-contested-us-midterm-elections-2026?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_severe-weather-disrupts-election-day-across-us-031126?traffic_source=rss"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/3/who-decides-the-us-midterms?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Russian bombing kills 29 at Ukraine aid centre",
-          "body": "A Russian bombing targeted an aid center in Kyiv, killing 29 people. The attack has intensified tensions in the ongoing conflict, with both sides claiming responsibility and raising concerns about the humanitarian impact.",
-          "whyItMatters": "The attack highlights the human cost of the conflict and the potential for further escalation, affecting international relations and humanitarian efforts.",
+          "title": "Yemen Government Accuses IRGC and Hezbollah",
+          "body": "The Yemeni government accuses the Iranian Revolutionary Guard Corps (IRGC) and Hezbollah of sending 21 experts to support the Houthis. This development raises questions about regional alliances and the impact of militant groups on political stability.",
+          "whyItMatters": "This incident reflects ongoing tensions in the Middle East and the role of non-state actors in shaping regional conflicts.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/3/greenland-parliament-approves-security-deal-with-us-denmark?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-03T12:05:20.464Z"
+      "updatedAt": "2026-11-03T19:38:31.858Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers advancements in science, environmental concerns, and research developments impacting academia and technology.",
+      "kicker": "ScienceDaily",
+      "summary": "Today's lens covers advances in neuroscience, environmental science, and technological innovations, with a focus on discoveries and their potential impacts.",
       "stories": [
         {
-          "title": "UK public sector unlikely to meet net zero plans by 2030",
-          "body": "Auditors have warned that the Welsh public sector may struggle to meet net zero targets by 2030, citing challenges in transitioning to sustainable practices. The report highlights the need for urgent action to reduce carbon emissions and adopt renewable energy sources.",
-          "whyItMatters": "The findings underscore the importance of policy and technological innovation in achieving climate goals.",
+          "title": "Brain’s hidden fear mechanism may explain anxiety and PTSD",
+          "body": "A study from ScienceDaily suggests that the brain's natural fear response may play a role in anxiety and post-traumatic stress disorder (PTSD). Researchers found that the amygdala, which is responsible for processing fear, may be more active in individuals with these conditions, indicating a potential link between normal fear responses and pathological anxiety.",
+          "whyItMatters": "Understanding this mechanism could lead to new treatments for anxiety and PTSD, offering insights into the brain's complex regulation of fear.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cwly4ejrr72mo?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261102202833.htm"
             }
           ]
         },
         {
-          "title": "New Alzheimer’s drug targets DNA damage and inflammation",
-          "body": "Scientists have identified a novel drug that repairs DNA damage and reduces brain inflammation, offering potential breakthroughs in treating Alzheimer’s disease. The discovery could lead to more effective therapies and improved patient outcomes.",
-          "whyItMatters": "This development highlights the importance of continued research in neurodegenerative diseases and the potential for new treatments.",
+          "title": "Scientists identify two overlooked skills that predict reading success",
+          "body": "A study published in ScienceDaily reveals that two previously unrecognized skills—visual scanning and working memory—can predict reading success. These skills are crucial for processing information efficiently and may help educators identify students who need additional support in reading.",
+          "whyItMatters": "Identifying these skills could inform educational strategies to improve reading outcomes and support learners with varying abilities.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261102075806.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261102202845.htm"
             }
           ]
         },
         {
-          "title": "IceCube detects particles with 10 billion times the energy of solar neutrinos",
-          "body": "The IceCube detector has detected particles with an energy level 10 billion times greater than solar neutrinos, providing new insights into high-energy particle physics and the nature of cosmic rays. This discovery could advance our understanding of fundamental physics and space exploration.",
-          "whyItMatters": "Such findings contribute to the broader scientific community's understanding of high-energy phenomena and their implications for astrophysics.",
+          "title": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
+          "body": "NASA's asteroid impact mission, Hera, has begun its journey to study the aftermath of the collision with an asteroid. The mission aims to gather data on the impact's effects, including how it altered the asteroid's trajectory and what changes occurred in the surrounding space environment.",
+          "whyItMatters": "Understanding asteroid impacts is critical for planetary defense and assessing the long-term effects of space debris on Earth's environment.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261101010533.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261103003154.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-03T12:05:20.464Z"
+      "updatedAt": "2026-11-03T19:38:31.858Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The economic landscape is shaped by multiple factors, including inflation, trade tensions, and consumer behavior, while political developments in the US and Iran continue to influence global markets.",
+      "summary": "The lens covers economic developments, including political races, climate actions, and business news, highlighting the interplay between politics, environment, and global markets.",
       "stories": [
         {
-          "title": "UK and EU agree to scrap Brexit red tape over food exports",
-          "body": "The UK and EU have reached a tentative agreement to remove Brexit-related trade barriers for food exports, signaling potential progress in post-Brexit trade relations. This move could ease supply chain disruptions and boost cross-border trade.",
-          "whyItMatters": "This agreement may reduce economic friction and enhance trade cooperation between the UK and EU, which are critical for regional economic stability.",
-          "sources": [
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
-          "body": "Iranian President Hassan Rouhani's visit to Qeshm Island, a key strategic location in the Persian Gulf, has raised concerns about potential military escalation. The visit is seen as a step toward de-escalation in the ongoing Iran-Israel conflict.",
-          "whyItMatters": "This development could influence regional security dynamics and impact global energy markets, particularly given the strategic importance of the Persian Gulf.",
+          "title": "US Senate race in Michigan",
+          "body": "Michigan's US Senate race sees candidates Rogers and El-Sayed urging voters to increase turnout for a critical race. The race is part of a broader political realignment in the Midwest, with voters facing tough decisions on economic policies and national issues.",
+          "whyItMatters": "The outcome of this race could influence the balance of power in the U.S. Senate and impact policy decisions on economic and social issues.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Oil price falls amid hope of a breakthrough to end Iran war",
-          "body": "Global oil prices have declined due to hopes of a breakthrough in the Iran war, driven by reduced military spending and improved energy markets. This could lead to lower fuel costs for consumers and businesses.",
-          "whyItMatters": "A drop in oil prices may alleviate economic pressures on households and businesses, but could also affect energy security and geopolitical stability in the region.",
+          "title": "Severe weather disrupts election day",
+          "body": "Severe weather conditions across several U.S. states disrupted election day, leading to delays and challenges in voter registration and ballot counting. The situation highlights the increasing complexity of managing elections in the face of natural disasters.",
+          "whyItMatters": "Disruptions to election day can affect voter turnout and the accuracy of election results, underscoring the need for robust contingency planning in electoral processes.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_severe-weather-disrupts-election-day-across-us-031126?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Oil price drops amid hope for Iran war end",
+          "body": "Oil prices fell as hopes for a breakthrough in the Iran war eased, reflecting market expectations of reduced geopolitical tensions. This development could impact global energy markets and economic forecasts for the coming year.",
+          "whyItMatters": "A decline in oil prices can influence energy costs and economic growth, affecting both domestic and international markets.",
           "sources": [
             {
               "name": "The Guardian Business",
@@ -136,7 +140,7 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-03T12:05:20.464Z"
+      "updatedAt": "2026-11-03T19:38:31.858Z"
     }
   }
 }
