@@ -1,142 +1,142 @@
 {
-  "generatedAt": "2026-11-02T18:32:26.087Z",
+  "generatedAt": "2026-11-03T02:28:19.970Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers a range of global events, including conflicts, cyber-attacks, and political developments, highlighting the complex interplay of international relations and security concerns.",
+      "kicker": "Global Affairs",
+      "summary": "Today's lens covers developments in geopolitics, humanitarian crises, and regional conflicts, highlighting the complex interplay of international relations and global challenges.",
       "stories": [
         {
-          "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
-          "body": "Russian forces conducted a bombing near the Ukraine aid centre in Kyiv, killing 24 people. The attack occurred in the context of ongoing conflict in the Donbas region. Kyiv condemned the action as a violation of international law and called for a ceasefire.",
-          "whyItMatters": "The attack highlights the continued instability in the region and the potential for further escalation in the conflict.",
+          "title": "US lawmakers ask Trump administration to stop deportation of Afghans",
+          "body": "US lawmakers have asked the Trump administration to halt the deportation of Afghan refugees, citing humanitarian concerns and the potential for further instability in the region. The request comes as the US continues to support the Afghan government and address the humanitarian crisis in Afghanistan.",
+          "whyItMatters": "The decision reflects the ongoing tension between national security policies and humanitarian obligations, highlighting the complexities of international refugee policies.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/3/us-lawmakers-ask-trump-administration-to-stop-deportation-of-afghans?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Russian bombing kills 26 people at Ukraine aid centre",
+          "body": "A Russian bombing targeted an aid centre in Kyiv, killing 26 people. The attack occurred amid heightened tensions in the region, with both sides engaging in military activities and diplomatic talks. The incident underscores the ongoing conflict and its impact on civilian populations.",
+          "whyItMatters": "The attack highlights the human cost of conflict and the challenges of maintaining humanitarian access in war-torn areas.",
           "sources": [
             {
               "name": "BBC World",
               "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Shop freezers in seven European countries hit by cyber-attack",
-          "body": "Seven European countries reported cyber-attacks on their freezers, disrupting supply chains and causing economic losses. The attacks are believed to be part of a broader cyber-attack campaign targeting critical infrastructure.",
-          "whyItMatters": "The incident underscores the growing threat of cyber-attacks on critical infrastructure and the need for enhanced cybersecurity measures.",
-          "sources": [
+            },
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "British adventurer Karl Bushby returns home after 28-year walk around world",
-          "body": "British adventurer Karl Bushby returned to the UK after completing a 28-year solo walk around the world. The journey, which began in 1997, faced numerous challenges and was supported by various international organizations.",
-          "whyItMatters": "The success of the journey highlights the human capacity for endurance and the importance of global support for ambitious personal goals.",
+          "title": "Ebola outbreak kills more than 5,300 people in DR Congo",
+          "body": "An Ebola outbreak in the Democratic Republic of Congo has claimed the lives of over 5,300 people, highlighting the ongoing public health crisis and the challenges of controlling the virus in affected regions. The outbreak has led to increased international attention and efforts to contain the spread of the disease.",
+          "whyItMatters": "The outbreak underscores the importance of global health cooperation and the need for rapid response to prevent further casualties and spread of the disease.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/2/british-adventurer-karl-bushby-returns-home-after-28-year-walk-around-world?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-02T18:32:26.087Z"
+      "updatedAt": "2026-11-03T02:28:19.970Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers groundbreaking scientific discoveries, environmental concerns, and advancements in neuroscience and technology.",
+      "summary": "Today's lens covers advancements in science, environmental concerns, and global research developments.",
       "stories": [
         {
-          "title": "IceCube detects ghost particles with 10 billion times the energy of solar neutrinos",
-          "body": "The IceCube Neutrino Observatory in Antarctica detected unusual particles with 10 billion times the energy of solar neutrinos, suggesting new physics beyond current models. These particles may provide insights into the fundamental nature of matter and energy.",
-          "whyItMatters": "This discovery could revolutionize our understanding of particle physics and the origins of the universe.",
+          "title": "New method to save hundreds from dumpster diving",
+          "body": "A BBC Science report highlights a novel approach to combat dumpster diving, where individuals are trained to identify and assist those in need. The initiative aims to reduce the risk of exposure to diseases and environmental hazards, emphasizing community support and public health.",
+          "whyItMatters": "This initiative underscores the importance of community-based solutions in addressing public health challenges.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Chinese PhD students can graduate without a thesis",
+          "body": "Nature reports that Chinese PhD students in clinical medicine can now graduate without submitting a thesis, reflecting a shift in academic standards and the growing emphasis on practical training over traditional research requirements.",
+          "whyItMatters": "This development may influence future academic pathways and research practices in medical education.",
+          "sources": [
+            {
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03480-7"
+            }
+          ]
+        },
+        {
+          "title": "IceCube detects ghost particles with unprecedented energy",
+          "body": "ScienceDaily reports that the IceCube detector has detected particles with 10 billion times the energy of solar neutrinos, offering new insights into fundamental physics and potential explanations for cosmic phenomena.",
+          "whyItMatters": "This discovery could lead to breakthroughs in understanding the universe's fundamental forces and energy sources.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/11/261101010533.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm"
-            }
-          ]
-        },
-        {
-          "title": "NASA reveals a haunting skull hidden in Antarctica’s ice",
-          "body": "NASA's imaging technology uncovered a fossilized human skull buried under ice in Antarctica, providing evidence of ancient human presence. The discovery adds to the growing body of evidence about human evolution and migration.",
-          "whyItMatters": "This finding challenges previous assumptions about human history and may reshape our understanding of early human migration patterns.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261101010538.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261031221153.htm"
-            }
-          ]
-        },
-        {
-          "title": "30,000-year-old DNA reveals Ice Age Europeans were far more connected than we thought",
-          "body": "Ancient DNA extracted from a 30,000-year-old human remains in Europe shows that Ice Age Europeans were genetically more interconnected than previously believed, suggesting early trade and cultural exchange across continents.",
-          "whyItMatters": "This research highlights the complexity of human prehistory and the interconnectedness of ancient populations.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261031221153.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-02T18:32:26.087Z"
+      "updatedAt": "2026-11-03T02:28:19.970Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including cyber-attacks, crypto hacks, and political campaigns affecting the US midterms.",
+      "summary": "Today's lens covers key economic developments, including US legislative actions, UK-EU trade agreements, cyber-attacks, oil prices, and US-China trade dynamics.",
       "stories": [
         {
-          "title": "Russian bombing of Ukrainian aid centre kills 24 people",
-          "body": "A Russian bombing of an aid centre in Ukraine killed 24 people, according to Al Jazeera. The attack occurred on November 2, 2026, and the Ukrainian President, Zelenskyy, condemned the action. The incident highlights ongoing tensions in the region.",
-          "whyItMatters": "The attack underscores the geopolitical risks and humanitarian impact of conflicts in the region.",
+          "title": "US lawmakers ask Trump administration to stop deportation of Afghans",
+          "body": "US lawmakers have asked the Trump administration to halt the deportation of Afghan refugees, citing humanitarian concerns. The request comes as the US faces increasing pressure to address the humanitarian crisis in Afghanistan. The move reflects a broader trend of legislative action on immigration and refugee policies.",
+          "whyItMatters": "The decision highlights the growing political and humanitarian tensions around refugee policies and the impact of global conflicts on international migration.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/3/us-lawmakers-ask-trump-administration-to-stop-deportation-of-afghans?traffic_source=rss"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
-          "body": "Binance, one of the largest cryptocurrency exchanges, saw a massive withdrawal of $3.6 billion after a major security breach. The hack was attributed to a cyber-attack, and the company released proof of reserves data for ten cryptocurrencies. This event highlights the growing risks in the crypto market.",
-          "whyItMatters": "The incident underscores the vulnerabilities in digital financial systems and the need for stronger cybersecurity measures.",
+          "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+          "body": "The UK and EU have reached an agreement to remove trade barriers for food exports, aiming to boost economic ties and support the UK's agricultural sector. The deal is seen as a step toward resolving long-standing trade disputes and fostering economic cooperation between the two regions.",
+          "whyItMatters": "The agreement could reshape trade relations and economic cooperation between the UK and EU, impacting food exports and trade policies in the region.",
           "sources": [
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
-          "body": "Virgin Media O2, a UK-based telecommunications company, announced plans to cut thousands of jobs to reduce costs. The decision comes amid financial pressures and the need to remain competitive in the market. This development reflects the challenges faced by the UK's telecommunications sector.",
-          "whyItMatters": "The job cuts highlight the economic pressures on businesses and the impact of financial decisions on employment and industry stability.",
+          "title": "Oil price falls amid hope of a breakthrough to end Iran war",
+          "body": "Oil prices have fallen due to hopes of a breakthrough in the Iran war, as global markets anticipate a potential end to the conflict. The drop in prices could influence energy policies and economic strategies in the US and other major economies.",
+          "whyItMatters": "The fluctuation in oil prices could impact global energy markets and economic planning, especially in the context of geopolitical tensions and trade policies.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-02T18:32:26.087Z"
+      "updatedAt": "2026-11-03T02:28:19.970Z"
     }
   }
 }
