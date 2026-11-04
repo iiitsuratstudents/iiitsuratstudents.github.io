@@ -1,69 +1,76 @@
 {
-  "generatedAt": "2026-11-03T19:38:31.858Z",
+  "generatedAt": "2026-11-04T00:42:59.266Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers political developments, climate concerns, and international security issues affecting global students.",
+      "summary": "Today's lens covers political developments, technological issues, and safety concerns, reflecting a mix of international events and local incidents.",
       "stories": [
         {
-          "title": "US Senate Race in Michigan",
-          "body": "Michigan's US Senate race between Rogers and El-Sayed sees increased voter turnout as the election approaches. Both candidates are urging citizens to participate in the critical race, highlighting the importance of democratic engagement.",
-          "whyItMatters": "The outcome of this race could influence political dynamics in the Midwest and affect voter perceptions of democratic processes.",
+          "title": "Stevie Wonder Endorses Abdul El-Sayed",
+          "body": "Stevie Wonder, a prominent figure in the music industry, has endorsed Abdul El-Sayed, a political activist in the Middle East. This endorsement comes amid ongoing tensions in the region, with Al Jazeera reporting that El-Sayed is advocating for peace and dialogue. The endorsement highlights the intersection of cultural influence and political advocacy.",
+          "whyItMatters": "This endorsement underscores the role of cultural figures in shaping public opinion and influencing political discourse in conflict zones.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/stevie-wonder-endorses-abdul-el-sayed?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Severe Weather Disrupts Election Day",
-          "body": "Severe weather conditions across several US states have disrupted election day, leading to delays and challenges in voter registration and ballot counting. The situation underscores the vulnerability of electoral processes to natural disasters.",
-          "whyItMatters": "Disruptions to election day can impact public trust in electoral systems and highlight the need for robust contingency plans.",
+          "title": "Ballot Scanner Glitch Disrupts Voting in New York",
+          "body": "A technical malfunction in ballot scanners disrupted voting processes in New York, raising concerns about the reliability of election technology. Al Jazeera reports that the glitch caused delays and confusion, highlighting the importance of robust election infrastructure to ensure fair and transparent voting.",
+          "whyItMatters": "This incident underscores the need for reliable and secure voting systems to prevent disruptions and maintain public trust in electoral processes.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_severe-weather-disrupts-election-day-across-us-031126?traffic_source=rss"
-            },
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-scanner-glitch-disrupts-voting-in-new-york?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Yemen Government Accuses IRGC and Hezbollah",
-          "body": "The Yemeni government accuses the Iranian Revolutionary Guard Corps (IRGC) and Hezbollah of sending 21 experts to support the Houthis. This development raises questions about regional alliances and the impact of militant groups on political stability.",
-          "whyItMatters": "This incident reflects ongoing tensions in the Middle East and the role of non-state actors in shaping regional conflicts.",
+          "title": "Iran Prepares Maximum Deterrence Plan for Any New Attack",
+          "body": "Iran has announced a readiness for a 'maximum deterrence' plan in response to any potential military threats. Al Jazeera reports that the plan includes military readiness and strategic positioning, reflecting the country's stance on security and defense. This development is part of broader geopolitical tensions in the region.",
+          "whyItMatters": "This statement highlights the strategic considerations and military preparedness of key regional powers, which can impact regional stability and international relations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/3/greenland-parliament-approves-security-deal-with-us-denmark?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-03T19:38:31.858Z"
+      "updatedAt": "2026-11-04T00:42:59.266Z"
     },
     "science": {
-      "kicker": "ScienceDaily",
-      "summary": "Today's lens covers advances in neuroscience, environmental science, and technological innovations, with a focus on discoveries and their potential impacts.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens covers advances in climate science, neuroscience, genetics, and space exploration, along with new research on public policy and environmental health.",
       "stories": [
         {
-          "title": "Brain’s hidden fear mechanism may explain anxiety and PTSD",
-          "body": "A study from ScienceDaily suggests that the brain's natural fear response may play a role in anxiety and post-traumatic stress disorder (PTSD). Researchers found that the amygdala, which is responsible for processing fear, may be more active in individuals with these conditions, indicating a potential link between normal fear responses and pathological anxiety.",
-          "whyItMatters": "Understanding this mechanism could lead to new treatments for anxiety and PTSD, offering insights into the brain's complex regulation of fear.",
+          "title": "UK faces climate-induced wildfire risk",
+          "body": "Prince William has warned that the UK is at risk of more severe wildfires due to climate change, highlighting the growing impact of rising temperatures and droughts on natural ecosystems. The warning comes as extreme weather patterns become more frequent, threatening both natural habitats and human safety.",
+          "whyItMatters": "Understanding climate change impacts is critical for developing effective mitigation strategies and adapting to environmental shifts.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Brain's hidden fear mechanism linked to anxiety and PTSD",
+          "body": "A recent study suggests that the brain's natural fear response may play a role in developing anxiety and post-traumatic stress disorder. This research could lead to new therapeutic approaches for mental health conditions, offering insights into the neural basis of emotional regulation.",
+          "whyItMatters": "Understanding the brain's fear mechanisms may help in developing targeted interventions for mental health disorders.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -72,75 +79,64 @@
           ]
         },
         {
-          "title": "Scientists identify two overlooked skills that predict reading success",
-          "body": "A study published in ScienceDaily reveals that two previously unrecognized skills—visual scanning and working memory—can predict reading success. These skills are crucial for processing information efficiently and may help educators identify students who need additional support in reading.",
-          "whyItMatters": "Identifying these skills could inform educational strategies to improve reading outcomes and support learners with varying abilities.",
+          "title": "New DNA and RNA discoveries in ancient asteroid",
+          "body": "Scientists have discovered all five genetic 'letters' of DNA and RNA in a 4.5-billion-year-old asteroid, providing insights into the origins of life and the evolution of genetic material. This finding could revolutionize our understanding of how life began on Earth.",
+          "whyItMatters": "Discoveries in the origins of life may reshape our understanding of biological evolution and the conditions necessary for life to emerge.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261102202845.htm"
-            }
-          ]
-        },
-        {
-          "title": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
-          "body": "NASA's asteroid impact mission, Hera, has begun its journey to study the aftermath of the collision with an asteroid. The mission aims to gather data on the impact's effects, including how it altered the asteroid's trajectory and what changes occurred in the surrounding space environment.",
-          "whyItMatters": "Understanding asteroid impacts is critical for planetary defense and assessing the long-term effects of space debris on Earth's environment.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261103003154.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-03T19:38:31.858Z"
+      "updatedAt": "2026-11-04T00:42:59.266Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The lens covers economic developments, including political races, climate actions, and business news, highlighting the interplay between politics, environment, and global markets.",
+      "summary": "Today's lens covers economic developments, including tech stock recoveries, job cuts, voting issues, and geopolitical tensions.",
       "stories": [
         {
-          "title": "US Senate race in Michigan",
-          "body": "Michigan's US Senate race sees candidates Rogers and El-Sayed urging voters to increase turnout for a critical race. The race is part of a broader political realignment in the Midwest, with voters facing tough decisions on economic policies and national issues.",
-          "whyItMatters": "The outcome of this race could influence the balance of power in the U.S. Senate and impact policy decisions on economic and social issues.",
+          "title": "Stevie Wonder endorses Abdul El-Sayed",
+          "body": "Stevie Wonder, a prominent figure in music, has endorsed Abdul El-Sayed, a political figure in the Middle East. This endorsement is seen as a gesture of support for El-Sayed's political aspirations. The endorsement is reported by Al Jazeera, a global news outlet.",
+          "whyItMatters": "This endorsement highlights the intersection of cultural and political influence in the global arena.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/stevie-wonder-endorses-abdul-el-sayed?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-scanner-glitch-disrupts-voting-in-new-york?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Severe weather disrupts election day",
-          "body": "Severe weather conditions across several U.S. states disrupted election day, leading to delays and challenges in voter registration and ballot counting. The situation highlights the increasing complexity of managing elections in the face of natural disasters.",
-          "whyItMatters": "Disruptions to election day can affect voter turnout and the accuracy of election results, underscoring the need for robust contingency planning in electoral processes.",
+          "title": "Canva announces major job cuts after 'our hardest year yet'",
+          "body": "Canva, a digital design platform, announced significant job cuts following a challenging year. The company faced financial pressures due to market volatility and declining user engagement. The decision is reported by BBC Business, a UK-based news outlet.",
+          "whyItMatters": "This development underscores the impact of economic uncertainty on corporate decision-making and employment trends.",
+          "sources": [
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Ballot scanner glitch disrupts voting in New York",
+          "body": "A technical glitch in ballot scanners disrupted voting processes in New York. The issue raised concerns about the reliability of voting technology and the potential for errors in election outcomes. The incident is reported by Al Jazeera, a global news outlet.",
+          "whyItMatters": "This event highlights the importance of reliable voting technology and the risks associated with technological failures in democratic processes.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_severe-weather-disrupts-election-day-across-us-031126?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Oil price drops amid hope for Iran war end",
-          "body": "Oil prices fell as hopes for a breakthrough in the Iran war eased, reflecting market expectations of reduced geopolitical tensions. This development could impact global energy markets and economic forecasts for the coming year.",
-          "whyItMatters": "A decline in oil prices can influence energy costs and economic growth, affecting both domestic and international markets.",
-          "sources": [
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-scanner-glitch-disrupts-voting-in-new-york?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-03T19:38:31.858Z"
+      "updatedAt": "2026-11-04T00:42:59.266Z"
     }
   }
 }
