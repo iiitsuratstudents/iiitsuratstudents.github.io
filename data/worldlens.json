@@ -1,158 +1,146 @@
 {
-  "generatedAt": "2026-11-06T16:00:52.135Z",
+  "generatedAt": "2026-11-06T21:38:11.756Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers recent global events, including safety concerns, political developments, and humanitarian issues.",
+      "summary": "Today's lens covers a mix of geopolitical developments, including political figures, technological trends, and regional conflicts, with a focus on global events impacting students.",
       "stories": [
         {
-          "title": "Two dead after bus crashes in France",
-          "body": "In France, two individuals died after a bus crashed into a wall, according to official reports. The incident occurred in a quiet suburban area, and the cause of the crash remains under investigation. The event highlights ongoing safety concerns in European cities.",
-          "whyItMatters": "Public safety and infrastructure maintenance remain critical issues for urban areas.",
+          "title": "Stephen Miller's Role in U.S. Politics",
+          "body": "Stephen Miller, a former Trump strategist, was promoted to Trump's new White House chief of staff. This move has sparked debates about the potential impact of his influence on U.S. policy and the future of the Trump administration.",
+          "whyItMatters": "The appointment of a prominent political figure can significantly affect domestic and international policy decisions, highlighting the influence of political leadership.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "AI Stocks Rise After Market Volatility",
+          "body": "AI-related stocks saw a surge following the widespread loss of market values due to global economic uncertainty. This reflects the growing importance of artificial intelligence in shaping future economic landscapes.",
+          "whyItMatters": "The rise of AI stocks underscores the transformative role of technology in modern economies and the potential for significant financial shifts in the coming years.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "New wave of bomb threats hit European airlines",
-          "body": "European airlines have reported a new wave of bomb threats, with security measures being heightened across the continent. The threats are being taken seriously by authorities, and passengers are advised to remain vigilant. This incident underscores the persistent risk of terrorism in global aviation.",
-          "whyItMatters": "Security threats in public transportation and aviation continue to affect global travel and safety protocols.",
-          "sources": [
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Claims of a Ukrainian ‘torture chamber’ go viral",
-          "body": "Al Jazeera reported on claims of a Ukrainian 'torture chamber' that went viral on social media. However, the claims are not supported by credible evidence, and the situation remains under investigation. The incident highlights the importance of verifying information before sharing it widely.",
-          "whyItMatters": "Misinformation can spread rapidly and impact public perception of events, emphasizing the need for factual verification.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/6/claims-of-a-ukrainian-torture-chamber-went-viral-what-really-happened?traffic_source=rss"
-            }
-          ]
-        }
-      ],
-      "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-06T16:00:52.135Z"
-    },
-    "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers advances in science, space exploration, environmental issues, and cultural discoveries.",
-      "stories": [
-        {
-          "title": "Dinosaur Blood Survives 115 Million Years",
-          "body": "Scientists have discovered blood cells from a dinosaur that survived 115 million years, providing new insights into prehistoric life and evolutionary biology. The findings, reported by ScienceDaily, suggest that the blood cells retained their structural integrity despite the vast time span, offering a unique opportunity to study ancient organisms and their biological processes.",
-          "whyItMatters": "This discovery could revolutionize our understanding of how life has persisted through geological time scales.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm"
-            }
-          ]
-        },
-        {
-          "title": "Meteor Showers and Supermoon Light Up Sky",
-          "body": "A meteor shower and a supermoon are expected to illuminate the night sky in November, offering a celestial spectacle for observers. The event, reported by ScienceDaily, highlights the intersection of astronomy and natural phenomena, providing a chance for public engagement with space exploration and cosmic events.",
-          "whyItMatters": "Such events can inspire public interest in astronomy and the natural world, fostering a greater appreciation for the universe.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm"
-            }
-          ]
-        },
-        {
-          "title": "NASA’s Swift Telescope Falls to Earth",
-          "body": "NASA’s Swift space telescope, which has been in orbit for nearly 22 years, has finally fallen to Earth, marking the end of its mission. The event, reported by ScienceDaily, underscores the challenges of space exploration and the importance of maintaining technological infrastructure in extreme environments.",
-          "whyItMatters": "This milestone highlights the advancements in space technology and the ongoing efforts to explore the cosmos.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm"
-            }
-          ]
-        }
-      ],
-      "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-06T16:00:52.135Z"
-    },
-    "economy": {
-      "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including tech stock performance, AI-related events, and political elections.",
-      "stories": [
-        {
-          "title": "Protesters Break Into Microsoft AI Data Centre in Amsterdam",
-          "body": "Protesters broke into the Microsoft AI data centre in Amsterdam, raising concerns about data security and privacy. The incident occurred amid heightened tensions over AI ethics and surveillance. The event highlights the growing risks associated with AI technology and the potential for public unrest over data handling.",
-          "whyItMatters": "The incident underscores the need for robust data protection policies and transparency in AI development.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/11/6/clicky-ponting-handed-two-year-suspension-over-cricket-cheating-scandal?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "US Tech Stocks Open Higher on Wall Street After Worst Day in 19 Months",
-          "body": "US tech stocks opened higher on Wall Street after a historic worst day in 19 months, driven by optimism about AI and robotics. The market rebounded as investors anticipated potential regulatory changes and technological advancements. The performance reflects the sector's resilience and the impact of political and economic factors on stock markets.",
-          "whyItMatters": "The market rebound highlights the sector's potential for growth and the influence of political and economic conditions on stock performance.",
-          "sources": [
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates"
-            },
-            {
-              "name": "BBC Business",
               "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Tesla to Wind Down Cybertruck Production as Sales Lag",
-          "body": "Tesla announced it would wind down Cybertruck production as sales lagged, with Elon Musk focusing on robotics and AI. The decision reflects the company's strategic shift and the challenges of maintaining market relevance in a competitive industry. The move also highlights the broader trend of companies adapting to market demands and technological shifts.",
-          "whyItMatters": "Tesla's decision to reduce Cybertruck production underscores the impact of market performance and technological evolution on corporate strategy.",
+          "title": "Protesters Attack Microsoft Data Centre in Amsterdam",
+          "body": "Protesters broke into a Microsoft data centre in Amsterdam, raising concerns about data security and privacy in the digital age. The incident highlights the ongoing tensions between technological innovation and public safety.",
+          "whyItMatters": "The attack on a major tech company's data centre underscores the need for robust cybersecurity measures and the balance between technological advancement and individual rights.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/6/musk-says-tesla-to-wind-down-polarising-cybertruck-production-as-sales-lag?traffic_source=rss"
-            },
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-06T16:00:52.135Z"
+      "updatedAt": "2026-11-06T21:38:11.756Z"
+    },
+    "science": {
+      "kicker": "Science & Technology",
+      "summary": "Today's lens covers climate change, space science, and medical research, highlighting recent scientific discoveries and global challenges.",
+      "stories": [
+        {
+          "title": "Climate change intensifies extreme weather events",
+          "body": "Climate change is making heatwaves, droughts, wildfires, and floods more frequent and severe, according to BBC Science. Rising global temperatures are altering weather patterns, leading to increased risk of extreme weather conditions. These changes pose significant challenges for ecosystems and human populations.",
+          "whyItMatters": "Understanding the impact of climate change is crucial for developing effective mitigation strategies and adapting to environmental shifts.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/c93d59d4zy1o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "NASA's Swift telescope completes its mission",
+          "body": "NASA's Swift telescope, which has been in space for nearly 22 years, has fallen to Earth. The telescope was designed to study high-energy astrophysical events, such as gamma-ray bursts and supernovae. Its successful re-entry into Earth's atmosphere marks the end of its operational life.",
+          "whyItMatters": "The successful re-entry of a long-serving space telescope highlights the importance of space science and the lifecycle of scientific instruments.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm"
+            }
+          ]
+        },
+        {
+          "title": "Anti-aging drug shows promise in preventing Alzheimer's",
+          "body": "A new study suggests an anti-aging drug may help protect the brain before Alzheimer's symptoms begin. The research, published in Nature, explores the potential of this drug to delay the onset of the disease, offering hope for future treatments.",
+          "whyItMatters": "Advancements in medical research could lead to new therapies for neurodegenerative diseases, improving quality of life for affected individuals.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm"
+            }
+          ]
+        }
+      ],
+      "mode": "GitHub Action · local Qwen",
+      "updatedAt": "2026-11-06T21:38:11.756Z"
+    },
+    "economy": {
+      "kicker": "Economic",
+      "summary": "The lens covers key economic developments, including AI stock trends, US job growth, and political impacts of midterms.",
+      "stories": [
+        {
+          "title": "Stephen Miller's Role in Trump's White House",
+          "body": "Stephen Miller, a former Trump strategist, has been promoted to Chief of Staff, with Trump stating he will 'run things well.' This move has drawn attention as Miller is known for his conservative ideology and influence on Trump's policies.",
+          "whyItMatters": "The appointment of a key advisor could shape future policy decisions and influence political dynamics.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "AI Stocks Rise as Markets Recover from Midterm Chaos",
+          "body": "AI stocks climbed after the US midterms, which saw significant political uncertainty. The market rebounded as investors regained confidence in technology sectors, reflecting broader economic sentiment.",
+          "whyItMatters": "The recovery of AI stocks highlights the impact of political events on financial markets and the role of technology in economic recovery.",
+          "sources": [
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears"
+            }
+          ]
+        },
+        {
+          "title": "Migrants Arrive in Spain's Canary Islands",
+          "body": "A surge of migrants arrived in Spain's Canary Islands after being rescued at sea, highlighting the ongoing challenges of migration and the impact of international events on regional stability.",
+          "whyItMatters": "The migration crisis underscores the complex interplay between global events and local economic and social conditions.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-canaryislandsmigrantarrivalssurge-es?traffic_source=rss"
+            }
+          ]
+        }
+      ],
+      "mode": "GitHub Action · local Qwen",
+      "updatedAt": "2026-11-06T21:38:11.756Z"
     }
   }
 }
