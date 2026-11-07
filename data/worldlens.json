@@ -1,65 +1,87 @@
 {
-  "generatedAt": "2026-11-07T06:14:45.286Z",
+  "generatedAt": "2026-11-07T14:57:49.800Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of international events, including political developments, security incidents, and economic sanctions, highlighting the complex interplay of global affairs.",
+      "summary": "Today's lens covers a mix of geopolitical developments, including conflicts in the Middle East, political elections, and international crises.",
       "stories": [
         {
-          "title": "Al Jazeera reports Australia cricket team's knowledge of 2018 ball-tampering scandal",
-          "body": "Al Jazeera reports that Khawaja, a member of the Australia cricket team, claimed to have known about the 2018 ball-tampering scandal. The report suggests that the team was aware of the incident, which was later revealed to be a cover-up by the Australian cricket board. This raises questions about transparency and accountability in sports governance.",
-          "whyItMatters": "The incident highlights the potential for secrecy and misinformation in sports organizations, which can affect public trust and the integrity of athletic competitions.",
+          "title": "Restoration of Historical Artifacts in Mosul",
+          "body": "Al Jazeera reports on efforts to restore historical artifacts in Mosul, highlighting the cultural significance of the region and the ongoing efforts to preserve its heritage. The restoration work is part of a broader initiative to revive the city's historical and cultural identity.",
+          "whyItMatters": "The restoration of historical artifacts in Mosul underscores the importance of preserving cultural heritage and the role of international cooperation in such efforts.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/11/7/australia-cricket-ball-tampering-sandpapergate-usman-khawaja?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/witness/2026/11/7/the-lions-by-the-river-tigris-restoring-mosuls-artefacts?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Russia launches missile attack on Kyiv, injuring residents",
-          "body": "Al Jazeera reports that Russia launched a missile attack on Kyiv, injuring residents. The attack comes amid ongoing tensions in the region, with the international community closely monitoring the situation. The incident underscores the risks of modern warfare and the potential for escalation in regional conflicts.",
-          "whyItMatters": "The missile attack highlights the ongoing security challenges in the region and the potential for further conflict, which could impact regional stability and international relations.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Paraguay's President Santiago Peña impeached and arrested",
-          "body": "BBC World reports that Paraguay's President Santiago Peña was impeached and arrested following a banking crisis. The crisis left 60% of the country unable to access accounts, leading to widespread economic and social disruption. The impeachment and arrest reflect the political instability and challenges faced by the country during this period.",
-          "whyItMatters": "The impeachment and arrest of the president highlight the fragility of political systems and the impact of economic crises on governance and public trust.",
+          "title": "Russia's Attacks on Ukraine and the Impact on Power Grids",
+          "body": "BBC World reports on Russian strikes that damaged Ukraine's power network, affecting critical infrastructure. The attacks are part of a broader conflict that has raised concerns about the stability of energy supplies in the region.",
+          "whyItMatters": "The impact of Russian strikes on Ukraine's power grid highlights the potential risks of modern warfare and the vulnerability of critical infrastructure in conflict zones.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
-            },
+              "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Political Tensions in France and the Debate Over Leftist Candidates",
+          "body": "Al Jazeera reports on the debate over leftist candidate Jean-Luc Melenchon in France, as the country faces political challenges. The debate reflects broader tensions in the political landscape and the influence of left-wing movements in French politics.",
+          "whyItMatters": "The political debate in France highlights the growing influence of left-wing candidates and the potential shifts in the country's political direction.",
+          "sources": [
             {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/7/radical-or-hero-france-debates-leftist-candidate-jean-luc-melenchon?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-07T06:14:45.286Z"
+      "updatedAt": "2026-11-07T14:57:49.800Z"
     },
     "science": {
-      "kicker": "Science & Nature",
-      "summary": "Today's lens covers meteor showers, climate change impacts, scientific breakthroughs, and cultural insights.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens covers advancements in science, climate change, and technological innovations.",
       "stories": [
         {
-          "title": "Meteor Shower Lights Up Night Sky",
-          "body": "A prolific meteor shower is expected to illuminate the night sky this weekend, offering a celestial spectacle for observers. The event, observed by BBC Science, highlights the natural phenomenon of meteorites falling from space, providing a glimpse into the universe's dynamic processes.",
-          "whyItMatters": "This event offers a unique opportunity for students to understand natural phenomena and the interconnectedness of Earth and space.",
+          "title": "Human CO2 emissions reach record levels",
+          "body": "Human bodies produce 2 billion metric tons of CO2 annually, highlighting the scale of climate change. This figure underscores the urgent need for global action to mitigate environmental impact.",
+          "whyItMatters": "Understanding the magnitude of human contributions to climate change is critical for developing effective mitigation strategies.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261104012305.htm"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Ancient European forests reveal new insights",
+          "body": "Scientists have discovered that Europe's ancient forests were not as dense or widespread as previously thought, offering new perspectives on historical ecosystems and climate change impacts.",
+          "whyItMatters": "This finding challenges previous assumptions about past environments and may influence how we interpret historical climate data.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261104012333.htm"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm"
+            }
+          ]
+        },
+        {
+          "title": "Meteor shower offers celestial spectacle",
+          "body": "A prolific meteor shower is expected to light up the night sky this weekend, providing a rare opportunity to observe natural phenomena and spark public interest in astronomy.",
+          "whyItMatters": "Observing celestial events can foster curiosity and appreciation for the universe, encouraging further scientific exploration and education.",
           "sources": [
             {
               "name": "BBC Science",
@@ -70,85 +92,59 @@
               "url": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm"
             }
           ]
-        },
-        {
-          "title": "Climate Change Impacts on Weather Patterns",
-          "body": "BBC Science reports on how climate change exacerbates heatwaves, droughts, wildfires, and floods, emphasizing the urgent need for global action. The article explains the complex interactions between climate patterns and environmental conditions, highlighting the growing challenges faced by ecosystems and human societies.",
-          "whyItMatters": "Understanding these climate impacts is crucial for students to grasp the real-world consequences of environmental changes and the importance of sustainable practices.",
-          "sources": [
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Scientific Breakthrough in Dinosaur Research",
-          "body": "A recent discovery by scientists has revealed blood cells from a dinosaur that survived 115 million years, offering new insights into prehistoric life. This finding, reported by ScienceDaily, underscores the ongoing advancements in paleontology and the potential for uncovering ancient biological secrets.",
-          "whyItMatters": "This discovery highlights the importance of scientific research in expanding our understanding of the natural world and the value of interdisciplinary studies.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm"
-            },
-            {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/s41586-026-11233-9"
-            }
-          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-07T06:14:45.286Z"
+      "updatedAt": "2026-11-07T14:57:49.800Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, political events, and technological trends impacting global markets and politics.",
+      "summary": "The lens covers economic developments, including US job growth, AI stock performance, and political elections, highlighting both global and local impacts.",
       "stories": [
         {
-          "title": "Al Jazeera reports Australia cricket team's knowledge of 2018 ball-tampering scandal",
-          "body": "Al Jazeera reports that Khawaja, a member of the Australia cricket team, claimed that the entire team was aware of the 2018 ball-tampering scandal. This claim is presented as a statement from the athlete, though it is unclear if it is factual or a personal opinion. The report highlights the potential for insider knowledge in sports and the implications for transparency in athletic conduct.",
-          "whyItMatters": "The incident raises questions about the transparency of sports teams and the potential for insider knowledge in high-profile events.",
+          "title": "US Job Growth Exceeds Expectations",
+          "body": "US job growth in October exceeded expectations, despite economic uncertainty, signaling potential stability in the labor market. The data comes as the US prepares for midterm elections, which could influence policy and economic direction.",
+          "whyItMatters": "Economic stability and political momentum could shape future policy and market expectations.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/11/7/australia-cricket-ball-tampering-sandpapergate-usman-khawaja?traffic_source=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october"
+            }
+          ]
+        },
+        {
+          "title": "AI Stocks Rise After Market Wipeouts",
+          "body": "AI stocks climbed after trillions of dollars were wiped from market values, reflecting investor optimism about the future of artificial intelligence. This trend may influence investment decisions and technological development.",
+          "whyItMatters": "The AI sector's performance could impact global tech investment and innovation strategies.",
+          "sources": [
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest"
             }
           ]
         },
         {
-          "title": "US Treasury sanctions Canadian money exchange firms over Iran ties",
-          "body": "The US Treasury has sanctioned eight Canadian money exchange firms over their ties to Iran. This action reflects the US government's response to concerns about financial support for entities involved in Iran-related activities. The sanctions aim to restrict financial transactions and ensure compliance with international laws.",
-          "whyItMatters": "The sanctions highlight the growing importance of financial regulation and the potential impact on global financial markets and international relations.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
-          "body": "Tesla has announced plans to wind down Cybertruck production as Elon Musk shifts focus to robotics and AI. This decision is part of Tesla's broader strategy to transition into new areas of innovation. The move is expected to impact the company's future product lineup and market position.",
-          "whyItMatters": "The shift in focus reflects the evolving landscape of automotive technology and the strategic decisions companies make to adapt to market changes.",
+          "title": "Elon Musk Signals End of Cybertruck Production",
+          "body": "Elon Musk signaled the end of Cybertruck production as he focuses on robotics and AI, indicating a shift in Tesla's strategic priorities. This decision may affect consumer expectations and market dynamics for electric vehicles.",
+          "whyItMatters": "Tesla's strategic shift could influence the future of electric vehicle technology and consumer choices.",
           "sources": [
             {
               "name": "The Guardian Business",
               "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-07T06:14:45.286Z"
+      "updatedAt": "2026-11-07T14:57:49.800Z"
     }
   }
 }
