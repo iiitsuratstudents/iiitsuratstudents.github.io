@@ -1,57 +1,72 @@
 {
-  "generatedAt": "2026-11-07T14:57:49.800Z",
+  "generatedAt": "2026-11-07T20:19:57.413Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of geopolitical developments, including conflicts in the Middle East, political elections, and international crises.",
+      "summary": "Today's lens covers a mix of global events, including a Polish shooting, protests in Albania, US political developments, and regional conflicts, highlighting the complexity of international relations.",
       "stories": [
         {
-          "title": "Restoration of Historical Artifacts in Mosul",
-          "body": "Al Jazeera reports on efforts to restore historical artifacts in Mosul, highlighting the cultural significance of the region and the ongoing efforts to preserve its heritage. The restoration work is part of a broader initiative to revive the city's historical and cultural identity.",
-          "whyItMatters": "The restoration of historical artifacts in Mosul underscores the importance of preserving cultural heritage and the role of international cooperation in such efforts.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/witness/2026/11/7/the-lions-by-the-river-tigris-restoring-mosuls-artefacts?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Russia's Attacks on Ukraine and the Impact on Power Grids",
-          "body": "BBC World reports on Russian strikes that damaged Ukraine's power network, affecting critical infrastructure. The attacks are part of a broader conflict that has raised concerns about the stability of energy supplies in the region.",
-          "whyItMatters": "The impact of Russian strikes on Ukraine's power grid highlights the potential risks of modern warfare and the vulnerability of critical infrastructure in conflict zones.",
+          "title": "Polish Gunman Opens Fire in Krakow Main Square",
+          "body": "A gunman opened fire in the main square of Krakow, Poland, resulting in multiple casualties. The incident has sparked discussions about public safety and violence in urban centers. The attack occurred in the context of rising tensions over security and governance in Europe.",
+          "whyItMatters": "The incident underscores the challenges of maintaining public safety in densely populated areas and the potential for violence in response to perceived threats.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Political Tensions in France and the Debate Over Leftist Candidates",
-          "body": "Al Jazeera reports on the debate over leftist candidate Jean-Luc Melenchon in France, as the country faces political challenges. The debate reflects broader tensions in the political landscape and the influence of left-wing movements in French politics.",
-          "whyItMatters": "The political debate in France highlights the growing influence of left-wing candidates and the potential shifts in the country's political direction.",
+          "title": "Masked Protesters Block Roads in Albania",
+          "body": "Masked protesters in Albania set off firecrackers and blocked roads, drawing attention to the country's political climate. The actions have been interpreted as a reaction to ongoing political unrest and social tensions in the region.",
+          "whyItMatters": "The protests highlight the impact of political instability on public behavior and the role of grassroots movements in shaping societal dynamics.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/7/radical-or-hero-france-debates-leftist-candidate-jean-luc-melenchon?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/masked-protesters-set-off-firecrackers-and-block-roads-in-albania?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Trump Orders DOJ to Investigate Democrats",
+          "body": "US President Donald Trump ordered the Department of Justice to investigate Democrats for allegedly threatening people. This development reflects the ongoing political tensions in the United States and the potential for legal action against political opponents.",
+          "whyItMatters": "The order highlights the complexities of political discourse and the legal mechanisms used to address perceived threats in democratic societies.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-07T14:57:49.800Z"
+      "updatedAt": "2026-11-07T20:19:57.413Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers advancements in science, climate change, and technological innovations.",
+      "summary": "Today's lens covers advancements in climate science, space exploration, and biological research, highlighting both current developments and their potential impacts on global understanding.",
       "stories": [
         {
-          "title": "Human CO2 emissions reach record levels",
-          "body": "Human bodies produce 2 billion metric tons of CO2 annually, highlighting the scale of climate change. This figure underscores the urgent need for global action to mitigate environmental impact.",
-          "whyItMatters": "Understanding the magnitude of human contributions to climate change is critical for developing effective mitigation strategies.",
+          "title": "Future of Lightning and Climate Change",
+          "body": "A new study from The Guardian Science explores how global heating is altering weather patterns, including the potential for more frequent and intense lightning events. The research highlights the interconnectedness of climate systems and the role of rising temperatures in changing atmospheric conditions.",
+          "whyItMatters": "Understanding these climate impacts is crucial for predicting future weather patterns and developing adaptive strategies.",
+          "sources": [
+            {
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/future-of-lightning-global-heating-weather-australia"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Climate Change and Human Impact",
+          "body": "ScienceDaily reports that human activities contribute to 2 billion metric tons of CO2 emissions annually, emphasizing the scale of the problem. This highlights the urgent need for global efforts to mitigate climate change and reduce carbon footprints.",
+          "whyItMatters": "Awareness of human contributions to climate change is essential for fostering collective action and policy reform.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -59,14 +74,14 @@
             },
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Ancient European forests reveal new insights",
-          "body": "Scientists have discovered that Europe's ancient forests were not as dense or widespread as previously thought, offering new perspectives on historical ecosystems and climate change impacts.",
-          "whyItMatters": "This finding challenges previous assumptions about past environments and may influence how we interpret historical climate data.",
+          "title": "Ancient Forests and Climate Research",
+          "body": "A study from ScienceDaily reveals that Europe's ancient forests were not as dense or widespread as previously thought, offering new insights into past climates and ecological changes. This research underscores the importance of revisiting historical data to improve current climate models.",
+          "whyItMatters": "Revisiting historical data can enhance our understanding of past climate changes and inform future predictions.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -74,38 +89,38 @@
             },
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm"
-            }
-          ]
-        },
-        {
-          "title": "Meteor shower offers celestial spectacle",
-          "body": "A prolific meteor shower is expected to light up the night sky this weekend, providing a rare opportunity to observe natural phenomena and spark public interest in astronomy.",
-          "whyItMatters": "Observing celestial events can foster curiosity and appreciation for the universe, encouraging further scientific exploration and education.",
-          "sources": [
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-07T14:57:49.800Z"
+      "updatedAt": "2026-11-07T20:19:57.413Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The lens covers economic developments, including US job growth, AI stock performance, and political elections, highlighting both global and local impacts.",
+      "summary": "Today's lens covers a mix of economic developments, political tensions, and technological shifts, highlighting key events and their potential impacts on global markets and politics.",
       "stories": [
         {
-          "title": "US Job Growth Exceeds Expectations",
-          "body": "US job growth in October exceeded expectations, despite economic uncertainty, signaling potential stability in the labor market. The data comes as the US prepares for midterm elections, which could influence policy and economic direction.",
-          "whyItMatters": "Economic stability and political momentum could shape future policy and market expectations.",
+          "title": "Protesters Block Roads in Albania",
+          "body": "Masked protesters in Albania set off firecrackers and blocked roads, raising concerns about public safety and governance. The incident occurred amid broader tensions in the region, with Al Jazeera reporting the event.",
+          "whyItMatters": "The incident highlights potential disruptions to public order and governance in Albania, which could impact regional stability and economic activity.",
           "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/masked-protesters-set-off-firecrackers-and-block-roads-in-albania?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "US Midterm Elections and Economic Outlook",
+          "body": "Despite political uncertainty, US job growth exceeded expectations in October, suggesting economic resilience. However, Democrats face challenges in fixing the economy, with concerns about policy effectiveness and public confidence.",
+          "whyItMatters": "Economic growth and political challenges in the US could influence long-term economic policy and public sentiment, affecting global markets and trade relations.",
+          "sources": [
+            {
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis"
+            },
             {
               "name": "The Guardian Business",
               "url": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october"
@@ -113,38 +128,27 @@
           ]
         },
         {
-          "title": "AI Stocks Rise After Market Wipeouts",
-          "body": "AI stocks climbed after trillions of dollars were wiped from market values, reflecting investor optimism about the future of artificial intelligence. This trend may influence investment decisions and technological development.",
-          "whyItMatters": "The AI sector's performance could impact global tech investment and innovation strategies.",
+          "title": "AI Stocks Rise Amid Market Volatility",
+          "body": "AI stocks surged after billions in market values were wiped out, reflecting investor sentiment toward emerging technologies. This trend coincided with increased uncertainty in the financial markets, driven by political and economic factors.",
+          "whyItMatters": "The rise in AI stocks could signal a shift in investor focus, potentially impacting technology stocks and broader financial markets.",
           "sources": [
             {
               "name": "BBC Business",
               "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest"
-            }
-          ]
-        },
-        {
-          "title": "Elon Musk Signals End of Cybertruck Production",
-          "body": "Elon Musk signaled the end of Cybertruck production as he focuses on robotics and AI, indicating a shift in Tesla's strategic priorities. This decision may affect consumer expectations and market dynamics for electric vehicles.",
-          "whyItMatters": "Tesla's strategic shift could influence the future of electric vehicle technology and consumer choices.",
-          "sources": [
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-07T14:57:49.800Z"
+      "updatedAt": "2026-11-07T20:19:57.413Z"
     }
   }
 }
