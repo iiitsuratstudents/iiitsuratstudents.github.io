@@ -1,61 +1,80 @@
 {
-  "generatedAt": "2026-11-06T21:38:11.756Z",
+  "generatedAt": "2026-11-07T06:14:45.286Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of geopolitical developments, including political figures, technological trends, and regional conflicts, with a focus on global events impacting students.",
+      "summary": "Today's lens covers a mix of international events, including political developments, security incidents, and economic sanctions, highlighting the complex interplay of global affairs.",
       "stories": [
         {
-          "title": "Stephen Miller's Role in U.S. Politics",
-          "body": "Stephen Miller, a former Trump strategist, was promoted to Trump's new White House chief of staff. This move has sparked debates about the potential impact of his influence on U.S. policy and the future of the Trump administration.",
-          "whyItMatters": "The appointment of a prominent political figure can significantly affect domestic and international policy decisions, highlighting the influence of political leadership.",
+          "title": "Al Jazeera reports Australia cricket team's knowledge of 2018 ball-tampering scandal",
+          "body": "Al Jazeera reports that Khawaja, a member of the Australia cricket team, claimed to have known about the 2018 ball-tampering scandal. The report suggests that the team was aware of the incident, which was later revealed to be a cover-up by the Australian cricket board. This raises questions about transparency and accountability in sports governance.",
+          "whyItMatters": "The incident highlights the potential for secrecy and misinformation in sports organizations, which can affect public trust and the integrity of athletic competitions.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/11/7/australia-cricket-ball-tampering-sandpapergate-usman-khawaja?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "AI Stocks Rise After Market Volatility",
-          "body": "AI-related stocks saw a surge following the widespread loss of market values due to global economic uncertainty. This reflects the growing importance of artificial intelligence in shaping future economic landscapes.",
-          "whyItMatters": "The rise of AI stocks underscores the transformative role of technology in modern economies and the potential for significant financial shifts in the coming years.",
-          "sources": [
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Protesters Attack Microsoft Data Centre in Amsterdam",
-          "body": "Protesters broke into a Microsoft data centre in Amsterdam, raising concerns about data security and privacy in the digital age. The incident highlights the ongoing tensions between technological innovation and public safety.",
-          "whyItMatters": "The attack on a major tech company's data centre underscores the need for robust cybersecurity measures and the balance between technological advancement and individual rights.",
+          "title": "Russia launches missile attack on Kyiv, injuring residents",
+          "body": "Al Jazeera reports that Russia launched a missile attack on Kyiv, injuring residents. The attack comes amid ongoing tensions in the region, with the international community closely monitoring the situation. The incident underscores the risks of modern warfare and the potential for escalation in regional conflicts.",
+          "whyItMatters": "The missile attack highlights the ongoing security challenges in the region and the potential for further conflict, which could impact regional stability and international relations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Paraguay's President Santiago Peña impeached and arrested",
+          "body": "BBC World reports that Paraguay's President Santiago Peña was impeached and arrested following a banking crisis. The crisis left 60% of the country unable to access accounts, leading to widespread economic and social disruption. The impeachment and arrest reflect the political instability and challenges faced by the country during this period.",
+          "whyItMatters": "The impeachment and arrest of the president highlight the fragility of political systems and the impact of economic crises on governance and public trust.",
+          "sources": [
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-06T21:38:11.756Z"
+      "updatedAt": "2026-11-07T06:14:45.286Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers climate change, space science, and medical research, highlighting recent scientific discoveries and global challenges.",
+      "kicker": "Science & Nature",
+      "summary": "Today's lens covers meteor showers, climate change impacts, scientific breakthroughs, and cultural insights.",
       "stories": [
         {
-          "title": "Climate change intensifies extreme weather events",
-          "body": "Climate change is making heatwaves, droughts, wildfires, and floods more frequent and severe, according to BBC Science. Rising global temperatures are altering weather patterns, leading to increased risk of extreme weather conditions. These changes pose significant challenges for ecosystems and human populations.",
-          "whyItMatters": "Understanding the impact of climate change is crucial for developing effective mitigation strategies and adapting to environmental shifts.",
+          "title": "Meteor Shower Lights Up Night Sky",
+          "body": "A prolific meteor shower is expected to illuminate the night sky this weekend, offering a celestial spectacle for observers. The event, observed by BBC Science, highlights the natural phenomenon of meteorites falling from space, providing a glimpse into the universe's dynamic processes.",
+          "whyItMatters": "This event offers a unique opportunity for students to understand natural phenomena and the interconnectedness of Earth and space.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm"
+            }
+          ]
+        },
+        {
+          "title": "Climate Change Impacts on Weather Patterns",
+          "body": "BBC Science reports on how climate change exacerbates heatwaves, droughts, wildfires, and floods, emphasizing the urgent need for global action. The article explains the complex interactions between climate patterns and environmental conditions, highlighting the growing challenges faced by ecosystems and human societies.",
+          "whyItMatters": "Understanding these climate impacts is crucial for students to grasp the real-world consequences of environmental changes and the importance of sustainable practices.",
           "sources": [
             {
               "name": "BBC Science",
@@ -63,84 +82,73 @@
             },
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c93d59d4zy1o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "NASA's Swift telescope completes its mission",
-          "body": "NASA's Swift telescope, which has been in space for nearly 22 years, has fallen to Earth. The telescope was designed to study high-energy astrophysical events, such as gamma-ray bursts and supernovae. Its successful re-entry into Earth's atmosphere marks the end of its operational life.",
-          "whyItMatters": "The successful re-entry of a long-serving space telescope highlights the importance of space science and the lifecycle of scientific instruments.",
+          "title": "Scientific Breakthrough in Dinosaur Research",
+          "body": "A recent discovery by scientists has revealed blood cells from a dinosaur that survived 115 million years, offering new insights into prehistoric life. This finding, reported by ScienceDaily, underscores the ongoing advancements in paleontology and the potential for uncovering ancient biological secrets.",
+          "whyItMatters": "This discovery highlights the importance of scientific research in expanding our understanding of the natural world and the value of interdisciplinary studies.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm"
-            }
-          ]
-        },
-        {
-          "title": "Anti-aging drug shows promise in preventing Alzheimer's",
-          "body": "A new study suggests an anti-aging drug may help protect the brain before Alzheimer's symptoms begin. The research, published in Nature, explores the potential of this drug to delay the onset of the disease, offering hope for future treatments.",
-          "whyItMatters": "Advancements in medical research could lead to new therapies for neurodegenerative diseases, improving quality of life for affected individuals.",
-          "sources": [
+              "url": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm"
+            },
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm"
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/s41586-026-11233-9"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-06T21:38:11.756Z"
+      "updatedAt": "2026-11-07T06:14:45.286Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The lens covers key economic developments, including AI stock trends, US job growth, and political impacts of midterms.",
+      "summary": "Today's lens covers a mix of economic developments, political events, and technological trends impacting global markets and politics.",
       "stories": [
         {
-          "title": "Stephen Miller's Role in Trump's White House",
-          "body": "Stephen Miller, a former Trump strategist, has been promoted to Chief of Staff, with Trump stating he will 'run things well.' This move has drawn attention as Miller is known for his conservative ideology and influence on Trump's policies.",
-          "whyItMatters": "The appointment of a key advisor could shape future policy decisions and influence political dynamics.",
+          "title": "Al Jazeera reports Australia cricket team's knowledge of 2018 ball-tampering scandal",
+          "body": "Al Jazeera reports that Khawaja, a member of the Australia cricket team, claimed that the entire team was aware of the 2018 ball-tampering scandal. This claim is presented as a statement from the athlete, though it is unclear if it is factual or a personal opinion. The report highlights the potential for insider knowledge in sports and the implications for transparency in athletic conduct.",
+          "whyItMatters": "The incident raises questions about the transparency of sports teams and the potential for insider knowledge in high-profile events.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/11/7/australia-cricket-ball-tampering-sandpapergate-usman-khawaja?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "AI Stocks Rise as Markets Recover from Midterm Chaos",
-          "body": "AI stocks climbed after the US midterms, which saw significant political uncertainty. The market rebounded as investors regained confidence in technology sectors, reflecting broader economic sentiment.",
-          "whyItMatters": "The recovery of AI stocks highlights the impact of political events on financial markets and the role of technology in economic recovery.",
+          "title": "US Treasury sanctions Canadian money exchange firms over Iran ties",
+          "body": "The US Treasury has sanctioned eight Canadian money exchange firms over their ties to Iran. This action reflects the US government's response to concerns about financial support for entities involved in Iran-related activities. The sanctions aim to restrict financial transactions and ensure compliance with international laws.",
+          "whyItMatters": "The sanctions highlight the growing importance of financial regulation and the potential impact on global financial markets and international relations.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss"
-            },
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
+          "body": "Tesla has announced plans to wind down Cybertruck production as Elon Musk shifts focus to robotics and AI. This decision is part of Tesla's broader strategy to transition into new areas of innovation. The move is expected to impact the company's future product lineup and market position.",
+          "whyItMatters": "The shift in focus reflects the evolving landscape of automotive technology and the strategic decisions companies make to adapt to market changes.",
+          "sources": [
             {
               "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears"
-            }
-          ]
-        },
-        {
-          "title": "Migrants Arrive in Spain's Canary Islands",
-          "body": "A surge of migrants arrived in Spain's Canary Islands after being rescued at sea, highlighting the ongoing challenges of migration and the impact of international events on regional stability.",
-          "whyItMatters": "The migration crisis underscores the complex interplay between global events and local economic and social conditions.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-canaryislandsmigrantarrivalssurge-es?traffic_source=rss"
+              "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-06T21:38:11.756Z"
+      "updatedAt": "2026-11-07T06:14:45.286Z"
     }
   }
 }
