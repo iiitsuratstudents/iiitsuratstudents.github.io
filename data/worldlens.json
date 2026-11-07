@@ -1,87 +1,91 @@
 {
-  "generatedAt": "2026-11-07T20:19:57.413Z",
+  "generatedAt": "2026-11-07T23:42:43.195Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of global events, including a Polish shooting, protests in Albania, US political developments, and regional conflicts, highlighting the complexity of international relations.",
+      "summary": "Today's lens covers a mix of geopolitical developments, including a potential government formation in Israel, a banking crisis in Paraguay, and international responses to regional conflicts.",
       "stories": [
         {
-          "title": "Polish Gunman Opens Fire in Krakow Main Square",
-          "body": "A gunman opened fire in the main square of Krakow, Poland, resulting in multiple casualties. The incident has sparked discussions about public safety and violence in urban centers. The attack occurred in the context of rising tensions over security and governance in Europe.",
-          "whyItMatters": "The incident underscores the challenges of maintaining public safety in densely populated areas and the potential for violence in response to perceived threats.",
+          "title": "Israel's President Picks Eisenkot for Government Formation",
+          "body": "Israel's president has appointed opposition leader Yisrael Eisenkot to lead the next government, following a tense political process. This marks a shift from Prime Minister Netanyahu, who was previously considered the likely candidate. The decision comes amid ongoing political instability and the pursuit of a new government structure.",
+          "whyItMatters": "This development highlights the fragility of political alliances and the impact of leadership transitions on regional stability.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Masked Protesters Block Roads in Albania",
-          "body": "Masked protesters in Albania set off firecrackers and blocked roads, drawing attention to the country's political climate. The actions have been interpreted as a reaction to ongoing political unrest and social tensions in the region.",
-          "whyItMatters": "The protests highlight the impact of political instability on public behavior and the role of grassroots movements in shaping societal dynamics.",
+          "title": "Paraguay's Banking Crisis Leaves 60% of Population Without Accounts",
+          "body": "A banking crisis in Paraguay has left 60% of the population unable to access accounts, prompting the ousting of the president. The crisis has sparked concerns about economic stability and the effectiveness of government intervention in the financial sector.",
+          "whyItMatters": "This event underscores the vulnerability of financial systems and the challenges faced by governments in managing economic crises.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/masked-protesters-set-off-firecrackers-and-block-roads-in-albania?traffic_source=rss"
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts"
             }
           ]
         },
         {
-          "title": "Trump Orders DOJ to Investigate Democrats",
-          "body": "US President Donald Trump ordered the Department of Justice to investigate Democrats for allegedly threatening people. This development reflects the ongoing political tensions in the United States and the potential for legal action against political opponents.",
-          "whyItMatters": "The order highlights the complexities of political discourse and the legal mechanisms used to address perceived threats in democratic societies.",
+          "title": "US Offers $20M Reward for Information on Iran's Nuclear Program",
+          "body": "The US has offered a $20 million reward for information related to Iran's nuclear program, highlighting the ongoing efforts to address nuclear proliferation. This initiative reflects the global focus on security and non-proliferation concerns.",
+          "whyItMatters": "This reward underscores the importance of international cooperation in combating nuclear threats and ensuring global security.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-07T20:19:57.413Z"
+      "updatedAt": "2026-11-07T23:42:43.195Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers advancements in climate science, space exploration, and biological research, highlighting both current developments and their potential impacts on global understanding.",
+      "summary": "Today's lens covers advancements in climate science, discoveries in biology, and innovations in technology.",
       "stories": [
         {
-          "title": "Future of Lightning and Climate Change",
-          "body": "A new study from The Guardian Science explores how global heating is altering weather patterns, including the potential for more frequent and intense lightning events. The research highlights the interconnectedness of climate systems and the role of rising temperatures in changing atmospheric conditions.",
-          "whyItMatters": "Understanding these climate impacts is crucial for predicting future weather patterns and developing adaptive strategies.",
+          "title": "Future of Lightning",
+          "body": "A new study from The Guardian Science explores how global heating may affect lightning patterns. The research suggests that rising temperatures could lead to more frequent and intense lightning events, particularly in regions with high humidity and thunderstorm activity. This could have implications for weather forecasting and disaster preparedness.",
+          "whyItMatters": "Understanding how climate change influences natural phenomena can help improve predictive models and enhance public safety.",
           "sources": [
             {
               "name": "The Guardian Science",
               "url": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/future-of-lightning-global-heating-weather-australia"
             },
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261104012333.htm"
             }
           ]
         },
         {
-          "title": "Climate Change and Human Impact",
-          "body": "ScienceDaily reports that human activities contribute to 2 billion metric tons of CO2 emissions annually, emphasizing the scale of the problem. This highlights the urgent need for global efforts to mitigate climate change and reduce carbon footprints.",
-          "whyItMatters": "Awareness of human contributions to climate change is essential for fostering collective action and policy reform.",
+          "title": "Climate Change and Weather Patterns",
+          "body": "BBC Science reports on how climate change exacerbates heatwaves, droughts, wildfires, and floods. The study highlights the increasing frequency and intensity of extreme weather events, which pose significant risks to ecosystems, human health, and infrastructure. These findings underscore the urgent need for global climate action.",
+          "whyItMatters": "Climate change impacts are becoming more severe, emphasizing the importance of understanding and mitigating its effects on both natural and human systems.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261104012305.htm"
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Ancient Forests and Climate Research",
-          "body": "A study from ScienceDaily reveals that Europe's ancient forests were not as dense or widespread as previously thought, offering new insights into past climates and ecological changes. This research underscores the importance of revisiting historical data to improve current climate models.",
-          "whyItMatters": "Revisiting historical data can enhance our understanding of past climate changes and inform future predictions.",
+          "title": "Ancient Forests and Climate History",
+          "body": "ScienceDaily reports that scientists have discovered Europe's ancient forests were more diverse and resilient than previously thought. The findings challenge existing models of past climate conditions and provide new insights into how ecosystems adapted to environmental changes. This research could inform future climate studies and conservation efforts.",
+          "whyItMatters": "Understanding historical climate patterns can help predict future environmental changes and guide sustainable land management practices.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -95,32 +99,32 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-07T20:19:57.413Z"
+      "updatedAt": "2026-11-07T23:42:43.195Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, political tensions, and technological shifts, highlighting key events and their potential impacts on global markets and politics.",
+      "summary": "The lens covers developments in global economics, including sports, politics, technology, and market trends, with a focus on how these events might impact students and their understanding of the world.",
       "stories": [
         {
-          "title": "Protesters Block Roads in Albania",
-          "body": "Masked protesters in Albania set off firecrackers and blocked roads, raising concerns about public safety and governance. The incident occurred amid broader tensions in the region, with Al Jazeera reporting the event.",
-          "whyItMatters": "The incident highlights potential disruptions to public order and governance in Albania, which could impact regional stability and economic activity.",
+          "title": "Real Madrid draws level with Barcelona in La Liga",
+          "body": "Real Madrid defeated Valencia 3-0, drawing level with Barcelona in La Liga. This result highlights the competitive nature of European football and the ongoing rivalry between the two clubs. The match underscores the importance of consistency and performance in competitive sports.",
+          "whyItMatters": "This match reflects the high stakes of European football and the influence of top-tier clubs on global sports culture.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/masked-protesters-set-off-firecrackers-and-block-roads-in-albania?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "US Midterm Elections and Economic Outlook",
-          "body": "Despite political uncertainty, US job growth exceeded expectations in October, suggesting economic resilience. However, Democrats face challenges in fixing the economy, with concerns about policy effectiveness and public confidence.",
-          "whyItMatters": "Economic growth and political challenges in the US could influence long-term economic policy and public sentiment, affecting global markets and trade relations.",
+          "title": "US job growth exceeds expectations despite economic uncertainty",
+          "body": "US job growth in October exceeded expectations, despite economic uncertainty. This development suggests that the economy is showing resilience, even in the face of political and economic challenges. The data could influence students' understanding of labor markets and economic policy.",
+          "whyItMatters": "This highlights the potential for economic stability and growth, even amid political and economic uncertainty.",
           "sources": [
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis"
-            },
             {
               "name": "The Guardian Business",
               "url": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october"
@@ -128,17 +132,13 @@
           ]
         },
         {
-          "title": "AI Stocks Rise Amid Market Volatility",
-          "body": "AI stocks surged after billions in market values were wiped out, reflecting investor sentiment toward emerging technologies. This trend coincided with increased uncertainty in the financial markets, driven by political and economic factors.",
-          "whyItMatters": "The rise in AI stocks could signal a shift in investor focus, potentially impacting technology stocks and broader financial markets.",
+          "title": "AI stocks climb after trillions wiped from market values",
+          "body": "AI stocks climbed after trillions of dollars were wiped from market values, reflecting investor sentiment towards artificial intelligence. This event shows the volatility of financial markets and the impact of technological trends on investment decisions.",
+          "whyItMatters": "This highlights the growing influence of AI in the financial sector and the potential for rapid market shifts in response to technological advancements.",
           "sources": [
             {
               "name": "BBC Business",
               "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "The Guardian Business",
@@ -148,7 +148,7 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-07T20:19:57.413Z"
+      "updatedAt": "2026-11-07T23:42:43.195Z"
     }
   }
 }
