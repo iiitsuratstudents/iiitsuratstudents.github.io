@@ -1,77 +1,70 @@
 {
-  "generatedAt": "2026-11-08T15:23:30.850Z",
+  "generatedAt": "2026-11-08T20:38:02.846Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of international events, including a Palestinian journalist's release, a sports event, a regional political development, and global news updates.",
+      "kicker": "Geopolitics",
+      "summary": "Today's lens covers geopolitical tensions, train collisions, and political developments, highlighting the complex interplay of international events and their potential impacts.",
       "stories": [
         {
-          "title": "Palestinian Journalist Released After Detention",
-          "body": "Abed Abou Shhadeh, a Palestinian journalist, was released after five days in detention following his arrest. The incident highlights ongoing tensions in the region, with Al Jazeera reporting on the situation. The release marks a significant moment in the narrative of the conflict.",
-          "whyItMatters": "The release of a journalist underscores the complex dynamics of political detention and the impact on regional stability.",
+          "title": "Iran threatens to 'rain down hell' if US escalates war",
+          "body": "Iran has threatened to 'rain down hell' on the United States if the US escalates its war in the region. The statement comes as tensions rise in the Middle East, with Iran expressing concerns over US military actions and their potential impact on regional stability. The threat underscores the ongoing geopolitical tensions between major powers.",
+          "whyItMatters": "The threat highlights the potential for escalation in a region already marked by conflict, raising concerns about regional stability and international relations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/palestinian-journalist-abed-abou-shhadeh-released-after-5-days-in-detention?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Spain Wins Padel World Cup in Qatar",
-          "body": "Spain claimed victory in the Padel World Cup held in Qatar, showcasing the growing popularity of the sport. The event highlights the increasing global interest in sports, particularly in regions where traditional sports are gaining traction.",
-          "whyItMatters": "The success of a national team in a major international sports event reflects the evolving landscape of global sports and cultural exchange.",
+          "title": "Trains collide in Egypt killing seven",
+          "body": "In Egypt, two trains collided, resulting in at least seven deaths and over 100 injuries. The incident highlights the risks of transportation accidents and the need for improved safety measures in public transit. The collision also reflects the ongoing challenges of managing large-scale events in a country with a history of political and social unrest.",
+          "whyItMatters": "The collision underscores the importance of safety in public transportation and the potential for similar incidents in other regions, emphasizing the need for improved infrastructure and safety protocols.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/spain-win-padel-world-cup-in-qatar-as-sports-popularity-soars-2?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision"
             }
           ]
         },
         {
-          "title": "US Task Force Targets Iran's Advanced Weapon Transport",
-          "body": "A US task force has been established to cut off the transport of advanced weapons from Iran. This move is part of broader efforts to address concerns about Iran's nuclear program and military capabilities. The task force is a response to international security concerns.",
-          "whyItMatters": "The US task force initiative reflects the ongoing geopolitical tensions and the need for international cooperation in addressing security threats.",
+          "title": "Houthi rebels claim 33 killed in Saudi air strike",
+          "body": "The Houthi rebels in Yemen have claimed at least 33 killed in a Saudi air strike. The strike, which took place in the southern region of Saudi Arabia, is part of a broader conflict between the Houthi group and Saudi Arabia. The incident reflects the ongoing tensions in the region and the potential for further escalation in the conflict.",
+          "whyItMatters": "The strike highlights the ongoing conflict in Yemen and the potential for further violence, emphasizing the need for diplomatic efforts to de-escalate the situation and prevent further loss of life.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-08T15:23:30.850Z"
+      "updatedAt": "2026-11-08T20:38:02.846Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers advancements in science, space, climate, and technology, with a focus on potential solutions and future implications.",
+      "kicker": "Space & Science",
+      "summary": "Today's lens covers advancements in space exploration, asteroid defense, ancient discoveries, and climate science.",
       "stories": [
         {
-          "title": "A nuclear blast could save Earth from an asteroid, but there's a catch",
-          "body": "A study suggests a nuclear blast might be a viable method to deflect an asteroid from Earth, but the technique carries significant risks and ethical concerns. The idea is to use the energy of a nuclear explosion to alter the asteroid's trajectory, though the potential for unintended consequences remains a major obstacle.",
-          "whyItMatters": "This research highlights the complex balance between scientific innovation and the need for safety and ethical considerations in space defense.",
+          "title": "NASA Launches New Astronaut Recruitment Drive",
+          "body": "NASA is seeking next-generation astronauts to live and work on the moon, aiming to establish a sustainable presence in lunar habitats. The initiative seeks candidates with expertise in engineering, medicine, and space biology, emphasizing collaboration and innovation.",
+          "whyItMatters": "This could shape future lunar missions and international space cooperation.",
           "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm"
-            },
             {
               "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/ukraine-space-critical-war-starlink"
-            }
-          ]
-        },
-        {
-          "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
-          "body": "A newly discovered tomb in Siberia provides evidence of cannabis use dating back 2,800 years. The findings suggest that cannabis was used for medicinal and ritual purposes, offering insights into ancient cultural practices and potential historical impacts.",
-          "whyItMatters": "This discovery underscores the long-standing use of cannabis and its potential role in ancient societies, contributing to our understanding of historical drug use and cultural evolution.",
-          "sources": [
+              "url": "https://www.theguardian.com/science/2026/nov/08/nasa-astronauts-moon-applications-open"
+            },
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm"
@@ -79,60 +72,71 @@
           ]
         },
         {
-          "title": "Ukraine’s new frontier: how space has become critical to balance of the war",
-          "body": "Space has become a critical domain in the ongoing conflict between Ukraine and Russia, with the deployment of Starlink satellites and other space-based technologies influencing military strategy and communication. The use of space for both military and civilian purposes highlights the growing importance of space in modern warfare.",
-          "whyItMatters": "The role of space in contemporary conflicts demonstrates the evolving nature of global security and the increasing reliance on technological advancements in military and civilian contexts.",
+          "title": "Nuclear Blast May Protect Earth from Asteroid Impact",
+          "body": "A nuclear blast could theoretically deflect an asteroid from Earth, but the method is controversial due to potential environmental and geopolitical risks. Scientists are exploring alternative deflection techniques to ensure planetary safety.",
+          "whyItMatters": "This highlights the ongoing debate over asteroid defense strategies and their ethical implications.",
           "sources": [
             {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/ukraine-space-critical-war-starlink"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm"
+            }
+          ]
+        },
+        {
+          "title": "Ancient Siberian Tomb Reveals Cannabis Use 2,800 Years Ago",
+          "body": "A newly discovered tomb in Siberia provides evidence of cannabis use 2,800 years ago, offering insights into ancient cultural practices and potential medicinal applications. The findings challenge previous assumptions about the timeline and spread of cannabis use.",
+          "whyItMatters": "This could reshape our understanding of historical cannabis use and its impact on ancient societies.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-08T15:23:30.850Z"
+      "updatedAt": "2026-11-08T20:38:02.846Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of global events, including a Palestinian journalist's release, a sports victory, a political shift, and economic concerns.",
+      "summary": "The lens covers a mix of global news, sports, and economic developments, including tensions in the Middle East, sports events, and economic forecasts.",
       "stories": [
         {
-          "title": "Palestinian Journalist Released After Detention",
-          "body": "Abed Abou Shhadeh, a Palestinian journalist, was released after five days in detention following his arrest. The incident highlights ongoing tensions in the region, with Al Jazeera reporting on the situation. The release marks a significant moment in the journalist's legal journey.",
-          "whyItMatters": "The release of a journalist can impact media freedom and public discourse in the region.",
+          "title": "Iran threatens to 'rain down hell' if US escalates war",
+          "body": "Iran has threatened to retaliate against the United States if it escalates any military conflict, citing concerns over regional stability and security. The threat comes as the US continues to pursue its strategic interests in the Middle East, prompting Iran to express its readiness to respond aggressively.",
+          "whyItMatters": "The potential for escalation in the region could impact global security and international relations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/palestinian-journalist-abed-abou-shhadeh-released-after-5-days-in-detention?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Spain Wins Padel World Cup in Qatar",
-          "body": "Spain secured a victory in the Padel World Cup held in Qatar, showcasing the growing popularity of the sport. The event highlights the increasing global interest in padel, a hybrid sport combining elements of tennis and lawn tennis. The win reflects the sport's rising appeal and competitive level.",
-          "whyItMatters": "The success of a sports event can influence its future growth and international recognition.",
+          "title": "Man United earn 4-4 draw against Aston Villa but remain in relegation zone",
+          "body": "Manchester United secured a draw against Aston Villa in a tightly contested match, but the victory did not prevent the team from remaining in the relegation zone. The result highlights the competitive nature of English football and the challenges faced by teams in the lower tiers of the league.",
+          "whyItMatters": "The match underscores the unpredictability of football and the importance of consistency in competitive sports.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/spain-win-padel-world-cup-in-qatar-as-sports-popularity-soars-2?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/11/8/man-united-earn-4-4-draw-against-aston-villa-but-remain-in-relegation-zone?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "US Task Force to Cut Off Iran's Advanced Weapon Transport",
-          "body": "A US task force has been established to cut off the transport of advanced weapons from Iran. The move is part of broader efforts to address concerns over Iran's military capabilities. The task force aims to ensure compliance with international security standards and reduce the risk of advanced weaponry reaching hostile states.",
-          "whyItMatters": "This action reflects the US's commitment to global security and its stance on preventing the proliferation of advanced weapons.",
+          "title": "AI stocks climb after trillions wiped from market values",
+          "body": "Following the market turmoil caused by the US midterms, AI stocks experienced a rebound as investors regained confidence in the technology sector. The recovery reflects the resilience of the AI industry and its potential to drive future economic growth.",
+          "whyItMatters": "The resurgence of AI stocks highlights the sector's potential impact on the global economy and technological innovation.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-08T15:23:30.850Z"
+      "updatedAt": "2026-11-08T20:38:02.846Z"
     }
   }
 }
