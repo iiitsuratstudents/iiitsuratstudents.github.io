@@ -1,150 +1,138 @@
 {
-  "generatedAt": "2026-11-08T06:19:58.641Z",
+  "generatedAt": "2026-11-08T15:23:30.850Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Events",
-      "summary": "Today's lens covers a mix of regional conflicts, natural disasters, and political developments, highlighting the interconnectedness of global events.",
+      "kicker": "Global Brief",
+      "summary": "Today's lens covers a mix of international events, including a Palestinian journalist's release, a sports event, a regional political development, and global news updates.",
       "stories": [
         {
-          "title": "Haitians Cheer El Salvador’s Bukele Amid Gang War",
-          "body": "Haitians are celebrating El Salvador’s President Juan Carlos Bukele after the country’s military defeated a gang war in the north. The victory marks a significant shift in regional dynamics, with Bukele’s leadership gaining traction in the region.",
-          "whyItMatters": "This event highlights the impact of military victories on local politics and regional stability.",
+          "title": "Palestinian Journalist Released After Detention",
+          "body": "Abed Abou Shhadeh, a Palestinian journalist, was released after five days in detention following his arrest. The incident highlights ongoing tensions in the region, with Al Jazeera reporting on the situation. The release marks a significant moment in the narrative of the conflict.",
+          "whyItMatters": "The release of a journalist underscores the complex dynamics of political detention and the impact on regional stability.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/palestinian-journalist-abed-abou-shhadeh-released-after-5-days-in-detention?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Drone Attack on Colombian Army Base Kills Three Soldiers",
-          "body": "A drone attack on a Colombian army base resulted in the deaths of three soldiers and injuries to 16 others. This incident underscores the ongoing conflict in the region and the risks faced by military personnel.",
-          "whyItMatters": "The attack reflects the complex nature of armed conflicts and their impact on civilian populations.",
+          "title": "Spain Wins Padel World Cup in Qatar",
+          "body": "Spain claimed victory in the Padel World Cup held in Qatar, showcasing the growing popularity of the sport. The event highlights the increasing global interest in sports, particularly in regions where traditional sports are gaining traction.",
+          "whyItMatters": "The success of a national team in a major international sports event reflects the evolving landscape of global sports and cultural exchange.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/spain-win-padel-world-cup-in-qatar-as-sports-popularity-soars-2?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Earthquake Hits Central Japan, Injuring Over 20 People",
-          "body": "A strong earthquake struck central Japan, injuring over 20 people. The disaster highlights the vulnerability of regions prone to seismic activity and the importance of preparedness in the face of natural calamities.",
-          "whyItMatters": "Natural disasters can have significant humanitarian and economic impacts, emphasizing the need for resilience and disaster response strategies.",
+          "title": "US Task Force Targets Iran's Advanced Weapon Transport",
+          "body": "A US task force has been established to cut off the transport of advanced weapons from Iran. This move is part of broader efforts to address concerns about Iran's nuclear program and military capabilities. The task force is a response to international security concerns.",
+          "whyItMatters": "The US task force initiative reflects the ongoing geopolitical tensions and the need for international cooperation in addressing security threats.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-08T06:19:58.641Z"
+      "updatedAt": "2026-11-08T15:23:30.850Z"
     },
     "science": {
-      "kicker": "Climate & Science",
-      "summary": "Today's lens covers climate change, weather patterns, scientific discoveries, and innovations in environmental science.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens covers advancements in science, space, climate, and technology, with a focus on potential solutions and future implications.",
       "stories": [
         {
-          "title": "Future of Lightning",
-          "body": "A new study from The Guardian Science explores how global heating is altering weather patterns, potentially affecting lightning frequency and intensity. The research highlights the impact of rising temperatures on atmospheric conditions, which could lead to more frequent and intense lightning events in certain regions.",
-          "whyItMatters": "Understanding these changes is crucial for predicting weather patterns and preparing for potential climate-related disasters.",
+          "title": "A nuclear blast could save Earth from an asteroid, but there's a catch",
+          "body": "A study suggests a nuclear blast might be a viable method to deflect an asteroid from Earth, but the technique carries significant risks and ethical concerns. The idea is to use the energy of a nuclear explosion to alter the asteroid's trajectory, though the potential for unintended consequences remains a major obstacle.",
+          "whyItMatters": "This research highlights the complex balance between scientific innovation and the need for safety and ethical considerations in space defense.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm"
+            },
+            {
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/ukraine-space-critical-war-starlink"
+            }
+          ]
+        },
+        {
+          "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
+          "body": "A newly discovered tomb in Siberia provides evidence of cannabis use dating back 2,800 years. The findings suggest that cannabis was used for medicinal and ritual purposes, offering insights into ancient cultural practices and potential historical impacts.",
+          "whyItMatters": "This discovery underscores the long-standing use of cannabis and its potential role in ancient societies, contributing to our understanding of historical drug use and cultural evolution.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm"
+            }
+          ]
+        },
+        {
+          "title": "Ukraine’s new frontier: how space has become critical to balance of the war",
+          "body": "Space has become a critical domain in the ongoing conflict between Ukraine and Russia, with the deployment of Starlink satellites and other space-based technologies influencing military strategy and communication. The use of space for both military and civilian purposes highlights the growing importance of space in modern warfare.",
+          "whyItMatters": "The role of space in contemporary conflicts demonstrates the evolving nature of global security and the increasing reliance on technological advancements in military and civilian contexts.",
           "sources": [
             {
               "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/future-of-lightning-global-heating-weather-australia"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261104012333.htm"
-            }
-          ]
-        },
-        {
-          "title": "Human Carbon Footprint",
-          "body": "ScienceDaily reports that human activities contribute to 2 billion metric tons of CO2 annually, emphasizing the scale of emissions from everyday actions. This highlights the importance of individual and collective efforts in mitigating climate change.",
-          "whyItMatters": "Awareness of personal contributions to global emissions is essential for fostering sustainable practices and policy changes.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261104012305.htm"
-            }
-          ]
-        },
-        {
-          "title": "Ancient Forests and Climate Change",
-          "body": "A study from ScienceDaily reveals that Europe's ancient forests were not as preserved as previously thought, offering new insights into past climate conditions and the resilience of ecosystems to environmental changes.",
-          "whyItMatters": "This research underscores the complexity of historical climate patterns and the need for accurate ecological data to inform future conservation and climate models.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261104012333.htm"
+              "url": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/ukraine-space-critical-war-starlink"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-08T06:19:58.641Z"
+      "updatedAt": "2026-11-08T15:23:30.850Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The lens covers a mix of global events, including political developments, natural disasters, and economic trends, with a focus on their potential impact on students.",
+      "summary": "Today's lens covers a mix of global events, including a Palestinian journalist's release, a sports victory, a political shift, and economic concerns.",
       "stories": [
         {
-          "title": "Haitians cheer El Salvador’s Bukele amid gang war",
-          "body": "Haitians are celebrating El Salvador’s President Salvador Bukele after the country’s military defeated a gang war in the southern region. The victory is seen as a step toward stability and security in the region, which has been plagued by violence and gang activity.",
-          "whyItMatters": "The regional stability could influence international relations and aid efforts in the Caribbean.",
+          "title": "Palestinian Journalist Released After Detention",
+          "body": "Abed Abou Shhadeh, a Palestinian journalist, was released after five days in detention following his arrest. The incident highlights ongoing tensions in the region, with Al Jazeera reporting on the situation. The release marks a significant moment in the journalist's legal journey.",
+          "whyItMatters": "The release of a journalist can impact media freedom and public discourse in the region.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/palestinian-journalist-abed-abou-shhadeh-released-after-5-days-in-detention?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "AI stocks climb after trillions wiped from market values",
-          "body": "AI stocks experienced a surge following a massive market crash, as investors reassessed the sector's potential and its role in the future of technology and economy. The crash was triggered by concerns over the economic impact of AI and the potential for a tech bubble burst.",
-          "whyItMatters": "The market reaction highlights the volatility of AI stocks and the importance of long-term investment in emerging technologies.",
+          "title": "Spain Wins Padel World Cup in Qatar",
+          "body": "Spain secured a victory in the Padel World Cup held in Qatar, showcasing the growing popularity of the sport. The event highlights the increasing global interest in padel, a hybrid sport combining elements of tennis and lawn tennis. The win reflects the sport's rising appeal and competitive level.",
+          "whyItMatters": "The success of a sports event can influence its future growth and international recognition.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/spain-win-padel-world-cup-in-qatar-as-sports-popularity-soars-2?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "US job growth exceeds expectations in October despite economic uncertainty",
-          "body": "Despite economic uncertainty, the US reported job growth exceeding expectations in October, indicating a resilient economy. The data suggests that the labor market remains strong, even amid global economic challenges.",
-          "whyItMatters": "The job growth data could influence policy decisions and investor confidence in the US economy.",
+          "title": "US Task Force to Cut Off Iran's Advanced Weapon Transport",
+          "body": "A US task force has been established to cut off the transport of advanced weapons from Iran. The move is part of broader efforts to address concerns over Iran's military capabilities. The task force aims to ensure compliance with international security standards and reduce the risk of advanced weaponry reaching hostile states.",
+          "whyItMatters": "This action reflects the US's commitment to global security and its stance on preventing the proliferation of advanced weapons.",
           "sources": [
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october"
-            },
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-08T06:19:58.641Z"
+      "updatedAt": "2026-11-08T15:23:30.850Z"
     }
   }
 }
