@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-11-07T23:42:43.195Z",
+  "generatedAt": "2026-11-08T06:19:58.641Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of geopolitical developments, including a potential government formation in Israel, a banking crisis in Paraguay, and international responses to regional conflicts.",
+      "kicker": "Global Events",
+      "summary": "Today's lens covers a mix of regional conflicts, natural disasters, and political developments, highlighting the interconnectedness of global events.",
       "stories": [
         {
-          "title": "Israel's President Picks Eisenkot for Government Formation",
-          "body": "Israel's president has appointed opposition leader Yisrael Eisenkot to lead the next government, following a tense political process. This marks a shift from Prime Minister Netanyahu, who was previously considered the likely candidate. The decision comes amid ongoing political instability and the pursuit of a new government structure.",
-          "whyItMatters": "This development highlights the fragility of political alliances and the impact of leadership transitions on regional stability.",
+          "title": "Haitians Cheer El Salvador’s Bukele Amid Gang War",
+          "body": "Haitians are celebrating El Salvador’s President Juan Carlos Bukele after the country’s military defeated a gang war in the north. The victory marks a significant shift in regional dynamics, with Bukele’s leadership gaining traction in the region.",
+          "whyItMatters": "This event highlights the impact of military victories on local politics and regional stability.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Paraguay's Banking Crisis Leaves 60% of Population Without Accounts",
-          "body": "A banking crisis in Paraguay has left 60% of the population unable to access accounts, prompting the ousting of the president. The crisis has sparked concerns about economic stability and the effectiveness of government intervention in the financial sector.",
-          "whyItMatters": "This event underscores the vulnerability of financial systems and the challenges faced by governments in managing economic crises.",
+          "title": "Drone Attack on Colombian Army Base Kills Three Soldiers",
+          "body": "A drone attack on a Colombian army base resulted in the deaths of three soldiers and injuries to 16 others. This incident underscores the ongoing conflict in the region and the risks faced by military personnel.",
+          "whyItMatters": "The attack reflects the complex nature of armed conflicts and their impact on civilian populations.",
           "sources": [
             {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "US Offers $20M Reward for Information on Iran's Nuclear Program",
-          "body": "The US has offered a $20 million reward for information related to Iran's nuclear program, highlighting the ongoing efforts to address nuclear proliferation. This initiative reflects the global focus on security and non-proliferation concerns.",
-          "whyItMatters": "This reward underscores the importance of international cooperation in combating nuclear threats and ensuring global security.",
+          "title": "Earthquake Hits Central Japan, Injuring Over 20 People",
+          "body": "A strong earthquake struck central Japan, injuring over 20 people. The disaster highlights the vulnerability of regions prone to seismic activity and the importance of preparedness in the face of natural calamities.",
+          "whyItMatters": "Natural disasters can have significant humanitarian and economic impacts, emphasizing the need for resilience and disaster response strategies.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-07T23:42:43.195Z"
+      "updatedAt": "2026-11-08T06:19:58.641Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers advancements in climate science, discoveries in biology, and innovations in technology.",
+      "kicker": "Climate & Science",
+      "summary": "Today's lens covers climate change, weather patterns, scientific discoveries, and innovations in environmental science.",
       "stories": [
         {
           "title": "Future of Lightning",
-          "body": "A new study from The Guardian Science explores how global heating may affect lightning patterns. The research suggests that rising temperatures could lead to more frequent and intense lightning events, particularly in regions with high humidity and thunderstorm activity. This could have implications for weather forecasting and disaster preparedness.",
-          "whyItMatters": "Understanding how climate change influences natural phenomena can help improve predictive models and enhance public safety.",
+          "body": "A new study from The Guardian Science explores how global heating is altering weather patterns, potentially affecting lightning frequency and intensity. The research highlights the impact of rising temperatures on atmospheric conditions, which could lead to more frequent and intense lightning events in certain regions.",
+          "whyItMatters": "Understanding these changes is crucial for predicting weather patterns and preparing for potential climate-related disasters.",
           "sources": [
             {
               "name": "The Guardian Science",
@@ -68,87 +68,83 @@
           ]
         },
         {
-          "title": "Climate Change and Weather Patterns",
-          "body": "BBC Science reports on how climate change exacerbates heatwaves, droughts, wildfires, and floods. The study highlights the increasing frequency and intensity of extreme weather events, which pose significant risks to ecosystems, human health, and infrastructure. These findings underscore the urgent need for global climate action.",
-          "whyItMatters": "Climate change impacts are becoming more severe, emphasizing the importance of understanding and mitigating its effects on both natural and human systems.",
+          "title": "Human Carbon Footprint",
+          "body": "ScienceDaily reports that human activities contribute to 2 billion metric tons of CO2 annually, emphasizing the scale of emissions from everyday actions. This highlights the importance of individual and collective efforts in mitigating climate change.",
+          "whyItMatters": "Awareness of personal contributions to global emissions is essential for fostering sustainable practices and policy changes.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261104012305.htm"
             }
           ]
         },
         {
-          "title": "Ancient Forests and Climate History",
-          "body": "ScienceDaily reports that scientists have discovered Europe's ancient forests were more diverse and resilient than previously thought. The findings challenge existing models of past climate conditions and provide new insights into how ecosystems adapted to environmental changes. This research could inform future climate studies and conservation efforts.",
-          "whyItMatters": "Understanding historical climate patterns can help predict future environmental changes and guide sustainable land management practices.",
+          "title": "Ancient Forests and Climate Change",
+          "body": "A study from ScienceDaily reveals that Europe's ancient forests were not as preserved as previously thought, offering new insights into past climate conditions and the resilience of ecosystems to environmental changes.",
+          "whyItMatters": "This research underscores the complexity of historical climate patterns and the need for accurate ecological data to inform future conservation and climate models.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/11/261104012333.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-07T23:42:43.195Z"
+      "updatedAt": "2026-11-08T06:19:58.641Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The lens covers developments in global economics, including sports, politics, technology, and market trends, with a focus on how these events might impact students and their understanding of the world.",
+      "summary": "The lens covers a mix of global events, including political developments, natural disasters, and economic trends, with a focus on their potential impact on students.",
       "stories": [
         {
-          "title": "Real Madrid draws level with Barcelona in La Liga",
-          "body": "Real Madrid defeated Valencia 3-0, drawing level with Barcelona in La Liga. This result highlights the competitive nature of European football and the ongoing rivalry between the two clubs. The match underscores the importance of consistency and performance in competitive sports.",
-          "whyItMatters": "This match reflects the high stakes of European football and the influence of top-tier clubs on global sports culture.",
+          "title": "Haitians cheer El Salvador’s Bukele amid gang war",
+          "body": "Haitians are celebrating El Salvador’s President Salvador Bukele after the country’s military defeated a gang war in the southern region. The victory is seen as a step toward stability and security in the region, which has been plagued by violence and gang activity.",
+          "whyItMatters": "The regional stability could influence international relations and aid efforts in the Caribbean.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "US job growth exceeds expectations despite economic uncertainty",
-          "body": "US job growth in October exceeded expectations, despite economic uncertainty. This development suggests that the economy is showing resilience, even in the face of political and economic challenges. The data could influence students' understanding of labor markets and economic policy.",
-          "whyItMatters": "This highlights the potential for economic stability and growth, even amid political and economic uncertainty.",
-          "sources": [
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october"
+              "url": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss"
             }
           ]
         },
         {
           "title": "AI stocks climb after trillions wiped from market values",
-          "body": "AI stocks climbed after trillions of dollars were wiped from market values, reflecting investor sentiment towards artificial intelligence. This event shows the volatility of financial markets and the impact of technological trends on investment decisions.",
-          "whyItMatters": "This highlights the growing influence of AI in the financial sector and the potential for rapid market shifts in response to technological advancements.",
+          "body": "AI stocks experienced a surge following a massive market crash, as investors reassessed the sector's potential and its role in the future of technology and economy. The crash was triggered by concerns over the economic impact of AI and the potential for a tech bubble burst.",
+          "whyItMatters": "The market reaction highlights the volatility of AI stocks and the importance of long-term investment in emerging technologies.",
           "sources": [
             {
               "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Business",
               "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "US job growth exceeds expectations in October despite economic uncertainty",
+          "body": "Despite economic uncertainty, the US reported job growth exceeding expectations in October, indicating a resilient economy. The data suggests that the labor market remains strong, even amid global economic challenges.",
+          "whyItMatters": "The job growth data could influence policy decisions and investor confidence in the US economy.",
+          "sources": [
+            {
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october"
             },
             {
               "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest"
+              "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-07T23:42:43.195Z"
+      "updatedAt": "2026-11-08T06:19:58.641Z"
     }
   }
 }
