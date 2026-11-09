@@ -1,142 +1,142 @@
 {
-  "generatedAt": "2026-11-08T20:38:02.846Z",
+  "generatedAt": "2026-11-09T06:53:19.166Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers geopolitical tensions, train collisions, and political developments, highlighting the complex interplay of international events and their potential impacts.",
+      "summary": "Today's lens covers a mix of global events, including a shooting in Krakow, political commentary on austerity measures, environmental concerns, and cultural discussions.",
       "stories": [
         {
-          "title": "Iran threatens to 'rain down hell' if US escalates war",
-          "body": "Iran has threatened to 'rain down hell' on the United States if the US escalates its war in the region. The statement comes as tensions rise in the Middle East, with Iran expressing concerns over US military actions and their potential impact on regional stability. The threat underscores the ongoing geopolitical tensions between major powers.",
-          "whyItMatters": "The threat highlights the potential for escalation in a region already marked by conflict, raising concerns about regional stability and international relations.",
+          "title": "Krakow Shooting Suspect Dies",
+          "body": "A suspect in a shooting in Krakow, Poland, has died in the hospital, according to BBC World. The incident occurred on November 9, 2026. The police have not yet released details about the nature of the attack or the suspect's background. This event highlights ongoing security concerns in the region.",
+          "whyItMatters": "The death of a suspect in a shooting underscores the need for continued vigilance and investigation into potential threats to public safety.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Trains collide in Egypt killing seven",
-          "body": "In Egypt, two trains collided, resulting in at least seven deaths and over 100 injuries. The incident highlights the risks of transportation accidents and the need for improved safety measures in public transit. The collision also reflects the ongoing challenges of managing large-scale events in a country with a history of political and social unrest.",
-          "whyItMatters": "The collision underscores the importance of safety in public transportation and the potential for similar incidents in other regions, emphasizing the need for improved infrastructure and safety protocols.",
+          "title": "Political Commentary on Austerity Measures",
+          "body": "Al Jazeera reports on the rebuke of Javier Milei's austerity measures by Pope Leo III and the French drug gangs' recruitment of children to kill. These events highlight the ongoing political and social challenges in various regions, including the impact of economic policies and the rise of extremist groups.",
+          "whyItMatters": "The criticism of austerity policies and the rise of extremist groups underscores the complex interplay between economic policies and social stability.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision"
+              "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity"
             }
           ]
         },
         {
-          "title": "Houthi rebels claim 33 killed in Saudi air strike",
-          "body": "The Houthi rebels in Yemen have claimed at least 33 killed in a Saudi air strike. The strike, which took place in the southern region of Saudi Arabia, is part of a broader conflict between the Houthi group and Saudi Arabia. The incident reflects the ongoing tensions in the region and the potential for further escalation in the conflict.",
-          "whyItMatters": "The strike highlights the ongoing conflict in Yemen and the potential for further violence, emphasizing the need for diplomatic efforts to de-escalate the situation and prevent further loss of life.",
+          "title": "Environmental and Social Concerns in New Delhi",
+          "body": "Al Jazeera reports on smog in New Delhi caused by Diwali firecrackers and the displacement of Palestinians in Gaza due to heavy rains. These events highlight environmental and humanitarian challenges faced by vulnerable populations.",
+          "whyItMatters": "The environmental and humanitarian crises in New Delhi and Gaza emphasize the need for coordinated international efforts to address climate change and displacement issues.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        }
-      ],
-      "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-08T20:38:02.846Z"
-    },
-    "science": {
-      "kicker": "Space & Science",
-      "summary": "Today's lens covers advancements in space exploration, asteroid defense, ancient discoveries, and climate science.",
-      "stories": [
-        {
-          "title": "NASA Launches New Astronaut Recruitment Drive",
-          "body": "NASA is seeking next-generation astronauts to live and work on the moon, aiming to establish a sustainable presence in lunar habitats. The initiative seeks candidates with expertise in engineering, medicine, and space biology, emphasizing collaboration and innovation.",
-          "whyItMatters": "This could shape future lunar missions and international space cooperation.",
-          "sources": [
-            {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/nov/08/nasa-astronauts-moon-applications-open"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/9/smog-blankets-new-delhi-as-diwali-firecrackers-worsen-air-quality?traffic_source=rss"
             },
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm"
-            }
-          ]
-        },
-        {
-          "title": "Nuclear Blast May Protect Earth from Asteroid Impact",
-          "body": "A nuclear blast could theoretically deflect an asteroid from Earth, but the method is controversial due to potential environmental and geopolitical risks. Scientists are exploring alternative deflection techniques to ensure planetary safety.",
-          "whyItMatters": "This highlights the ongoing debate over asteroid defense strategies and their ethical implications.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm"
-            }
-          ]
-        },
-        {
-          "title": "Ancient Siberian Tomb Reveals Cannabis Use 2,800 Years Ago",
-          "body": "A newly discovered tomb in Siberia provides evidence of cannabis use 2,800 years ago, offering insights into ancient cultural practices and potential medicinal applications. The findings challenge previous assumptions about the timeline and spread of cannabis use.",
-          "whyItMatters": "This could reshape our understanding of historical cannabis use and its impact on ancient societies.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-08T20:38:02.846Z"
+      "updatedAt": "2026-11-09T06:53:19.166Z"
+    },
+    "science": {
+      "kicker": "Science & Technology",
+      "summary": "Today's lens covers breakthroughs in climate science, space exploration, and technological innovation, highlighting both environmental challenges and advancements.",
+      "stories": [
+        {
+          "title": "Dormouse Conservation Success in Britain",
+          "body": "A study by the BBC reveals that Britain's dormouse species has shown a slight increase in population, offering hope for its survival. The findings suggest that conservation efforts may be effective in reversing population declines.",
+          "whyItMatters": "This success story underscores the importance of conservation efforts and the potential for positive outcomes in endangered species preservation.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Climate Overshoot and the 1.5°C Target",
+          "body": "The COP31 conference highlights the urgent need to avoid exceeding the 1.5°C climate target, as global temperatures are approaching critical thresholds. Scientists warn that current emissions are pushing the planet toward irreversible climate change.",
+          "whyItMatters": "The conference emphasizes the global urgency of climate action, urging nations to accelerate efforts to limit warming and protect ecosystems.",
+          "sources": [
+            {
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03631-w"
+            }
+          ]
+        },
+        {
+          "title": "Mars Volcanism and Space Exploration",
+          "body": "A study by ScienceDaily reports that Mars may still be volcanically active, as indicated by recent gas leaks. This discovery could provide insights into the planet's geological history and potential for future exploration.",
+          "whyItMatters": "Understanding Mars' geological activity is crucial for future space missions and the search for extraterrestrial life.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261106174525.htm"
+            }
+          ]
+        }
+      ],
+      "mode": "GitHub Action · local Qwen",
+      "updatedAt": "2026-11-09T06:53:19.166Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The lens covers a mix of global news, sports, and economic developments, including tensions in the Middle East, sports events, and economic forecasts.",
+      "summary": "Today's lens covers a mix of economic developments, environmental concerns, and tech-related news, highlighting both global and local impacts on students.",
       "stories": [
         {
-          "title": "Iran threatens to 'rain down hell' if US escalates war",
-          "body": "Iran has threatened to retaliate against the United States if it escalates any military conflict, citing concerns over regional stability and security. The threat comes as the US continues to pursue its strategic interests in the Middle East, prompting Iran to express its readiness to respond aggressively.",
-          "whyItMatters": "The potential for escalation in the region could impact global security and international relations.",
+          "title": "Al Jazeera reports on disruption of Annalena Baerbock’s award speech",
+          "body": "Al Jazeera reported that the award speech of Annalena Baerbock was disrupted by protesters, highlighting tensions around political and social issues. The incident occurred amid broader discussions on governance and public engagement.",
+          "whyItMatters": "The event underscores the importance of public discourse and the role of media in shaping political climate.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss"
+              "url": "https://www.aljazeera.com/opinions/2026/11/9/why-we-disrupted-annalena-baerbocks-award-speech?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Man United earn 4-4 draw against Aston Villa but remain in relegation zone",
-          "body": "Manchester United secured a draw against Aston Villa in a tightly contested match, but the victory did not prevent the team from remaining in the relegation zone. The result highlights the competitive nature of English football and the challenges faced by teams in the lower tiers of the league.",
-          "whyItMatters": "The match underscores the unpredictability of football and the importance of consistency in competitive sports.",
+          "title": "Smog affects air quality in New Delhi",
+          "body": "Al Jazeera reported that smog has blanketed New Delhi, worsening air quality due to increased firecracker use during Diwali celebrations. This highlights environmental challenges and their impact on public health.",
+          "whyItMatters": "The issue emphasizes the need for sustainable practices and the importance of environmental policies in urban areas.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/11/8/man-united-earn-4-4-draw-against-aston-villa-but-remain-in-relegation-zone?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/9/smog-blankets-new-delhi-as-diwali-firecrackers-worsen-air-quality?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "AI stocks climb after trillions wiped from market values",
-          "body": "Following the market turmoil caused by the US midterms, AI stocks experienced a rebound as investors regained confidence in the technology sector. The recovery reflects the resilience of the AI industry and its potential to drive future economic growth.",
-          "whyItMatters": "The resurgence of AI stocks highlights the sector's potential impact on the global economy and technological innovation.",
+          "title": "Tesla to wind down Cybertruck production",
+          "body": "The Guardian reported that Tesla is planning to wind down Cybertruck production as Elon Musk focuses on robotics and AI. This shift reflects broader industry trends and technological priorities.",
+          "whyItMatters": "The decision highlights the evolving landscape of automotive technology and its implications for future innovation and employment.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-08T20:38:02.846Z"
+      "updatedAt": "2026-11-09T06:53:19.166Z"
     }
   }
 }
