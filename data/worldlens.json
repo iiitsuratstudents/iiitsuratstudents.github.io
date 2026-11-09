@@ -1,142 +1,166 @@
 {
-  "generatedAt": "2026-11-09T06:53:19.166Z",
+  "generatedAt": "2026-11-09T18:56:55.111Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of global events, including a shooting in Krakow, political commentary on austerity measures, environmental concerns, and cultural discussions.",
+      "kicker": "Global Brief",
+      "summary": "Today's lens covers a mix of geopolitical developments, natural disasters, and cultural events, highlighting the interconnectedness of global affairs.",
       "stories": [
         {
-          "title": "Krakow Shooting Suspect Dies",
-          "body": "A suspect in a shooting in Krakow, Poland, has died in the hospital, according to BBC World. The incident occurred on November 9, 2026. The police have not yet released details about the nature of the attack or the suspect's background. This event highlights ongoing security concerns in the region.",
-          "whyItMatters": "The death of a suspect in a shooting underscores the need for continued vigilance and investigation into potential threats to public safety.",
+          "title": "Republican Congressman to Force Impeachment Vote on Defence Secretary",
+          "body": "A Republican congressman in the U.S. has announced plans to force an impeachment vote on Defence Secretary Heather Hegseth, citing concerns over military policy and accountability. The move comes amid ongoing political tensions and scrutiny of the Defence Department's operations.",
+          "whyItMatters": "The impeachment process could signal broader political divisions and the potential for significant changes in U.S. defense policy.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Political Commentary on Austerity Measures",
-          "body": "Al Jazeera reports on the rebuke of Javier Milei's austerity measures by Pope Leo III and the French drug gangs' recruitment of children to kill. These events highlight the ongoing political and social challenges in various regions, including the impact of economic policies and the rise of extremist groups.",
-          "whyItMatters": "The criticism of austerity policies and the rise of extremist groups underscores the complex interplay between economic policies and social stability.",
+          "title": "Krakow Shooting Suspect Dies as Poland Mourns Six Victims",
+          "body": "A shooting suspect in Krakow, Poland, died after the incident, which left six people dead. The event sparked widespread mourning and discussions about safety measures and public security in the region.",
+          "whyItMatters": "The incident highlights the ongoing challenges of managing public safety and the impact of violent events on communities.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/krakow-shooting-suspect-dies-as-poland-mourns-six-victims?traffic_source=rss"
             },
             {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/9/meta-rolls-out-automated-age-checks-for-teens-globally?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Environmental and Social Concerns in New Delhi",
-          "body": "Al Jazeera reports on smog in New Delhi caused by Diwali firecrackers and the displacement of Palestinians in Gaza due to heavy rains. These events highlight environmental and humanitarian challenges faced by vulnerable populations.",
-          "whyItMatters": "The environmental and humanitarian crises in New Delhi and Gaza emphasize the need for coordinated international efforts to address climate change and displacement issues.",
+          "title": "Nvidia Shares Tumble Over Investigation into Huang's Affair with Alleged Chinese Spy",
+          "body": "Nvidia's stock prices fell sharply following an investigation into a former employee's alleged affair with an alleged Chinese spy. The incident raised concerns about corporate ethics and the potential impact on the company's reputation and stock value.",
+          "whyItMatters": "The event underscores the importance of corporate accountability and the potential consequences of ethical breaches in the tech industry.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/9/smog-blankets-new-delhi-as-diwali-firecrackers-worsen-air-quality?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-09T06:53:19.166Z"
+      "updatedAt": "2026-11-09T18:56:55.111Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers breakthroughs in climate science, space exploration, and technological innovation, highlighting both environmental challenges and advancements.",
+      "summary": "Today's lens covers medical breakthroughs, climate science, space exploration, and natural phenomena.",
       "stories": [
         {
-          "title": "Dormouse Conservation Success in Britain",
-          "body": "A study by the BBC reveals that Britain's dormouse species has shown a slight increase in population, offering hope for its survival. The findings suggest that conservation efforts may be effective in reversing population declines.",
-          "whyItMatters": "This success story underscores the importance of conservation efforts and the potential for positive outcomes in endangered species preservation.",
+          "title": "Medical Breakthrough for Stiff Person Syndrome",
+          "body": "A new medical breakthrough offers hope for individuals with stiff person syndrome, a rare neurological condition that causes severe muscle stiffness and spasms. Researchers from The Guardian Science have reported progress in understanding the condition and developing potential treatments. This development could significantly improve the quality of life for those affected.",
+          "whyItMatters": "A new medical breakthrough could lead to improved treatments for rare neurological conditions.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/science/2026/nov/09/medical-breakthrough-offers-hope-to-people-with-same-stiff-person-syndrome-as-celine-dion"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm"
             }
           ]
         },
         {
-          "title": "Climate Overshoot and the 1.5°C Target",
-          "body": "The COP31 conference highlights the urgent need to avoid exceeding the 1.5°C climate target, as global temperatures are approaching critical thresholds. Scientists warn that current emissions are pushing the planet toward irreversible climate change.",
-          "whyItMatters": "The conference emphasizes the global urgency of climate action, urging nations to accelerate efforts to limit warming and protect ecosystems.",
-          "sources": [
-            {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/d41586-026-03631-w"
-            }
-          ]
-        },
-        {
-          "title": "Mars Volcanism and Space Exploration",
-          "body": "A study by ScienceDaily reports that Mars may still be volcanically active, as indicated by recent gas leaks. This discovery could provide insights into the planet's geological history and potential for future exploration.",
-          "whyItMatters": "Understanding Mars' geological activity is crucial for future space missions and the search for extraterrestrial life.",
+          "title": "NASA's Moon Mission Plan",
+          "body": "NASA has announced a bold new plan to return astronauts to the Moon by 2028. The plan includes the development of new spacecraft and technologies to support long-term lunar missions. This initiative is part of broader efforts to explore the solar system and advance space exploration.",
+          "whyItMatters": "NASA's moon mission plan could shape future space exploration and research efforts.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261106174525.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm"
+            },
+            {
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/science/2026/nov/08/nasa-astronauts-moon-applications-open"
+            }
+          ]
+        },
+        {
+          "title": "Ancient Siberian Tomb Reveals Cannabis Use",
+          "body": "A newly discovered ancient tomb in Siberia provides insights into the use of cannabis 2,800 years ago. The findings, reported by ScienceDaily, highlight the historical significance of cannabis and its use in various cultural and medicinal contexts. This discovery adds to the growing body of knowledge about ancient civilizations and their practices.",
+          "whyItMatters": "Ancient discoveries can provide valuable insights into human history and cultural practices.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261108202703.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-09T06:53:19.166Z"
+      "updatedAt": "2026-11-09T18:56:55.111Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, environmental concerns, and tech-related news, highlighting both global and local impacts on students.",
+      "summary": "The economic landscape is shaped by both technological advancements and geopolitical tensions, with notable events in AI, labor, and global policy.",
       "stories": [
         {
-          "title": "Al Jazeera reports on disruption of Annalena Baerbock’s award speech",
-          "body": "Al Jazeera reported that the award speech of Annalena Baerbock was disrupted by protesters, highlighting tensions around political and social issues. The incident occurred amid broader discussions on governance and public engagement.",
-          "whyItMatters": "The event underscores the importance of public discourse and the role of media in shaping political climate.",
+          "title": "Civil servant faces legal consequences for multiple jobs",
+          "body": "A civil servant in the UK was found guilty of fraud for secretly holding five jobs, highlighting the challenges of employment and legal compliance in a rapidly changing economy.",
+          "whyItMatters": "This case underscores the importance of ethical conduct and legal accountability in the workforce, especially in sectors with high mobility.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/opinions/2026/11/9/why-we-disrupted-annalena-baerbocks-award-speech?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Smog affects air quality in New Delhi",
-          "body": "Al Jazeera reported that smog has blanketed New Delhi, worsening air quality due to increased firecracker use during Diwali celebrations. This highlights environmental challenges and their impact on public health.",
-          "whyItMatters": "The issue emphasizes the need for sustainable practices and the importance of environmental policies in urban areas.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/9/smog-blankets-new-delhi-as-diwali-firecrackers-worsen-air-quality?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Tesla to wind down Cybertruck production",
-          "body": "The Guardian reported that Tesla is planning to wind down Cybertruck production as Elon Musk focuses on robotics and AI. This shift reflects broader industry trends and technological priorities.",
-          "whyItMatters": "The decision highlights the evolving landscape of automotive technology and its implications for future innovation and employment.",
+          "title": "Nvidia shares drop as investigation into Huang's affair begins",
+          "body": "Nvidia's stock fell by $330 billion following an investigation into Jensen Huang's alleged affair with a suspected Chinese spy, raising concerns about corporate ethics and foreign influence in the tech sector.",
+          "whyItMatters": "The investigation highlights the growing scrutiny of corporate practices and the potential impact of foreign interests on global technology firms.",
           "sources": [
             {
               "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai"
+              "url": "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Meta introduces automated age checks for teens globally",
+          "body": "Meta has launched automated age verification for its teen users, aiming to combat online safety and protect young users from harmful content.",
+          "whyItMatters": "This initiative reflects the increasing focus on digital well-being and the need for robust safeguards in the tech industry.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/9/meta-rolls-out-automated-age-checks-for-teens-globally?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-09T06:53:19.166Z"
+      "updatedAt": "2026-11-09T18:56:55.111Z"
     }
   }
 }
