@@ -1,84 +1,95 @@
 {
-  "generatedAt": "2026-11-09T18:56:55.111Z",
+  "generatedAt": "2026-11-10T02:48:23.760Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of geopolitical developments, natural disasters, and cultural events, highlighting the interconnectedness of global affairs.",
+      "kicker": "Geopolitics",
+      "summary": "Today's lens covers political developments, cyberattacks, and international relations, highlighting the interplay between domestic and global events.",
       "stories": [
         {
-          "title": "Republican Congressman to Force Impeachment Vote on Defence Secretary",
-          "body": "A Republican congressman in the U.S. has announced plans to force an impeachment vote on Defence Secretary Heather Hegseth, citing concerns over military policy and accountability. The move comes amid ongoing political tensions and scrutiny of the Defence Department's operations.",
-          "whyItMatters": "The impeachment process could signal broader political divisions and the potential for significant changes in U.S. defense policy.",
+          "title": "Cameroon Sets Date for Twice-Delayed Elections",
+          "body": "Cameroon has set a date for its legislative and local elections, which were initially postponed due to logistical challenges. The government aims to ensure a smooth transition of power and address regional tensions. The timing of the elections is significant as it comes amid ongoing political instability in the region.",
+          "whyItMatters": "The timing of the elections could influence regional stability and governance in Cameroon.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/10/cameroon-sets-date-for-twice-delayed-legislative-and-local-elections?traffic_source=rss"
             },
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Krakow Shooting Suspect Dies as Poland Mourns Six Victims",
-          "body": "A shooting suspect in Krakow, Poland, died after the incident, which left six people dead. The event sparked widespread mourning and discussions about safety measures and public security in the region.",
-          "whyItMatters": "The incident highlights the ongoing challenges of managing public safety and the impact of violent events on communities.",
+          "title": "France Blames Iran for Supermarket Cyberattack",
+          "body": "France has accused Iran of conducting a cyberattack on a supermarket in October, citing the incident as a demonstration of cyber warfare capabilities. The attack raised concerns about the growing role of cyber threats in international conflicts and the need for stronger cybersecurity measures.",
+          "whyItMatters": "The incident highlights the increasing prevalence of cyberattacks as a tool of geopolitical rivalry.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/krakow-shooting-suspect-dies-as-poland-mourns-six-victims?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/9/meta-rolls-out-automated-age-checks-for-teens-globally?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Nvidia Shares Tumble Over Investigation into Huang's Affair with Alleged Chinese Spy",
-          "body": "Nvidia's stock prices fell sharply following an investigation into a former employee's alleged affair with an alleged Chinese spy. The incident raised concerns about corporate ethics and the potential impact on the company's reputation and stock value.",
-          "whyItMatters": "The event underscores the importance of corporate accountability and the potential consequences of ethical breaches in the tech industry.",
+          "title": "Ukraine Peace Talks Resume with Flexibility",
+          "body": "Ukrainian peace talks have resumed with some flexibility from both sides, as US officials indicated. The talks aim to address the ongoing conflict and reduce military tensions. The involvement of the United States suggests a potential shift in the geopolitical landscape toward de-escalation.",
+          "whyItMatters": "The resumption of peace talks could lead to a more stable resolution of the conflict in Ukraine.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-09T18:56:55.111Z"
+      "updatedAt": "2026-11-10T02:48:23.760Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers medical breakthroughs, climate science, space exploration, and natural phenomena.",
+      "summary": "Today's lens covers advances in science, technology, and climate research, including new findings in particle physics, space exploration, and climate change.",
       "stories": [
         {
-          "title": "Medical Breakthrough for Stiff Person Syndrome",
-          "body": "A new medical breakthrough offers hope for individuals with stiff person syndrome, a rare neurological condition that causes severe muscle stiffness and spasms. Researchers from The Guardian Science have reported progress in understanding the condition and developing potential treatments. This development could significantly improve the quality of life for those affected.",
-          "whyItMatters": "A new medical breakthrough could lead to improved treatments for rare neurological conditions.",
+          "title": "Alzheimer’s may have early warning signs outside the brain",
+          "body": "A study suggests that early signs of Alzheimer’s disease may be detectable in blood, offering new insights into the progression of the condition. Researchers observed patterns in biomarkers that correlate with the disease, potentially enabling earlier diagnosis and intervention.",
+          "whyItMatters": "Early detection of Alzheimer’s could lead to better treatment options and improved quality of life for affected individuals.",
           "sources": [
             {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/nov/09/medical-breakthrough-offers-hope-to-people-with-same-stiff-person-syndrome-as-celine-dion"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm"
             },
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm"
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "NASA's Moon Mission Plan",
-          "body": "NASA has announced a bold new plan to return astronauts to the Moon by 2028. The plan includes the development of new spacecraft and technologies to support long-term lunar missions. This initiative is part of broader efforts to explore the solar system and advance space exploration.",
-          "whyItMatters": "NASA's moon mission plan could shape future space exploration and research efforts.",
+          "title": "CERN discovers a rare particle decay",
+          "body": "CERN has detected a rare form of particle decay that occurs at a rate of one in 10 billion events. This finding could help refine our understanding of fundamental physics and the forces that govern the universe.",
+          "whyItMatters": "Such discoveries contribute to the broader quest for understanding the fundamental laws of nature and may lead to new technologies or theories.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "NASA plans to return astronauts to the Moon in 2028",
+          "body": "NASA has announced a new plan to send astronauts back to the Moon by 2028, aiming to establish a sustainable presence and conduct scientific research. The mission builds on previous lunar exploration efforts and emphasizes long-term exploration goals.",
+          "whyItMatters": "This mission represents a critical step in advancing space exploration and scientific research, with potential impacts on future planetary missions and international collaboration.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -89,78 +100,59 @@
               "url": "https://www.theguardian.com/science/2026/nov/08/nasa-astronauts-moon-applications-open"
             }
           ]
-        },
-        {
-          "title": "Ancient Siberian Tomb Reveals Cannabis Use",
-          "body": "A newly discovered ancient tomb in Siberia provides insights into the use of cannabis 2,800 years ago. The findings, reported by ScienceDaily, highlight the historical significance of cannabis and its use in various cultural and medicinal contexts. This discovery adds to the growing body of knowledge about ancient civilizations and their practices.",
-          "whyItMatters": "Ancient discoveries can provide valuable insights into human history and cultural practices.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261108202703.htm"
-            }
-          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-09T18:56:55.111Z"
+      "updatedAt": "2026-11-10T02:48:23.760Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The economic landscape is shaped by both technological advancements and geopolitical tensions, with notable events in AI, labor, and global policy.",
+      "summary": "Global economic developments, including political tensions, corporate scandals, and market reactions, shape the landscape for students.",
       "stories": [
         {
-          "title": "Civil servant faces legal consequences for multiple jobs",
-          "body": "A civil servant in the UK was found guilty of fraud for secretly holding five jobs, highlighting the challenges of employment and legal compliance in a rapidly changing economy.",
-          "whyItMatters": "This case underscores the importance of ethical conduct and legal accountability in the workforce, especially in sectors with high mobility.",
+          "title": "Cameroon Sets Date for Twice-Delayed Elections",
+          "body": "Cameroon has set a date for its legislative and local elections, which were initially postponed due to logistical challenges. The decision comes as the country prepares for a new political cycle, with stakeholders hoping for stable governance and economic growth.",
+          "whyItMatters": "The timing of elections could influence political stability and economic planning in the region.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/10/cameroon-sets-date-for-twice-delayed-legislative-and-local-elections?traffic_source=rss"
             },
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Nvidia shares drop as investigation into Huang's affair begins",
-          "body": "Nvidia's stock fell by $330 billion following an investigation into Jensen Huang's alleged affair with a suspected Chinese spy, raising concerns about corporate ethics and foreign influence in the tech sector.",
-          "whyItMatters": "The investigation highlights the growing scrutiny of corporate practices and the potential impact of foreign interests on global technology firms.",
+          "title": "Nvidia Shares Fall as CEO's Affair Under Investigation",
+          "body": "Nvidia shares fell after the company faced a legal investigation into the affair of its CEO, Jensen Huang, who is accused of having an affair with an alleged Chinese spy. The scandal has raised concerns about corporate ethics and potential legal repercussions.",
+          "whyItMatters": "The incident highlights the impact of corporate scandals on stock prices and investor confidence.",
           "sources": [
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "BBC Business",
               "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Meta introduces automated age checks for teens globally",
-          "body": "Meta has launched automated age verification for its teen users, aiming to combat online safety and protect young users from harmful content.",
-          "whyItMatters": "This initiative reflects the increasing focus on digital well-being and the need for robust safeguards in the tech industry.",
+          "title": "Americans Less Likely to Back Pro-War Candidates",
+          "body": "A recent poll found that Americans are less likely to support pro-war candidates by a 3-1 margin. This trend reflects growing skepticism about military involvement and the associated political risks.",
+          "whyItMatters": "Public opinion on military policy can influence political outcomes and policy decisions.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/9/meta-rolls-out-automated-age-checks-for-teens-globally?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-09T18:56:55.111Z"
+      "updatedAt": "2026-11-10T02:48:23.760Z"
     }
   }
 }
