@@ -1,142 +1,150 @@
 {
-  "generatedAt": "2026-11-10T21:52:01.639Z",
+  "generatedAt": "2026-11-11T06:47:30.721Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of international events, including political developments, conflicts, and cultural shifts, highlighting the complex interplay of global dynamics.",
+      "summary": "Today's lens covers a mix of international developments, including political tensions, regional conflicts, and global events affecting students.",
       "stories": [
         {
-          "title": "UK arrests US soldier on suspicion of spying for Russia",
-          "body": "A US soldier was arrested in the UK on suspicion of espionage for Russia, raising concerns about transnational security threats and the impact of geopolitical tensions on domestic law enforcement. The arrest underscores the challenges of cross-border legal and security issues in the modern era.",
-          "whyItMatters": "This incident highlights the complexities of international law and the potential for domestic arrests to reflect broader geopolitical concerns.",
+          "title": "Netanyahu fights to stay relevant as Israel’s opposition closes in",
+          "body": "Israeli Prime Minister Benjamin Netanyahu faces growing pressure to remain relevant as his opposition gains strength. Al Jazeera reports that Netanyahu is actively campaigning to maintain his political influence, while his party faces internal challenges and declining support. The situation highlights the shifting dynamics in Israeli politics.",
+          "whyItMatters": "The political landscape in Israel is evolving, with key figures like Netanyahu seeking to retain power amid growing opposition.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Spain's royal family attends memorial for rail crash victims",
-          "body": "The Spanish royal family attended a memorial service for victims of a tragic rail crash, reflecting on the human cost of industrial accidents and the role of leadership in times of crisis. The event also underscores the importance of national unity and collective memory in post-crisis recovery.",
-          "whyItMatters": "The memorial service highlights the intersection of national leadership and public sentiment, emphasizing the role of monarchy in times of disaster.",
+          "title": "South African swimmer Tatjana Smith switches allegiance to Netherlands",
+          "body": "South African swimmer Tatjana Smith has announced her switch from representing South Africa to the Netherlands, citing personal and professional reasons. This move reflects the complexities of international sports and the impact of political and cultural factors on athlete decisions.",
+          "whyItMatters": "Athletes often navigate political and cultural influences, highlighting the intersection of sports and global politics.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Israel's new parliament sworn in as leaders compete to form government",
-          "body": "Israel's new parliament was sworn in, with political leaders vying to form a government amid an election deadlock. The competition for power reflects the volatile nature of political transitions and the influence of public opinion in shaping governance.",
-          "whyItMatters": "The formation of a new government highlights the challenges of political stability and the impact of public sentiment on leadership decisions.",
+          "title": "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
+          "body": "Yemeni forces and the Houthis have exchanged attacks, with both sides claiming to inflict heavy losses. The conflict in Yemen continues to escalate, affecting regional stability and humanitarian efforts. Al Jazeera reports that the violence has intensified, raising concerns about the long-term impact on the population.",
+          "whyItMatters": "The ongoing conflict in Yemen has significant humanitarian and geopolitical implications, affecting regional stability and international relations.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-10T21:52:01.639Z"
+      "updatedAt": "2026-11-11T06:47:30.721Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers scientific advancements, climate issues, and educational initiatives impacting students globally.",
+      "kicker": "Science & Nature",
+      "summary": "Today's lens highlights groundbreaking scientific discoveries, climate-related concerns, and health-related updates, offering insights into the latest developments in academia and environmental science.",
       "stories": [
         {
-          "title": "Tinned food and bottled water sales surge after campaign",
-          "body": "Sales of tinned food and bottled water increased following the 'Be Ready' campaign, which emphasized preparedness for potential climate-related disruptions. The campaign was launched by the BBC Science department, highlighting the importance of food security in a changing climate.",
-          "whyItMatters": "The campaign's impact on consumer behavior may influence global food supply chains and sustainability efforts.",
-          "sources": [
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Winter depression and its potential solutions",
-          "body": "A new podcast explores the real phenomenon of winter depression, offering insights into its causes and potential treatments. The content is supported by The Guardian Science, emphasizing the importance of mental health awareness and intervention strategies.",
-          "whyItMatters": "Understanding and addressing winter depression can improve mental health outcomes and support student well-being in academic settings.",
-          "sources": [
-            {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/audio/2026/nov/10/why-we-get-sad-and-what-helps-podcast"
-            }
-          ]
-        },
-        {
-          "title": "Alzheimer's may have early warning signs outside the brain",
-          "body": "A study from ScienceDaily reveals that Alzheimer's disease may have early indicators outside the brain, suggesting new avenues for early detection and intervention. The research is based on a comprehensive analysis of neurological data.",
-          "whyItMatters": "Early detection of Alzheimer's could lead to better management and treatment options, potentially impacting global healthcare and research efforts.",
+          "title": "Ancient Rodent Discovery",
+          "body": "Scientists have uncovered a 66-pound rodent fossil dating back 34 million years, providing insights into prehistoric ecosystems. The discovery, made by a team from the University of Cambridge, suggests that such creatures may have played a key role in shaping early environments. This finding contributes to our understanding of evolutionary biology and paleontology.",
+          "whyItMatters": "This discovery offers new perspectives on ancient ecosystems and the evolution of species, potentially influencing future research in paleontology and evolutionary biology.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261109205406.htm"
+            }
+          ]
+        },
+        {
+          "title": "Fossils Reveal Bizarre Marine Life",
+          "body": "Fossils from 237 million years ago reveal a strange armored sea amphibian, providing clues about the evolution of vertebrates and marine life. The discovery, made by researchers at the University of Bristol, sheds light on the diversity of life during the Carboniferous period and the transition from aquatic to terrestrial environments.",
+          "whyItMatters": "These fossils offer critical insights into the evolution of life on Earth and the development of complex body structures in early vertebrates.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261109205406.htm"
+            }
+          ]
+        },
+        {
+          "title": "Climate Concerns and Public Response",
+          "body": "Kenyans are worried about the impact of El Niño, with forecasts predicting severe floods. The BBC reported that the 'Be Ready' campaign has led to a surge in sales of tinned food and bottled water, highlighting the public's response to climate-related threats. This reflects growing awareness of environmental risks and the need for preparedness.",
+          "whyItMatters": "The surge in consumer demand for emergency supplies underscores the importance of climate preparedness and the role of public campaigns in addressing environmental challenges.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cwm242plggldo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-10T21:52:01.639Z"
+      "updatedAt": "2026-11-11T06:47:30.721Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The lens covers economic developments, including tech, inflation, and geopolitical events impacting global markets.",
+      "summary": "Today's lens covers a mix of global economic developments, political shifts, and technological advancements, highlighting key trends and events impacting various regions and sectors.",
       "stories": [
         {
-          "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-          "body": "Nvidia has hired a major New York law firm to investigate the personal affairs of its co-founder, Jensen Huang, who is under scrutiny for alleged misconduct. The move comes amid ongoing legal and ethical debates surrounding tech leadership and corporate governance.",
-          "whyItMatters": "This highlights the growing importance of legal and ethical scrutiny in the tech industry, which can influence corporate policies and public trust.",
+          "title": "Israel's Political Landscape",
+          "body": "Israeli Prime Minister Benjamin Netanyahu faces growing pressure as his opposition gains momentum. He is actively seeking to maintain relevance by engaging in political strategies and public appearances, aiming to retain his position in a shifting political environment.",
+          "whyItMatters": "Netanyahu's political strategies could influence Israel's governance and public perception in the coming months.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "US inflation rises slightly in October as gas prices drop",
-          "body": "US inflation rose by 0.4% in October, driven by rising energy costs and a decline in gas prices. This reflects the complex dynamics of price changes and their impact on consumer spending and economic policy.",
-          "whyItMatters": "Inflation trends are crucial for understanding economic stability and policy decisions, especially in a global context where supply chains and energy prices are volatile.",
+          "title": "Netherlands and South African Athlete",
+          "body": "South African swimmer Tatjana Smith has switched allegiance to the Netherlands, reflecting the growing trend of athletes choosing to represent countries that align with their personal or professional goals. This decision highlights the evolving nature of international sports representation.",
+          "whyItMatters": "Athletes' choices can impact national sports strategies and international competition dynamics.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Global Economic Trends",
+          "body": "Global inflation rates have shown slight increases, with US inflation rising to 0.4% in October. Oil prices fell to historic lows due to reduced geopolitical tensions and economic forecasts. These trends reflect broader economic shifts affecting consumers and businesses worldwide.",
+          "whyItMatters": "Economic trends like inflation and oil prices can significantly impact consumer behavior, investment decisions, and global trade dynamics.",
           "sources": [
             {
               "name": "The Guardian Business",
               "url": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report"
             },
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Boeing cuts 5% of its commercial plane workforce",
-          "body": "Boeing announced plans to cut approximately 5% of its commercial plane workforce, reflecting challenges in the aviation industry due to economic pressures and technological advancements.",
-          "whyItMatters": "Workforce reductions in major industries can signal broader economic shifts and the need for adaptation in labor markets and corporate strategies.",
-          "sources": [
-            {
               "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/nov/09/boeing-to-cut-commercial-plane-workforce"
+              "url": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-10T21:52:01.639Z"
+      "updatedAt": "2026-11-11T06:47:30.721Z"
     }
   }
 }
