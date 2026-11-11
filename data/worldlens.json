@@ -1,72 +1,69 @@
 {
-  "generatedAt": "2026-11-11T16:23:03.096Z",
+  "generatedAt": "2026-11-11T22:52:03.240Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of geopolitical tensions, regional conflicts, and international developments, including legal disputes, ecological impacts, and security concerns.",
+      "kicker": "Global Brief",
+      "summary": "Today's lens covers geopolitical developments, including legal rulings, regional conflicts, and international security concerns.",
       "stories": [
         {
-          "title": "Argentine Lawyer Mocks UK Sovereignty Claim in Falklands Oil Case",
-          "body": "An Argentine lawyer has mocked the UK's claim of sovereignty over the Falkland Islands, highlighting the legal and political complexities of territorial disputes. The case involves oil rights and international law, with the UK asserting control over the islands. The response reflects the broader tensions between nations over maritime sovereignty.",
-          "whyItMatters": "The legal and political implications of territorial disputes can influence international relations and resource management.",
+          "title": "Judge Rules Trump’s $10bn BBC Defamation Suit Can Proceed",
+          "body": "A judge in the UK has ruled that Trump’s $10 billion defamation lawsuit against the BBC can proceed, highlighting ongoing legal battles over media freedom and accountability.",
+          "whyItMatters": "This ruling underscores the tension between legal protections for public figures and the role of media in holding power accountable.",
           "sources": [
             {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/11/judge-rules-trumps-10bn-bbc-defamation-suit-can-proceed?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/11/russia-bans-two-french-lawmakers-two-journalists-in-tit-for-tat-move?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Israel Disrupts Lebanon’s Wheat Crop",
-          "body": "Israel has been reported to disrupt the wheat crop in Lebanon, affecting local agriculture and food security. The disruption raises concerns about regional stability and the impact of military actions on civilian populations. The situation highlights the broader challenges of conflict and its effects on food production and livelihoods.",
-          "whyItMatters": "Military actions can have significant consequences for civilian populations and agricultural productivity, affecting food security and regional stability.",
+          "title": "Clashes Erupt in Barcelona After Thousands Join Spain General Strike",
+          "body": "Protests erupted in Barcelona following the general strike, with demonstrators calling for economic reforms and social justice, reflecting broader tensions in Spain’s political landscape.",
+          "whyItMatters": "The protests highlight the growing demand for political reform and the role of grassroots movements in shaping public policy.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Russia Bans French Lawmakers and Journalists in Tit-for-Tat Move",
-          "body": "Russia has banned two French lawmakers and two journalists in a tit-for-tat response to previous sanctions. The move underscores the ongoing tensions between Russia and France, particularly over issues of human rights and political dissent. The ban reflects the complex dynamics of international relations and the impact of sanctions on individuals.",
-          "whyItMatters": "Sanctions and retaliatory actions can affect individuals and institutions, influencing political and social dynamics in affected regions.",
+          "title": "Hormuz Strait Will 'Never Return' to Pre-War Status, Iran’s Ghalibaf Says",
+          "body": "Iranian Foreign Minister Ghalibaf stated that the Hormuz Strait will never return to its pre-war status, emphasizing the strategic importance of the region and the impact of recent conflicts.",
+          "whyItMatters": "This statement reflects the ongoing geopolitical tensions in the Persian Gulf and the strategic significance of maritime routes for global trade and energy.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/11/russia-bans-two-french-lawmakers-two-journalists-in-tit-for-tat-move?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-11T16:23:03.096Z"
+      "updatedAt": "2026-11-11T22:52:03.240Z"
     },
     "science": {
       "kicker": "Science & Nature",
-      "summary": "Today's lens covers recent scientific discoveries, environmental concerns, and global events impacting students.",
+      "summary": "Today's lens covers scientific discoveries, environmental concerns, and global research updates.",
       "stories": [
         {
-          "title": "Bears attack and kill in Canada",
-          "body": "In Canada, four grizzly bears were reported to have killed a mother and daughter after a violent attack. The incident highlights the unpredictable nature of wildlife behavior and the potential risks posed by large predators. The event has sparked discussions about animal behavior and conservation efforts.",
-          "whyItMatters": "This incident underscores the importance of understanding wildlife interactions and the need for responsible wildlife management.",
-          "sources": [
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "New research on ovarian cancer detection",
-          "body": "A study published in The Guardian Science reveals that a molecular signal in blood can help detect early risk for ovarian cancer. This breakthrough could significantly improve early diagnosis and treatment options for patients.",
-          "whyItMatters": "Early detection of ovarian cancer can lead to better outcomes, emphasizing the importance of ongoing research in medical science.",
+          "title": "Ovarian Cancer Detection Breakthrough",
+          "body": "A study from The Guardian Science reveals that a molecular signal in blood can detect early risk for ovarian cancer. This could revolutionize early diagnosis and treatment, offering new hope for patients.",
+          "whyItMatters": "Early detection of ovarian cancer can significantly improve survival rates, making this research a critical advancement in oncology.",
           "sources": [
             {
               "name": "The Guardian Science",
@@ -75,9 +72,20 @@
           ]
         },
         {
-          "title": "Unraveling the mystery of hair growth",
-          "body": "ScienceDaily reports that researchers have made progress in understanding how hair knows where to grow. This research could have implications for hair loss treatments and regenerative medicine.",
-          "whyItMatters": "Understanding hair growth mechanisms may lead to new therapies for conditions like alopecia and other hair-related disorders.",
+          "title": "Droughts Threaten Iconic Species",
+          "body": "Nature reports that extreme droughts could push cacti and other iconic species to extinction. Climate change is exacerbating these conditions, raising concerns about biodiversity loss and ecosystem stability.",
+          "whyItMatters": "The loss of iconic species can disrupt ecosystems and affect global biodiversity, highlighting the urgent need for climate action and conservation efforts.",
+          "sources": [
+            {
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03671-2"
+            }
+          ]
+        },
+        {
+          "title": "New Insights into Hair Growth Mechanisms",
+          "body": "ScienceDaily reports that researchers have made progress in understanding how hair knows where to grow. This research could lead to new treatments for hair loss and other related conditions.",
+          "whyItMatters": "Understanding hair growth mechanisms may provide innovative solutions for individuals facing hair loss or other related health issues.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -87,20 +95,35 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-11T16:23:03.096Z"
+      "updatedAt": "2026-11-11T22:52:03.240Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including tech company investigations, geopolitical tensions, and market trends.",
+      "summary": "Today's lens covers a mix of economic developments, including geopolitical tensions, tech industry news, and consumer trends.",
       "stories": [
         {
-          "title": "Nvidia hires major US law firm to investigate spying claims",
-          "body": "Nvidia has hired a major US law firm to investigate allegations of espionage, following reports of a potential Chinese spy affair. The move comes amid concerns over data security and corporate accountability. The firm's involvement is seen as a response to ongoing legal pressures and allegations of misconduct.",
-          "whyItMatters": "Corporate accountability and data security are critical issues in the tech industry, highlighting the need for transparent investigations and legal protections.",
+          "title": "Iran designates Argentinian navy, air force as 'terrorist organizations'",
+          "body": "Iran has designated the Argentine navy and air force as terrorist organizations, citing concerns over their involvement in regional conflicts. This move comes amid ongoing tensions in the Middle East and the broader geopolitical landscape.",
+          "whyItMatters": "This designation highlights the complex interplay between regional conflicts and international relations, emphasizing the potential for escalation in the region.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
+          "body": "Nvidia has hired a major US law firm to investigate Jensen Huang’s relationship with an alleged Chinese spy. The move follows allegations of espionage and has raised concerns about corporate ethics and national security.",
+          "whyItMatters": "This development underscores the growing scrutiny of corporate relationships and the potential risks associated with high-profile individuals in sensitive roles.",
           "sources": [
             {
               "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates"
+              "url": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship"
             },
             {
               "name": "BBC Business",
@@ -109,30 +132,23 @@
           ]
         },
         {
-          "title": "Israel disrupts Lebanon’s wheat crop",
-          "body": "Israel has reportedly disrupted the entire ecosystem of Lebanon’s wheat crop, raising concerns about food security and agricultural sustainability. The disruption is attributed to military operations and the impact of conflict on local farming practices. This event underscores the broader consequences of conflict on food production and supply chains.",
-          "whyItMatters": "Conflict and military actions can have severe economic and food security implications, emphasizing the need for sustainable agricultural practices and international cooperation.",
+          "title": "US inflation rises 0.4% in October as gas costs dip",
+          "body": "US inflation rose 0.4% in October, driven by rising energy prices and a slowdown in price increases. Despite this, gas costs dipped, indicating a partial cooling in the inflationary trend.",
+          "whyItMatters": "This data highlights the complex factors influencing inflation and the potential for economic stabilization in the coming months.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Russia bans two French lawmakers and journalists",
-          "body": "Russia has banned two French lawmakers and two journalists as part of a tit-for-tat response to perceived violations of Russian laws. The move reflects the ongoing tensions between Russia and France, particularly regarding human rights and political freedoms. This action highlights the complex dynamics of international relations and legal disputes.",
-          "whyItMatters": "Geopolitical tensions and legal disputes can have far-reaching effects on international relations, underscoring the importance of diplomatic engagement and legal frameworks.",
-          "sources": [
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report"
+            },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/11/russia-bans-two-french-lawmakers-two-journalists-in-tit-for-tat-move?traffic_source=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-11T16:23:03.096Z"
+      "updatedAt": "2026-11-11T22:52:03.240Z"
     }
   }
 }
