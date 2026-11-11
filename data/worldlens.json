@@ -1,150 +1,138 @@
 {
-  "generatedAt": "2026-11-11T06:47:30.721Z",
+  "generatedAt": "2026-11-11T16:23:03.096Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of international developments, including political tensions, regional conflicts, and global events affecting students.",
+      "summary": "Today's lens covers a mix of geopolitical tensions, regional conflicts, and international developments, including legal disputes, ecological impacts, and security concerns.",
       "stories": [
         {
-          "title": "Netanyahu fights to stay relevant as Israel’s opposition closes in",
-          "body": "Israeli Prime Minister Benjamin Netanyahu faces growing pressure to remain relevant as his opposition gains strength. Al Jazeera reports that Netanyahu is actively campaigning to maintain his political influence, while his party faces internal challenges and declining support. The situation highlights the shifting dynamics in Israeli politics.",
-          "whyItMatters": "The political landscape in Israel is evolving, with key figures like Netanyahu seeking to retain power amid growing opposition.",
+          "title": "Argentine Lawyer Mocks UK Sovereignty Claim in Falklands Oil Case",
+          "body": "An Argentine lawyer has mocked the UK's claim of sovereignty over the Falkland Islands, highlighting the legal and political complexities of territorial disputes. The case involves oil rights and international law, with the UK asserting control over the islands. The response reflects the broader tensions between nations over maritime sovereignty.",
+          "whyItMatters": "The legal and political implications of territorial disputes can influence international relations and resource management.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss"
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/11/russia-bans-two-french-lawmakers-two-journalists-in-tit-for-tat-move?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "South African swimmer Tatjana Smith switches allegiance to Netherlands",
-          "body": "South African swimmer Tatjana Smith has announced her switch from representing South Africa to the Netherlands, citing personal and professional reasons. This move reflects the complexities of international sports and the impact of political and cultural factors on athlete decisions.",
-          "whyItMatters": "Athletes often navigate political and cultural influences, highlighting the intersection of sports and global politics.",
+          "title": "Israel Disrupts Lebanon’s Wheat Crop",
+          "body": "Israel has been reported to disrupt the wheat crop in Lebanon, affecting local agriculture and food security. The disruption raises concerns about regional stability and the impact of military actions on civilian populations. The situation highlights the broader challenges of conflict and its effects on food production and livelihoods.",
+          "whyItMatters": "Military actions can have significant consequences for civilian populations and agricultural productivity, affecting food security and regional stability.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
-          "body": "Yemeni forces and the Houthis have exchanged attacks, with both sides claiming to inflict heavy losses. The conflict in Yemen continues to escalate, affecting regional stability and humanitarian efforts. Al Jazeera reports that the violence has intensified, raising concerns about the long-term impact on the population.",
-          "whyItMatters": "The ongoing conflict in Yemen has significant humanitarian and geopolitical implications, affecting regional stability and international relations.",
+          "title": "Russia Bans French Lawmakers and Journalists in Tit-for-Tat Move",
+          "body": "Russia has banned two French lawmakers and two journalists in a tit-for-tat response to previous sanctions. The move underscores the ongoing tensions between Russia and France, particularly over issues of human rights and political dissent. The ban reflects the complex dynamics of international relations and the impact of sanctions on individuals.",
+          "whyItMatters": "Sanctions and retaliatory actions can affect individuals and institutions, influencing political and social dynamics in affected regions.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/11/russia-bans-two-french-lawmakers-two-journalists-in-tit-for-tat-move?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-11T06:47:30.721Z"
+      "updatedAt": "2026-11-11T16:23:03.096Z"
     },
     "science": {
       "kicker": "Science & Nature",
-      "summary": "Today's lens highlights groundbreaking scientific discoveries, climate-related concerns, and health-related updates, offering insights into the latest developments in academia and environmental science.",
+      "summary": "Today's lens covers recent scientific discoveries, environmental concerns, and global events impacting students.",
       "stories": [
         {
-          "title": "Ancient Rodent Discovery",
-          "body": "Scientists have uncovered a 66-pound rodent fossil dating back 34 million years, providing insights into prehistoric ecosystems. The discovery, made by a team from the University of Cambridge, suggests that such creatures may have played a key role in shaping early environments. This finding contributes to our understanding of evolutionary biology and paleontology.",
-          "whyItMatters": "This discovery offers new perspectives on ancient ecosystems and the evolution of species, potentially influencing future research in paleontology and evolutionary biology.",
+          "title": "Bears attack and kill in Canada",
+          "body": "In Canada, four grizzly bears were reported to have killed a mother and daughter after a violent attack. The incident highlights the unpredictable nature of wildlife behavior and the potential risks posed by large predators. The event has sparked discussions about animal behavior and conservation efforts.",
+          "whyItMatters": "This incident underscores the importance of understanding wildlife interactions and the need for responsible wildlife management.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261109205406.htm"
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Fossils Reveal Bizarre Marine Life",
-          "body": "Fossils from 237 million years ago reveal a strange armored sea amphibian, providing clues about the evolution of vertebrates and marine life. The discovery, made by researchers at the University of Bristol, sheds light on the diversity of life during the Carboniferous period and the transition from aquatic to terrestrial environments.",
-          "whyItMatters": "These fossils offer critical insights into the evolution of life on Earth and the development of complex body structures in early vertebrates.",
+          "title": "New research on ovarian cancer detection",
+          "body": "A study published in The Guardian Science reveals that a molecular signal in blood can help detect early risk for ovarian cancer. This breakthrough could significantly improve early diagnosis and treatment options for patients.",
+          "whyItMatters": "Early detection of ovarian cancer can lead to better outcomes, emphasizing the importance of ongoing research in medical science.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261109205406.htm"
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/society/2026/nov/11/ovarian-cancer-study-early-detection-blood"
             }
           ]
         },
         {
-          "title": "Climate Concerns and Public Response",
-          "body": "Kenyans are worried about the impact of El Niño, with forecasts predicting severe floods. The BBC reported that the 'Be Ready' campaign has led to a surge in sales of tinned food and bottled water, highlighting the public's response to climate-related threats. This reflects growing awareness of environmental risks and the need for preparedness.",
-          "whyItMatters": "The surge in consumer demand for emergency supplies underscores the importance of climate preparedness and the role of public campaigns in addressing environmental challenges.",
+          "title": "Unraveling the mystery of hair growth",
+          "body": "ScienceDaily reports that researchers have made progress in understanding how hair knows where to grow. This research could have implications for hair loss treatments and regenerative medicine.",
+          "whyItMatters": "Understanding hair growth mechanisms may lead to new therapies for conditions like alopecia and other hair-related disorders.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cwm242plggldo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261109205413.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-11T06:47:30.721Z"
+      "updatedAt": "2026-11-11T16:23:03.096Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of global economic developments, political shifts, and technological advancements, highlighting key trends and events impacting various regions and sectors.",
+      "summary": "Today's lens covers a mix of economic developments, including tech company investigations, geopolitical tensions, and market trends.",
       "stories": [
         {
-          "title": "Israel's Political Landscape",
-          "body": "Israeli Prime Minister Benjamin Netanyahu faces growing pressure as his opposition gains momentum. He is actively seeking to maintain relevance by engaging in political strategies and public appearances, aiming to retain his position in a shifting political environment.",
-          "whyItMatters": "Netanyahu's political strategies could influence Israel's governance and public perception in the coming months.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Netherlands and South African Athlete",
-          "body": "South African swimmer Tatjana Smith has switched allegiance to the Netherlands, reflecting the growing trend of athletes choosing to represent countries that align with their personal or professional goals. This decision highlights the evolving nature of international sports representation.",
-          "whyItMatters": "Athletes' choices can impact national sports strategies and international competition dynamics.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Global Economic Trends",
-          "body": "Global inflation rates have shown slight increases, with US inflation rising to 0.4% in October. Oil prices fell to historic lows due to reduced geopolitical tensions and economic forecasts. These trends reflect broader economic shifts affecting consumers and businesses worldwide.",
-          "whyItMatters": "Economic trends like inflation and oil prices can significantly impact consumer behavior, investment decisions, and global trade dynamics.",
+          "title": "Nvidia hires major US law firm to investigate spying claims",
+          "body": "Nvidia has hired a major US law firm to investigate allegations of espionage, following reports of a potential Chinese spy affair. The move comes amid concerns over data security and corporate accountability. The firm's involvement is seen as a response to ongoing legal pressures and allegations of misconduct.",
+          "whyItMatters": "Corporate accountability and data security are critical issues in the tech industry, highlighting the need for transparent investigations and legal protections.",
           "sources": [
             {
               "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report"
+              "url": "https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates"
             },
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Israel disrupts Lebanon’s wheat crop",
+          "body": "Israel has reportedly disrupted the entire ecosystem of Lebanon’s wheat crop, raising concerns about food security and agricultural sustainability. The disruption is attributed to military operations and the impact of conflict on local farming practices. This event underscores the broader consequences of conflict on food production and supply chains.",
+          "whyItMatters": "Conflict and military actions can have severe economic and food security implications, emphasizing the need for sustainable agricultural practices and international cooperation.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Russia bans two French lawmakers and journalists",
+          "body": "Russia has banned two French lawmakers and two journalists as part of a tit-for-tat response to perceived violations of Russian laws. The move reflects the ongoing tensions between Russia and France, particularly regarding human rights and political freedoms. This action highlights the complex dynamics of international relations and legal disputes.",
+          "whyItMatters": "Geopolitical tensions and legal disputes can have far-reaching effects on international relations, underscoring the importance of diplomatic engagement and legal frameworks.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/11/russia-bans-two-french-lawmakers-two-journalists-in-tit-for-tat-move?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-11T06:47:30.721Z"
+      "updatedAt": "2026-11-11T16:23:03.096Z"
     }
   }
 }
