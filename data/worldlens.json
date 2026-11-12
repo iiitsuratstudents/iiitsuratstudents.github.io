@@ -1,77 +1,62 @@
 {
-  "generatedAt": "2026-11-12T07:26:15.841Z",
+  "generatedAt": "2026-11-12T16:54:31.063Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers developments in political and social contexts, including Israeli politics, regional conflicts, and international events.",
+      "summary": "Today's lens covers a mix of international events, including a deadly strike in Gaza, military disruptions in Ukraine, and regional conflicts, while also highlighting humanitarian and political developments.",
       "stories": [
         {
-          "title": "Netanyahu’s legacy: Personality politics reshapes Israeli democracy",
-          "body": "Prime Minister Benjamin Netanyahu's political influence has shifted from strategic governance to personal appeal, with his leadership style increasingly centered on public persona and media presence. His policies, while controversial, have reinforced his political dominance in Israel, reflecting a transition from traditional governance to modern political theater.",
-          "whyItMatters": "The evolving nature of political leadership in Israel highlights the growing role of personality in shaping policy and public perception.",
+          "title": "Israeli strike on Gaza hospital kills six Palestinians",
+          "body": "An Israeli strike on a Gaza hospital killed six Palestinians, according to the BBC World report. The incident occurred on November 12, 2026, and highlights ongoing tensions in the region. The attack has drawn international attention to the conflict in Gaza.",
+          "whyItMatters": "The incident underscores the continued instability in the Middle East and the human cost of the conflict.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/12/netanyahus-legacy-personality-politics-reshapes-israeli-democracy?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/opinions/2026/11/12/sheikh-hasina-must-return-to-bangladesh-to-face-her-sentence?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Ukrainian power supply close to critical as Russian strikes bring darkness and cold",
-          "body": "Russian military actions have disrupted Ukraine's energy infrastructure, leading to a near-critical situation for the country's power grid. The ongoing conflict has exacerbated energy shortages, with officials warning of potential blackouts and the impact on daily life and economic stability.",
-          "whyItMatters": "The strain on Ukraine's energy supply underscores the broader consequences of prolonged conflict on regional stability and international relations.",
+          "title": "Ukraine says military Starlink disrupted again",
+          "body": "Ukraine reported that its military Starlink satellite communication system was disrupted again, as US envoys met with Putin in Moscow. This disruption raises concerns about the impact of cyberattacks on critical infrastructure in Ukraine.",
+          "whyItMatters": "The disruption of Starlink services highlights the vulnerability of modern communication networks in conflict zones.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-          "body": "Democratic candidate Scott Colom secured a major victory in the Mississippi Senate race, marking a significant shift in the political landscape of the United States. The win reflects the growing influence of progressive candidates and the changing dynamics of electoral politics in the country.",
-          "whyItMatters": "The outcome of this election highlights the evolving political trends and the increasing role of voter engagement in shaping national policy.",
+          "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
+          "body": "The UAE reported that 14 people were killed and 30 injured in a traffic accident in Fujairah. The incident occurred on November 12, 2026, and reflects the ongoing risks of road accidents in the region.",
+          "whyItMatters": "The accident underscores the need for improved road safety measures and infrastructure in densely populated areas.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-12T07:26:15.841Z"
+      "updatedAt": "2026-11-12T16:54:31.063Z"
     },
     "science": {
-      "kicker": "Science & Nature",
-      "summary": "Today's lens covers scientific discoveries, environmental concerns, and human health advancements.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens covers advancements in astronomy, climate science, environmental health, and biological research, highlighting both scientific discoveries and their potential implications for global understanding.",
       "stories": [
         {
-          "title": "BBC Science: Food Supply Warnings",
-          "body": "The BBC Science report highlights a summer warning that winter could be dire for food supplies, emphasizing the need for preparedness and sustainability. The warning is based on climate patterns and agricultural forecasts, which suggest potential disruptions in food production and distribution.",
-          "whyItMatters": "Understanding climate-related food security risks is crucial for developing resilient agricultural strategies and global food policies.",
+          "title": "European survey reveals 900m galaxies – and possibly secrets of ‘dark universe’",
+          "body": "A European survey using the Euclid space telescope has identified approximately 900 million galaxies, providing new insights into the structure and evolution of the universe. The findings may help scientists better understand the nature of dark matter and dark energy, which make up most of the universe's mass and energy. This research could reshape our understanding of cosmic expansion and the distribution of matter in the universe.",
+          "whyItMatters": "These findings could lead to breakthroughs in cosmology and our understanding of the universe's origins and structure.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe"
             },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cmze75r55g3jo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "ScienceDaily: Universe's Origin Unraveled",
-          "body": "A new simulation by ScienceDaily reveals how the universe emerged from darkness, providing insights into the early stages of cosmic evolution. The study uses advanced computational models to trace the formation of the first stars and galaxies, offering a deeper understanding of the universe's origins.",
-          "whyItMatters": "This research could reshape our understanding of the universe's early history and the processes that led to the formation of cosmic structures.",
-          "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm"
@@ -79,60 +64,83 @@
           ]
         },
         {
-          "title": "BBC Science: Environmental Progress",
-          "body": "The BBC Science report notes a significant drop in levels of toxic 'forever' chemicals in England's rivers, indicating improved environmental conditions. This progress is attributed to stricter regulations and conservation efforts, highlighting the importance of ongoing environmental monitoring and policy enforcement.",
-          "whyItMatters": "Environmental improvements can have far-reaching impacts on ecosystems, human health, and climate stability, underscoring the importance of sustainable practices and policy interventions.",
+          "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
+          "body": "A study suggests that Earth's early formation may have involved a massive release of water from its interior, potentially contributing to the formation of oceans. This hypothesis challenges previous models of Earth's early history and could provide new insights into the planet's geological and atmospheric evolution.",
+          "whyItMatters": "Understanding Earth's early history may help explain the formation of oceans and the development of life on the planet.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cmze75r55g3jo?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm"
+            }
+          ]
+        },
+        {
+          "title": "RSV vaccines slash infections: data show jabs’ staggering success against dangerous virus",
+          "body": "New data from the Royal Society for Prevention of Resuscitation (RSPR) show that RSV vaccines have significantly reduced infections caused by the virus, offering hope for controlling a deadly pathogen. The success of these vaccines highlights the importance of public health initiatives in combating infectious diseases.",
+          "whyItMatters": "The success of RSV vaccines could lead to broader public health strategies and improved outcomes for those at risk of respiratory infections.",
+          "sources": [
+            {
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03573-3"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-12T07:26:15.841Z"
+      "updatedAt": "2026-11-12T16:54:31.063Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, political shifts, and cultural trends impacting global students.",
+      "summary": "The lens covers economic developments, including tech industry news, political events, and regional updates affecting students and global markets.",
       "stories": [
         {
-          "title": "UK economy grows at fastest rate for more than two years",
-          "body": "The UK economy grew at its fastest rate in over two years in November 2026, according to BBC Business. This growth was driven by strong consumer spending and a rebound in business investment. The expansion could signal a recovery from previous economic challenges, though uncertainties remain in global markets.",
-          "whyItMatters": "This growth highlights potential for economic resilience but underscores the need for continued monitoring of global economic trends.",
+          "title": "Nvidia CEO Resigns Amid Scandal",
+          "body": "Nvidia CEO Jensen Huang resigned amid a scandal involving an affair, leading to his replacement by interim CFO Colette Kress. The resignation followed allegations of misconduct, impacting the company's stock price and reputation.",
+          "whyItMatters": "The resignation highlights the challenges faced by tech leaders and the impact of personal scandals on corporate governance and market confidence.",
+          "sources": [
+            {
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "UK Economy Grows at Fastest Rate in Two Years",
+          "body": "The UK economy grew at its fastest rate in over two years, according to recent data, despite ongoing challenges such as inflation and strikes. This growth is seen as a positive sign for the economy and employment.",
+          "whyItMatters": "Economic growth can influence consumer spending, investment, and overall stability, making it relevant for students studying economics and business.",
           "sources": [
             {
               "name": "BBC Business",
               "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "US inflation rises slightly as gas prices fall",
-          "body": "US inflation rose by 0.4% in October 2026, according to The Guardian Business. This increase was partly offset by lower gas prices, which reduced overall inflationary pressures. The data reflects a mixed economic climate with both rising and falling price trends.",
-          "whyItMatters": "The slight inflation rise highlights the complex interplay between energy prices and overall economic stability.",
+          "title": "US Inflation Rises but Gas Prices Drop",
+          "body": "US inflation rose by 0.4% in October, but gas prices fell, contributing to a cooling of price increases. This mixed economic trend reflects the complex dynamics of inflation and energy markets.",
+          "whyItMatters": "Understanding inflation trends is crucial for students analyzing economic policy and market behavior, especially in relation to energy and consumer spending.",
           "sources": [
             {
               "name": "The Guardian Business",
               "url": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report"
-            }
-          ]
-        },
-        {
-          "title": "Indonesia vice president resigns amid eligibility dispute",
-          "body": "Indonesia's vice president resigned amid a dispute over eligibility, according to Al Jazeera. The resignation followed a legal and political conflict over the qualifications of the candidate, reflecting the volatile nature of political transitions in the region.",
-          "whyItMatters": "This resignation underscores the challenges of maintaining political stability and the impact of legal disputes on leadership transitions.",
-          "sources": [
+            },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-12T07:26:15.841Z"
+      "updatedAt": "2026-11-12T16:54:31.063Z"
     }
   }
 }
