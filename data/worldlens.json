@@ -1,102 +1,128 @@
 {
-  "generatedAt": "2026-11-12T16:54:31.063Z",
+  "generatedAt": "2026-11-13T01:13:10.923Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of international events, including a deadly strike in Gaza, military disruptions in Ukraine, and regional conflicts, while also highlighting humanitarian and political developments.",
+      "summary": "Today's lens covers ongoing conflicts, international relations, and global events impacting students.",
       "stories": [
         {
-          "title": "Israeli strike on Gaza hospital kills six Palestinians",
-          "body": "An Israeli strike on a Gaza hospital killed six Palestinians, according to the BBC World report. The incident occurred on November 12, 2026, and highlights ongoing tensions in the region. The attack has drawn international attention to the conflict in Gaza.",
-          "whyItMatters": "The incident underscores the continued instability in the Middle East and the human cost of the conflict.",
+          "title": "Tigray Conflict: Peace or Ongoing Conflict?",
+          "body": "Ethiopia's Tigray conflict remains unresolved, with both sides claiming victory. The BBC reports that the conflict has not concluded, and the situation remains tense. The BBC notes that the conflict has led to significant humanitarian challenges and international attention.",
+          "whyItMatters": "The ongoing conflict in Tigray highlights the complexities of regional conflicts and their impact on local populations and international relations.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Ukraine says military Starlink disrupted again",
-          "body": "Ukraine reported that its military Starlink satellite communication system was disrupted again, as US envoys met with Putin in Moscow. This disruption raises concerns about the impact of cyberattacks on critical infrastructure in Ukraine.",
-          "whyItMatters": "The disruption of Starlink services highlights the vulnerability of modern communication networks in conflict zones.",
-          "sources": [
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
-          "body": "The UAE reported that 14 people were killed and 30 injured in a traffic accident in Fujairah. The incident occurred on November 12, 2026, and reflects the ongoing risks of road accidents in the region.",
-          "whyItMatters": "The accident underscores the need for improved road safety measures and infrastructure in densely populated areas.",
+          "title": "Iran War and Gulf Alliances",
+          "body": "Al Jazeera reports that U.S. President Trump urged Gulf allies to pause Iran strikes. The article highlights the geopolitical tensions in the region, with the U.S. seeking to maintain stability through diplomatic pressure on Iran. The situation reflects broader concerns about regional security and international relations.",
+          "whyItMatters": "The U.S. diplomatic efforts to engage with Gulf allies underscore the importance of regional stability and the role of international cooperation in managing conflicts.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Yemen's Houthis and Saudi Arabia",
+          "body": "Al Jazeera reports that Yemen's Houthis continue to strike Saudi Arabia, while the UN extends sanctions on the country. The article highlights the ongoing conflict in Yemen and the impact of international sanctions on the region. The situation reflects the broader challenges of conflict and sanctions in the Middle East.",
+          "whyItMatters": "The continued conflict in Yemen and the impact of sanctions highlight the complexities of international diplomacy and the challenges of managing regional conflicts.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-12T16:54:31.063Z"
+      "updatedAt": "2026-11-13T01:13:10.923Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers advancements in astronomy, climate science, environmental health, and biological research, highlighting both scientific discoveries and their potential implications for global understanding.",
+      "kicker": "Science & Nature",
+      "summary": "Today's lens covers scientific advancements, environmental data, and health research, highlighting both recent discoveries and ongoing challenges.",
       "stories": [
         {
-          "title": "European survey reveals 900m galaxies – and possibly secrets of ‘dark universe’",
-          "body": "A European survey using the Euclid space telescope has identified approximately 900 million galaxies, providing new insights into the structure and evolution of the universe. The findings may help scientists better understand the nature of dark matter and dark energy, which make up most of the universe's mass and energy. This research could reshape our understanding of cosmic expansion and the distribution of matter in the universe.",
-          "whyItMatters": "These findings could lead to breakthroughs in cosmology and our understanding of the universe's origins and structure.",
+          "title": "Flood Victim in Wetherspoons",
+          "body": "A 95-year-old woman died in Wetherspoons after her home was destroyed in a flood, highlighting the vulnerability of elderly residents in extreme weather events.",
+          "whyItMatters": "This incident underscores the need for improved disaster preparedness and support for vulnerable populations.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cqe8r8ngjepjo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "European Space Mission Reveals 900 Million Galaxies",
+          "body": "The European Euclid mission has discovered approximately 900 million galaxies, offering new insights into the structure and evolution of the universe, particularly regarding the dark universe.",
+          "whyItMatters": "This discovery could reshape our understanding of cosmic expansion and the distribution of matter in the universe.",
           "sources": [
             {
               "name": "The Guardian Science",
               "url": "https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm"
             }
           ]
         },
         {
-          "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
-          "body": "A study suggests that Earth's early formation may have involved a massive release of water from its interior, potentially contributing to the formation of oceans. This hypothesis challenges previous models of Earth's early history and could provide new insights into the planet's geological and atmospheric evolution.",
-          "whyItMatters": "Understanding Earth's early history may help explain the formation of oceans and the development of life on the planet.",
+          "title": "NASA Reveals Ozone Hole Growth",
+          "body": "NASA reports that the Earth's ozone hole has grown to a size not seen in a decade, emphasizing the urgent need for global efforts to protect the ozone layer.",
+          "whyItMatters": "This finding highlights the importance of international cooperation in addressing environmental threats to the planet's atmosphere.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm"
-            }
-          ]
-        },
-        {
-          "title": "RSV vaccines slash infections: data show jabs’ staggering success against dangerous virus",
-          "body": "New data from the Royal Society for Prevention of Resuscitation (RSPR) show that RSV vaccines have significantly reduced infections caused by the virus, offering hope for controlling a deadly pathogen. The success of these vaccines highlights the importance of public health initiatives in combating infectious diseases.",
-          "whyItMatters": "The success of RSV vaccines could lead to broader public health strategies and improved outcomes for those at risk of respiratory infections.",
-          "sources": [
-            {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/d41586-026-03573-3"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-12T16:54:31.063Z"
+      "updatedAt": "2026-11-13T01:13:10.923Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The lens covers economic developments, including tech industry news, political events, and regional updates affecting students and global markets.",
+      "summary": "Today's lens covers economic developments, including AI-related concerns, geopolitical tensions, tech company turmoil, and global economic trends.",
       "stories": [
         {
-          "title": "Nvidia CEO Resigns Amid Scandal",
-          "body": "Nvidia CEO Jensen Huang resigned amid a scandal involving an affair, leading to his replacement by interim CFO Colette Kress. The resignation followed allegations of misconduct, impacting the company's stock price and reputation.",
-          "whyItMatters": "The resignation highlights the challenges faced by tech leaders and the impact of personal scandals on corporate governance and market confidence.",
+          "title": "AI ethics debate intensifies as 'housefishing' emerges",
+          "body": "The rise of 'housefishing'—using AI to generate content that appears authentic—has sparked concerns about ethical and regulatory issues. Experts warn that if AI becomes too integrated into creative processes, it could lead to misleading or deceptive content. This trend highlights the need for clearer guidelines on AI usage and content authenticity.",
+          "whyItMatters": "The growing reliance on AI in creative industries raises questions about transparency and accountability in content generation.",
+          "sources": [
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Yemen’s Houthis strike Saudi Arabia, UN extends sanctions",
+          "body": "Yemen’s Houthis militant group has resumed attacks on Saudi Arabia, escalating tensions in the region. The UN has extended its sanctions against Iran, which is linked to the conflict. These actions underscore the ongoing instability in the Middle East and the challenges of maintaining peace in a volatile region.",
+          "whyItMatters": "The continued conflict and sanctions highlight the complex geopolitical dynamics affecting regional stability and international relations.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Nvidia CEO resigns amid scandal, interim CEO appointed",
+          "body": "Nvidia CEO Jensen Huang resigned amid a scandal involving personal affairs, leading to a temporary leadership change. The company appointed Colette Kress as interim CEO, signaling a transition as it navigates internal turmoil and market pressures. This event reflects the challenges faced by tech giants in maintaining leadership and public trust.",
+          "whyItMatters": "Nvidia's leadership changes highlight the challenges of managing corporate reputation and public trust in the tech industry.",
           "sources": [
             {
               "name": "The Guardian Business",
@@ -107,40 +133,10 @@
               "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss"
             }
           ]
-        },
-        {
-          "title": "UK Economy Grows at Fastest Rate in Two Years",
-          "body": "The UK economy grew at its fastest rate in over two years, according to recent data, despite ongoing challenges such as inflation and strikes. This growth is seen as a positive sign for the economy and employment.",
-          "whyItMatters": "Economic growth can influence consumer spending, investment, and overall stability, making it relevant for students studying economics and business.",
-          "sources": [
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "US Inflation Rises but Gas Prices Drop",
-          "body": "US inflation rose by 0.4% in October, but gas prices fell, contributing to a cooling of price increases. This mixed economic trend reflects the complex dynamics of inflation and energy markets.",
-          "whyItMatters": "Understanding inflation trends is crucial for students analyzing economic policy and market behavior, especially in relation to energy and consumer spending.",
-          "sources": [
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report"
-            },
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi"
-            }
-          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-12T16:54:31.063Z"
+      "updatedAt": "2026-11-13T01:13:10.923Z"
     }
   }
 }
