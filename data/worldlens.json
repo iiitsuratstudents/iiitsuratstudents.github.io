@@ -1,158 +1,158 @@
 {
-  "generatedAt": "2026-11-13T12:23:32.575Z",
+  "generatedAt": "2026-11-13T19:55:26.571Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of global events, including a Microsoft global outage, a conflict in Haiti, a US-Iran diplomatic standoff, and a storm in Europe. These events highlight the interplay of technology, conflict, and climate impact.",
+      "kicker": "Global Brief",
+      "summary": "Today's lens covers geopolitical tensions, humanitarian crises, and technological disruptions, highlighting key developments across multiple regions.",
       "stories": [
         {
-          "title": "Microsoft global outage",
-          "body": "A global Microsoft service outage was reported, affecting users worldwide. The outage was attributed to technical issues, though the exact cause remained unclear. This highlights the vulnerability of critical infrastructure to unforeseen technical failures.",
-          "whyItMatters": "A global outage of a major tech company underscores the importance of reliable digital infrastructure and the potential for cascading effects on daily life and business operations.",
+          "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+          "body": "The Nvidia scandal, involving allegations of bribery and corruption, has escalated as Trump's Treasury Secretary blamed a cabinet colleague for the fallout. The incident highlights the ongoing tensions in corporate governance and political accountability.",
+          "whyItMatters": "The scandal underscores the complexities of corporate ethics and political influence in global business.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/inside-story/2026/11/13/how-will-the-us-deal-with-nvidia-scandal?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Haiti and El Salvador conflict",
-          "body": "El Salvador deployed armed robots to combat gangs in Haiti, marking a shift in military tactics. This operation raises concerns about the use of technology in conflict zones and the potential for unintended consequences in humanitarian crises.",
-          "whyItMatters": "The use of armed robots in conflict zones highlights the evolving nature of warfare and the ethical dilemmas surrounding the deployment of advanced technology in volatile environments.",
+          "title": "Migrants risk deadly route to Spain’s Canary Islands",
+          "body": "A large number of migrants are attempting to cross the Atlantic Ocean to reach Spain’s Canary Islands, facing extreme weather conditions and dangerous sea routes. The situation reflects the ongoing challenges of human migration and the risks associated with crossing the ocean.",
+          "whyItMatters": "The crisis highlights the global impact of migration and the need for international cooperation to address humanitarian concerns.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/el-salvador-deploys-armed-robots-to-fight-gangs-in-haiti?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/migrants-risk-deadly-route-to-spains-canary-islands?traffic_source=rss"
             },
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "US-Iran diplomatic standoff",
-          "body": "Iran threatened an unlimited response to a US attack on the Strait of Hormuz, signaling heightened tensions in the region. This development reflects the complex dynamics of US-Iran relations and the potential for escalation in a sensitive geopolitical context.",
-          "whyItMatters": "The US-Iran standoff underscores the fragility of international relations and the risks associated with military and diplomatic confrontations in a volatile geopolitical landscape.",
+          "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+          "body": "Germany has granted new powers to its intelligence services to address 'hybrid threats' involving cyberattacks, disinformation, and other non-traditional security challenges. This development reflects the evolving nature of global security and the need for advanced technological capabilities.",
+          "whyItMatters": "The expansion of intelligence capabilities highlights the increasing complexity of modern security threats and the role of technology in national defense.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-13T12:23:32.575Z"
+      "updatedAt": "2026-11-13T19:55:26.571Z"
     },
     "science": {
-      "kicker": "Science",
-      "summary": "Today's lens covers a mix of scientific advancements, environmental concerns, and cultural phenomena, highlighting both cutting-edge research and real-world impacts.",
+      "kicker": "Science & Nature",
+      "summary": "Today's lens covers a range of scientific discoveries, climate concerns, and cultural insights, highlighting the intersection of research, environmental impact, and human behavior.",
       "stories": [
         {
-          "title": "Summer heatwave puts bin crews at risk",
-          "body": "A summer heatwave in the UK has raised concerns about the safety of bin crews, with a council worker stating that the extreme temperatures put lives at risk. The heatwave has led to increased demand for cooling and has put strain on infrastructure, highlighting the challenges of climate change impacts on daily life.",
-          "whyItMatters": "The increasing frequency of extreme weather events underscores the need for adaptive strategies to protect vulnerable populations and infrastructure.",
+          "title": "El Niño Impact on Winter Weather",
+          "body": "El Niño, a climate pattern characterized by warmer-than-average sea surface temperatures in the central Pacific, could significantly affect winter weather in the US and Canada. The BBC Science reports that such events can lead to extreme weather conditions, including prolonged cold spells in the southern US and warmer, drier conditions in the northern US. This phenomenon is part of the broader El Niño-Southern Oscillation (ENSO) cycle, which influences global climate patterns.",
+          "whyItMatters": "Understanding El Niño's impact is crucial for preparing for extreme weather events and improving climate resilience in vulnerable regions.",
           "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm"
+            }
+          ]
+        },
+        {
+          "title": "Viral Infections and Vaccine Protection",
+          "body": "A recent study published in ScienceDaily reveals that some viral infections may have hidden dangers that vaccines can prevent. Researchers found that certain viruses can lead to long-term immune responses that are not fully captured by current vaccine strategies. This discovery highlights the evolving nature of virology and the need for ongoing research into immune system dynamics.",
+          "whyItMatters": "This finding underscores the importance of continued scientific research in understanding and combating viral threats to public health.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm"
+            }
+          ]
+        },
+        {
+          "title": "Climate Change and Food Supplies",
+          "body": "A BBC Science report warns that summer heatwaves could lead to dire food supply shortages in the coming winter. The article highlights the link between rising temperatures and agricultural productivity, emphasizing the need for adaptive strategies to ensure food security. This issue is particularly relevant in regions where climate variability poses significant challenges to agricultural planning.",
+          "whyItMatters": "Addressing climate change impacts on food supplies is essential for sustaining global food systems and reducing vulnerability to climate-related disruptions.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&at_campaign=rss"
+            },
             {
               "name": "BBC Science",
               "url": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cmze75r55g3jo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "AI-powered bionic eye breakthrough",
-          "body": "Scientists have made a breakthrough in vision restoration with an AI-powered bionic eye that could help the blind see again. This technology uses machine learning to interpret visual data and translate it into usable information, offering hope for individuals with visual impairments.",
-          "whyItMatters": "Advancements in assistive technology can significantly improve quality of life for people with disabilities, promoting inclusivity and innovation in healthcare.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm"
-            }
-          ]
-        },
-        {
-          "title": "Ancient human fossils reveal gender mystery",
-          "body": "A recent study on ancient human fossils has uncovered a surprising revelation about the gender composition of early human populations. The findings suggest that the ratio of males to females in ancient human groups was different from modern expectations, challenging previous assumptions about human evolution.",
-          "whyItMatters": "Understanding human evolution and population dynamics provides insights into the development of human societies and the factors influencing gender distribution.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-13T12:23:32.575Z"
+      "updatedAt": "2026-11-13T19:55:26.571Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including a global Microsoft outage, a rise in home sales, and political tensions in the US.",
+      "summary": "The lens covers economic developments, including tech company outages, political pressures, and social movements, highlighting the intersection of technology, politics, and social issues.",
       "stories": [
         {
-          "title": "Microsoft outage disrupts global services",
-          "body": "A global Microsoft outage caused by a server failure disrupted services for users worldwide. The company reported the issue on Friday, and efforts to restore services were ongoing. The outage affected critical applications and services, raising concerns about the stability of digital infrastructure.",
-          "whyItMatters": "The incident highlights the importance of reliable digital infrastructure and the potential impact of outages on global operations.",
+          "title": "Nvidia scandal pressures Trump's Commerce Secretary",
+          "body": "The BBC reports growing pressure on Commerce Secretary Lutnick following the Nvidia scandal, which involves allegations of misconduct and potential conflicts of interest. The incident has sparked political scrutiny and calls for transparency, reflecting broader concerns about corporate accountability and political influence.",
+          "whyItMatters": "The scandal highlights the growing tension between corporate governance and political power, underscoring the need for transparency in high-profile tech companies.",
           "sources": [
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/inside-story/2026/11/13/how-will-the-us-deal-with-nvidia-scandal?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Home sales hit 16-year low amid rising mortgage rates",
-          "body": "Home sales in October fell to a 16-year low, driven by record-high mortgage rates. The decline in demand and the economic uncertainty caused by rising interest rates impacted the housing market significantly.",
-          "whyItMatters": "The housing market's performance reflects broader economic trends and can influence future investment and policy decisions.",
+          "title": "Microsoft outage disrupts US businesses and schools",
+          "body": "The Guardian reports a prolonged Microsoft outage affecting millions of users, including businesses, schools, and local governments. Microsoft claims the disruption is not related to cyber or AI, but the outage has raised concerns about system reliability and potential security risks.",
+          "whyItMatters": "The outage underscores the importance of system stability and the potential risks of relying on critical services, especially during times of heightened uncertainty.",
           "sources": [
             {
               "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low"
+              "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news"
             },
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments"
             }
           ]
         },
         {
-          "title": "US inflation rises slightly as gas prices drop",
-          "body": "US inflation rose by 0.4% in October, despite a decline in gas prices. The increase was attributed to other factors, including supply chain issues and rising energy costs, which impacted overall consumer spending and economic growth.",
-          "whyItMatters": "Inflation trends are crucial for understanding economic policy and consumer behavior, influencing decisions related to wages, spending, and investment.",
+          "title": "College students rally against Starbucks contract negotiations",
+          "body": "The Guardian reports college students in the US are rallying in support of Starbucks baristas, urging a boycott over contract negotiations. The movement reflects broader concerns about labor rights and corporate practices, highlighting the role of student activism in shaping workplace policies.",
+          "whyItMatters": "The movement demonstrates the power of collective action in advocating for fair labor practices and corporate accountability, emphasizing the importance of student involvement in shaping workplace dynamics.",
           "sources": [
             {
               "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report"
-            },
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed"
+              "url": "https://www.theguardian.com/us-news/2026/nov/12/starbucks-workers-campus-rally-contract-talks"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-13T12:23:32.575Z"
+      "updatedAt": "2026-11-13T19:55:26.571Z"
     }
   }
 }
