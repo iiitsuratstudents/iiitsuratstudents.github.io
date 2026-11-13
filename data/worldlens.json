@@ -1,142 +1,158 @@
 {
-  "generatedAt": "2026-11-13T01:13:10.923Z",
+  "generatedAt": "2026-11-13T12:23:32.575Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers ongoing conflicts, international relations, and global events impacting students.",
+      "summary": "Today's lens covers a mix of global events, including a Microsoft global outage, a conflict in Haiti, a US-Iran diplomatic standoff, and a storm in Europe. These events highlight the interplay of technology, conflict, and climate impact.",
       "stories": [
         {
-          "title": "Tigray Conflict: Peace or Ongoing Conflict?",
-          "body": "Ethiopia's Tigray conflict remains unresolved, with both sides claiming victory. The BBC reports that the conflict has not concluded, and the situation remains tense. The BBC notes that the conflict has led to significant humanitarian challenges and international attention.",
-          "whyItMatters": "The ongoing conflict in Tigray highlights the complexities of regional conflicts and their impact on local populations and international relations.",
+          "title": "Microsoft global outage",
+          "body": "A global Microsoft service outage was reported, affecting users worldwide. The outage was attributed to technical issues, though the exact cause remained unclear. This highlights the vulnerability of critical infrastructure to unforeseen technical failures.",
+          "whyItMatters": "A global outage of a major tech company underscores the importance of reliable digital infrastructure and the potential for cascading effects on daily life and business operations.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Iran War and Gulf Alliances",
-          "body": "Al Jazeera reports that U.S. President Trump urged Gulf allies to pause Iran strikes. The article highlights the geopolitical tensions in the region, with the U.S. seeking to maintain stability through diplomatic pressure on Iran. The situation reflects broader concerns about regional security and international relations.",
-          "whyItMatters": "The U.S. diplomatic efforts to engage with Gulf allies underscore the importance of regional stability and the role of international cooperation in managing conflicts.",
+          "title": "Haiti and El Salvador conflict",
+          "body": "El Salvador deployed armed robots to combat gangs in Haiti, marking a shift in military tactics. This operation raises concerns about the use of technology in conflict zones and the potential for unintended consequences in humanitarian crises.",
+          "whyItMatters": "The use of armed robots in conflict zones highlights the evolving nature of warfare and the ethical dilemmas surrounding the deployment of advanced technology in volatile environments.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/el-salvador-deploys-armed-robots-to-fight-gangs-in-haiti?traffic_source=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Yemen's Houthis and Saudi Arabia",
-          "body": "Al Jazeera reports that Yemen's Houthis continue to strike Saudi Arabia, while the UN extends sanctions on the country. The article highlights the ongoing conflict in Yemen and the impact of international sanctions on the region. The situation reflects the broader challenges of conflict and sanctions in the Middle East.",
-          "whyItMatters": "The continued conflict in Yemen and the impact of sanctions highlight the complexities of international diplomacy and the challenges of managing regional conflicts.",
+          "title": "US-Iran diplomatic standoff",
+          "body": "Iran threatened an unlimited response to a US attack on the Strait of Hormuz, signaling heightened tensions in the region. This development reflects the complex dynamics of US-Iran relations and the potential for escalation in a sensitive geopolitical context.",
+          "whyItMatters": "The US-Iran standoff underscores the fragility of international relations and the risks associated with military and diplomatic confrontations in a volatile geopolitical landscape.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-13T01:13:10.923Z"
+      "updatedAt": "2026-11-13T12:23:32.575Z"
     },
     "science": {
-      "kicker": "Science & Nature",
-      "summary": "Today's lens covers scientific advancements, environmental data, and health research, highlighting both recent discoveries and ongoing challenges.",
+      "kicker": "Science",
+      "summary": "Today's lens covers a mix of scientific advancements, environmental concerns, and cultural phenomena, highlighting both cutting-edge research and real-world impacts.",
       "stories": [
         {
-          "title": "Flood Victim in Wetherspoons",
-          "body": "A 95-year-old woman died in Wetherspoons after her home was destroyed in a flood, highlighting the vulnerability of elderly residents in extreme weather events.",
-          "whyItMatters": "This incident underscores the need for improved disaster preparedness and support for vulnerable populations.",
+          "title": "Summer heatwave puts bin crews at risk",
+          "body": "A summer heatwave in the UK has raised concerns about the safety of bin crews, with a council worker stating that the extreme temperatures put lives at risk. The heatwave has led to increased demand for cooling and has put strain on infrastructure, highlighting the challenges of climate change impacts on daily life.",
+          "whyItMatters": "The increasing frequency of extreme weather events underscores the need for adaptive strategies to protect vulnerable populations and infrastructure.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cqe8r8ngjepjo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "European Space Mission Reveals 900 Million Galaxies",
-          "body": "The European Euclid mission has discovered approximately 900 million galaxies, offering new insights into the structure and evolution of the universe, particularly regarding the dark universe.",
-          "whyItMatters": "This discovery could reshape our understanding of cosmic expansion and the distribution of matter in the universe.",
-          "sources": [
+              "url": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss"
+            },
             {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe"
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cmze75r55g3jo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "NASA Reveals Ozone Hole Growth",
-          "body": "NASA reports that the Earth's ozone hole has grown to a size not seen in a decade, emphasizing the urgent need for global efforts to protect the ozone layer.",
-          "whyItMatters": "This finding highlights the importance of international cooperation in addressing environmental threats to the planet's atmosphere.",
+          "title": "AI-powered bionic eye breakthrough",
+          "body": "Scientists have made a breakthrough in vision restoration with an AI-powered bionic eye that could help the blind see again. This technology uses machine learning to interpret visual data and translate it into usable information, offering hope for individuals with visual impairments.",
+          "whyItMatters": "Advancements in assistive technology can significantly improve quality of life for people with disabilities, promoting inclusivity and innovation in healthcare.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm"
+            }
+          ]
+        },
+        {
+          "title": "Ancient human fossils reveal gender mystery",
+          "body": "A recent study on ancient human fossils has uncovered a surprising revelation about the gender composition of early human populations. The findings suggest that the ratio of males to females in ancient human groups was different from modern expectations, challenging previous assumptions about human evolution.",
+          "whyItMatters": "Understanding human evolution and population dynamics provides insights into the development of human societies and the factors influencing gender distribution.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-13T01:13:10.923Z"
+      "updatedAt": "2026-11-13T12:23:32.575Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including AI-related concerns, geopolitical tensions, tech company turmoil, and global economic trends.",
+      "summary": "Today's lens covers economic developments, including a global Microsoft outage, a rise in home sales, and political tensions in the US.",
       "stories": [
         {
-          "title": "AI ethics debate intensifies as 'housefishing' emerges",
-          "body": "The rise of 'housefishing'—using AI to generate content that appears authentic—has sparked concerns about ethical and regulatory issues. Experts warn that if AI becomes too integrated into creative processes, it could lead to misleading or deceptive content. This trend highlights the need for clearer guidelines on AI usage and content authenticity.",
-          "whyItMatters": "The growing reliance on AI in creative industries raises questions about transparency and accountability in content generation.",
+          "title": "Microsoft outage disrupts global services",
+          "body": "A global Microsoft outage caused by a server failure disrupted services for users worldwide. The company reported the issue on Friday, and efforts to restore services were ongoing. The outage affected critical applications and services, raising concerns about the stability of digital infrastructure.",
+          "whyItMatters": "The incident highlights the importance of reliable digital infrastructure and the potential impact of outages on global operations.",
           "sources": [
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Yemen’s Houthis strike Saudi Arabia, UN extends sanctions",
-          "body": "Yemen’s Houthis militant group has resumed attacks on Saudi Arabia, escalating tensions in the region. The UN has extended its sanctions against Iran, which is linked to the conflict. These actions underscore the ongoing instability in the Middle East and the challenges of maintaining peace in a volatile region.",
-          "whyItMatters": "The continued conflict and sanctions highlight the complex geopolitical dynamics affecting regional stability and international relations.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Nvidia CEO resigns amid scandal, interim CEO appointed",
-          "body": "Nvidia CEO Jensen Huang resigned amid a scandal involving personal affairs, leading to a temporary leadership change. The company appointed Colette Kress as interim CEO, signaling a transition as it navigates internal turmoil and market pressures. This event reflects the challenges faced by tech giants in maintaining leadership and public trust.",
-          "whyItMatters": "Nvidia's leadership changes highlight the challenges of managing corporate reputation and public trust in the tech industry.",
+          "title": "Home sales hit 16-year low amid rising mortgage rates",
+          "body": "Home sales in October fell to a 16-year low, driven by record-high mortgage rates. The decline in demand and the economic uncertainty caused by rising interest rates impacted the housing market significantly.",
+          "whyItMatters": "The housing market's performance reflects broader economic trends and can influence future investment and policy decisions.",
           "sources": [
             {
               "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest"
+              "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low"
             },
             {
               "name": "BBC Business",
               "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss"
             }
           ]
+        },
+        {
+          "title": "US inflation rises slightly as gas prices drop",
+          "body": "US inflation rose by 0.4% in October, despite a decline in gas prices. The increase was attributed to other factors, including supply chain issues and rising energy costs, which impacted overall consumer spending and economic growth.",
+          "whyItMatters": "Inflation trends are crucial for understanding economic policy and consumer behavior, influencing decisions related to wages, spending, and investment.",
+          "sources": [
+            {
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report"
+            },
+            {
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed"
+            }
+          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-13T01:13:10.923Z"
+      "updatedAt": "2026-11-13T12:23:32.575Z"
     }
   }
 }
