@@ -1,70 +1,66 @@
 {
-  "generatedAt": "2026-11-14T00:56:16.280Z",
+  "generatedAt": "2026-11-14T11:37:47.651Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of geopolitical developments, technological disruptions, and regional crises, highlighting the interconnected nature of global events.",
+      "kicker": "Geopolitics",
+      "summary": "Today's lens covers a mix of geopolitical developments, international relations, and global events impacting students.",
       "stories": [
         {
-          "title": "UK Police Launch Sex Offence Probe",
-          "body": "UK police have opened an investigation into a sex offence involving comedian and author David Walliams, following reports of alleged misconduct. The probe is part of broader efforts to address sexual misconduct in public figures. The case has sparked discussions about accountability and transparency in the entertainment industry.",
-          "whyItMatters": "The probe highlights the importance of addressing sexual misconduct in public figures and the need for robust mechanisms to ensure accountability.",
+          "title": "US and Ukraine: Contested territorial claims",
+          "body": "The US has floated the idea of Ukraine ceding Donbas for NATO membership, while President Zelensky has rejected the proposal. This reflects ongoing tensions in the region and the complex interplay between geopolitical alliances and territorial sovereignty.",
+          "whyItMatters": "The proposal highlights the challenges of balancing regional security and territorial integrity in a multipolar world.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Microsoft Services Begin Recovery After Global Outage",
-          "body": "Microsoft has announced the recovery of its services following a global outage that lasted nearly 24 hours. The outage affected critical services such as Microsoft Teams and Outlook, leading to widespread disruption. Microsoft expressed deep regret for the impact on users and is working to restore normal operations.",
-          "whyItMatters": "The outage underscores the importance of reliable technology infrastructure and the potential consequences of service disruptions on daily life and business operations.",
+          "title": "South Sudan's postponed elections",
+          "body": "South Sudan has postponed its first-ever national elections until February 2027. This delay underscores the ongoing political instability and the need for a stable political process in the region.",
+          "whyItMatters": "The postponement highlights the challenges of holding elections in a country with a history of conflict and the importance of ensuring democratic transitions.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss"
-            },
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Afghanistan's New Road to China Closed",
-          "body": "A new road connecting Afghanistan to China has been closed due to security concerns, disrupting trade and travel between the two countries. The closure has raised questions about the impact of geopolitical tensions on regional connectivity and economic relations.",
-          "whyItMatters": "The closure highlights the vulnerability of regional infrastructure and the effects of geopolitical tensions on cross-border trade and travel.",
+          "title": "Tennis: Sabalenka's loss in WTA Finals",
+          "body": "Azerbaijan's Aryna Sabalenka crashed out of the WTA Finals after losing to Romania's Elina Svitolina. This event highlights the competitive nature of professional tennis and the impact of high-stakes matches on player careers.",
+          "whyItMatters": "The match underscores the intensity of international sports competitions and the influence of top-tier athletes on global audiences.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss"
-            },
-            {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather"
+              "url": "https://www.aljazeera.com/sports/2026/11/14/aryna-sabalenka-elina-svitolina-wta-finals-indian-wells-semifinals-tennis?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-14T00:56:16.280Z"
+      "updatedAt": "2026-11-14T11:37:47.651Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers recent scientific discoveries, climate impacts, and technological advancements.",
+      "summary": "Today's lens covers a range of scientific and technological developments, from planetary observations to climate data and AI advancements.",
       "stories": [
         {
-          "title": "Bluetongue virus confirmed on County Down farm",
-          "body": "The BBC Science reported the confirmation of the bluetongue virus on a County Down farm, highlighting the ongoing threat to livestock. The virus, which affects equine species, could lead to significant economic losses if not controlled.",
-          "whyItMatters": "The discovery underscores the importance of monitoring and managing viral outbreaks to protect agricultural productivity.",
+          "title": "November's planetary parade in the pre-dawn sky",
+          "body": "In the pre-dawn sky, the planets Mercury, Venus, Mars, Jupiter, and Saturn align in a striking visual display, offering a rare opportunity for stargazers to observe their positions. This alignment is part of the annual planetary parade that occurs in early November, providing a natural spectacle for those who enjoy the night sky.",
+          "whyItMatters": "This event highlights the natural beauty of celestial phenomena and the importance of public engagement with astronomy.",
           "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss"
+            },
             {
               "name": "BBC Science",
               "url": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss"
@@ -72,59 +68,51 @@
           ]
         },
         {
-          "title": "SpaceX Starship rocket's double-catch test setback",
-          "body": "The BBC Science noted a setback in SpaceX's Starship rocket's double-catch test, which aimed to demonstrate the rocket's capability to carry multiple payloads. The failure highlights the challenges in achieving the desired performance and safety standards.",
-          "whyItMatters": "The test failure provides insight into the technical hurdles faced in developing advanced space transportation systems.",
+          "title": "Hundreds of children in England prescribed weight-loss jabs",
+          "body": "In England, a significant number of children have been prescribed weight-loss injections, raising concerns about the safety and efficacy of the treatment. The practice has sparked debate over its potential health impacts and ethical considerations.",
+          "whyItMatters": "This development underscores the need for careful evaluation of medical interventions and their long-term effects on public health.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/science/2026/nov/14/children-iengland-prescribed-weight-loss-jabs"
             }
           ]
         },
         {
-          "title": "El Niño's potential impact on US and Canadian winter weather",
-          "body": "The BBC Science explained that El Niño, a climate phenomenon, could significantly affect winter weather patterns in the US and Canada. The potential for extreme weather events, such as prolonged droughts and heavy rainfall, underscores the need for improved climate forecasting and preparedness.",
-          "whyItMatters": "Understanding El Niño's impact is crucial for developing effective climate adaptation strategies and managing natural disasters.",
+          "title": "Bluetongue virus confirmed on County Down farm",
+          "body": "A confirmed case of the Bluetongue virus has been reported on a farm in County Down, Ireland. The virus affects equine animals and could pose a risk to local livestock populations, prompting measures to prevent its spread.",
+          "whyItMatters": "This event highlights the importance of monitoring and managing animal health to prevent outbreaks and protect agricultural industries.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-14T00:56:16.280Z"
+      "updatedAt": "2026-11-14T11:37:47.651Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including tech outages, travel disruptions, and political tensions, highlighting the impact on global markets and public sentiment.",
+      "summary": "Today's lens covers key economic developments, including political shifts in Israel, technological disruptions, and global economic trends.",
       "stories": [
         {
-          "title": "UK police probe into David Walliams' sex offence allegations",
-          "body": "UK police have opened an investigation into allegations of a sex offence involving comedian and author David Walliams. The probe is part of broader efforts to address public concerns about sexual misconduct in the entertainment industry. The case has drawn attention due to the high-profile nature of the individual and the potential implications for public trust in the sector.",
-          "whyItMatters": "The probe highlights ongoing efforts to address sexual misconduct in the entertainment industry, which can influence public perception and policy.",
+          "title": "South Sudan Postpones Elections",
+          "body": "South Sudan has postponed its first-ever national elections until February 2027, citing logistical challenges and the need for stability. The decision comes as the country faces ongoing political and humanitarian crises.",
+          "whyItMatters": "The postponement highlights the complexities of governance and the impact of political instability on regional stability.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss"
-            },
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights"
+              "url": "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Microsoft services begin recovering from global outage",
-          "body": "Microsoft services have started to recover from a global outage that lasted nearly 24 hours, affecting companies, schools, and local governments across the US. The outage was attributed to a technical issue, and Microsoft expressed deep regret for the disruption caused. The incident underscores the importance of reliable digital infrastructure in modern society.",
-          "whyItMatters": "The global outage highlights the critical role of digital infrastructure in maintaining business and public services, and the need for robust technological resilience.",
+          "title": "Microsoft Outage Affects Businesses and Schools",
+          "body": "A day-long global outage at Microsoft disrupted services for businesses, schools, and local governments across the US. The outage, which lasted over 12 hours, caused widespread disruption and raised concerns about the reliability of critical infrastructure.",
+          "whyItMatters": "The outage underscores the importance of reliable technology and the potential consequences of disruptions in critical sectors.",
           "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss"
-            },
             {
               "name": "BBC Business",
               "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
@@ -136,23 +124,23 @@
           ]
         },
         {
-          "title": "FAA grounds nearly 11,000 flights due to telecommunication outage",
-          "body": "The FAA has grounded nearly 11,000 flights across the US due to a telecommunication outage, causing widespread delays and cancellations. The incident highlights the vulnerability of critical infrastructure to technical failures and the importance of backup systems to prevent such disruptions.",
-          "whyItMatters": "The FAA grounding of flights due to a telecommunication outage underscores the need for reliable and resilient infrastructure to prevent disruptions in critical services.",
+          "title": "Nvidia Scandal and White House Pressure",
+          "body": "A sex scandal at Nvidia is leading to increased pressure on President Trump's Commerce Secretary, Lutnick, as the company faces scrutiny over its practices and the impact of the scandal on its stock price.",
+          "whyItMatters": "The scandal highlights the ongoing challenges in corporate governance and the potential for political and regulatory responses to corporate misconduct.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/faa-grounds-all-fights-across-the-us-over-telecommunication?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-14T00:56:16.280Z"
+      "updatedAt": "2026-11-14T11:37:47.651Z"
     }
   }
 }
