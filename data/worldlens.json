@@ -1,137 +1,133 @@
 {
-  "generatedAt": "2026-11-13T19:55:26.571Z",
+  "generatedAt": "2026-11-14T00:56:16.280Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers geopolitical tensions, humanitarian crises, and technological disruptions, highlighting key developments across multiple regions.",
+      "summary": "Today's lens covers a mix of geopolitical developments, technological disruptions, and regional crises, highlighting the interconnected nature of global events.",
       "stories": [
         {
-          "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-          "body": "The Nvidia scandal, involving allegations of bribery and corruption, has escalated as Trump's Treasury Secretary blamed a cabinet colleague for the fallout. The incident highlights the ongoing tensions in corporate governance and political accountability.",
-          "whyItMatters": "The scandal underscores the complexities of corporate ethics and political influence in global business.",
+          "title": "UK Police Launch Sex Offence Probe",
+          "body": "UK police have opened an investigation into a sex offence involving comedian and author David Walliams, following reports of alleged misconduct. The probe is part of broader efforts to address sexual misconduct in public figures. The case has sparked discussions about accountability and transparency in the entertainment industry.",
+          "whyItMatters": "The probe highlights the importance of addressing sexual misconduct in public figures and the need for robust mechanisms to ensure accountability.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/inside-story/2026/11/13/how-will-the-us-deal-with-nvidia-scandal?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Migrants risk deadly route to Spain’s Canary Islands",
-          "body": "A large number of migrants are attempting to cross the Atlantic Ocean to reach Spain’s Canary Islands, facing extreme weather conditions and dangerous sea routes. The situation reflects the ongoing challenges of human migration and the risks associated with crossing the ocean.",
-          "whyItMatters": "The crisis highlights the global impact of migration and the need for international cooperation to address humanitarian concerns.",
+          "title": "Microsoft Services Begin Recovery After Global Outage",
+          "body": "Microsoft has announced the recovery of its services following a global outage that lasted nearly 24 hours. The outage affected critical services such as Microsoft Teams and Outlook, leading to widespread disruption. Microsoft expressed deep regret for the impact on users and is working to restore normal operations.",
+          "whyItMatters": "The outage underscores the importance of reliable technology infrastructure and the potential consequences of service disruptions on daily life and business operations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/migrants-risk-deadly-route-to-spains-canary-islands?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-          "body": "Germany has granted new powers to its intelligence services to address 'hybrid threats' involving cyberattacks, disinformation, and other non-traditional security challenges. This development reflects the evolving nature of global security and the need for advanced technological capabilities.",
-          "whyItMatters": "The expansion of intelligence capabilities highlights the increasing complexity of modern security threats and the role of technology in national defense.",
+          "title": "Afghanistan's New Road to China Closed",
+          "body": "A new road connecting Afghanistan to China has been closed due to security concerns, disrupting trade and travel between the two countries. The closure has raised questions about the impact of geopolitical tensions on regional connectivity and economic relations.",
+          "whyItMatters": "The closure highlights the vulnerability of regional infrastructure and the effects of geopolitical tensions on cross-border trade and travel.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss"
             },
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-13T19:55:26.571Z"
+      "updatedAt": "2026-11-14T00:56:16.280Z"
     },
     "science": {
-      "kicker": "Science & Nature",
-      "summary": "Today's lens covers a range of scientific discoveries, climate concerns, and cultural insights, highlighting the intersection of research, environmental impact, and human behavior.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens covers recent scientific discoveries, climate impacts, and technological advancements.",
       "stories": [
         {
-          "title": "El Niño Impact on Winter Weather",
-          "body": "El Niño, a climate pattern characterized by warmer-than-average sea surface temperatures in the central Pacific, could significantly affect winter weather in the US and Canada. The BBC Science reports that such events can lead to extreme weather conditions, including prolonged cold spells in the southern US and warmer, drier conditions in the northern US. This phenomenon is part of the broader El Niño-Southern Oscillation (ENSO) cycle, which influences global climate patterns.",
-          "whyItMatters": "Understanding El Niño's impact is crucial for preparing for extreme weather events and improving climate resilience in vulnerable regions.",
+          "title": "Bluetongue virus confirmed on County Down farm",
+          "body": "The BBC Science reported the confirmation of the bluetongue virus on a County Down farm, highlighting the ongoing threat to livestock. The virus, which affects equine species, could lead to significant economic losses if not controlled.",
+          "whyItMatters": "The discovery underscores the importance of monitoring and managing viral outbreaks to protect agricultural productivity.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "SpaceX Starship rocket's double-catch test setback",
+          "body": "The BBC Science noted a setback in SpaceX's Starship rocket's double-catch test, which aimed to demonstrate the rocket's capability to carry multiple payloads. The failure highlights the challenges in achieving the desired performance and safety standards.",
+          "whyItMatters": "The test failure provides insight into the technical hurdles faced in developing advanced space transportation systems.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "El Niño's potential impact on US and Canadian winter weather",
+          "body": "The BBC Science explained that El Niño, a climate phenomenon, could significantly affect winter weather patterns in the US and Canada. The potential for extreme weather events, such as prolonged droughts and heavy rainfall, underscores the need for improved climate forecasting and preparedness.",
+          "whyItMatters": "Understanding El Niño's impact is crucial for developing effective climate adaptation strategies and managing natural disasters.",
           "sources": [
             {
               "name": "BBC Science",
               "url": "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm"
-            }
-          ]
-        },
-        {
-          "title": "Viral Infections and Vaccine Protection",
-          "body": "A recent study published in ScienceDaily reveals that some viral infections may have hidden dangers that vaccines can prevent. Researchers found that certain viruses can lead to long-term immune responses that are not fully captured by current vaccine strategies. This discovery highlights the evolving nature of virology and the need for ongoing research into immune system dynamics.",
-          "whyItMatters": "This finding underscores the importance of continued scientific research in understanding and combating viral threats to public health.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm"
-            }
-          ]
-        },
-        {
-          "title": "Climate Change and Food Supplies",
-          "body": "A BBC Science report warns that summer heatwaves could lead to dire food supply shortages in the coming winter. The article highlights the link between rising temperatures and agricultural productivity, emphasizing the need for adaptive strategies to ensure food security. This issue is particularly relevant in regions where climate variability poses significant challenges to agricultural planning.",
-          "whyItMatters": "Addressing climate change impacts on food supplies is essential for sustaining global food systems and reducing vulnerability to climate-related disruptions.",
-          "sources": [
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-13T19:55:26.571Z"
+      "updatedAt": "2026-11-14T00:56:16.280Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The lens covers economic developments, including tech company outages, political pressures, and social movements, highlighting the intersection of technology, politics, and social issues.",
+      "summary": "Today's lens covers economic developments, including tech outages, travel disruptions, and political tensions, highlighting the impact on global markets and public sentiment.",
       "stories": [
         {
-          "title": "Nvidia scandal pressures Trump's Commerce Secretary",
-          "body": "The BBC reports growing pressure on Commerce Secretary Lutnick following the Nvidia scandal, which involves allegations of misconduct and potential conflicts of interest. The incident has sparked political scrutiny and calls for transparency, reflecting broader concerns about corporate accountability and political influence.",
-          "whyItMatters": "The scandal highlights the growing tension between corporate governance and political power, underscoring the need for transparency in high-profile tech companies.",
+          "title": "UK police probe into David Walliams' sex offence allegations",
+          "body": "UK police have opened an investigation into allegations of a sex offence involving comedian and author David Walliams. The probe is part of broader efforts to address public concerns about sexual misconduct in the entertainment industry. The case has drawn attention due to the high-profile nature of the individual and the potential implications for public trust in the sector.",
+          "whyItMatters": "The probe highlights ongoing efforts to address sexual misconduct in the entertainment industry, which can influence public perception and policy.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/inside-story/2026/11/13/how-will-the-us-deal-with-nvidia-scandal?traffic_source=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights"
             }
           ]
         },
         {
-          "title": "Microsoft outage disrupts US businesses and schools",
-          "body": "The Guardian reports a prolonged Microsoft outage affecting millions of users, including businesses, schools, and local governments. Microsoft claims the disruption is not related to cyber or AI, but the outage has raised concerns about system reliability and potential security risks.",
-          "whyItMatters": "The outage underscores the importance of system stability and the potential risks of relying on critical services, especially during times of heightened uncertainty.",
+          "title": "Microsoft services begin recovering from global outage",
+          "body": "Microsoft services have started to recover from a global outage that lasted nearly 24 hours, affecting companies, schools, and local governments across the US. The outage was attributed to a technical issue, and Microsoft expressed deep regret for the disruption caused. The incident underscores the importance of reliable digital infrastructure in modern society.",
+          "whyItMatters": "The global outage highlights the critical role of digital infrastructure in maintaining business and public services, and the need for robust technological resilience.",
           "sources": [
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "The Guardian Business",
@@ -140,19 +136,23 @@
           ]
         },
         {
-          "title": "College students rally against Starbucks contract negotiations",
-          "body": "The Guardian reports college students in the US are rallying in support of Starbucks baristas, urging a boycott over contract negotiations. The movement reflects broader concerns about labor rights and corporate practices, highlighting the role of student activism in shaping workplace policies.",
-          "whyItMatters": "The movement demonstrates the power of collective action in advocating for fair labor practices and corporate accountability, emphasizing the importance of student involvement in shaping workplace dynamics.",
+          "title": "FAA grounds nearly 11,000 flights due to telecommunication outage",
+          "body": "The FAA has grounded nearly 11,000 flights across the US due to a telecommunication outage, causing widespread delays and cancellations. The incident highlights the vulnerability of critical infrastructure to technical failures and the importance of backup systems to prevent such disruptions.",
+          "whyItMatters": "The FAA grounding of flights due to a telecommunication outage underscores the need for reliable and resilient infrastructure to prevent disruptions in critical services.",
           "sources": [
             {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/faa-grounds-all-fights-across-the-us-over-telecommunication?traffic_source=rss"
+            },
+            {
               "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/us-news/2026/nov/12/starbucks-workers-campus-rally-contract-talks"
+              "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-13T19:55:26.571Z"
+      "updatedAt": "2026-11-14T00:56:16.280Z"
     }
   }
 }
