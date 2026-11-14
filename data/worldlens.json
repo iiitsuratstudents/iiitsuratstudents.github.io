@@ -1,117 +1,140 @@
 {
-  "generatedAt": "2026-11-14T11:37:47.651Z",
+  "generatedAt": "2026-11-14T18:18:41.640Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of geopolitical developments, international relations, and global events impacting students.",
+      "kicker": "Global Brief",
+      "summary": "Today's lens covers regional developments in geopolitics, technology, and climate, with focus on international relations, digital privacy, and environmental impacts.",
       "stories": [
         {
-          "title": "US and Ukraine: Contested territorial claims",
-          "body": "The US has floated the idea of Ukraine ceding Donbas for NATO membership, while President Zelensky has rejected the proposal. This reflects ongoing tensions in the region and the complex interplay between geopolitical alliances and territorial sovereignty.",
-          "whyItMatters": "The proposal highlights the challenges of balancing regional security and territorial integrity in a multipolar world.",
+          "title": "Philippines wins first Eurovision Song Contest Asia",
+          "body": "The Philippines secured its first-ever victory in the Eurovision Song Contest Asia region, marking a significant cultural milestone. The win highlights the country's growing influence in the global music scene and its ability to compete on an international stage.",
+          "whyItMatters": "This victory underscores the Philippines' increasing presence in global cultural and artistic competitions, reflecting its rising influence in the international music landscape.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "South Sudan's postponed elections",
-          "body": "South Sudan has postponed its first-ever national elections until February 2027. This delay underscores the ongoing political instability and the need for a stable political process in the region.",
-          "whyItMatters": "The postponement highlights the challenges of holding elections in a country with a history of conflict and the importance of ensuring democratic transitions.",
+          "title": "US blames system upgrade for longest nationwide FAA ground stop since 9/11",
+          "body": "The United States has blamed a recent system upgrade for the longest nationwide FAA ground stop since 9/11. The disruption affected air travel, raising concerns about the impact of technological changes on aviation operations.",
+          "whyItMatters": "This event highlights the potential disruptions caused by technological upgrades in critical infrastructure, emphasizing the need for careful planning and communication in the aviation sector.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Tennis: Sabalenka's loss in WTA Finals",
-          "body": "Azerbaijan's Aryna Sabalenka crashed out of the WTA Finals after losing to Romania's Elina Svitolina. This event highlights the competitive nature of professional tennis and the impact of high-stakes matches on player careers.",
-          "whyItMatters": "The match underscores the intensity of international sports competitions and the influence of top-tier athletes on global audiences.",
+          "title": "Rising costs and arrests fuel protests in Central African Republic",
+          "body": "Protests in the Central African Republic have been fueled by rising costs and arrests, reflecting broader socio-economic challenges in the region. The unrest highlights the tensions between government and citizens over resource allocation and governance.",
+          "whyItMatters": "These protests underscore the vulnerability of fragile states to economic and social pressures, emphasizing the importance of sustainable development and governance in conflict-prone regions.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/11/14/aryna-sabalenka-elina-svitolina-wta-finals-indian-wells-semifinals-tennis?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/rising-costs-and-arrests-fuel-protests-in-central-african-republic?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-14T11:37:47.651Z"
+      "updatedAt": "2026-11-14T18:18:41.640Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers a range of scientific and technological developments, from planetary observations to climate data and AI advancements.",
+      "summary": "Today's lens covers advancements in space exploration, neuroscience, climate impacts, and AI developments.",
       "stories": [
         {
-          "title": "November's planetary parade in the pre-dawn sky",
-          "body": "In the pre-dawn sky, the planets Mercury, Venus, Mars, Jupiter, and Saturn align in a striking visual display, offering a rare opportunity for stargazers to observe their positions. This alignment is part of the annual planetary parade that occurs in early November, providing a natural spectacle for those who enjoy the night sky.",
-          "whyItMatters": "This event highlights the natural beauty of celestial phenomena and the importance of public engagement with astronomy.",
+          "title": "SpaceX Starship Rocket Launch",
+          "body": "SpaceX has successfully attempted a second launch of its Starship rocket, aiming to achieve reusability. The mission, which took place on November 14, 2026, focused on testing the rocket's ability to return to Earth for reuse. This is a critical step toward reducing the cost of space travel and enabling more frequent missions.",
+          "whyItMatters": "This advancement could significantly lower the cost of space exploration and make it more accessible for future missions.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit"
+            }
+          ]
+        },
+        {
+          "title": "Neuroscience Breakthrough: Alzheimer’s Prediction",
+          "body": "Scientists have identified hidden brain signals that can predict Alzheimer’s disease up to several years before symptoms appear. This discovery could lead to early intervention and better management of the condition, potentially improving patients' quality of life.",
+          "whyItMatters": "Early detection of Alzheimer’s could allow for timely treatment and better management of the disease, potentially slowing its progression.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm"
+            }
+          ]
+        },
+        {
+          "title": "Climate and Health Impacts",
+          "body": "A summer heatwave in the UK put bin crews at risk, according to a council worker. Additionally, concerns about sewage spills in Scotland have raised awareness about environmental health issues. These events highlight the growing impact of climate change on daily life and public health.",
+          "whyItMatters": "These events underscore the importance of addressing climate change and its effects on public health and infrastructure.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Hundreds of children in England prescribed weight-loss jabs",
-          "body": "In England, a significant number of children have been prescribed weight-loss injections, raising concerns about the safety and efficacy of the treatment. The practice has sparked debate over its potential health impacts and ethical considerations.",
-          "whyItMatters": "This development underscores the need for careful evaluation of medical interventions and their long-term effects on public health.",
-          "sources": [
-            {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/nov/14/children-iengland-prescribed-weight-loss-jabs"
-            }
-          ]
-        },
-        {
-          "title": "Bluetongue virus confirmed on County Down farm",
-          "body": "A confirmed case of the Bluetongue virus has been reported on a farm in County Down, Ireland. The virus affects equine animals and could pose a risk to local livestock populations, prompting measures to prevent its spread.",
-          "whyItMatters": "This event highlights the importance of monitoring and managing animal health to prevent outbreaks and protect agricultural industries.",
-          "sources": [
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-14T11:37:47.651Z"
+      "updatedAt": "2026-11-14T18:18:41.640Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers key economic developments, including political shifts in Israel, technological disruptions, and global economic trends.",
+      "summary": "The lens covers economic developments, including tech outages, legal actions, and protests, highlighting the impact on businesses and consumers.",
       "stories": [
         {
-          "title": "South Sudan Postpones Elections",
-          "body": "South Sudan has postponed its first-ever national elections until February 2027, citing logistical challenges and the need for stability. The decision comes as the country faces ongoing political and humanitarian crises.",
-          "whyItMatters": "The postponement highlights the complexities of governance and the impact of political instability on regional stability.",
+          "title": "US FAA ground stop due to system upgrade",
+          "body": "The US Federal Aviation Administration (FAA) has announced a nationwide ground stop due to a system upgrade, marking the longest such stop since 9/11. The delay affects flights and travel plans, raising concerns about the impact of infrastructure upgrades on daily operations.",
+          "whyItMatters": "The ground stop highlights the potential disruption caused by large-scale system upgrades, which can impact both travelers and local businesses.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Microsoft Outage Affects Businesses and Schools",
-          "body": "A day-long global outage at Microsoft disrupted services for businesses, schools, and local governments across the US. The outage, which lasted over 12 hours, caused widespread disruption and raised concerns about the reliability of critical infrastructure.",
-          "whyItMatters": "The outage underscores the importance of reliable technology and the potential consequences of disruptions in critical sectors.",
+          "title": "Italy fines Meta over photo privacy issues",
+          "body": "Italy has fined Meta $880 million for violations of photo privacy laws, reflecting ongoing debates about digital privacy and data protection in the tech industry. The decision underscores the growing regulatory pressure on tech companies to address user data concerns.",
+          "whyItMatters": "The fine highlights the increasing regulatory scrutiny on tech companies and the importance of privacy laws in the digital age.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Microsoft outage disrupts US services",
+          "body": "Microsoft experienced a day-long global outage that disrupted services for companies, schools, and local governments. The outage raised questions about the reliability of critical infrastructure and the potential impact on daily operations.",
+          "whyItMatters": "The outage underscores the importance of reliable digital infrastructure and the potential consequences of service disruptions on both businesses and individuals.",
           "sources": [
             {
               "name": "BBC Business",
@@ -120,27 +143,16 @@
             {
               "name": "The Guardian Business",
               "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments"
-            }
-          ]
-        },
-        {
-          "title": "Nvidia Scandal and White House Pressure",
-          "body": "A sex scandal at Nvidia is leading to increased pressure on President Trump's Commerce Secretary, Lutnick, as the company faces scrutiny over its practices and the impact of the scandal on its stock price.",
-          "whyItMatters": "The scandal highlights the ongoing challenges in corporate governance and the potential for political and regulatory responses to corporate misconduct.",
-          "sources": [
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-14T11:37:47.651Z"
+      "updatedAt": "2026-11-14T18:18:41.640Z"
     }
   }
 }
