@@ -1,61 +1,87 @@
 {
-  "generatedAt": "2026-11-14T23:59:44.384Z",
+  "generatedAt": "2026-11-15T06:50:16.849Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers geopolitical developments, natural disasters, and cultural events, highlighting the interplay of global events and their potential impacts on students.",
+      "summary": "Today's lens covers political developments, natural disasters, and social issues, highlighting the interplay between international relations, environmental impacts, and cultural dynamics.",
       "stories": [
         {
-          "title": "Iraq PM Targets Militia Stronghold in Oil Smuggling Probe",
-          "body": "Iraq's Prime Minister has launched a targeted operation against a powerful militia stronghold in the north, as part of a $30 million oil smuggling investigation. The move comes amid growing concerns over regional security and the potential for conflict in the region.",
-          "whyItMatters": "This operation highlights the ongoing challenges in maintaining stability and security in Iraq, which could have implications for regional cooperation and conflict resolution.",
+          "title": "UN Chief Election: Secret Votes and Vetoes",
+          "body": "The upcoming election for the UN Secretary-General is expected to involve secret votes and potential vetoes, as the process is complex and politically charged. The selection process is governed by the UN Charter, with candidates needing to secure majority support in the General Assembly. The outcome will have significant implications for international diplomacy and global governance.",
+          "whyItMatters": "The outcome of the UN Secretary-General election could influence international cooperation and the direction of global policy.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Netanyahu Says Only Unity Government Can Guarantee Israel’s Security",
-          "body": "Israeli Prime Minister Netanyahu emphasized the need for a unified government to ensure national security, amid ongoing political tensions and the complexities of the Israeli-Palestinian conflict. The statement reflects the broader challenges of governance and political stability in the region.",
-          "whyItMatters": "This highlights the importance of political unity in addressing security concerns, which is critical for students understanding the dynamics of governance and conflict in the Middle East.",
+          "title": "Francophone Summit in Cambodia: Tensions Amidst Regional Rifts",
+          "body": "A Francophone summit was held in Cambodia, where leaders from Francophone countries convened to address regional tensions, particularly between Rwanda and DR Congo. The summit aimed to foster unity and cooperation among Francophone nations, but underlying disputes over resource allocation and political representation created a tense atmosphere.",
+          "whyItMatters": "The summit highlights the importance of regional cooperation and the challenges of managing political tensions in multilateral settings.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Explosion Near Syria’s Capital Kills Father and Child",
-          "body": "A deadly explosion near Damascus, Syria, resulted in the death of a father and child. The incident underscores the ongoing instability and risks associated with the region, which could impact students' understanding of conflict and humanitarian issues.",
-          "whyItMatters": "This event illustrates the human cost of conflict and the importance of regional stability, which is essential for students to grasp the complexities of global geopolitics.",
+          "title": "SpaceX Starship Rocket Recovery: A Triumph of Innovation",
+          "body": "SpaceX successfully captured a piece of its Starship rocket during a return to Earth test, marking a significant milestone in space exploration. The event showcased the company's technological advancements and its potential to revolutionize space travel and satellite deployment.",
+          "whyItMatters": "This achievement underscores the rapid progress in space technology and its potential impact on future space missions and commercial space travel.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-14T23:59:44.384Z"
+      "updatedAt": "2026-11-15T06:50:16.849Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers advancements in space exploration, neuroscience, climate impacts, and AI developments.",
+      "summary": "Today's lens covers groundbreaking scientific discoveries, technological advancements, and environmental concerns impacting students and researchers globally.",
       "stories": [
         {
-          "title": "SpaceX Achieves Major Milestone",
-          "body": "SpaceX successfully caught the top of a Starship rocket for the first time, marking a significant step in reusable rocket technology. This achievement could reduce the cost of space travel and enable more frequent missions to the Moon and beyond.",
-          "whyItMatters": "This milestone could revolutionize space exploration by making it more economically viable and sustainable.",
+          "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+          "body": "A study suggests that the brain regions responsible for memory may begin to shrink in Alzheimer’s disease years before noticeable memory loss. This finding could improve early diagnosis and treatment strategies.",
+          "whyItMatters": "Early detection of brain atrophy may lead to better management of Alzheimer’s disease.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm"
+            }
+          ]
+        },
+        {
+          "title": "Dinosaurs may have been eating seaweed 100 million years ago",
+          "body": "New research indicates that dinosaurs may have consumed seaweed as a primary food source, providing evidence of their ecological role in ancient marine environments.",
+          "whyItMatters": "This discovery offers insights into the evolution of marine and terrestrial ecosystems.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm"
+            }
+          ]
+        },
+        {
+          "title": "SpaceX Starship megarocket blasts off before expected return for reuse",
+          "body": "SpaceX successfully captured the top of the Starship rocket for the first time, marking a significant step toward its reusable spacecraft mission.",
+          "whyItMatters": "This achievement advances space exploration and reduces the cost of space travel.",
           "sources": [
             {
               "name": "BBC Science",
@@ -66,93 +92,63 @@
               "url": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit"
             }
           ]
-        },
-        {
-          "title": "Neuroscience Advances in Alzheimer’s Prediction",
-          "body": "Stanford scientists have discovered hidden brain signals that can predict Alzheimer’s disease years before symptoms appear. This finding could lead to early intervention and better patient outcomes, offering new hope for those at risk.",
-          "whyItMatters": "Early detection of Alzheimer’s could significantly improve quality of life and healthcare outcomes for affected individuals.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm"
-            }
-          ]
-        },
-        {
-          "title": "Climate and Health Impacts in the UK",
-          "body": "A summer heatwave in the UK put bin crews' lives at risk, while scientists are investigating the impact of climate change on public health. These developments highlight the growing urgency of addressing environmental and health challenges.",
-          "whyItMatters": "Climate-related health risks underscore the importance of sustainable practices and public health preparedness.",
-          "sources": [
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-14T23:59:44.384Z"
+      "updatedAt": "2026-11-15T06:50:16.849Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of global economic developments, political events, and technological disruptions, highlighting the interconnectedness of international affairs and technological impacts on daily life.",
+      "summary": "Today's lens covers developments in global economics, including UN leadership, regional political tensions, tech industry issues, and business-related news.",
       "stories": [
         {
-          "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
-          "body": "Iraq's Prime Minister has launched a major operation to target a powerful militia stronghold in the context of an ongoing $30 million oil smuggling probe. The move comes as the government seeks to combat illegal oil trafficking, which has been a persistent issue in the region. The operation is expected to have significant implications for regional security and economic stability.",
-          "whyItMatters": "The operation highlights the ongoing challenges of combating smuggling and the potential impact on regional security and economic development.",
+          "title": "UN chief election: Secret votes and vetoes",
+          "body": "The UN is set to elect its next chief, with reports of secret votes and vetoes. The process is expected to be contentious, with multiple candidates vying for the position. The election is seen as a critical moment for global governance and international cooperation.",
+          "whyItMatters": "The outcome of the UN chief election could influence international diplomacy and multilateral cooperation.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "US flights resume after ageing technology blamed for outage",
-          "body": "US flights have resumed after a day-long outage attributed to ageing technology in the country's aviation systems. The outage caused widespread disruptions, affecting both commercial and military flights. The issue underscores the importance of maintaining and upgrading critical infrastructure to ensure the smooth operation of essential services.",
-          "whyItMatters": "The outage highlights the vulnerability of critical infrastructure and the need for regular maintenance and technological upgrades to prevent similar disruptions.",
+          "title": "Francophone summit in Cambodia: Regional tensions",
+          "body": "A Francophone summit is opening in Cambodia, marking a significant event in regional politics. The summit is expected to address issues related to the ongoing rift between Rwanda and DR Congo, highlighting the complexities of regional alliances and conflicts.",
+          "whyItMatters": "The summit's outcomes could impact regional stability and diplomatic relations in Africa.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Microsoft outage disrupts US businesses and schools",
+          "body": "A prolonged global outage at Microsoft has disrupted businesses, schools, and local governments across the US. The outage has raised concerns about the reliability of critical services and the potential impact on daily operations.",
+          "whyItMatters": "The Microsoft outage highlights the importance of reliable technology infrastructure for modern society.",
+          "sources": [
+            {
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage"
             },
             {
               "name": "The Guardian Business",
               "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments"
-            }
-          ]
-        },
-        {
-          "title": "Microsoft says services fully restored after day-long global outage",
-          "body": "Microsoft has reported that its services were fully restored after a day-long global outage caused by a combination of factors. The outage affected companies, schools, and local governments across the US, demonstrating the potential for widespread disruption in the digital landscape. The incident highlights the importance of robust backup systems and disaster recovery protocols.",
-          "whyItMatters": "The outage underscores the importance of reliable digital infrastructure and the need for effective disaster recovery strategies to minimize disruptions in critical services.",
-          "sources": [
+            },
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments"
+              "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-14T23:59:44.384Z"
+      "updatedAt": "2026-11-15T06:50:16.849Z"
     }
   }
 }
