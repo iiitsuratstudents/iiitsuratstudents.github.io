@@ -1,154 +1,142 @@
 {
-  "generatedAt": "2026-11-15T06:50:16.849Z",
+  "generatedAt": "2026-11-15T15:43:49.140Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers political developments, natural disasters, and social issues, highlighting the interplay between international relations, environmental impacts, and cultural dynamics.",
+      "summary": "Today's lens covers a range of global events, including migration, conflict, technological developments, and climate impacts, highlighting the interconnected nature of contemporary challenges.",
       "stories": [
         {
-          "title": "UN Chief Election: Secret Votes and Vetoes",
-          "body": "The upcoming election for the UN Secretary-General is expected to involve secret votes and potential vetoes, as the process is complex and politically charged. The selection process is governed by the UN Charter, with candidates needing to secure majority support in the General Assembly. The outcome will have significant implications for international diplomacy and global governance.",
-          "whyItMatters": "The outcome of the UN Secretary-General election could influence international cooperation and the direction of global policy.",
+          "title": "Record number of migrants arrive in Spain’s Canary Islands",
+          "body": "Al Jazeera reports that over 100,000 migrants have arrived in Spain’s Canary Islands in the past year, raising concerns about border control and humanitarian crises. The influx has strained local resources and sparked debates about migration policies.",
+          "whyItMatters": "The increasing number of migrants arriving in Europe highlights the growing global migration crisis and the need for coordinated international responses.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Francophone Summit in Cambodia: Tensions Amidst Regional Rifts",
-          "body": "A Francophone summit was held in Cambodia, where leaders from Francophone countries convened to address regional tensions, particularly between Rwanda and DR Congo. The summit aimed to foster unity and cooperation among Francophone nations, but underlying disputes over resource allocation and political representation created a tense atmosphere.",
-          "whyItMatters": "The summit highlights the importance of regional cooperation and the challenges of managing political tensions in multilateral settings.",
+          "title": "Flames engulf Syrian refugee camp in eastern Lebanon",
+          "body": "Al Jazeera documents the destruction of a Syrian refugee camp in eastern Lebanon, where flames have engulfed the camp, displacing hundreds of refugees and worsening the humanitarian crisis in the region.",
+          "whyItMatters": "The destruction of refugee camps underscores the ongoing challenges of displacement and the need for sustainable solutions to prevent further crises.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/flames-engulf-syrian-refugee-camp-in-eastern-lebanon?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "SpaceX Starship Rocket Recovery: A Triumph of Innovation",
-          "body": "SpaceX successfully captured a piece of its Starship rocket during a return to Earth test, marking a significant milestone in space exploration. The event showcased the company's technological advancements and its potential to revolutionize space travel and satellite deployment.",
-          "whyItMatters": "This achievement underscores the rapid progress in space technology and its potential impact on future space missions and commercial space travel.",
+          "title": "SpaceX craft caught mid-air: Why it matters",
+          "body": "Al Jazeera reports that a SpaceX craft was caught mid-air, raising questions about the safety and control of spaceflight operations. The incident highlights the complexities of space exploration and the need for improved safety protocols.",
+          "whyItMatters": "The mid-air incident underscores the technological and regulatory challenges of spaceflight and the importance of ensuring safety in space exploration.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/15/almost-magic-as-spacex-craft-caught-mid-air-why-it-matters?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-15T06:50:16.849Z"
+      "updatedAt": "2026-11-15T15:43:49.140Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers groundbreaking scientific discoveries, technological advancements, and environmental concerns impacting students and researchers globally.",
+      "summary": "Today's lens covers recent scientific discoveries, technological advancements, and environmental concerns impacting students and researchers globally.",
       "stories": [
         {
-          "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
-          "body": "A study suggests that the brain regions responsible for memory may begin to shrink in Alzheimer’s disease years before noticeable memory loss. This finding could improve early diagnosis and treatment strategies.",
-          "whyItMatters": "Early detection of brain atrophy may lead to better management of Alzheimer’s disease.",
+          "title": "Vitamin C May Help Block Cancer-Linked Chemicals",
+          "body": "A study found that vitamin C could potentially block cancer-linked chemicals in the stomach, offering new insights into potential cancer prevention strategies. The research highlights the role of dietary compounds in influencing biological processes.",
+          "whyItMatters": "Understanding how nutrients interact with bodily chemicals may lead to new approaches in cancer prevention and dietary health.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm"
             },
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm"
             }
           ]
         },
         {
-          "title": "Dinosaurs may have been eating seaweed 100 million years ago",
-          "body": "New research indicates that dinosaurs may have consumed seaweed as a primary food source, providing evidence of their ecological role in ancient marine environments.",
-          "whyItMatters": "This discovery offers insights into the evolution of marine and terrestrial ecosystems.",
+          "title": "New Study Shows Osteoporosis Drug May Prevent Spinal Damage",
+          "body": "A common osteoporosis drug was found to block spinal damage in a study, suggesting potential therapeutic benefits for patients with bone loss. The findings could influence treatment strategies for bone-related conditions.",
+          "whyItMatters": "Advancements in drug development may improve outcomes for individuals suffering from osteoporosis and related bone disorders.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm"
             }
           ]
         },
         {
-          "title": "SpaceX Starship megarocket blasts off before expected return for reuse",
-          "body": "SpaceX successfully captured the top of the Starship rocket for the first time, marking a significant step toward its reusable spacecraft mission.",
-          "whyItMatters": "This achievement advances space exploration and reduces the cost of space travel.",
+          "title": "SpaceX Starship Returns to Launch Pad Successfully",
+          "body": "SpaceX's Starship rocket returned to its launch pad after a successful orbital flight, marking a significant milestone in the company's efforts to achieve space travel milestones. This achievement highlights progress in space exploration technology.",
+          "whyItMatters": "Successful spaceflight demonstrations can drive innovation and inspire future space missions and commercial ventures.",
           "sources": [
+            {
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch"
+            },
             {
               "name": "BBC Science",
               "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-15T06:50:16.849Z"
+      "updatedAt": "2026-11-15T15:43:49.140Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers developments in global economics, including UN leadership, regional political tensions, tech industry issues, and business-related news.",
+      "summary": "Today's lens covers a mix of economic developments, including migrant arrivals, AI-related concerns, and business-related news.",
       "stories": [
         {
-          "title": "UN chief election: Secret votes and vetoes",
-          "body": "The UN is set to elect its next chief, with reports of secret votes and vetoes. The process is expected to be contentious, with multiple candidates vying for the position. The election is seen as a critical moment for global governance and international cooperation.",
-          "whyItMatters": "The outcome of the UN chief election could influence international diplomacy and multilateral cooperation.",
+          "title": "Record number of migrants arrive in Spain’s Canary Islands",
+          "body": "Al Jazeera reports that a record number of migrants have arrived in Spain’s Canary Islands, raising concerns about the impact on local infrastructure and social services. The influx has been attributed to increased migration pressures and limited asylum policies in the region.",
+          "whyItMatters": "The growing number of migrants could strain public resources and affect the region's economic stability.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Francophone summit in Cambodia: Regional tensions",
-          "body": "A Francophone summit is opening in Cambodia, marking a significant event in regional politics. The summit is expected to address issues related to the ongoing rift between Rwanda and DR Congo, highlighting the complexities of regional alliances and conflicts.",
-          "whyItMatters": "The summit's outcomes could impact regional stability and diplomatic relations in Africa.",
+          "title": "Fascism built the AI bubble. What will burst it?",
+          "body": "Al Jazeera discusses the rise of AI and the potential for it to create a new form of economic and social inequality. The article highlights the risks of unchecked AI development and the need for ethical guidelines to prevent a new form of fascism.",
+          "whyItMatters": "The potential for AI to exacerbate societal divides underscores the importance of responsible innovation and regulation.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/deja-vu-2/2026/11/15/fascism-built-the-ai-bubble-what-will-burst-it?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Microsoft outage disrupts US businesses and schools",
-          "body": "A prolonged global outage at Microsoft has disrupted businesses, schools, and local governments across the US. The outage has raised concerns about the reliability of critical services and the potential impact on daily operations.",
-          "whyItMatters": "The Microsoft outage highlights the importance of reliable technology infrastructure for modern society.",
+          "title": "Microsoft services fully restored after global outage",
+          "body": "BBC Business reports that Microsoft's services were fully restored after a day-long global outage, highlighting the resilience of technology companies and the importance of backup systems in maintaining business operations.",
+          "whyItMatters": "The restoration of critical services demonstrates the importance of robust IT infrastructure and disaster recovery plans in the digital age.",
           "sources": [
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage"
-            },
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments"
-            },
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-15T06:50:16.849Z"
+      "updatedAt": "2026-11-15T15:43:49.140Z"
     }
   }
 }
