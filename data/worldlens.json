@@ -1,57 +1,57 @@
 {
-  "generatedAt": "2026-11-15T15:43:49.140Z",
+  "generatedAt": "2026-11-15T21:07:23.228Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers a range of global events, including migration, conflict, technological developments, and climate impacts, highlighting the interconnected nature of contemporary challenges.",
+      "kicker": "Geopolitics",
+      "summary": "Today's lens covers a mix of geopolitical developments, including public media funding disputes, regional conflicts, and global health concerns.",
       "stories": [
         {
-          "title": "Record number of migrants arrive in Spain’s Canary Islands",
-          "body": "Al Jazeera reports that over 100,000 migrants have arrived in Spain’s Canary Islands in the past year, raising concerns about border control and humanitarian crises. The influx has strained local resources and sparked debates about migration policies.",
-          "whyItMatters": "The increasing number of migrants arriving in Europe highlights the growing global migration crisis and the need for coordinated international responses.",
+          "title": "Czechs Rally Against Plan to Switch Funding of Public Media",
+          "body": "Czechs are opposing a proposal to reallocate funding from public media to other sectors. The debate highlights tensions between state control and private media ownership, with concerns about the impact on journalistic independence and public service obligations.",
+          "whyItMatters": "The debate underscores the broader challenge of balancing state funding with media autonomy in democratic societies.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Flames engulf Syrian refugee camp in eastern Lebanon",
-          "body": "Al Jazeera documents the destruction of a Syrian refugee camp in eastern Lebanon, where flames have engulfed the camp, displacing hundreds of refugees and worsening the humanitarian crisis in the region.",
-          "whyItMatters": "The destruction of refugee camps underscores the ongoing challenges of displacement and the need for sustainable solutions to prevent further crises.",
+          "title": "Palestinians Reclaim Gaza’s Shores with a Swim for Hope",
+          "body": "In a dramatic act of defiance, Palestinians have swam across the Gaza Strip to reclaim control of the area. This action symbolizes their determination to resist Israeli occupation and assert their right to self-determination, despite ongoing conflict and instability.",
+          "whyItMatters": "The swim represents a significant moment of resistance and hope in a region marked by prolonged conflict and political tension.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/flames-engulf-syrian-refugee-camp-in-eastern-lebanon?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "SpaceX craft caught mid-air: Why it matters",
-          "body": "Al Jazeera reports that a SpaceX craft was caught mid-air, raising questions about the safety and control of spaceflight operations. The incident highlights the complexities of space exploration and the need for improved safety protocols.",
-          "whyItMatters": "The mid-air incident underscores the technological and regulatory challenges of spaceflight and the importance of ensuring safety in space exploration.",
+          "title": "Who Can Force Israel to Implement Gaza Ceasefire Deal?",
+          "body": "The question of who has the power to enforce a ceasefire in Gaza remains unresolved. Various actors, including international organizations and regional powers, are engaged in diplomatic efforts to achieve a peaceful resolution, highlighting the complex interplay of military, political, and humanitarian concerns.",
+          "whyItMatters": "The ceasefire deal is critical for reducing violence and ensuring long-term stability in the region, reflecting the broader challenges of achieving peace in conflict zones.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/15/almost-magic-as-spacex-craft-caught-mid-air-why-it-matters?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-15T15:43:49.140Z"
+      "updatedAt": "2026-11-15T21:07:23.228Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers recent scientific discoveries, technological advancements, and environmental concerns impacting students and researchers globally.",
+      "summary": "Today's lens covers recent scientific discoveries, technological advancements, and global health and environmental updates.",
       "stories": [
         {
-          "title": "Vitamin C May Help Block Cancer-Linked Chemicals",
-          "body": "A study found that vitamin C could potentially block cancer-linked chemicals in the stomach, offering new insights into potential cancer prevention strategies. The research highlights the role of dietary compounds in influencing biological processes.",
-          "whyItMatters": "Understanding how nutrients interact with bodily chemicals may lead to new approaches in cancer prevention and dietary health.",
+          "title": "Vitamin C and Cancer Prevention",
+          "body": "A study found that vitamin C may help block cancer-linked chemicals in the stomach, potentially offering new avenues for cancer prevention. The research highlights the role of dietary antioxidants in reducing harmful substances.",
+          "whyItMatters": "Understanding how dietary compounds can influence cancer risk may inform public health strategies and dietary recommendations.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -59,14 +59,14 @@
             },
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261113232000.htm"
             }
           ]
         },
         {
-          "title": "New Study Shows Osteoporosis Drug May Prevent Spinal Damage",
-          "body": "A common osteoporosis drug was found to block spinal damage in a study, suggesting potential therapeutic benefits for patients with bone loss. The findings could influence treatment strategies for bone-related conditions.",
-          "whyItMatters": "Advancements in drug development may improve outcomes for individuals suffering from osteoporosis and related bone disorders.",
+          "title": "New Insights into Spinal Damage in Osteoporosis Patients",
+          "body": "A common osteoporosis drug was found to reduce spinal damage in a study, suggesting potential therapeutic benefits for patients with bone loss. The findings could lead to improved treatment options for those affected by the condition.",
+          "whyItMatters": "These findings may contribute to the development of more effective therapies for osteoporosis, a significant health concern globally.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -74,69 +74,69 @@
             },
             {
               "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm"
+            }
+          ]
+        },
+        {
+          "title": "Magnetic Fields of Uranus and Neptune Unraveled",
+          "body": "Scientists have made progress in understanding the bizarre magnetic fields of Uranus and Neptune, shedding light on their unique planetary characteristics. This research could enhance our understanding of planetary magnetism and cosmic phenomena.",
+          "whyItMatters": "Understanding planetary magnetic fields may inform future space exploration and the study of other celestial bodies.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm"
             }
           ]
-        },
-        {
-          "title": "SpaceX Starship Returns to Launch Pad Successfully",
-          "body": "SpaceX's Starship rocket returned to its launch pad after a successful orbital flight, marking a significant milestone in the company's efforts to achieve space travel milestones. This achievement highlights progress in space exploration technology.",
-          "whyItMatters": "Successful spaceflight demonstrations can drive innovation and inspire future space missions and commercial ventures.",
-          "sources": [
-            {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-15T15:43:49.140Z"
+      "updatedAt": "2026-11-15T21:07:23.228Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including migrant arrivals, AI-related concerns, and business-related news.",
+      "summary": "Today's lens covers a mix of economic developments, including a potential ceasefire deal, a regional conflict, and global business news.",
       "stories": [
         {
-          "title": "Record number of migrants arrive in Spain’s Canary Islands",
-          "body": "Al Jazeera reports that a record number of migrants have arrived in Spain’s Canary Islands, raising concerns about the impact on local infrastructure and social services. The influx has been attributed to increased migration pressures and limited asylum policies in the region.",
-          "whyItMatters": "The growing number of migrants could strain public resources and affect the region's economic stability.",
+          "title": "Palestinians reclaim Gaza’s shores with a swim for hope",
+          "body": "In a dramatic move, Palestinians have reclaimed control of Gaza’s shores through a coordinated swim, symbolizing their resilience and determination. The action, which took place in the early hours of the morning, marked a significant step in the ongoing conflict, highlighting the human element of the struggle.",
+          "whyItMatters": "This event underscores the personal and emotional stakes in the broader conflict, emphasizing the impact of individual actions on collective outcomes.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Fascism built the AI bubble. What will burst it?",
-          "body": "Al Jazeera discusses the rise of AI and the potential for it to create a new form of economic and social inequality. The article highlights the risks of unchecked AI development and the need for ethical guidelines to prevent a new form of fascism.",
-          "whyItMatters": "The potential for AI to exacerbate societal divides underscores the importance of responsible innovation and regulation.",
+          "title": "Israel and Gaza ceasefire deal under scrutiny",
+          "body": "The potential implementation of a Gaza ceasefire deal remains a contentious issue, with various stakeholders questioning its feasibility and the role of international pressure. The situation reflects the complex dynamics between regional powers and the need for diplomatic solutions in conflict zones.",
+          "whyItMatters": "The success of the ceasefire deal could influence regional stability and the broader Middle East peace process, highlighting the importance of diplomatic engagement in resolving conflicts.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/deja-vu-2/2026/11/15/fascism-built-the-ai-bubble-what-will-burst-it?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Microsoft services fully restored after global outage",
-          "body": "BBC Business reports that Microsoft's services were fully restored after a day-long global outage, highlighting the resilience of technology companies and the importance of backup systems in maintaining business operations.",
-          "whyItMatters": "The restoration of critical services demonstrates the importance of robust IT infrastructure and disaster recovery plans in the digital age.",
+          "title": "Estonia to close border crossings with Russia after arson attack",
+          "body": "Estonia has decided to close border crossings with Russia following an alleged arson attack. The decision comes amid growing tensions in the region, reflecting the potential for escalation in the geopolitical landscape.",
+          "whyItMatters": "This development highlights the risks of regional conflicts and the importance of maintaining diplomatic channels to prevent further escalation in the region.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-15T15:43:49.140Z"
+      "updatedAt": "2026-11-15T21:07:23.228Z"
     }
   }
 }
