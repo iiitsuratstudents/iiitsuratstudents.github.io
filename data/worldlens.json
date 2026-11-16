@@ -1,142 +1,146 @@
 {
-  "generatedAt": "2026-11-15T21:07:23.228Z",
+  "generatedAt": "2026-11-16T06:49:45.195Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of geopolitical developments, including public media funding disputes, regional conflicts, and global health concerns.",
+      "summary": "Today's lens covers international tensions, political developments, and humanitarian concerns, highlighting key events and their potential implications for global stability.",
       "stories": [
         {
-          "title": "Czechs Rally Against Plan to Switch Funding of Public Media",
-          "body": "Czechs are opposing a proposal to reallocate funding from public media to other sectors. The debate highlights tensions between state control and private media ownership, with concerns about the impact on journalistic independence and public service obligations.",
-          "whyItMatters": "The debate underscores the broader challenge of balancing state funding with media autonomy in democratic societies.",
+          "title": "US and rivals spar over next UN boss as race lurches towards deadline",
+          "body": "The United States and its allies are in a competitive race to appoint the next UN Secretary-General, with tensions rising as the deadline approaches. The US has been pushing for a candidate with strong ties to its geopolitical interests, while other nations are seeking to ensure the new leader reflects a broader range of global perspectives. The race is seen as critical for maintaining international cooperation and addressing pressing global challenges.",
+          "whyItMatters": "The outcome of the UN Secretary-General appointment could shape international diplomacy and cooperation in the coming years.",
           "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/16/us-and-rivals-spar-over-next-un-boss-as-race-lurches-towards-deadline?traffic_source=rss"
+            },
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Palestinians Reclaim Gaza’s Shores with a Swim for Hope",
-          "body": "In a dramatic act of defiance, Palestinians have swam across the Gaza Strip to reclaim control of the area. This action symbolizes their determination to resist Israeli occupation and assert their right to self-determination, despite ongoing conflict and instability.",
-          "whyItMatters": "The swim represents a significant moment of resistance and hope in a region marked by prolonged conflict and political tension.",
+          "title": "Widow of Haiti’s slain leader Moise to contest presidential vote",
+          "body": "The widow of Haiti’s former President Jean-Bertrand Aristide is set to challenge the results of a controversial presidential election. The vote was marred by allegations of fraud and violence, and the widow's candidacy has sparked debates about the legitimacy of the election and the role of the judiciary in ensuring fair outcomes.",
+          "whyItMatters": "The outcome of this election could impact the political landscape of Haiti and set precedents for future electoral processes.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/16/widow-of-haitis-slain-leader-moise-to-contest-presidential-vote?traffic_source=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Who Can Force Israel to Implement Gaza Ceasefire Deal?",
-          "body": "The question of who has the power to enforce a ceasefire in Gaza remains unresolved. Various actors, including international organizations and regional powers, are engaged in diplomatic efforts to achieve a peaceful resolution, highlighting the complex interplay of military, political, and humanitarian concerns.",
-          "whyItMatters": "The ceasefire deal is critical for reducing violence and ensuring long-term stability in the region, reflecting the broader challenges of achieving peace in conflict zones.",
+          "title": "Iraqi armed group denies involvement in oil smuggling, calls probe a 'lie'",
+          "body": "An Iraqi armed group has denied involvement in oil smuggling operations and criticized the ongoing investigation as a 'lie.' The group claims the probe lacks credible evidence and has called for transparency and an independent review of the allegations. This development highlights the ongoing tensions between state authorities and non-state actors in the region.",
+          "whyItMatters": "The dispute over the legitimacy of the oil smuggling investigation could affect regional security and cooperation efforts.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/16/iraqi-armed-group-denies-involvement-in-oil-smuggling-calls-probe-a-lie?traffic_source=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-15T21:07:23.228Z"
+      "updatedAt": "2026-11-16T06:49:45.195Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers recent scientific discoveries, technological advancements, and global health and environmental updates.",
+      "summary": "Today's lens covers breakthroughs in science, technology, and health, including new research on cancer treatment, space exploration, and climate-related impacts.",
       "stories": [
         {
-          "title": "Vitamin C and Cancer Prevention",
-          "body": "A study found that vitamin C may help block cancer-linked chemicals in the stomach, potentially offering new avenues for cancer prevention. The research highlights the role of dietary antioxidants in reducing harmful substances.",
-          "whyItMatters": "Understanding how dietary compounds can influence cancer risk may inform public health strategies and dietary recommendations.",
+          "title": "Gas starts flowing from Jackdaw after government green light",
+          "body": "A gas well in the UK has started flowing after receiving a government green light, marking a significant step in energy exploration. The project is expected to contribute to the country's energy supply and may have economic implications for local communities.",
+          "whyItMatters": "This development could impact energy policies and local economies in the UK.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Vitamin C could help block cancer-linked chemicals in your stomach",
+          "body": "A study suggests that vitamin C may help neutralize harmful chemicals produced in the stomach that are linked to cancer. This could lead to new strategies for preventing cancer development and improving dietary recommendations.",
+          "whyItMatters": "Understanding how vitamin C interacts with the digestive system could influence public health initiatives and dietary guidelines.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261113232000.htm"
             }
           ]
         },
         {
-          "title": "New Insights into Spinal Damage in Osteoporosis Patients",
-          "body": "A common osteoporosis drug was found to reduce spinal damage in a study, suggesting potential therapeutic benefits for patients with bone loss. The findings could lead to improved treatment options for those affected by the condition.",
-          "whyItMatters": "These findings may contribute to the development of more effective therapies for osteoporosis, a significant health concern globally.",
+          "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
+          "body": "A new study found that a commonly used osteoporosis drug can prevent spinal damage in mice, offering potential benefits for patients with bone loss. The findings could lead to new treatment options for osteoporosis patients.",
+          "whyItMatters": "This discovery could improve treatment options for osteoporosis and enhance patient outcomes.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm"
-            }
-          ]
-        },
-        {
-          "title": "Magnetic Fields of Uranus and Neptune Unraveled",
-          "body": "Scientists have made progress in understanding the bizarre magnetic fields of Uranus and Neptune, shedding light on their unique planetary characteristics. This research could enhance our understanding of planetary magnetism and cosmic phenomena.",
-          "whyItMatters": "Understanding planetary magnetic fields may inform future space exploration and the study of other celestial bodies.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-15T21:07:23.228Z"
+      "updatedAt": "2026-11-16T06:49:45.195Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including a potential ceasefire deal, a regional conflict, and global business news.",
+      "summary": "Today's lens covers a mix of economic developments, including stock market reactions, political tensions, and regional conflicts.",
       "stories": [
         {
-          "title": "Palestinians reclaim Gaza’s shores with a swim for hope",
-          "body": "In a dramatic move, Palestinians have reclaimed control of Gaza’s shores through a coordinated swim, symbolizing their resilience and determination. The action, which took place in the early hours of the morning, marked a significant step in the ongoing conflict, highlighting the human element of the struggle.",
-          "whyItMatters": "This event underscores the personal and emotional stakes in the broader conflict, emphasizing the impact of individual actions on collective outcomes.",
+          "title": "US and rivals spar over next UN boss as race lurches towards deadline",
+          "body": "The United States and its allies are competing for the position of UN Secretary-General, with the race nearing its deadline. The US has been pushing for a candidate, while other nations are considering their own options. The competition highlights the geopolitical tensions and the importance of leadership in international organizations.",
+          "whyItMatters": "The outcome of this competition could influence global diplomatic relations and the direction of international cooperation.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/16/us-and-rivals-spar-over-next-un-boss-as-race-lurches-towards-deadline?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/16/iraqi-armed-group-denies-involvement-in-oil-smuggling-calls-probe-a-lie?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Israel and Gaza ceasefire deal under scrutiny",
-          "body": "The potential implementation of a Gaza ceasefire deal remains a contentious issue, with various stakeholders questioning its feasibility and the role of international pressure. The situation reflects the complex dynamics between regional powers and the need for diplomatic solutions in conflict zones.",
-          "whyItMatters": "The success of the ceasefire deal could influence regional stability and the broader Middle East peace process, highlighting the importance of diplomatic engagement in resolving conflicts.",
+          "title": "Indonesian president apologises to Singapore, Malaysia for wildfire haze",
+          "body": "Indonesian President Joko Widodo apologised to Singapore and Malaysia for the wildfire haze that affected their regions. The apology reflects the country's commitment to addressing environmental issues and improving regional cooperation.",
+          "whyItMatters": "The apology underscores the importance of environmental responsibility and regional collaboration in managing natural disasters.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/16/indonesian-president-apologises-to-singapore-malaysia-for-wildfire-haze?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Estonia to close border crossings with Russia after arson attack",
-          "body": "Estonia has decided to close border crossings with Russia following an alleged arson attack. The decision comes amid growing tensions in the region, reflecting the potential for escalation in the geopolitical landscape.",
-          "whyItMatters": "This development highlights the risks of regional conflicts and the importance of maintaining diplomatic channels to prevent further escalation in the region.",
+          "title": "Investors sue chip giant Intel after 29% stock plunge",
+          "body": "Investors in Intel filed a lawsuit after the company's stock dropped by 29%, citing concerns over financial stability and market performance. The legal action highlights the impact of market volatility on corporate governance and investor confidence.",
+          "whyItMatters": "The lawsuit could lead to significant changes in corporate practices and investor behavior in the semiconductor industry.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-15T21:07:23.228Z"
+      "updatedAt": "2026-11-16T06:49:45.195Z"
     }
   }
 }
