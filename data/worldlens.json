@@ -1,144 +1,136 @@
 {
-  "generatedAt": "2026-11-17T13:38:47.238Z",
+  "generatedAt": "2026-11-17T23:34:53.493Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of international news, including education protests in France, FIFA challenges, cybersecurity concerns, and human rights issues.",
+      "kicker": "Geopolitics",
+      "summary": "Today's lens covers a mix of international events, including protests, legal actions, and geopolitical tensions, highlighting the complex interplay of politics, law, and global dynamics.",
       "stories": [
         {
-          "title": "France's Education Protests",
-          "body": "Students in France have protested against educational reforms, refusing to participate in mandatory exams. The protests, which began in early November, have drawn attention to broader tensions between education policies and student rights. The situation reflects ongoing debates about curriculum changes and academic freedom.",
-          "whyItMatters": "The protests highlight the growing divide between government policies and student autonomy, raising questions about educational reform and student rights.",
+          "title": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
+          "body": "Haitians have protested in support of El Salvador’s deployment of anti-gang troops, highlighting concerns over regional security and the potential impact on local communities. The protests reflect broader tensions between regional security efforts and the rights of local populations.",
+          "whyItMatters": "The protests underscore the challenges of balancing regional security with the rights and concerns of local populations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/17/at-the-origin-of-frances-education-protests-students-refuse-to-give-up?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/17/why-do-governments-switch-off-the-internet?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "FIFA Challenge and Global Support",
-          "body": "FIFA challenger Yacouba Diallo claims to have support beyond Europe, challenging the dominance of Italian football legend Giampiero Infantino. The controversy underscores the evolving landscape of international sports and the influence of regional rivalries in global football.",
-          "whyItMatters": "The debate over FIFA's selection process highlights the complexities of international sports governance and the role of regional influence in global competitions.",
+          "title": "UK sanctions Israeli settlement firms to protect two-state solution",
+          "body": "The UK has sanctioned eight Israeli settlement firms to protect the two-state solution, reflecting ongoing tensions between Israeli and Palestinian interests and the international community's role in mediating peace efforts.",
+          "whyItMatters": "The sanctions highlight the complex geopolitical dynamics surrounding the Israeli-Palestinian conflict and the international community's role in promoting peace.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/11/17/brazil-defeat-singapore-7-0-as-vinicius-scores-first-half-hat-trick?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Cybersecurity and Government Internet Shutdowns",
-          "body": "Concerns have been raised about governments potentially shutting down internet access to prevent cyberattacks. The issue is particularly relevant in the context of increasing cyber threats and the need for robust digital infrastructure. The discussion also touches on the balance between security and freedom in the digital age.",
-          "whyItMatters": "The debate over government internet shutdowns reflects broader concerns about cybersecurity, digital sovereignty, and the role of technology in national security.",
+          "title": "Russian military plane crash kills all 19 on board",
+          "body": "A Russian military plane crashed in Siberia, killing all 19 passengers. The incident raises questions about aviation safety and the potential for similar incidents in the future, emphasizing the importance of safety protocols and regulatory oversight.",
+          "whyItMatters": "The crash underscores the need for improved aviation safety and regulatory oversight to prevent similar incidents.",
           "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/17/why-do-governments-switch-off-the-internet?traffic_source=rss"
-            },
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-17T13:38:47.238Z"
+      "updatedAt": "2026-11-17T23:34:53.493Z"
     },
     "science": {
-      "kicker": "ScienceDaily",
-      "summary": "Today's lens covers advances in science, environmental issues, and meteorological events.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens highlights advancements in science, technology, and environmental issues, including solar energy, climate monitoring, and new discoveries in physics and biology.",
       "stories": [
         {
-          "title": "Mysterious Light in the Universe’s Oldest Light Reveals New Physics",
-          "body": "A study from ScienceDaily reports that a mysterious twist in the universe’s oldest light could reveal new physics. The findings suggest that the light, which has been traveling through space for billions of years, may contain clues about the fundamental nature of the universe. This discovery could lead to a better understanding of the early universe and the forces that shaped it.",
-          "whyItMatters": "This discovery could revolutionize our understanding of the early universe and the fundamental forces that shaped it.",
+          "title": "Pakistan's solar revolution seems unstoppable - but there's a problem",
+          "body": "Pakistan is advancing its solar energy initiative, with solar farms now accounting for a significant portion of its electricity generation. However, the country faces challenges in maintaining grid stability and ensuring reliable energy supply due to intermittent solar output and storage limitations.",
+          "whyItMatters": "The expansion of solar energy in Pakistan highlights the potential for renewable energy to reduce dependence on fossil fuels, but also underscores the need for infrastructure and policy support to ensure sustainable energy access.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cm894x41jw54o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "A mysterious twist in the universe’s oldest light could reveal new physics",
+          "body": "Scientists have observed the oldest light from the early universe, which may provide insights into the formation of the first stars and galaxies. This discovery could help refine models of cosmic evolution and the role of dark matter in shaping the universe.",
+          "whyItMatters": "Understanding the earliest light from the universe could improve our comprehension of the cosmos' origins and the forces that shaped it, potentially leading to breakthroughs in astrophysics.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261115085554.htm"
             }
           ]
         },
         {
-          "title": "Kids' Screen Time Linked to Surprising Health Outcomes",
-          "body": "A study from ScienceDaily found that tracking children's screen time over eight years revealed surprising health outcomes. The research indicated that excessive screen time was associated with increased risk of certain health issues, including obesity and mental health problems. The findings highlight the importance of monitoring and managing screen time in children's development.",
-          "whyItMatters": "Excessive screen time in children may have significant health implications, emphasizing the need for responsible digital habits.",
+          "title": "AI wearables could exploit people’s most vulnerable moments",
+          "body": "New research suggests that AI-powered wearables can detect and exploit human vulnerabilities, such as moments of stress or emotional distress, by analyzing physiological data. This raises concerns about privacy and the ethical use of personal data in wearable technology.",
+          "whyItMatters": "The development of AI wearables that exploit human vulnerabilities highlights the need for stronger privacy protections and ethical guidelines in the design and deployment of such technologies.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261116014725.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261115085554.htm"
-            }
-          ]
-        },
-        {
-          "title": "New Insights into Psychopathy's Hidden Language",
-          "body": "A study from ScienceDaily explores the hidden language of psychopathy, revealing that certain behaviors and traits associated with psychopathy are not as straightforward as previously thought. The research suggests that the expression of psychopathic traits may be influenced by environmental and social factors, offering new perspectives on the development and treatment of psychopathy.",
-          "whyItMatters": "Understanding the complex factors that influence psychopathic traits may lead to more effective interventions and support for individuals with psychopathy.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261116023346.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261115085554.htm"
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03742-4"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-17T13:38:47.238Z"
+      "updatedAt": "2026-11-17T23:34:53.493Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including international sports, technology, and government policies affecting the economy.",
+      "summary": "Today's lens covers a mix of economic news, including tech company updates, government policies, and global events impacting the economy.",
       "stories": [
         {
-          "title": "FIFA challenger Diallo gains support beyond Europe",
-          "body": "Al Jazeera reports that Diallo, a potential FIFA challenger, has secured support from beyond Europe, indicating a broader appeal. This could influence the competition's future and the global sports landscape.",
-          "whyItMatters": "The growing support for Diallo may impact the competition's trajectory and its potential to become a major force in international football.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "US government investigates Megaspeed tech firm",
-          "body": "BBC Business reports that the US government has confirmed an investigation into Megaspeed, a tech firm, following reports of potential violations. This could affect the tech industry's regulatory landscape and corporate practices.",
-          "whyItMatters": "The investigation may lead to changes in how tech companies operate and comply with regulations, impacting the broader tech sector.",
+          "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
+          "body": "Nvidia reported strong financial results in the third quarter, with revenue exceeding expectations. The company stated it is not reinstating former CEO Jensen Huang, citing strategic decisions. This decision has sparked discussions about leadership changes and corporate governance in the tech industry.",
+          "whyItMatters": "The decision to remove Jensen Huang from leadership may influence future corporate strategies and leadership transitions in the tech sector.",
           "sources": [
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "United Airlines resolves system outage",
-          "body": "The Guardian Business reports that United Airlines has resolved a widespread system outage, indicating improvements in their technology infrastructure and customer service.",
-          "whyItMatters": "The resolution of the system outage may improve customer satisfaction and demonstrate the company's ability to handle technical issues efficiently.",
+          "title": "US Fed’s Lisa Cook refuses to attend White House hearing",
+          "body": "Federal Reserve Chair Lisa Cook refused to attend a hearing at the White House, citing personal and professional commitments. This decision has raised questions about the influence of government officials on policy decisions and the role of the Fed in shaping economic policy.",
+          "whyItMatters": "The refusal to attend the hearing may impact the Fed's ability to influence economic policy and its relationship with the executive branch.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "United Airlines says ‘widespread’ system outage resolved",
+          "body": "United Airlines reported that a widespread system outage affecting passenger services has been resolved. This incident highlights the importance of technological reliability in the aviation industry and the potential impact of such outages on customer experience and airline operations.",
+          "whyItMatters": "System outages can significantly affect passenger travel experiences and airline operations, emphasizing the need for robust technological infrastructure in the industry.",
           "sources": [
             {
               "name": "The Guardian Business",
@@ -148,7 +140,7 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-17T13:38:47.238Z"
+      "updatedAt": "2026-11-17T23:34:53.493Z"
     }
   }
 }
