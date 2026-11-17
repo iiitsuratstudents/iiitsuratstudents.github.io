@@ -1,150 +1,150 @@
 {
-  "generatedAt": "2026-11-16T18:41:48.963Z",
+  "generatedAt": "2026-11-17T02:59:54.198Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers developments in geopolitics, including a new James Bond actor, a cargo ship capsizing, and military actions in the Middle East.",
+      "summary": "Today's lens covers developments in geopolitics, including military actions, migration policies, and regional conflicts, with a focus on global impacts.",
       "stories": [
         {
-          "title": "British actor Robert Pattinson named as new James Bond",
-          "body": "British actor Robert Pattinson has been announced as the new James Bond, following the departure of Daniel Craig. This marks a significant shift in the franchise's global representation, with Pattinson's role potentially influencing international perceptions of British culture and media.",
-          "whyItMatters": "The appointment of a British actor as James Bond may reflect broader trends in global media representation and cultural influence.",
+          "title": "Nvidia Dismisses 'Bring Jensen Back' Campaign",
+          "body": "Nvidia has dismissed the 'Bring Jensen Back' campaign, which was backed by former CEO Jensen Huang, as Trump supported the effort to reinstate him. The decision reflects the company's stance on political matters and its focus on technological innovation.",
+          "whyItMatters": "The decision highlights the intersection of corporate politics and public opinion, emphasizing the role of technology companies in shaping political discourse.",
+          "sources": [
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Yemeni Army Reports 661 Attacks on Houthis",
+          "body": "The Yemeni army reported 661 attacks on Houthis, a rebel group advancing towards Aden. This escalation could impact regional stability and humanitarian efforts in Yemen.",
+          "whyItMatters": "The conflict in Yemen remains a critical issue for global security and humanitarian aid, with potential consequences for international relations and aid access.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Irish Court Jails Man for Life Over Dublin Knife Attack",
+          "body": "An Irish court sentenced a man to life imprisonment for a knife attack that sparked riots in Dublin. This highlights the impact of violence on community stability and public safety.",
+          "whyItMatters": "The incident underscores the importance of addressing domestic violence and its broader implications for social cohesion and public safety.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/16/cargo-ship-capsizes-off-bulgarias-black-sea-coast?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Cargo ship capsizes off Bulgaria’s Black Sea coast",
-          "body": "A cargo ship capsized off the coast of Bulgaria, resulting in the loss of several lives. The incident highlights the risks associated with maritime transport and the importance of safety protocols in international shipping operations.",
-          "whyItMatters": "Maritime accidents can have significant human and economic consequences, underscoring the need for improved safety measures and regulatory oversight in global trade.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/16/cargo-ship-capsizes-off-bulgarias-black-sea-coast?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Israeli court upholds detention of Palestinian land activist Ghassan Najjar",
-          "body": "An Israeli court has upheld the detention of Palestinian land activist Ghassan Najjar, who was arrested for allegedly violating Israeli laws related to land use and environmental protection. This decision reflects ongoing tensions between Palestinian activists and Israeli authorities over land rights and governance.",
-          "whyItMatters": "The detention of activists can impact regional stability and the effectiveness of civil society in advocating for human rights and environmental protection.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-16T18:41:48.963Z"
+      "updatedAt": "2026-11-17T02:59:54.198Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers advancements in space exploration, biological research, and climate science, highlighting both scientific breakthroughs and real-world implications.",
+      "kicker": "Science & Weather",
+      "summary": "Today's lens covers weather warnings, lunar exploration, climate research, and scientific breakthroughs.",
       "stories": [
         {
+          "title": "Weather Warning in Place as Snow Could Disrupt Travel",
+          "body": "The Met Office issued a yellow warning for snow, indicating potential disruptions to travel on Tuesday. This is consistent with earlier warnings in the region, highlighting the impact of winter weather on daily life.",
+          "whyItMatters": "Weather warnings can affect transportation and daily routines, emphasizing the importance of preparedness and planning.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
           "title": "NASA Offers $1 Million for Moon Base Ideas",
-          "body": "NASA is offering $1 million to researchers for innovative ideas to help build a Moon base, focusing on technologies and strategies for long-term lunar habitation. The initiative aims to foster collaboration and innovation in space exploration.",
-          "whyItMatters": "This funding could accelerate the development of sustainable lunar habitats and advance space research.",
+          "body": "NASA is seeking innovative ideas to support the development of a Moon base, aiming to advance space exploration and research. The prize encourages bold and transformative concepts that could shape future lunar missions.",
+          "whyItMatters": "Investing in lunar exploration can drive technological advancements and foster international collaboration in space science.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/11/261115085542.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm"
             }
           ]
         },
         {
           "title": "NASA's Asteroid Impact and New World Discovery",
-          "body": "NASA's spacecraft, Hera, recently encountered an asteroid that caused a significant impact, leading to the discovery of a new world. This event highlights the dynamic nature of space exploration and the potential for new planetary findings.",
-          "whyItMatters": "The discovery could expand our understanding of planetary systems and the potential for extraterrestrial life.",
+          "body": "NASA's spacecraft, Hera, has detected a new world following an asteroid impact. This discovery highlights the ongoing exploration of space and the potential for new planetary systems to be found.",
+          "whyItMatters": "Understanding planetary systems can provide insights into the formation and evolution of the universe, advancing astrophysical research.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm"
-            }
-          ]
-        },
-        {
-          "title": "Biological Divide May Explain Alzheimer’s and Chronic Pain",
-          "body": "A study suggests a hidden biological divide may contribute to the development of Alzheimer’s disease and chronic pain. This research could lead to new therapeutic approaches for these conditions.",
-          "whyItMatters": "Understanding this biological divide may provide novel treatments for neurological and pain-related disorders.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261115085535.htm"
-            },
-            {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/d41586-026-03713-9"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-16T18:41:48.963Z"
+      "updatedAt": "2026-11-17T02:59:54.198Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including a potential shift in tech leadership, a cargo ship accident, and a political situation in Israel. These stories highlight the impact of economic decisions and geopolitical tensions.",
+      "summary": "Today's lens covers economic developments, including tech, migration, and labor issues, with a focus on global impacts.",
       "stories": [
         {
-          "title": "British actor Robert Pattinson named as new James Bond",
-          "body": "British actor Robert Pattinson has been named as the new James Bond in a move that has sparked debate over the selection process. The decision comes as the UK's government seeks to promote its cultural exports and attract international attention. Pattinson, known for his roles in films like 'The Batman' and 'The Witcher,' is seen as a symbol of British pop culture.",
-          "whyItMatters": "The appointment of a British actor as James Bond highlights the role of cultural exports in shaping national identity and international influence.",
+          "title": "Nvidia Dismisses 'Bring Jensen Back' Campaign",
+          "body": "Nvidia has dismissed the 'Bring Jensen Back' campaign, which was backed by former President Donald Trump's efforts to reinstate ex-CEO Jensen Huang. The decision reflects the company's stance on political matters, emphasizing its focus on technological innovation and business operations.",
+          "whyItMatters": "The decision highlights the intersection of corporate politics and technology, raising questions about how companies navigate political landscapes.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo"
             }
           ]
         },
         {
-          "title": "Cargo ship capsizes off Bulgaria’s Black Sea coast",
-          "body": "A cargo ship capsized off the coast of Bulgaria, resulting in the loss of several lives. The incident has raised concerns about maritime safety and the risks associated with transporting goods across the Black Sea. The accident occurred during a routine operation, highlighting the potential dangers of large-scale shipping activities.",
-          "whyItMatters": "The capsizing of a cargo ship underscores the importance of maritime safety and the need for improved safety protocols in international shipping.",
+          "title": "Ethiopia Moyale Clashes Disrupt Livelihoods",
+          "body": "Clashes in the Moyale region of Ethiopia have disrupted local livelihoods, deepening a territorial dispute. The conflict has raised concerns about regional stability and the impact of geopolitical tensions on local communities.",
+          "whyItMatters": "The territorial dispute underscores the broader challenges of managing conflicts in volatile regions, affecting both local populations and regional stability.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/16/cargo-ship-capsizes-off-bulgarias-black-sea-coast?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Israeli court upholds detention of Palestinian land activist Ghassan Najjar",
-          "body": "An Israeli court has upheld the detention of Palestinian land activist Ghassan Najjar, who has been accused of inciting violence against Israeli citizens. The decision has sparked discussions about the balance between security and civil liberties in the region.",
-          "whyItMatters": "The court's decision highlights the complex interplay between security concerns and the rights of individuals in conflict zones.",
+          "title": "UK Seeks Closer Ties with EU After Brexit Fail",
+          "body": "The UK has announced its intention to seek closer economic and political ties with the EU following the Brexit deal's failure. This move reflects the country's ongoing efforts to navigate its post-Brexit relationship and address economic concerns.",
+          "whyItMatters": "The UK's strategic shift toward the EU highlights the complexities of post-Brexit relations and the potential for economic cooperation or conflict.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-16T18:41:48.963Z"
+      "updatedAt": "2026-11-17T02:59:54.198Z"
     }
   }
 }
