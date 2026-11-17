@@ -1,150 +1,154 @@
 {
-  "generatedAt": "2026-11-17T02:59:54.198Z",
+  "generatedAt": "2026-11-17T13:38:47.238Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers developments in geopolitics, including military actions, migration policies, and regional conflicts, with a focus on global impacts.",
+      "kicker": "Global Brief",
+      "summary": "Today's lens covers a mix of international news, including education protests in France, FIFA challenges, cybersecurity concerns, and human rights issues.",
       "stories": [
         {
-          "title": "Nvidia Dismisses 'Bring Jensen Back' Campaign",
-          "body": "Nvidia has dismissed the 'Bring Jensen Back' campaign, which was backed by former CEO Jensen Huang, as Trump supported the effort to reinstate him. The decision reflects the company's stance on political matters and its focus on technological innovation.",
-          "whyItMatters": "The decision highlights the intersection of corporate politics and public opinion, emphasizing the role of technology companies in shaping political discourse.",
+          "title": "France's Education Protests",
+          "body": "Students in France have protested against educational reforms, refusing to participate in mandatory exams. The protests, which began in early November, have drawn attention to broader tensions between education policies and student rights. The situation reflects ongoing debates about curriculum changes and academic freedom.",
+          "whyItMatters": "The protests highlight the growing divide between government policies and student autonomy, raising questions about educational reform and student rights.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/17/at-the-origin-of-frances-education-protests-students-refuse-to-give-up?traffic_source=rss"
             },
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/17/why-do-governments-switch-off-the-internet?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Yemeni Army Reports 661 Attacks on Houthis",
-          "body": "The Yemeni army reported 661 attacks on Houthis, a rebel group advancing towards Aden. This escalation could impact regional stability and humanitarian efforts in Yemen.",
-          "whyItMatters": "The conflict in Yemen remains a critical issue for global security and humanitarian aid, with potential consequences for international relations and aid access.",
+          "title": "FIFA Challenge and Global Support",
+          "body": "FIFA challenger Yacouba Diallo claims to have support beyond Europe, challenging the dominance of Italian football legend Giampiero Infantino. The controversy underscores the evolving landscape of international sports and the influence of regional rivalries in global football.",
+          "whyItMatters": "The debate over FIFA's selection process highlights the complexities of international sports governance and the role of regional influence in global competitions.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss"
             },
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/11/17/brazil-defeat-singapore-7-0-as-vinicius-scores-first-half-hat-trick?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Irish Court Jails Man for Life Over Dublin Knife Attack",
-          "body": "An Irish court sentenced a man to life imprisonment for a knife attack that sparked riots in Dublin. This highlights the impact of violence on community stability and public safety.",
-          "whyItMatters": "The incident underscores the importance of addressing domestic violence and its broader implications for social cohesion and public safety.",
+          "title": "Cybersecurity and Government Internet Shutdowns",
+          "body": "Concerns have been raised about governments potentially shutting down internet access to prevent cyberattacks. The issue is particularly relevant in the context of increasing cyber threats and the need for robust digital infrastructure. The discussion also touches on the balance between security and freedom in the digital age.",
+          "whyItMatters": "The debate over government internet shutdowns reflects broader concerns about cybersecurity, digital sovereignty, and the role of technology in national security.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/17/why-do-governments-switch-off-the-internet?traffic_source=rss"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-17T02:59:54.198Z"
+      "updatedAt": "2026-11-17T13:38:47.238Z"
     },
     "science": {
-      "kicker": "Science & Weather",
-      "summary": "Today's lens covers weather warnings, lunar exploration, climate research, and scientific breakthroughs.",
+      "kicker": "ScienceDaily",
+      "summary": "Today's lens covers advances in science, environmental issues, and meteorological events.",
       "stories": [
         {
-          "title": "Weather Warning in Place as Snow Could Disrupt Travel",
-          "body": "The Met Office issued a yellow warning for snow, indicating potential disruptions to travel on Tuesday. This is consistent with earlier warnings in the region, highlighting the impact of winter weather on daily life.",
-          "whyItMatters": "Weather warnings can affect transportation and daily routines, emphasizing the importance of preparedness and planning.",
+          "title": "Mysterious Light in the Universe’s Oldest Light Reveals New Physics",
+          "body": "A study from ScienceDaily reports that a mysterious twist in the universe’s oldest light could reveal new physics. The findings suggest that the light, which has been traveling through space for billions of years, may contain clues about the fundamental nature of the universe. This discovery could lead to a better understanding of the early universe and the forces that shaped it.",
+          "whyItMatters": "This discovery could revolutionize our understanding of the early universe and the fundamental forces that shaped it.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm"
             },
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261115085554.htm"
             }
           ]
         },
         {
-          "title": "NASA Offers $1 Million for Moon Base Ideas",
-          "body": "NASA is seeking innovative ideas to support the development of a Moon base, aiming to advance space exploration and research. The prize encourages bold and transformative concepts that could shape future lunar missions.",
-          "whyItMatters": "Investing in lunar exploration can drive technological advancements and foster international collaboration in space science.",
+          "title": "Kids' Screen Time Linked to Surprising Health Outcomes",
+          "body": "A study from ScienceDaily found that tracking children's screen time over eight years revealed surprising health outcomes. The research indicated that excessive screen time was associated with increased risk of certain health issues, including obesity and mental health problems. The findings highlight the importance of monitoring and managing screen time in children's development.",
+          "whyItMatters": "Excessive screen time in children may have significant health implications, emphasizing the need for responsible digital habits.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261115085542.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261116014725.htm"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261115085554.htm"
             }
           ]
         },
         {
-          "title": "NASA's Asteroid Impact and New World Discovery",
-          "body": "NASA's spacecraft, Hera, has detected a new world following an asteroid impact. This discovery highlights the ongoing exploration of space and the potential for new planetary systems to be found.",
-          "whyItMatters": "Understanding planetary systems can provide insights into the formation and evolution of the universe, advancing astrophysical research.",
+          "title": "New Insights into Psychopathy's Hidden Language",
+          "body": "A study from ScienceDaily explores the hidden language of psychopathy, revealing that certain behaviors and traits associated with psychopathy are not as straightforward as previously thought. The research suggests that the expression of psychopathic traits may be influenced by environmental and social factors, offering new perspectives on the development and treatment of psychopathy.",
+          "whyItMatters": "Understanding the complex factors that influence psychopathic traits may lead to more effective interventions and support for individuals with psychopathy.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261116023346.htm"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261115085554.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-17T02:59:54.198Z"
+      "updatedAt": "2026-11-17T13:38:47.238Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including tech, migration, and labor issues, with a focus on global impacts.",
+      "summary": "Today's lens covers a mix of economic developments, including international sports, technology, and government policies affecting the economy.",
       "stories": [
         {
-          "title": "Nvidia Dismisses 'Bring Jensen Back' Campaign",
-          "body": "Nvidia has dismissed the 'Bring Jensen Back' campaign, which was backed by former President Donald Trump's efforts to reinstate ex-CEO Jensen Huang. The decision reflects the company's stance on political matters, emphasizing its focus on technological innovation and business operations.",
-          "whyItMatters": "The decision highlights the intersection of corporate politics and technology, raising questions about how companies navigate political landscapes.",
+          "title": "FIFA challenger Diallo gains support beyond Europe",
+          "body": "Al Jazeera reports that Diallo, a potential FIFA challenger, has secured support from beyond Europe, indicating a broader appeal. This could influence the competition's future and the global sports landscape.",
+          "whyItMatters": "The growing support for Diallo may impact the competition's trajectory and its potential to become a major force in international football.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "US government investigates Megaspeed tech firm",
+          "body": "BBC Business reports that the US government has confirmed an investigation into Megaspeed, a tech firm, following reports of potential violations. This could affect the tech industry's regulatory landscape and corporate practices.",
+          "whyItMatters": "The investigation may lead to changes in how tech companies operate and comply with regulations, impacting the broader tech sector.",
           "sources": [
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
-            },
+              "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "United Airlines resolves system outage",
+          "body": "The Guardian Business reports that United Airlines has resolved a widespread system outage, indicating improvements in their technology infrastructure and customer service.",
+          "whyItMatters": "The resolution of the system outage may improve customer satisfaction and demonstrate the company's ability to handle technical issues efficiently.",
+          "sources": [
             {
               "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo"
-            }
-          ]
-        },
-        {
-          "title": "Ethiopia Moyale Clashes Disrupt Livelihoods",
-          "body": "Clashes in the Moyale region of Ethiopia have disrupted local livelihoods, deepening a territorial dispute. The conflict has raised concerns about regional stability and the impact of geopolitical tensions on local communities.",
-          "whyItMatters": "The territorial dispute underscores the broader challenges of managing conflicts in volatile regions, affecting both local populations and regional stability.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "UK Seeks Closer Ties with EU After Brexit Fail",
-          "body": "The UK has announced its intention to seek closer economic and political ties with the EU following the Brexit deal's failure. This move reflects the country's ongoing efforts to navigate its post-Brexit relationship and address economic concerns.",
-          "whyItMatters": "The UK's strategic shift toward the EU highlights the complexities of post-Brexit relations and the potential for economic cooperation or conflict.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss"
+              "url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-17T02:59:54.198Z"
+      "updatedAt": "2026-11-17T13:38:47.238Z"
     }
   }
 }
