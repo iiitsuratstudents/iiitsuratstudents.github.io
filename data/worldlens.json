@@ -1,121 +1,114 @@
 {
-  "generatedAt": "2026-11-18T07:43:37.909Z",
+  "generatedAt": "2026-11-18T17:22:20.184Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of global events, including humanitarian crises, geopolitical tensions, and regional developments.",
+      "kicker": "Global Brief",
+      "summary": "Today's lens covers geopolitical developments, including conflicts in the Middle East, international relations, and cultural events.",
       "stories": [
         {
-          "title": "Journalists in Africa face economic and social challenges",
-          "body": "Al Jazeera reports that African journalists are struggling with poverty, lack of pay, and safety risks, pushing them to the brink. The situation highlights the broader challenges faced by media workers in the region, particularly in countries with weak institutional support and limited resources.",
-          "whyItMatters": "The plight of journalists in Africa underscores the importance of media freedom and the need for sustainable support for investigative reporting.",
+          "title": "Ukraine's underground gas pipeline conflict",
+          "body": "The BBC reports on an ongoing underground conflict in a gas pipeline where Ukraine and Russia are engaged in a tense standoff. The situation highlights the complex dynamics of regional security and resource control in the Middle East.",
+          "whyItMatters": "The conflict underscores the strategic importance of energy resources and the potential for escalation in the region.",
+          "sources": [
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "New front line in Ukraine's war",
+          "body": "BBC reports from Ukraine's new front line, where military operations are intensifying. The area reflects the evolving nature of the conflict and the challenges faced by both sides in maintaining control.",
+          "whyItMatters": "The shifting front lines highlight the ongoing struggle for territory and the impact of military strategy on the war's outcome.",
+          "sources": [
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Iran and US strike on Qeshm Island",
+          "body": "Al Jazeera reports that the US strike on Qeshm Island has led to new attacks by Iran on Kuwait and Bahrain. The incident underscores the regional tensions and the impact of military actions on neighboring states.",
+          "whyItMatters": "The strike and subsequent attacks highlight the geopolitical instability in the Middle East and the potential for broader conflict.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/opinions/2026/11/18/hungry-unpaid-and-afraid-africas-journalists-pushed-to-the-brink?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Economic concerns over reliance on Washington",
-          "body": "Al Jazeera discusses the growing concerns in Africa about economic dependence on the United States. The article highlights the potential risks of relying on foreign economic support and the need for diversified economic strategies to ensure long-term stability.",
-          "whyItMatters": "This issue reflects the broader challenge of balancing economic dependencies and the need for regional self-sufficiency in global economic relations.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/opinions/2026/11/18/africas-economic-future-cannot-depend-on-washington?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Houthi group strengthens control over Yemen",
-          "body": "Al Jazeera reports that the Houthi group has tightened its grip on Yemen, using military funding to enhance its war effort. This development raises concerns about the stability of the region and the potential for prolonged conflict.",
-          "whyItMatters": "The strengthening of the Houthi group's control in Yemen could impact regional security and the flow of resources, highlighting the complex dynamics of conflict and governance in the Middle East.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/five-eu-nations-to-deport-migrants-to-rwanda?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-18T07:43:37.909Z"
+      "updatedAt": "2026-11-18T17:22:20.184Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers scientific advancements, environmental concerns, and technological breakthroughs across multiple domains.",
+      "summary": "Today's lens covers advancements in science, technology, and environmental research, including new discoveries, climate concerns, and innovations in data centers and biotechnology.",
       "stories": [
         {
-          "title": "Toxic Lagoon Fire Claims Cancer and Miscarriages",
-          "body": "A fire at a toxic lagoon in the UK led to severe health issues, including cancer and miscarriages, prompting public concern about environmental safety and regulatory oversight.",
-          "whyItMatters": "The incident highlights the importance of environmental monitoring and the potential health risks from industrial accidents.",
+          "title": "Seven Anthropic founders set for multi-billionaire status",
+          "body": "The seven co-founders of the Anthropic Institute, a group that studies the impact of human actions on the environment, are set to become multi-billionaires as their fund's assets appreciate. The fund, which focuses on environmental and social issues, has seen significant growth in recent years, with its assets valued at over $10 billion.",
+          "whyItMatters": "This highlights the growing financial success of individuals involved in environmental and social advocacy, emphasizing the importance of sustainable practices and the potential for private funding to support scientific research.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/videos/cw074g4jk87vo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Pakistan's Solar Revolution Outpaces Grid Capacity",
-          "body": "Pakistan has made significant progress in solar energy production, but the national grid is struggling to keep up with the rapid expansion of renewable energy sources.",
-          "whyItMatters": "This highlights the challenges of integrating large-scale renewable energy into existing infrastructure, a critical issue for sustainable development.",
-          "sources": [
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "New Physics Discovery in Cosmic Light",
-          "body": "Scientists have made a groundbreaking discovery about the oldest light in the universe, potentially revealing new insights into the early universe and cosmic evolution.",
-          "whyItMatters": "This finding could revolutionize our understanding of the universe's origins and the processes that shaped it.",
+          "title": "New discovery reveals what may be holding back room-temperature superconductors",
+          "body": "A recent study has identified a potential barrier that may prevent room-temperature superconductors from being developed. The research, conducted by scientists at a leading university, suggests that certain materials may not exhibit superconductivity under normal conditions due to complex electronic interactions.",
+          "whyItMatters": "This discovery could significantly impact future technological advancements, particularly in fields such as energy transmission and magnetic levitation, by providing a clearer understanding of the conditions required for superconductivity.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm"
+            }
+          ]
+        },
+        {
+          "title": "NASA's Hera mission reveals a strange new world",
+          "body": "The NASA spacecraft Hera has provided new data about the asteroid belt, revealing a previously unknown world with unique geological features. The mission, which aims to study the asteroid belt, has uncovered evidence of a complex planetary system, offering insights into the formation and evolution of celestial bodies.",
+          "whyItMatters": "This discovery could enhance our understanding of planetary formation and the potential for life in other solar systems, contributing to the broader field of astrobiology and planetary science.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-18T07:43:37.909Z"
+      "updatedAt": "2026-11-18T17:22:20.184Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including rising inflation, tech industry dynamics, and global geopolitical issues.",
+      "summary": "The lens covers economic developments, including tech outages, inflation, and political tensions, highlighting global economic challenges and responses.",
       "stories": [
         {
-          "title": "UK inflation rises to 3.6% as petrol prices surge",
-          "body": "UK inflation reached 3.6% in early November 2026, driven by rising petrol and diesel prices. This reflects increased consumer costs and the impact of global energy markets. The rise in prices has sparked discussions about economic stability and policy responses.",
-          "whyItMatters": "Rising inflation can affect consumer spending and economic growth, highlighting the need for effective monetary and fiscal policies.",
+          "title": "Tech outages in Europe",
+          "body": "Recent tech outages in Europe have been attributed to 'zero' evidence of a link, according to Marco Rubio. Meanwhile, Nvidia reported doubling revenue as it did not reinstate Jensen Huang, the former CEO, due to soaring sales.",
+          "whyItMatters": "The uncertainty around tech outages highlights the fragility of global infrastructure and the impact of leadership decisions on economic stability.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Nvidia faces legal and business challenges over Jensen Huang",
-          "body": "Nvidia announced it would not reinstate Jensen Huang, the former CEO, due to soaring sales and potential legal issues. The decision comes amid ongoing scrutiny of the tech giant's leadership and its impact on the US economy.",
-          "whyItMatters": "Nvidia's leadership changes can influence industry trends and corporate governance, affecting the broader tech sector and US economic landscape.",
-          "sources": [
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio"
             },
             {
               "name": "The Guardian Business",
@@ -124,31 +117,30 @@
           ]
         },
         {
-          "title": "Global economic concerns and geopolitical tensions",
-          "body": "Global economic concerns persist, with reports highlighting the impact of geopolitical tensions on trade and investment. The US and other nations are navigating complex economic and political landscapes, affecting both domestic and international markets.",
-          "whyItMatters": "Geopolitical tensions can significantly impact trade, investment, and economic stability, influencing global economic policies and outcomes.",
+          "title": "Lebanon's reconstruction progress",
+          "body": "A World Bank official stated that Lebanon's reconstruction is progressing slowly, highlighting ongoing economic and political challenges in the region.",
+          "whyItMatters": "Slow reconstruction efforts underscore the complexities of post-conflict recovery and the role of international aid in economic development.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/opinions/2026/11/18/hungry-unpaid-and-afraid-africas-journalists-pushed-to-the-brink?traffic_source=rss"
-            },
+              "url": "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "US Thanksgiving celebrations amid rising costs",
+          "body": "Americans are celebrating Thanksgiving amid rising costs, reflecting the economic pressures faced by households in the United States.",
+          "whyItMatters": "Economic pressures influence consumer behavior and cultural celebrations, highlighting the impact of inflation on daily life.",
+          "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/opinions/2026/11/18/africas-economic-future-cannot-depend-on-washington?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/18/rafael-grossi-wants-to-be-un-chief-will-trumps-support-nuke-his-chances?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/11/18/fifa-president-election-nomination-infantino-diallo-tashima-vega?traffic_source=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/us-news/2026/nov/17/americans-celebrating-thanksgiving-costs-callout"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-18T07:43:37.909Z"
+      "updatedAt": "2026-11-18T17:22:20.184Z"
     }
   }
 }
