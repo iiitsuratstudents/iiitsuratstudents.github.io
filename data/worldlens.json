@@ -1,146 +1,154 @@
 {
-  "generatedAt": "2026-11-17T23:34:53.493Z",
+  "generatedAt": "2026-11-18T07:43:37.909Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of international events, including protests, legal actions, and geopolitical tensions, highlighting the complex interplay of politics, law, and global dynamics.",
+      "summary": "Today's lens covers a mix of global events, including humanitarian crises, geopolitical tensions, and regional developments.",
       "stories": [
         {
-          "title": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
-          "body": "Haitians have protested in support of El Salvador’s deployment of anti-gang troops, highlighting concerns over regional security and the potential impact on local communities. The protests reflect broader tensions between regional security efforts and the rights of local populations.",
-          "whyItMatters": "The protests underscore the challenges of balancing regional security with the rights and concerns of local populations.",
+          "title": "Journalists in Africa face economic and social challenges",
+          "body": "Al Jazeera reports that African journalists are struggling with poverty, lack of pay, and safety risks, pushing them to the brink. The situation highlights the broader challenges faced by media workers in the region, particularly in countries with weak institutional support and limited resources.",
+          "whyItMatters": "The plight of journalists in Africa underscores the importance of media freedom and the need for sustainable support for investigative reporting.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss"
+              "url": "https://www.aljazeera.com/opinions/2026/11/18/hungry-unpaid-and-afraid-africas-journalists-pushed-to-the-brink?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "UK sanctions Israeli settlement firms to protect two-state solution",
-          "body": "The UK has sanctioned eight Israeli settlement firms to protect the two-state solution, reflecting ongoing tensions between Israeli and Palestinian interests and the international community's role in mediating peace efforts.",
-          "whyItMatters": "The sanctions highlight the complex geopolitical dynamics surrounding the Israeli-Palestinian conflict and the international community's role in promoting peace.",
+          "title": "Economic concerns over reliance on Washington",
+          "body": "Al Jazeera discusses the growing concerns in Africa about economic dependence on the United States. The article highlights the potential risks of relying on foreign economic support and the need for diversified economic strategies to ensure long-term stability.",
+          "whyItMatters": "This issue reflects the broader challenge of balancing economic dependencies and the need for regional self-sufficiency in global economic relations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss"
+              "url": "https://www.aljazeera.com/opinions/2026/11/18/africas-economic-future-cannot-depend-on-washington?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Russian military plane crash kills all 19 on board",
-          "body": "A Russian military plane crashed in Siberia, killing all 19 passengers. The incident raises questions about aviation safety and the potential for similar incidents in the future, emphasizing the importance of safety protocols and regulatory oversight.",
-          "whyItMatters": "The crash underscores the need for improved aviation safety and regulatory oversight to prevent similar incidents.",
+          "title": "Houthi group strengthens control over Yemen",
+          "body": "Al Jazeera reports that the Houthi group has tightened its grip on Yemen, using military funding to enhance its war effort. This development raises concerns about the stability of the region and the potential for prolonged conflict.",
+          "whyItMatters": "The strengthening of the Houthi group's control in Yemen could impact regional security and the flow of resources, highlighting the complex dynamics of conflict and governance in the Middle East.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss"
-            },
-            {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-17T23:34:53.493Z"
+      "updatedAt": "2026-11-18T07:43:37.909Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens highlights advancements in science, technology, and environmental issues, including solar energy, climate monitoring, and new discoveries in physics and biology.",
+      "summary": "Today's lens covers scientific advancements, environmental concerns, and technological breakthroughs across multiple domains.",
       "stories": [
         {
-          "title": "Pakistan's solar revolution seems unstoppable - but there's a problem",
-          "body": "Pakistan is advancing its solar energy initiative, with solar farms now accounting for a significant portion of its electricity generation. However, the country faces challenges in maintaining grid stability and ensuring reliable energy supply due to intermittent solar output and storage limitations.",
-          "whyItMatters": "The expansion of solar energy in Pakistan highlights the potential for renewable energy to reduce dependence on fossil fuels, but also underscores the need for infrastructure and policy support to ensure sustainable energy access.",
+          "title": "Toxic Lagoon Fire Claims Cancer and Miscarriages",
+          "body": "A fire at a toxic lagoon in the UK led to severe health issues, including cancer and miscarriages, prompting public concern about environmental safety and regulatory oversight.",
+          "whyItMatters": "The incident highlights the importance of environmental monitoring and the potential health risks from industrial accidents.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cm894x41jw54o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/videos/cw074g4jk87vo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "A mysterious twist in the universe’s oldest light could reveal new physics",
-          "body": "Scientists have observed the oldest light from the early universe, which may provide insights into the formation of the first stars and galaxies. This discovery could help refine models of cosmic evolution and the role of dark matter in shaping the universe.",
-          "whyItMatters": "Understanding the earliest light from the universe could improve our comprehension of the cosmos' origins and the forces that shaped it, potentially leading to breakthroughs in astrophysics.",
+          "title": "Pakistan's Solar Revolution Outpaces Grid Capacity",
+          "body": "Pakistan has made significant progress in solar energy production, but the national grid is struggling to keep up with the rapid expansion of renewable energy sources.",
+          "whyItMatters": "This highlights the challenges of integrating large-scale renewable energy into existing infrastructure, a critical issue for sustainable development.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "New Physics Discovery in Cosmic Light",
+          "body": "Scientists have made a groundbreaking discovery about the oldest light in the universe, potentially revealing new insights into the early universe and cosmic evolution.",
+          "whyItMatters": "This finding could revolutionize our understanding of the universe's origins and the processes that shaped it.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm"
             }
           ]
-        },
-        {
-          "title": "AI wearables could exploit people’s most vulnerable moments",
-          "body": "New research suggests that AI-powered wearables can detect and exploit human vulnerabilities, such as moments of stress or emotional distress, by analyzing physiological data. This raises concerns about privacy and the ethical use of personal data in wearable technology.",
-          "whyItMatters": "The development of AI wearables that exploit human vulnerabilities highlights the need for stronger privacy protections and ethical guidelines in the design and deployment of such technologies.",
-          "sources": [
-            {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/d41586-026-03742-4"
-            }
-          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-17T23:34:53.493Z"
+      "updatedAt": "2026-11-18T07:43:37.909Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic news, including tech company updates, government policies, and global events impacting the economy.",
+      "summary": "Today's lens covers a mix of economic developments, including rising inflation, tech industry dynamics, and global geopolitical issues.",
       "stories": [
         {
-          "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
-          "body": "Nvidia reported strong financial results in the third quarter, with revenue exceeding expectations. The company stated it is not reinstating former CEO Jensen Huang, citing strategic decisions. This decision has sparked discussions about leadership changes and corporate governance in the tech industry.",
-          "whyItMatters": "The decision to remove Jensen Huang from leadership may influence future corporate strategies and leadership transitions in the tech sector.",
+          "title": "UK inflation rises to 3.6% as petrol prices surge",
+          "body": "UK inflation reached 3.6% in early November 2026, driven by rising petrol and diesel prices. This reflects increased consumer costs and the impact of global energy markets. The rise in prices has sparked discussions about economic stability and policy responses.",
+          "whyItMatters": "Rising inflation can affect consumer spending and economic growth, highlighting the need for effective monetary and fiscal policies.",
           "sources": [
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "US Fed’s Lisa Cook refuses to attend White House hearing",
-          "body": "Federal Reserve Chair Lisa Cook refused to attend a hearing at the White House, citing personal and professional commitments. This decision has raised questions about the influence of government officials on policy decisions and the role of the Fed in shaping economic policy.",
-          "whyItMatters": "The refusal to attend the hearing may impact the Fed's ability to influence economic policy and its relationship with the executive branch.",
+          "title": "Nvidia faces legal and business challenges over Jensen Huang",
+          "body": "Nvidia announced it would not reinstate Jensen Huang, the former CEO, due to soaring sales and potential legal issues. The decision comes amid ongoing scrutiny of the tech giant's leadership and its impact on the US economy.",
+          "whyItMatters": "Nvidia's leadership changes can influence industry trends and corporate governance, affecting the broader tech sector and US economic landscape.",
+          "sources": [
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
+            }
+          ]
+        },
+        {
+          "title": "Global economic concerns and geopolitical tensions",
+          "body": "Global economic concerns persist, with reports highlighting the impact of geopolitical tensions on trade and investment. The US and other nations are navigating complex economic and political landscapes, affecting both domestic and international markets.",
+          "whyItMatters": "Geopolitical tensions can significantly impact trade, investment, and economic stability, influencing global economic policies and outcomes.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "United Airlines says ‘widespread’ system outage resolved",
-          "body": "United Airlines reported that a widespread system outage affecting passenger services has been resolved. This incident highlights the importance of technological reliability in the aviation industry and the potential impact of such outages on customer experience and airline operations.",
-          "whyItMatters": "System outages can significantly affect passenger travel experiences and airline operations, emphasizing the need for robust technological infrastructure in the industry.",
-          "sources": [
+              "url": "https://www.aljazeera.com/opinions/2026/11/18/hungry-unpaid-and-afraid-africas-journalists-pushed-to-the-brink?traffic_source=rss"
+            },
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/opinions/2026/11/18/africas-economic-future-cannot-depend-on-washington?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/18/rafael-grossi-wants-to-be-un-chief-will-trumps-support-nuke-his-chances?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/11/18/fifa-president-election-nomination-infantino-diallo-tashima-vega?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-17T23:34:53.493Z"
+      "updatedAt": "2026-11-18T07:43:37.909Z"
     }
   }
 }
