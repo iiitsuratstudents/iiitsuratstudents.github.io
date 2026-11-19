@@ -1,138 +1,142 @@
 {
-  "generatedAt": "2026-11-19T01:55:45.279Z",
+  "generatedAt": "2026-11-19T13:32:16.181Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of international news, including a legal dispute over Jeffrey Epstein's death, a conflict in Israel, a record sale of a Van Gogh painting, and developments in global politics and economics.",
+      "summary": "Today's lens covers a mix of international developments, including diplomatic efforts, humanitarian issues, and technological advancements, highlighting the complexity of global affairs.",
       "stories": [
         {
-          "title": "Alleged suicide of Jeffrey Epstein",
-          "body": "A trio of experts from Al Jazeera allege that Jeffrey Epstein did not die by suicide, suggesting instead that he may have died from natural causes or was involved in a criminal act. The claim is based on the absence of a clear suicide note and the lack of evidence pointing to a self-inflicted injury. The statement is seen as a challenge to the official narrative of Epstein's death.",
-          "whyItMatters": "The claim raises questions about the accuracy of official reports and the complexity of legal and medical investigations.",
+          "title": "Trump-Xi-Putin Summit: Key Takeaways",
+          "body": "The Trump-Xi-Putin summit, held in November 2026, was marked by a series of diplomatic exchanges aimed at strengthening transnational cooperation. Key takeaways included the reaffirmation of strategic partnerships, discussions on global security, and the commitment to addressing climate change. The summit underscored the importance of multilateralism in navigating contemporary challenges.",
+          "whyItMatters": "The summit highlights the evolving nature of international relations and the role of leadership in shaping global cooperation.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways?traffic_source=rss"
             },
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Settler violence in central Israel",
-          "body": "A settler rammed into Palestinians at multiple locations in central Israel, escalating tensions in the region. The incident highlights the ongoing conflict and the challenges faced by civilians in the area. The violence underscores the broader geopolitical tensions between Israeli settlers and Palestinian residents.",
-          "whyItMatters": "The incident reflects the volatile nature of the region and the impact of settler activity on civilian lives.",
+          "title": "Dutch Church and Asylum Seekers",
+          "body": "A Dutch church continued its nonstop service to a family seeking asylum, providing emotional and spiritual support amid the challenges of the asylum process. The church's commitment reflects the humanitarian efforts and cultural sensitivity required in international migration contexts.",
+          "whyItMatters": "The situation underscores the importance of cultural and religious support in humanitarian efforts and the complexities of asylum processes.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/19/two-years-in-dutch-churchs-nonstop-service-shields-family-seeking-asylum?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Van Gogh painting sells for record price",
-          "body": "The Van Gogh painting 'The Night Café' sold for $190.4 million, setting a new record for the art world. The sale sparked controversy over the painting's Nazi history, with some arguing that the price was inflated due to its controversial past. The event highlights the intersection of art, history, and economics.",
-          "whyItMatters": "The sale underscores the influence of historical context on art market values and the ongoing debate over the authenticity and ownership of historical artworks.",
+          "title": "Putin's Response to Ukraine's Strikes on Crimean Bridge",
+          "body": "Russian President Putin vowed a 'far more painful' response to Ukraine's strikes on the Crimean Bridge, signaling a potential escalation in the ongoing conflict. The statement reflects the strategic and military considerations involved in the conflict and the broader geopolitical tensions.",
+          "whyItMatters": "The response highlights the risks and complexities of military engagement in the region and the potential for further escalation in the conflict.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-19T01:55:45.279Z"
+      "updatedAt": "2026-11-19T13:32:16.181Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers advancements in science, climate, and technology, including new discoveries, environmental concerns, and innovations in medicine and space exploration.",
+      "kicker": "ScienceDaily",
+      "summary": "Today's lens covers scientific discoveries, environmental issues, and brain research, highlighting both recent findings and ongoing global concerns.",
       "stories": [
         {
-          "title": "New discovery reveals what may be holding back room-temperature superconductors",
-          "body": "A new study suggests that certain materials may act as insulators at room temperature, potentially limiting their use in practical applications. Researchers from ScienceDaily report that the findings could lead to breakthroughs in energy transmission and magnetic levitation technologies.",
-          "whyItMatters": "This discovery could revolutionize energy efficiency and transportation by enabling the development of superconducting materials that function at ambient temperatures.",
+          "title": "Fungal Toxins in Plant-Based Foods",
+          "body": "A study by scientists tested 212 plant-based foods and found that every single one contained fungal toxins. These toxins are naturally produced by fungi and can be harmful to humans if consumed in large quantities. The findings raise concerns about food safety and the potential health risks associated with consuming plant-based foods.",
+          "whyItMatters": "The discovery highlights the need for further research into the safety of plant-based foods and the importance of proper food handling and labeling.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm"
-            }
-          ]
-        },
-        {
-          "title": "Nasa’s Voyager 1 reaches a massive milestone in space",
-          "body": "NASA’s Voyager 1 spacecraft has traveled over 140 billion miles since its launch in 1977, and it is now one light-day away from Earth. The milestone highlights the vastness of space and the longevity of human exploration efforts.",
-          "whyItMatters": "This achievement underscores the scale of space travel and the enduring human curiosity about the universe.",
-          "sources": [
-            {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/video/2026/nov/18/nasas-voyager-1-just-reached-a-massive-milestone-in-space-video"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm"
             },
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261117033917.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm"
             }
           ]
         },
         {
-          "title": "Government risks missing climate targets if EV rules weakened",
-          "body": "A government adviser warns that weakening electric vehicle (EV) regulations could lead to missed climate targets, as EVs are a key part of reducing carbon emissions. The warning comes amid growing concerns about the environmental impact of transportation and energy use.",
-          "whyItMatters": "This highlights the importance of policy in addressing climate change and the role of technology in achieving environmental goals.",
+          "title": "Whale with the Most Crooked Face",
+          "body": "A 6-million-year-old whale may have had the most crooked face in mammal history. Fossil evidence suggests that the whale's face was significantly deformed, possibly due to evolutionary pressures or environmental factors. This finding provides insight into the evolutionary history of whales and the factors that have shaped their development.",
+          "whyItMatters": "Understanding the evolutionary history of whales can help in the conservation and management of marine species, especially as they face threats from climate change and human activities.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm"
+            }
+          ]
+        },
+        {
+          "title": "Strange Organ Found Beneath Deep-Sea Pigs' Skin",
+          "body": "Scientists discovered something strange beneath the skin of deep-sea pigs. The structure is not fully understood, but it may have evolved to help the pigs survive in their environment. This finding could provide new insights into the biology of deep-sea organisms and their adaptations to extreme conditions.",
+          "whyItMatters": "Understanding the biology of deep-sea organisms is crucial for marine conservation and the study of life in extreme environments.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-19T01:55:45.279Z"
+      "updatedAt": "2026-11-19T13:32:16.181Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including a significant IPO by Anthropic, a constitutional overhaul in Somalia, and a milk shortage in Kenya. These stories highlight both global economic trends and regional political and social issues.",
+      "summary": "Today's lens covers a mix of economic developments, including AI safety, stock market reactions, and global events impacting the economy.",
       "stories": [
         {
-          "title": "Anthropic raises $81.3bn in biggest IPO of all-time",
-          "body": "Anthropic, the company behind AI model Claude, raised $81.3 billion in its largest IPO ever, signaling a major shift in the AI industry. The deal marks a significant milestone for the company and the AI sector as a whole, with investors anticipating its potential to reshape the tech landscape.",
-          "whyItMatters": "The IPO could influence the future of AI development and investment, potentially leading to increased competition and innovation in the field.",
+          "title": "Anthropic's Record-Breaking IPO",
+          "body": "Anthropic, a leading AI company, raised $81 billion in its record-breaking stock market debut, signaling significant investment in AI safety. The IPO was met with mixed reactions, with some investors viewing it as a potential game-changer for the AI industry, while others questioned its long-term viability.",
+          "whyItMatters": "The IPO highlights the growing interest in AI safety and the potential for major tech companies to reshape the future of artificial intelligence.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Kenya's milk shortage deepens as drought hits farmers and pushes up prices",
-          "body": "A severe drought has exacerbated a milk shortage in Kenya, driving up prices and causing concern among consumers. The situation highlights the vulnerability of the agricultural sector to climate change and the impact of extreme weather conditions on food security.",
-          "whyItMatters": "The crisis underscores the importance of sustainable agricultural practices and the need for better disaster preparedness in regions prone to drought.",
+          "title": "Dutch Church's Nonstop Service for Asylum Seekers",
+          "body": "A Dutch church has been providing nonstop service to a family seeking asylum, offering them shelter and support amid the challenges of the asylum process. The church's commitment to aiding vulnerable individuals reflects the broader humanitarian efforts in the face of global migration crises.",
+          "whyItMatters": "The church's actions highlight the importance of community support in addressing the complex issues of asylum and migration in the modern world.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/19/kenyas-milk-shortage-deepens-as-drought-hits-farmers-and-pushes-up-prices?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/19/two-years-in-dutch-churchs-nonstop-service-shields-family-seeking-asylum?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Somalia's constitutional overhaul tests its fragile federal bargain",
-          "body": "Somalia's new constitution, introduced in 2026, aims to restructure the country's governance and address long-standing political tensions. The reform is seen as a critical step toward stability, though it faces challenges in implementation and maintaining the balance of power among regional groups.",
-          "whyItMatters": "The constitution's success will determine the future of Somalia's political landscape and its ability to address the complex issues of governance and regional cooperation.",
+          "title": "ICJ Rules Myanmar on Genocide Against Rohingya",
+          "body": "The International Court of Justice (ICJ) ruled that Myanmar committed genocide against the Rohingya population, marking a significant legal development in the ongoing conflict. The ruling underscores the international community's recognition of the atrocities committed by Myanmar's government against the Rohingya.",
+          "whyItMatters": "The ICJ's ruling emphasizes the importance of international law in addressing human rights violations and holding governments accountable for their actions.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/19/somalias-constitutional-overhaul-tests-its-fragile-federal-bargain?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/icj-rules-myanmar-committed-genocide-against-the-rohingya?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-19T01:55:45.279Z"
+      "updatedAt": "2026-11-19T13:32:16.181Z"
     }
   }
 }
