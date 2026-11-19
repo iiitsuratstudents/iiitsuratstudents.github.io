@@ -1,77 +1,74 @@
 {
-  "generatedAt": "2026-11-19T13:32:16.181Z",
+  "generatedAt": "2026-11-19T23:07:43.206Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of international developments, including diplomatic efforts, humanitarian issues, and technological advancements, highlighting the complexity of global affairs.",
+      "kicker": "Global Brief",
+      "summary": "Today's lens covers a mix of international news, including legal developments, geopolitical tensions, and humanitarian concerns.",
       "stories": [
         {
-          "title": "Trump-Xi-Putin Summit: Key Takeaways",
-          "body": "The Trump-Xi-Putin summit, held in November 2026, was marked by a series of diplomatic exchanges aimed at strengthening transnational cooperation. Key takeaways included the reaffirmation of strategic partnerships, discussions on global security, and the commitment to addressing climate change. The summit underscored the importance of multilateralism in navigating contemporary challenges.",
-          "whyItMatters": "The summit highlights the evolving nature of international relations and the role of leadership in shaping global cooperation.",
+          "title": "Judge Finds Thomas Markle Mentally Fit for Trial",
+          "body": "A UK judge has ruled that Thomas Markle, a former US diplomat, is mentally fit to stand trial on child abuse charges. The decision follows a legal process that ensures the defendant's mental capacity is assessed before any trial proceedings. This ruling is significant as it addresses the legal framework for handling complex cases involving international figures.",
+          "whyItMatters": "The ruling highlights the importance of legal procedures in handling high-profile cases, particularly those involving individuals with international backgrounds.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Dutch Church and Asylum Seekers",
-          "body": "A Dutch church continued its nonstop service to a family seeking asylum, providing emotional and spiritual support amid the challenges of the asylum process. The church's commitment reflects the humanitarian efforts and cultural sensitivity required in international migration contexts.",
-          "whyItMatters": "The situation underscores the importance of cultural and religious support in humanitarian efforts and the complexities of asylum processes.",
+          "title": "US Signs Off on AI Chip Sales to China",
+          "body": "The US has approved the sale of nearly 900,000 AI chips to China, marking a significant development in the ongoing technological and geopolitical rivalry between the two nations. This decision reflects the strategic importance of semiconductor technology in global competition and the role of trade agreements in shaping international relations.",
+          "whyItMatters": "The approval of AI chip sales underscores the growing technological competition between the US and China, with implications for global innovation and trade policies.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/19/two-years-in-dutch-churchs-nonstop-service-shields-family-seeking-asylum?traffic_source=rss"
+              "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Putin's Response to Ukraine's Strikes on Crimean Bridge",
-          "body": "Russian President Putin vowed a 'far more painful' response to Ukraine's strikes on the Crimean Bridge, signaling a potential escalation in the ongoing conflict. The statement reflects the strategic and military considerations involved in the conflict and the broader geopolitical tensions.",
-          "whyItMatters": "The response highlights the risks and complexities of military engagement in the region and the potential for further escalation in the conflict.",
+          "title": "Haiti Police Report 34 Suspected Gang Members Killed",
+          "body": "Haiti's police have reported the deaths of at least 34 suspected gang members in a raid, highlighting the ongoing security challenges in the country. The incident reflects the complex interplay of law enforcement, criminal organizations, and regional instability in Haiti.",
+          "whyItMatters": "The incident underscores the persistent threat of organized crime and the challenges faced by law enforcement in maintaining security in volatile regions.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-19T13:32:16.181Z"
+      "updatedAt": "2026-11-19T23:07:43.206Z"
     },
     "science": {
-      "kicker": "ScienceDaily",
-      "summary": "Today's lens covers scientific discoveries, environmental issues, and brain research, highlighting both recent findings and ongoing global concerns.",
+      "kicker": "Science & Nature",
+      "summary": "Today's lens covers a range of scientific discoveries, environmental issues, and global events impacting students.",
       "stories": [
         {
-          "title": "Fungal Toxins in Plant-Based Foods",
-          "body": "A study by scientists tested 212 plant-based foods and found that every single one contained fungal toxins. These toxins are naturally produced by fungi and can be harmful to humans if consumed in large quantities. The findings raise concerns about food safety and the potential health risks associated with consuming plant-based foods.",
-          "whyItMatters": "The discovery highlights the need for further research into the safety of plant-based foods and the importance of proper food handling and labeling.",
+          "title": "Wading bird migration tracked",
+          "body": "A wading bird called Phil was tracked during its epic migration to Siberia and back. The bird's journey highlights the challenges of long-distance migration and the importance of conservation efforts for migratory species.",
+          "whyItMatters": "Understanding migratory patterns can inform conservation strategies and help protect vulnerable species.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm"
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss"
             },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm"
-            }
-          ]
-        },
-        {
-          "title": "Whale with the Most Crooked Face",
-          "body": "A 6-million-year-old whale may have had the most crooked face in mammal history. Fossil evidence suggests that the whale's face was significantly deformed, possibly due to evolutionary pressures or environmental factors. This finding provides insight into the evolutionary history of whales and the factors that have shaped their development.",
-          "whyItMatters": "Understanding the evolutionary history of whales can help in the conservation and management of marine species, especially as they face threats from climate change and human activities.",
-          "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm"
@@ -79,9 +76,20 @@
           ]
         },
         {
-          "title": "Strange Organ Found Beneath Deep-Sea Pigs' Skin",
-          "body": "Scientists discovered something strange beneath the skin of deep-sea pigs. The structure is not fully understood, but it may have evolved to help the pigs survive in their environment. This finding could provide new insights into the biology of deep-sea organisms and their adaptations to extreme conditions.",
-          "whyItMatters": "Understanding the biology of deep-sea organisms is crucial for marine conservation and the study of life in extreme environments.",
+          "title": "Plant-based foods tested for fungal toxins",
+          "body": "Scientists tested 212 plant-based foods and found that every single one contained fungal toxins. This finding raises concerns about the safety of plant-based foods and the need for further research and regulation.",
+          "whyItMatters": "The presence of fungal toxins in plant-based foods could affect consumer health and safety, prompting stricter testing and labeling standards.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm"
+            }
+          ]
+        },
+        {
+          "title": "Deep-sea pig skin discovery",
+          "body": "A strange organism was discovered beneath the skin of deep-sea pigs. This discovery could provide insights into the biology of deep-sea life and the adaptations of marine species to extreme environments.",
+          "whyItMatters": "Understanding such biological adaptations can enhance our knowledge of marine ecosystems and inform conservation efforts.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -91,52 +99,52 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-19T13:32:16.181Z"
+      "updatedAt": "2026-11-19T23:07:43.206Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including AI safety, stock market reactions, and global events impacting the economy.",
+      "summary": "Today's lens covers major economic developments, including a significant IPO by Anthropic, AI chip sales, and ongoing legal battles.",
       "stories": [
         {
-          "title": "Anthropic's Record-Breaking IPO",
-          "body": "Anthropic, a leading AI company, raised $81 billion in its record-breaking stock market debut, signaling significant investment in AI safety. The IPO was met with mixed reactions, with some investors viewing it as a potential game-changer for the AI industry, while others questioned its long-term viability.",
-          "whyItMatters": "The IPO highlights the growing interest in AI safety and the potential for major tech companies to reshape the future of artificial intelligence.",
+          "title": "Anthropic closes first day of public trading at $1.3tn valuation",
+          "body": "Anthropic, the AI company, closed its first day of public trading at a $1.3 trillion valuation, marking the largest-ever IPO. The company's stock price rose sharply, reflecting investor confidence in its potential. The IPO saw significant participation, with the stock price reaching a new high. The event sparked debate about the future of AI and its impact on the economy.",
+          "whyItMatters": "The IPO highlights the growing importance of AI in the global economy and the potential for major tech companies to reshape industries.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo"
             },
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Dutch Church's Nonstop Service for Asylum Seekers",
-          "body": "A Dutch church has been providing nonstop service to a family seeking asylum, offering them shelter and support amid the challenges of the asylum process. The church's commitment to aiding vulnerable individuals reflects the broader humanitarian efforts in the face of global migration crises.",
-          "whyItMatters": "The church's actions highlight the importance of community support in addressing the complex issues of asylum and migration in the modern world.",
+          "title": "US signs off on AI chip sales to China",
+          "body": "The US has signed off on the sale of nearly 900,000 AI chips to China, marking a significant development in the global AI market. The decision comes as the US seeks to balance its trade relationships with China while promoting its own technological advancements. The sale is expected to influence the global supply chain and AI development strategies.",
+          "whyItMatters": "The sale of AI chips to China underscores the geopolitical tensions and trade dynamics shaping the AI industry.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/19/two-years-in-dutch-churchs-nonstop-service-shields-family-seeking-asylum?traffic_source=rss"
+              "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "ICJ Rules Myanmar on Genocide Against Rohingya",
-          "body": "The International Court of Justice (ICJ) ruled that Myanmar committed genocide against the Rohingya population, marking a significant legal development in the ongoing conflict. The ruling underscores the international community's recognition of the atrocities committed by Myanmar's government against the Rohingya.",
-          "whyItMatters": "The ICJ's ruling emphasizes the importance of international law in addressing human rights violations and holding governments accountable for their actions.",
+          "title": "Haiti police raid and kill at least 34 suspected gang members",
+          "body": "Haiti police conducted a raid on a suspected gang operation, resulting in the deaths of at least 34 members. The incident highlights the ongoing challenges of law enforcement in the country, including violent crime and political instability. The event is part of a broader pattern of violence and unrest in Haiti.",
+          "whyItMatters": "The incident reflects the complex socio-political landscape of Haiti and the challenges of maintaining public order in a volatile environment.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/icj-rules-myanmar-committed-genocide-against-the-rohingya?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-19T13:32:16.181Z"
+      "updatedAt": "2026-11-19T23:07:43.206Z"
     }
   }
 }
