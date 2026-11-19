@@ -1,80 +1,61 @@
 {
-  "generatedAt": "2026-11-18T17:22:20.184Z",
+  "generatedAt": "2026-11-19T01:55:45.279Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers geopolitical developments, including conflicts in the Middle East, international relations, and cultural events.",
+      "kicker": "Geopolitics",
+      "summary": "Today's lens covers a mix of international news, including a legal dispute over Jeffrey Epstein's death, a conflict in Israel, a record sale of a Van Gogh painting, and developments in global politics and economics.",
       "stories": [
         {
-          "title": "Ukraine's underground gas pipeline conflict",
-          "body": "The BBC reports on an ongoing underground conflict in a gas pipeline where Ukraine and Russia are engaged in a tense standoff. The situation highlights the complex dynamics of regional security and resource control in the Middle East.",
-          "whyItMatters": "The conflict underscores the strategic importance of energy resources and the potential for escalation in the region.",
+          "title": "Alleged suicide of Jeffrey Epstein",
+          "body": "A trio of experts from Al Jazeera allege that Jeffrey Epstein did not die by suicide, suggesting instead that he may have died from natural causes or was involved in a criminal act. The claim is based on the absence of a clear suicide note and the lack of evidence pointing to a self-inflicted injury. The statement is seen as a challenge to the official narrative of Epstein's death.",
+          "whyItMatters": "The claim raises questions about the accuracy of official reports and the complexity of legal and medical investigations.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss"
             },
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "New front line in Ukraine's war",
-          "body": "BBC reports from Ukraine's new front line, where military operations are intensifying. The area reflects the evolving nature of the conflict and the challenges faced by both sides in maintaining control.",
-          "whyItMatters": "The shifting front lines highlight the ongoing struggle for territory and the impact of military strategy on the war's outcome.",
+          "title": "Settler violence in central Israel",
+          "body": "A settler rammed into Palestinians at multiple locations in central Israel, escalating tensions in the region. The incident highlights the ongoing conflict and the challenges faced by civilians in the area. The violence underscores the broader geopolitical tensions between Israeli settlers and Palestinian residents.",
+          "whyItMatters": "The incident reflects the volatile nature of the region and the impact of settler activity on civilian lives.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Iran and US strike on Qeshm Island",
-          "body": "Al Jazeera reports that the US strike on Qeshm Island has led to new attacks by Iran on Kuwait and Bahrain. The incident underscores the regional tensions and the impact of military actions on neighboring states.",
-          "whyItMatters": "The strike and subsequent attacks highlight the geopolitical instability in the Middle East and the potential for broader conflict.",
+          "title": "Van Gogh painting sells for record price",
+          "body": "The Van Gogh painting 'The Night Café' sold for $190.4 million, setting a new record for the art world. The sale sparked controversy over the painting's Nazi history, with some arguing that the price was inflated due to its controversial past. The event highlights the intersection of art, history, and economics.",
+          "whyItMatters": "The sale underscores the influence of historical context on art market values and the ongoing debate over the authenticity and ownership of historical artworks.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/five-eu-nations-to-deport-migrants-to-rwanda?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-18T17:22:20.184Z"
+      "updatedAt": "2026-11-19T01:55:45.279Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers advancements in science, technology, and environmental research, including new discoveries, climate concerns, and innovations in data centers and biotechnology.",
+      "summary": "Today's lens covers advancements in science, climate, and technology, including new discoveries, environmental concerns, and innovations in medicine and space exploration.",
       "stories": [
         {
-          "title": "Seven Anthropic founders set for multi-billionaire status",
-          "body": "The seven co-founders of the Anthropic Institute, a group that studies the impact of human actions on the environment, are set to become multi-billionaires as their fund's assets appreciate. The fund, which focuses on environmental and social issues, has seen significant growth in recent years, with its assets valued at over $10 billion.",
-          "whyItMatters": "This highlights the growing financial success of individuals involved in environmental and social advocacy, emphasizing the importance of sustainable practices and the potential for private funding to support scientific research.",
-          "sources": [
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
           "title": "New discovery reveals what may be holding back room-temperature superconductors",
-          "body": "A recent study has identified a potential barrier that may prevent room-temperature superconductors from being developed. The research, conducted by scientists at a leading university, suggests that certain materials may not exhibit superconductivity under normal conditions due to complex electronic interactions.",
-          "whyItMatters": "This discovery could significantly impact future technological advancements, particularly in fields such as energy transmission and magnetic levitation, by providing a clearer understanding of the conditions required for superconductivity.",
+          "body": "A new study suggests that certain materials may act as insulators at room temperature, potentially limiting their use in practical applications. Researchers from ScienceDaily report that the findings could lead to breakthroughs in energy transmission and magnetic levitation technologies.",
+          "whyItMatters": "This discovery could revolutionize energy efficiency and transportation by enabling the development of superconducting materials that function at ambient temperatures.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -83,64 +64,75 @@
           ]
         },
         {
-          "title": "NASA's Hera mission reveals a strange new world",
-          "body": "The NASA spacecraft Hera has provided new data about the asteroid belt, revealing a previously unknown world with unique geological features. The mission, which aims to study the asteroid belt, has uncovered evidence of a complex planetary system, offering insights into the formation and evolution of celestial bodies.",
-          "whyItMatters": "This discovery could enhance our understanding of planetary formation and the potential for life in other solar systems, contributing to the broader field of astrobiology and planetary science.",
+          "title": "Nasa’s Voyager 1 reaches a massive milestone in space",
+          "body": "NASA’s Voyager 1 spacecraft has traveled over 140 billion miles since its launch in 1977, and it is now one light-day away from Earth. The milestone highlights the vastness of space and the longevity of human exploration efforts.",
+          "whyItMatters": "This achievement underscores the scale of space travel and the enduring human curiosity about the universe.",
           "sources": [
             {
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/science/video/2026/nov/18/nasas-voyager-1-just-reached-a-massive-milestone-in-space-video"
+            },
+            {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261117033917.htm"
+            }
+          ]
+        },
+        {
+          "title": "Government risks missing climate targets if EV rules weakened",
+          "body": "A government adviser warns that weakening electric vehicle (EV) regulations could lead to missed climate targets, as EVs are a key part of reducing carbon emissions. The warning comes amid growing concerns about the environmental impact of transportation and energy use.",
+          "whyItMatters": "This highlights the importance of policy in addressing climate change and the role of technology in achieving environmental goals.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-18T17:22:20.184Z"
+      "updatedAt": "2026-11-19T01:55:45.279Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The lens covers economic developments, including tech outages, inflation, and political tensions, highlighting global economic challenges and responses.",
+      "summary": "Today's lens covers a mix of economic developments, including a significant IPO by Anthropic, a constitutional overhaul in Somalia, and a milk shortage in Kenya. These stories highlight both global economic trends and regional political and social issues.",
       "stories": [
         {
-          "title": "Tech outages in Europe",
-          "body": "Recent tech outages in Europe have been attributed to 'zero' evidence of a link, according to Marco Rubio. Meanwhile, Nvidia reported doubling revenue as it did not reinstate Jensen Huang, the former CEO, due to soaring sales.",
-          "whyItMatters": "The uncertainty around tech outages highlights the fragility of global infrastructure and the impact of leadership decisions on economic stability.",
-          "sources": [
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio"
-            },
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
-            }
-          ]
-        },
-        {
-          "title": "Lebanon's reconstruction progress",
-          "body": "A World Bank official stated that Lebanon's reconstruction is progressing slowly, highlighting ongoing economic and political challenges in the region.",
-          "whyItMatters": "Slow reconstruction efforts underscore the complexities of post-conflict recovery and the role of international aid in economic development.",
+          "title": "Anthropic raises $81.3bn in biggest IPO of all-time",
+          "body": "Anthropic, the company behind AI model Claude, raised $81.3 billion in its largest IPO ever, signaling a major shift in the AI industry. The deal marks a significant milestone for the company and the AI sector as a whole, with investors anticipating its potential to reshape the tech landscape.",
+          "whyItMatters": "The IPO could influence the future of AI development and investment, potentially leading to increased competition and innovation in the field.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss"
+              "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "US Thanksgiving celebrations amid rising costs",
-          "body": "Americans are celebrating Thanksgiving amid rising costs, reflecting the economic pressures faced by households in the United States.",
-          "whyItMatters": "Economic pressures influence consumer behavior and cultural celebrations, highlighting the impact of inflation on daily life.",
+          "title": "Kenya's milk shortage deepens as drought hits farmers and pushes up prices",
+          "body": "A severe drought has exacerbated a milk shortage in Kenya, driving up prices and causing concern among consumers. The situation highlights the vulnerability of the agricultural sector to climate change and the impact of extreme weather conditions on food security.",
+          "whyItMatters": "The crisis underscores the importance of sustainable agricultural practices and the need for better disaster preparedness in regions prone to drought.",
           "sources": [
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/us-news/2026/nov/17/americans-celebrating-thanksgiving-costs-callout"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/19/kenyas-milk-shortage-deepens-as-drought-hits-farmers-and-pushes-up-prices?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Somalia's constitutional overhaul tests its fragile federal bargain",
+          "body": "Somalia's new constitution, introduced in 2026, aims to restructure the country's governance and address long-standing political tensions. The reform is seen as a critical step toward stability, though it faces challenges in implementation and maintaining the balance of power among regional groups.",
+          "whyItMatters": "The constitution's success will determine the future of Somalia's political landscape and its ability to address the complex issues of governance and regional cooperation.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/19/somalias-constitutional-overhaul-tests-its-fragile-federal-bargain?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-18T17:22:20.184Z"
+      "updatedAt": "2026-11-19T01:55:45.279Z"
     }
   }
 }
