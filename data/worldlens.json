@@ -1,146 +1,142 @@
 {
-  "generatedAt": "2026-11-20T07:30:28.218Z",
+  "generatedAt": "2026-11-20T17:02:21.133Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers key developments in geopolitics, including EU-Britain relations, international conflicts, and global human rights issues.",
+      "summary": "Today's lens covers geopolitical developments, including military exercises, EU debates, and international relations, with a focus on global events impacting students.",
       "stories": [
         {
-          "title": "EU and UK to agree youth mobility scheme",
-          "body": "The UK and EU are set to agree on a youth mobility scheme, aimed at facilitating the exchange of young people between the two regions. The initiative is expected to promote cultural understanding and economic collaboration. The agreement is seen as a step towards improving bilateral relations and addressing concerns over migration policies.",
-          "whyItMatters": "This agreement could enhance cross-border cooperation and foster mutual understanding between the UK and EU nations.",
+          "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+          "body": "Russia has targeted key crossings in Kyiv following Ukraine's attack on the Crimean Bridge, raising concerns about military escalation in the region. The move comes as Ukraine continues its military exercises, signaling heightened tensions in the Eastern European conflict.",
+          "whyItMatters": "This event highlights the ongoing military tensions between Russia and Ukraine, which could impact regional stability and international relations.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "EU and Britain to agree steps towards relations reset",
-          "body": "The EU and Britain are planning to take steps towards a relations reset, signaling a shift in their approach to each other. This includes discussions on trade, security, and political cooperation. The move is seen as a response to growing tensions and the need for renewed engagement between the two regions.",
-          "whyItMatters": "A relations reset could lead to more stable and cooperative interactions between the EU and the UK, addressing long-standing disputes.",
+          "title": "UK weighs a 'Breturn' to the EU after 10 years of Brexit",
+          "body": "The UK is considering a potential 'Breturn' to the EU following a 10-year period of Brexit, reflecting ongoing debates about EU membership and the future of the UK's relationship with the European Union. The decision could have significant implications for EU politics and UK policy.",
+          "whyItMatters": "This development underscores the complex political landscape in the UK and EU, with potential long-term consequences for trade, cooperation, and political stability.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-britain-to-agree-steps-towards-relations-reset?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Young Germans protest against military dominance",
-          "body": "Young Germans are protesting against the military's role in shaping their future, calling for a shift towards civilian governance. The movement highlights concerns about the influence of the military on political decisions and the need for greater democratic participation.",
-          "whyItMatters": "This protest underscores the growing demand for civilian control and democratic reforms in German society.",
+          "title": "Qatar and Germany deepen strategic ties during emir’s Berlin visit",
+          "body": "Qatar and Germany have strengthened their strategic ties during the emir’s Berlin visit, signaling a shift in regional diplomacy. The visit highlights the growing importance of Middle Eastern relations in the global arena.",
+          "whyItMatters": "This event reflects the evolving dynamics of international relations, particularly in the Middle East, and could influence future diplomatic and economic cooperation.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/20/we-dont-want-our-future-decided-by-the-military-young-germans-protest?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/20/qatar-and-germany-deepen-strategic-ties-during-emirs-berlin-visit?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-20T07:30:28.218Z"
+      "updatedAt": "2026-11-20T17:02:21.133Z"
     },
     "science": {
-      "kicker": "Science & Nature",
-      "summary": "Today's lens covers groundbreaking scientific discoveries, climate issues, and human health advancements.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens covers advancements in space exploration, scientific discoveries, and innovations in technology and medicine.",
       "stories": [
         {
-          "title": "Mysterious Mercury Visitor",
-          "body": "A spacecraft has completed an eight-year journey to study Mercury, bringing back unprecedented data. The mission, led by the BBC, aims to uncover the planet's composition and potential for future exploration.",
-          "whyItMatters": "This mission could provide critical insights into Mercury's geology and help inform future space missions.",
+          "title": "Moon dust transformed into LEGO-like bricks",
+          "body": "Scientists have successfully converted moon dust into LEGO-like bricks, enabling future lunar base construction. The experiment involved using a specialized material to create a durable, lightweight structure that could be used in space habitats. The process involved heating and mixing the dust with a binding agent, allowing it to form a stable, printable material.",
+          "whyItMatters": "This innovation could significantly impact future space colonization efforts by providing a sustainable material for building habitats on the Moon.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm"
+            }
+          ]
+        },
+        {
+          "title": "Rare particle decay detected at CERN",
+          "body": "CERN scientists have finally observed a rare particle decay that took 40 years to detect. The discovery, involving the decay of a neutral particle, provides new insights into the fundamental forces of nature and could lead to advancements in particle physics and quantum mechanics.",
+          "whyItMatters": "This breakthrough could reshape our understanding of the universe and potentially lead to new technologies based on fundamental physics principles.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm"
+            }
+          ]
+        },
+        {
+          "title": "Heat pumps and their cost",
+          "body": "A new study explores the efficiency and cost of heat pumps, highlighting their role in energy conservation and climate change mitigation. The research provides a comprehensive analysis of the technical and economic factors influencing heat pump performance, offering valuable insights for both residential and industrial applications.",
+          "whyItMatters": "Understanding the cost and efficiency of heat pumps is crucial for developing sustainable energy solutions and reducing reliance on fossil fuels.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm"
-            }
-          ]
-        },
-        {
-          "title": "Experimental Compound Burns Fat Without Muscle Loss",
-          "body": "A new compound has been discovered that can burn fat without sacrificing muscle, offering potential solutions for obesity and metabolic disorders. The research, published in ScienceDaily, highlights the importance of metabolic innovation.",
-          "whyItMatters": "This discovery could lead to new treatments for weight management and metabolic health.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm"
-            }
-          ]
-        },
-        {
-          "title": "Lifting Weights Reduces Muscle Loss from Obesity Drugs",
-          "body": "A study shows that lifting weights can counteract the muscle loss caused by obesity drugs, providing a practical way to maintain muscle mass and overall health. The research, published in Nature, emphasizes the role of physical activity in managing chronic conditions.",
-          "whyItMatters": "This finding could improve the effectiveness of obesity treatments and support healthier lifestyles.",
-          "sources": [
-            {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/d41586-026-03751-3"
+              "url": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-20T07:30:28.218Z"
+      "updatedAt": "2026-11-20T17:02:21.133Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including retail sales, cybersecurity, and global political events.",
+      "summary": "Today's lens covers economic developments, including UK-EU negotiations, AI market trends, and global conflicts, providing a neutral overview of current events.",
       "stories": [
         {
-          "title": "Tinned goods and UHT milk boost retail sales after 'Be Ready' campaign launch",
-          "body": "The 'Be Ready' campaign, launched by the UK government, saw a surge in retail sales for tinned goods and UHT milk, as consumers prepared for potential supply chain disruptions. The campaign aimed to raise awareness about food security and preparedness, leading to increased demand for these products.",
-          "whyItMatters": "The campaign highlights the importance of consumer preparedness and supply chain resilience in the face of global uncertainties.",
+          "title": "UK-EU deal on cost-cutting",
+          "body": "The UK and EU have agreed to a cost-cutting deal, but concerns remain about whether lower prices will follow. The deal focuses on reducing administrative costs and streamlining processes, though its impact on consumer prices is uncertain. The UK's exit from the EU has created a complex landscape for trade and regulation, with ongoing negotiations shaping the future of economic cooperation.",
+          "whyItMatters": "The deal highlights the challenges of economic cooperation between the UK and EU, emphasizing the need for transparency and accountability in trade policies.",
           "sources": [
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/20/we-dont-want-our-future-decided-by-the-military-young-germans-protest?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "US maritime agency warns Iran blockade is adding to rising Gulf premiums",
-          "body": "The US maritime agency warned that the Iranian blockade of shipping routes is contributing to rising fuel and shipping costs in the Gulf of Mexico. This has implications for global maritime trade and energy prices, affecting both domestic and international markets.",
-          "whyItMatters": "The economic impact of maritime disruptions underscores the vulnerability of global trade networks and the need for strategic maritime policy.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/11/20/us-maritime-agency-warned-iran-blockade-was-adding-to-rising-gulf-premiums?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-          "body": "Anthropic, a large language model company, completed its first public stock offering, raising $1.3 trillion in valuation. This marks a significant milestone in the AI industry and could influence future investment trends and technological development.",
-          "whyItMatters": "The IPO of Anthropic highlights the growing importance of AI in the global economy and the potential for innovation in the technology sector.",
+          "title": "AI market faces sell-off",
+          "body": "Anthropic, a major AI company, saw its shares drop after a global AI market sell-off. The company's initial public offering (IPO) was valued at $1.3 trillion, but the market reaction was mixed, with investors uncertain about the long-term viability of AI technologies. The sell-off reflects broader concerns about the future of AI and its impact on industries and employment.",
+          "whyItMatters": "The AI market's volatility underscores the risks and opportunities associated with emerging technologies, influencing investment decisions and policy frameworks.",
           "sources": [
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo"
+              "url": "https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news"
+            }
+          ]
+        },
+        {
+          "title": "Global conflict and child attacks",
+          "body": "A report highlights that one-third of all child attacks worldwide were recorded in Palestine. The conflict has led to increased violence and instability, affecting both civilians and military operations. The situation reflects broader geopolitical tensions and the ongoing challenges of conflict resolution in the Middle East.",
+          "whyItMatters": "The rise in child attacks underscores the human cost of conflict and the need for international efforts to protect vulnerable populations, highlighting the importance of humanitarian concerns in global policy discussions.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/one-third-of-attacks-on-children-worldwide-recorded-in-palestine?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/11/20/kansas-hosts-become-guests-as-algeria-repays-world-cup-welcome?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-20T07:30:28.218Z"
+      "updatedAt": "2026-11-20T17:02:21.133Z"
     }
   }
 }
