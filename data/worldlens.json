@@ -1,150 +1,146 @@
 {
-  "generatedAt": "2026-11-19T23:07:43.206Z",
+  "generatedAt": "2026-11-20T07:30:28.218Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of international news, including legal developments, geopolitical tensions, and humanitarian concerns.",
+      "kicker": "Geopolitics",
+      "summary": "Today's lens covers key developments in geopolitics, including EU-Britain relations, international conflicts, and global human rights issues.",
       "stories": [
         {
-          "title": "Judge Finds Thomas Markle Mentally Fit for Trial",
-          "body": "A UK judge has ruled that Thomas Markle, a former US diplomat, is mentally fit to stand trial on child abuse charges. The decision follows a legal process that ensures the defendant's mental capacity is assessed before any trial proceedings. This ruling is significant as it addresses the legal framework for handling complex cases involving international figures.",
-          "whyItMatters": "The ruling highlights the importance of legal procedures in handling high-profile cases, particularly those involving individuals with international backgrounds.",
+          "title": "EU and UK to agree youth mobility scheme",
+          "body": "The UK and EU are set to agree on a youth mobility scheme, aimed at facilitating the exchange of young people between the two regions. The initiative is expected to promote cultural understanding and economic collaboration. The agreement is seen as a step towards improving bilateral relations and addressing concerns over migration policies.",
+          "whyItMatters": "This agreement could enhance cross-border cooperation and foster mutual understanding between the UK and EU nations.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "US Signs Off on AI Chip Sales to China",
-          "body": "The US has approved the sale of nearly 900,000 AI chips to China, marking a significant development in the ongoing technological and geopolitical rivalry between the two nations. This decision reflects the strategic importance of semiconductor technology in global competition and the role of trade agreements in shaping international relations.",
-          "whyItMatters": "The approval of AI chip sales underscores the growing technological competition between the US and China, with implications for global innovation and trade policies.",
+          "title": "EU and Britain to agree steps towards relations reset",
+          "body": "The EU and Britain are planning to take steps towards a relations reset, signaling a shift in their approach to each other. This includes discussions on trade, security, and political cooperation. The move is seen as a response to growing tensions and the need for renewed engagement between the two regions.",
+          "whyItMatters": "A relations reset could lead to more stable and cooperative interactions between the EU and the UK, addressing long-standing disputes.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss"
-            },
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-britain-to-agree-steps-towards-relations-reset?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Haiti Police Report 34 Suspected Gang Members Killed",
-          "body": "Haiti's police have reported the deaths of at least 34 suspected gang members in a raid, highlighting the ongoing security challenges in the country. The incident reflects the complex interplay of law enforcement, criminal organizations, and regional instability in Haiti.",
-          "whyItMatters": "The incident underscores the persistent threat of organized crime and the challenges faced by law enforcement in maintaining security in volatile regions.",
+          "title": "Young Germans protest against military dominance",
+          "body": "Young Germans are protesting against the military's role in shaping their future, calling for a shift towards civilian governance. The movement highlights concerns about the influence of the military on political decisions and the need for greater democratic participation.",
+          "whyItMatters": "This protest underscores the growing demand for civilian control and democratic reforms in German society.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/20/we-dont-want-our-future-decided-by-the-military-young-germans-protest?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-19T23:07:43.206Z"
+      "updatedAt": "2026-11-20T07:30:28.218Z"
     },
     "science": {
       "kicker": "Science & Nature",
-      "summary": "Today's lens covers a range of scientific discoveries, environmental issues, and global events impacting students.",
+      "summary": "Today's lens covers groundbreaking scientific discoveries, climate issues, and human health advancements.",
       "stories": [
         {
-          "title": "Wading bird migration tracked",
-          "body": "A wading bird called Phil was tracked during its epic migration to Siberia and back. The bird's journey highlights the challenges of long-distance migration and the importance of conservation efforts for migratory species.",
-          "whyItMatters": "Understanding migratory patterns can inform conservation strategies and help protect vulnerable species.",
+          "title": "Mysterious Mercury Visitor",
+          "body": "A spacecraft has completed an eight-year journey to study Mercury, bringing back unprecedented data. The mission, led by the BBC, aims to uncover the planet's composition and potential for future exploration.",
+          "whyItMatters": "This mission could provide critical insights into Mercury's geology and help inform future space missions.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm"
             }
           ]
         },
         {
-          "title": "Plant-based foods tested for fungal toxins",
-          "body": "Scientists tested 212 plant-based foods and found that every single one contained fungal toxins. This finding raises concerns about the safety of plant-based foods and the need for further research and regulation.",
-          "whyItMatters": "The presence of fungal toxins in plant-based foods could affect consumer health and safety, prompting stricter testing and labeling standards.",
+          "title": "Experimental Compound Burns Fat Without Muscle Loss",
+          "body": "A new compound has been discovered that can burn fat without sacrificing muscle, offering potential solutions for obesity and metabolic disorders. The research, published in ScienceDaily, highlights the importance of metabolic innovation.",
+          "whyItMatters": "This discovery could lead to new treatments for weight management and metabolic health.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm"
             }
           ]
         },
         {
-          "title": "Deep-sea pig skin discovery",
-          "body": "A strange organism was discovered beneath the skin of deep-sea pigs. This discovery could provide insights into the biology of deep-sea life and the adaptations of marine species to extreme environments.",
-          "whyItMatters": "Understanding such biological adaptations can enhance our knowledge of marine ecosystems and inform conservation efforts.",
+          "title": "Lifting Weights Reduces Muscle Loss from Obesity Drugs",
+          "body": "A study shows that lifting weights can counteract the muscle loss caused by obesity drugs, providing a practical way to maintain muscle mass and overall health. The research, published in Nature, emphasizes the role of physical activity in managing chronic conditions.",
+          "whyItMatters": "This finding could improve the effectiveness of obesity treatments and support healthier lifestyles.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm"
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03751-3"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-19T23:07:43.206Z"
+      "updatedAt": "2026-11-20T07:30:28.218Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers major economic developments, including a significant IPO by Anthropic, AI chip sales, and ongoing legal battles.",
+      "summary": "Today's lens covers a mix of economic developments, including retail sales, cybersecurity, and global political events.",
       "stories": [
         {
-          "title": "Anthropic closes first day of public trading at $1.3tn valuation",
-          "body": "Anthropic, the AI company, closed its first day of public trading at a $1.3 trillion valuation, marking the largest-ever IPO. The company's stock price rose sharply, reflecting investor confidence in its potential. The IPO saw significant participation, with the stock price reaching a new high. The event sparked debate about the future of AI and its impact on the economy.",
-          "whyItMatters": "The IPO highlights the growing importance of AI in the global economy and the potential for major tech companies to reshape industries.",
+          "title": "Tinned goods and UHT milk boost retail sales after 'Be Ready' campaign launch",
+          "body": "The 'Be Ready' campaign, launched by the UK government, saw a surge in retail sales for tinned goods and UHT milk, as consumers prepared for potential supply chain disruptions. The campaign aimed to raise awareness about food security and preparedness, leading to increased demand for these products.",
+          "whyItMatters": "The campaign highlights the importance of consumer preparedness and supply chain resilience in the face of global uncertainties.",
           "sources": [
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss"
             },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/20/we-dont-want-our-future-decided-by-the-military-young-germans-protest?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "US maritime agency warns Iran blockade is adding to rising Gulf premiums",
+          "body": "The US maritime agency warned that the Iranian blockade of shipping routes is contributing to rising fuel and shipping costs in the Gulf of Mexico. This has implications for global maritime trade and energy prices, affecting both domestic and international markets.",
+          "whyItMatters": "The economic impact of maritime disruptions underscores the vulnerability of global trade networks and the need for strategic maritime policy.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/11/20/us-maritime-agency-warned-iran-blockade-was-adding-to-rising-gulf-premiums?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+          "body": "Anthropic, a large language model company, completed its first public stock offering, raising $1.3 trillion in valuation. This marks a significant milestone in the AI industry and could influence future investment trends and technological development.",
+          "whyItMatters": "The IPO of Anthropic highlights the growing importance of AI in the global economy and the potential for innovation in the technology sector.",
+          "sources": [
             {
               "name": "BBC Business",
               "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "US signs off on AI chip sales to China",
-          "body": "The US has signed off on the sale of nearly 900,000 AI chips to China, marking a significant development in the global AI market. The decision comes as the US seeks to balance its trade relationships with China while promoting its own technological advancements. The sale is expected to influence the global supply chain and AI development strategies.",
-          "whyItMatters": "The sale of AI chips to China underscores the geopolitical tensions and trade dynamics shaping the AI industry.",
-          "sources": [
+            },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Haiti police raid and kill at least 34 suspected gang members",
-          "body": "Haiti police conducted a raid on a suspected gang operation, resulting in the deaths of at least 34 members. The incident highlights the ongoing challenges of law enforcement in the country, including violent crime and political instability. The event is part of a broader pattern of violence and unrest in Haiti.",
-          "whyItMatters": "The incident reflects the complex socio-political landscape of Haiti and the challenges of maintaining public order in a volatile environment.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-19T23:07:43.206Z"
+      "updatedAt": "2026-11-20T07:30:28.218Z"
     }
   }
 }
