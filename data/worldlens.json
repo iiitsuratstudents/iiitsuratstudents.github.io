@@ -1,62 +1,62 @@
 {
-  "generatedAt": "2026-11-21T01:37:15.490Z",
+  "generatedAt": "2026-11-21T12:49:57.874Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers geopolitical developments, climate issues, and human rights concerns, highlighting key events and their potential impacts on students.",
+      "summary": "Today's lens covers a mix of environmental, political, and social developments, including climate-related risks, international conflicts, and cultural shifts.",
       "stories": [
         {
-          "title": "Denmark Expels Russian Diplomat Over Alleged Plot to Kill Ukrainian Rapper",
-          "body": "Denmark has expelled its Russian diplomatic envoy following allegations that the individual planned to kill Ukrainian rapper Yana Kovalenko. The move comes amid growing tensions in the region, with Russia and Ukraine facing escalating diplomatic and military confrontations. The expulsion underscores the risk of violence and the impact of geopolitical conflicts on personal lives.",
-          "whyItMatters": "This incident highlights the potential for violence and the personal consequences of geopolitical tensions, which can affect students' understanding of international relations.",
+          "title": "Floods in Florida force residents to use kayaks and rafts",
+          "body": "In Florida, severe flooding has forced residents to use kayaks and rafts to evacuate affected areas. The situation highlights the increasing impact of climate change on coastal regions, with rising sea levels and extreme weather events becoming more frequent. The event underscores the vulnerability of low-lying communities and the need for improved disaster preparedness.",
+          "whyItMatters": "Climate change is exacerbating extreme weather events, making infrastructure and emergency response planning critical for vulnerable regions.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/florida-residents-turn-to-kayaks-and-rafts-as-floods-swamp-streets?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Iran War Live: Saudi-Led Coalition Repels Houthi Missiles",
-          "body": "A live update from the Iran War shows the Saudi-led coalition repelling Houthi missiles in the Yemeni conflict. The battle reflects the ongoing instability in the region and the challenges faced by military forces in complex geopolitical environments. The situation highlights the importance of international cooperation in managing conflicts.",
-          "whyItMatters": "This event underscores the complexities of modern warfare and the role of international alliances in managing regional conflicts, which can inform students about global security dynamics.",
+          "title": "Russia hits Poland with missiles, NATO readiness uncertain",
+          "body": "Russian missiles struck Poland, raising concerns about regional stability. While the exact target and impact are unclear, the incident highlights the ongoing tensions in the Euro-Atlantic security landscape. NATO is assessing its readiness to respond to such threats, reflecting broader concerns about regional security and the potential for escalation.",
+          "whyItMatters": "Military tensions between Russia and its Western allies underscore the complex dynamics of modern geopolitics and the need for diplomatic engagement to prevent conflict.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "UK Exploring Closer EU Ties After Agreeing Deal",
-          "body": "The UK is considering even closer economic and political ties with the EU after agreeing to a deal. This development reflects the ongoing negotiations and the evolving relationship between the UK and the EU, which could impact students' understanding of international trade and political alliances.",
-          "whyItMatters": "This shift in UK-EU relations highlights the complexities of international cooperation and the potential for significant changes in global economic and political frameworks.",
+          "title": "Mexico captures FBI-wanted cartel boss in military raid",
+          "body": "Mexico successfully captured an FBI-wanted cartel boss in a military operation. This development marks a significant victory in the fight against transnational crime, demonstrating the effectiveness of law enforcement in combating organized criminal networks. The operation highlights the ongoing challenges of global criminal enterprises and the importance of international cooperation.",
+          "whyItMatters": "Combating transnational crime requires coordinated efforts between nations, emphasizing the need for shared strategies and resources in the fight against organized crime.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-21T01:37:15.490Z"
+      "updatedAt": "2026-11-21T12:49:57.874Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers advancements in science, technology, and environmental issues, including new research, innovations, and global developments.",
+      "kicker": "Climate & Space",
+      "summary": "Today's lens covers climate policy, space exploration, and scientific breakthroughs.",
       "stories": [
         {
-          "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
-          "body": "A fire at a large foie gras farm in the US killed several birds, raising concerns about animal welfare and the environmental impact of the industry. The incident highlights the growing debate over the ethics of farming animals for food.",
-          "whyItMatters": "The incident underscores the need for more sustainable and ethical practices in the food industry.",
+          "title": "COP26 deadlock over fossil fuel fight",
+          "body": "The BBC Science reports a fight over fossil fuels has left the COP26 climate talks in deadlock. Countries are divided on how to address climate change, with some calling for stricter emissions reductions and others arguing for economic growth. The debate highlights the tension between environmental responsibility and economic development.",
+          "whyItMatters": "The conflict over fossil fuel use underscores the global challenge of balancing climate action with economic stability.",
           "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
+            },
             {
               "name": "BBC Science",
               "url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss"
@@ -64,79 +64,87 @@
           ]
         },
         {
-          "title": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
-          "body": "Scientists have developed a method to transform moon dust into LEGO-like bricks, which could be used for constructing habitats on the Moon. This innovation could support future lunar exploration and colonization efforts.",
-          "whyItMatters": "This breakthrough could enable the construction of sustainable habitats on the Moon, advancing space exploration and colonization.",
+          "title": "Voyager 1 is 1 light day from Earth",
+          "body": "NASA's Voyager 1 spacecraft is now 1 light day from Earth, setting a cosmic record. The distance is so vast that light takes 24 hours to reach it, highlighting the immense scale of space travel and the challenges of interstellar communication.",
+          "whyItMatters": "This milestone demonstrates the technological and scientific achievements of space exploration and the vastness of the universe.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm"
+            },
+            {
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03806-5"
             }
           ]
         },
         {
-          "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
-          "body": "CERN scientists have detected a rare particle decay, providing significant insights into fundamental physics. This discovery could lead to new theories about the universe and the nature of matter.",
-          "whyItMatters": "This finding could revolutionize our understanding of the fundamental forces and particles that make up the universe.",
+          "title": "X-ray telescope opens its eyes",
+          "body": "After 8 years in space, the groundbreaking X-ray telescope finally opens its eyes, marking a significant step in astrophysics research. The telescope is designed to study high-energy cosmic events, such as black holes and neutron stars, providing new insights into the universe's most extreme environments.",
+          "whyItMatters": "This advancement could revolutionize our understanding of the universe and the processes that shape it.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-21T01:37:15.490Z"
+      "updatedAt": "2026-11-21T12:49:57.874Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of global economic developments, political tensions, and technological trends impacting students.",
+      "summary": "Today's lens covers a mix of economic developments, including climate action, tech stock performance, and geopolitical tensions.",
       "stories": [
         {
-          "title": "Denmark Expels Russian Diplomat Over Alleged Plot to Kill Ukrainian Rapper",
-          "body": "Denmark has expelled a Russian diplomat following allegations that he planned to kill Ukrainian rapper Ygor. The incident highlights tensions in the geopolitical landscape, with the expelled diplomat being investigated for potential criminal activity. The move underscores the risks of international relations and the impact of political tensions on diplomatic channels.",
-          "whyItMatters": "The incident reflects the complexities of international diplomacy and the potential for political conflicts to affect global relations.",
+          "title": "Florida residents turn to kayaks and rafts as floods swamp streets",
+          "body": "In Florida, severe flooding has forced residents to use kayaks and rafts to evacuate affected areas. The situation highlights the growing impact of climate change on infrastructure and daily life in the region.",
+          "whyItMatters": "Climate change is increasingly affecting natural disaster preparedness and community resilience.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/florida-residents-turn-to-kayaks-and-rafts-as-floods-swamp-streets?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/21/why-is-gta-vi-so-expensive-to-play?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Tech Stock Sell-Off Drags Markets Down as Anthropic Shares Slide",
-          "body": "A significant sell-off in tech stocks, driven by concerns over AI-related risks, has impacted global markets. Anthropic, a major AI company, saw its shares drop on the second day of trading, reflecting broader market concerns about the future of AI and its economic implications. This event highlights the growing influence of AI in the financial sector and the potential for market volatility.",
-          "whyItMatters": "The tech stock sell-off underscores the impact of AI on financial markets and the need for regulatory oversight in emerging technologies.",
+          "title": "Grand Theft Auto VI sales hit $3.8bn on first day of release",
+          "body": "Grand Theft Auto VI broke sales records on its first day, with the game selling over $3.8 billion. The success reflects the enduring popularity of the series and the competitive nature of the gaming industry.",
+          "whyItMatters": "The gaming industry continues to grow, driven by consumer demand and technological advancements.",
           "sources": [
+            {
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says"
+            },
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+              "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "US Judge Allows Trump’s $15bn Lawsuit Against New York Times",
-          "body": "A U.S. judge has allowed Trump’s $15 billion lawsuit against the New York Times, citing allegations of defamation and breach of contract. The case highlights the ongoing legal battles over media and political accountability, and its potential impact on media freedom and legal precedents in the United States.",
-          "whyItMatters": "The legal case reflects the ongoing tensions between political figures and the media, and the role of law in shaping public discourse.",
+          "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
+          "body": "Russian missiles struck Poland, raising concerns about regional security. The incident could prompt NATO to reassess its defense strategies and response protocols in the wake of ongoing geopolitical tensions.",
+          "whyItMatters": "Geopolitical tensions and military readiness remain critical for global security and stability.",
           "sources": [
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/us-news/2026/nov/19/trump-lawsuit-new-york-times"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-21T01:37:15.490Z"
+      "updatedAt": "2026-11-21T12:49:57.874Z"
     }
   }
 }
