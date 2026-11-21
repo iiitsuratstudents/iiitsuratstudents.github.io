@@ -1,57 +1,72 @@
 {
-  "generatedAt": "2026-11-20T17:02:21.133Z",
+  "generatedAt": "2026-11-21T01:37:15.490Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers geopolitical developments, including military exercises, EU debates, and international relations, with a focus on global events impacting students.",
+      "kicker": "Global Brief",
+      "summary": "Today's lens covers geopolitical developments, climate issues, and human rights concerns, highlighting key events and their potential impacts on students.",
       "stories": [
         {
-          "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-          "body": "Russia has targeted key crossings in Kyiv following Ukraine's attack on the Crimean Bridge, raising concerns about military escalation in the region. The move comes as Ukraine continues its military exercises, signaling heightened tensions in the Eastern European conflict.",
-          "whyItMatters": "This event highlights the ongoing military tensions between Russia and Ukraine, which could impact regional stability and international relations.",
+          "title": "Denmark Expels Russian Diplomat Over Alleged Plot to Kill Ukrainian Rapper",
+          "body": "Denmark has expelled its Russian diplomatic envoy following allegations that the individual planned to kill Ukrainian rapper Yana Kovalenko. The move comes amid growing tensions in the region, with Russia and Ukraine facing escalating diplomatic and military confrontations. The expulsion underscores the risk of violence and the impact of geopolitical conflicts on personal lives.",
+          "whyItMatters": "This incident highlights the potential for violence and the personal consequences of geopolitical tensions, which can affect students' understanding of international relations.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Iran War Live: Saudi-Led Coalition Repels Houthi Missiles",
+          "body": "A live update from the Iran War shows the Saudi-led coalition repelling Houthi missiles in the Yemeni conflict. The battle reflects the ongoing instability in the region and the challenges faced by military forces in complex geopolitical environments. The situation highlights the importance of international cooperation in managing conflicts.",
+          "whyItMatters": "This event underscores the complexities of modern warfare and the role of international alliances in managing regional conflicts, which can inform students about global security dynamics.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "UK Exploring Closer EU Ties After Agreeing Deal",
+          "body": "The UK is considering even closer economic and political ties with the EU after agreeing to a deal. This development reflects the ongoing negotiations and the evolving relationship between the UK and the EU, which could impact students' understanding of international trade and political alliances.",
+          "whyItMatters": "This shift in UK-EU relations highlights the complexities of international cooperation and the potential for significant changes in global economic and political frameworks.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "UK weighs a 'Breturn' to the EU after 10 years of Brexit",
-          "body": "The UK is considering a potential 'Breturn' to the EU following a 10-year period of Brexit, reflecting ongoing debates about EU membership and the future of the UK's relationship with the European Union. The decision could have significant implications for EU politics and UK policy.",
-          "whyItMatters": "This development underscores the complex political landscape in the UK and EU, with potential long-term consequences for trade, cooperation, and political stability.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Qatar and Germany deepen strategic ties during emir’s Berlin visit",
-          "body": "Qatar and Germany have strengthened their strategic ties during the emir’s Berlin visit, signaling a shift in regional diplomacy. The visit highlights the growing importance of Middle Eastern relations in the global arena.",
-          "whyItMatters": "This event reflects the evolving dynamics of international relations, particularly in the Middle East, and could influence future diplomatic and economic cooperation.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/20/qatar-and-germany-deepen-strategic-ties-during-emirs-berlin-visit?traffic_source=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-20T17:02:21.133Z"
+      "updatedAt": "2026-11-21T01:37:15.490Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers advancements in space exploration, scientific discoveries, and innovations in technology and medicine.",
+      "summary": "Today's lens covers advancements in science, technology, and environmental issues, including new research, innovations, and global developments.",
       "stories": [
         {
-          "title": "Moon dust transformed into LEGO-like bricks",
-          "body": "Scientists have successfully converted moon dust into LEGO-like bricks, enabling future lunar base construction. The experiment involved using a specialized material to create a durable, lightweight structure that could be used in space habitats. The process involved heating and mixing the dust with a binding agent, allowing it to form a stable, printable material.",
-          "whyItMatters": "This innovation could significantly impact future space colonization efforts by providing a sustainable material for building habitats on the Moon.",
+          "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
+          "body": "A fire at a large foie gras farm in the US killed several birds, raising concerns about animal welfare and the environmental impact of the industry. The incident highlights the growing debate over the ethics of farming animals for food.",
+          "whyItMatters": "The incident underscores the need for more sustainable and ethical practices in the food industry.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
+          "body": "Scientists have developed a method to transform moon dust into LEGO-like bricks, which could be used for constructing habitats on the Moon. This innovation could support future lunar exploration and colonization efforts.",
+          "whyItMatters": "This breakthrough could enable the construction of sustainable habitats on the Moon, advancing space exploration and colonization.",
           "sources": [
             {
               "name": "ScienceDaily",
@@ -60,54 +75,43 @@
           ]
         },
         {
-          "title": "Rare particle decay detected at CERN",
-          "body": "CERN scientists have finally observed a rare particle decay that took 40 years to detect. The discovery, involving the decay of a neutral particle, provides new insights into the fundamental forces of nature and could lead to advancements in particle physics and quantum mechanics.",
-          "whyItMatters": "This breakthrough could reshape our understanding of the universe and potentially lead to new technologies based on fundamental physics principles.",
+          "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
+          "body": "CERN scientists have detected a rare particle decay, providing significant insights into fundamental physics. This discovery could lead to new theories about the universe and the nature of matter.",
+          "whyItMatters": "This finding could revolutionize our understanding of the fundamental forces and particles that make up the universe.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm"
             }
           ]
-        },
-        {
-          "title": "Heat pumps and their cost",
-          "body": "A new study explores the efficiency and cost of heat pumps, highlighting their role in energy conservation and climate change mitigation. The research provides a comprehensive analysis of the technical and economic factors influencing heat pump performance, offering valuable insights for both residential and industrial applications.",
-          "whyItMatters": "Understanding the cost and efficiency of heat pumps is crucial for developing sustainable energy solutions and reducing reliance on fossil fuels.",
-          "sources": [
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-20T17:02:21.133Z"
+      "updatedAt": "2026-11-21T01:37:15.490Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including UK-EU negotiations, AI market trends, and global conflicts, providing a neutral overview of current events.",
+      "summary": "Today's lens covers a mix of global economic developments, political tensions, and technological trends impacting students.",
       "stories": [
         {
-          "title": "UK-EU deal on cost-cutting",
-          "body": "The UK and EU have agreed to a cost-cutting deal, but concerns remain about whether lower prices will follow. The deal focuses on reducing administrative costs and streamlining processes, though its impact on consumer prices is uncertain. The UK's exit from the EU has created a complex landscape for trade and regulation, with ongoing negotiations shaping the future of economic cooperation.",
-          "whyItMatters": "The deal highlights the challenges of economic cooperation between the UK and EU, emphasizing the need for transparency and accountability in trade policies.",
+          "title": "Denmark Expels Russian Diplomat Over Alleged Plot to Kill Ukrainian Rapper",
+          "body": "Denmark has expelled a Russian diplomat following allegations that he planned to kill Ukrainian rapper Ygor. The incident highlights tensions in the geopolitical landscape, with the expelled diplomat being investigated for potential criminal activity. The move underscores the risks of international relations and the impact of political tensions on diplomatic channels.",
+          "whyItMatters": "The incident reflects the complexities of international diplomacy and the potential for political conflicts to affect global relations.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss"
             },
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "AI market faces sell-off",
-          "body": "Anthropic, a major AI company, saw its shares drop after a global AI market sell-off. The company's initial public offering (IPO) was valued at $1.3 trillion, but the market reaction was mixed, with investors uncertain about the long-term viability of AI technologies. The sell-off reflects broader concerns about the future of AI and its impact on industries and employment.",
-          "whyItMatters": "The AI market's volatility underscores the risks and opportunities associated with emerging technologies, influencing investment decisions and policy frameworks.",
+          "title": "Tech Stock Sell-Off Drags Markets Down as Anthropic Shares Slide",
+          "body": "A significant sell-off in tech stocks, driven by concerns over AI-related risks, has impacted global markets. Anthropic, a major AI company, saw its shares drop on the second day of trading, reflecting broader market concerns about the future of AI and its economic implications. This event highlights the growing influence of AI in the financial sector and the potential for market volatility.",
+          "whyItMatters": "The tech stock sell-off underscores the impact of AI on financial markets and the need for regulatory oversight in emerging technologies.",
           "sources": [
             {
               "name": "BBC Business",
@@ -115,28 +119,24 @@
             },
             {
               "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news"
+              "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
             }
           ]
         },
         {
-          "title": "Global conflict and child attacks",
-          "body": "A report highlights that one-third of all child attacks worldwide were recorded in Palestine. The conflict has led to increased violence and instability, affecting both civilians and military operations. The situation reflects broader geopolitical tensions and the ongoing challenges of conflict resolution in the Middle East.",
-          "whyItMatters": "The rise in child attacks underscores the human cost of conflict and the need for international efforts to protect vulnerable populations, highlighting the importance of humanitarian concerns in global policy discussions.",
+          "title": "US Judge Allows Trump’s $15bn Lawsuit Against New York Times",
+          "body": "A U.S. judge has allowed Trump’s $15 billion lawsuit against the New York Times, citing allegations of defamation and breach of contract. The case highlights the ongoing legal battles over media and political accountability, and its potential impact on media freedom and legal precedents in the United States.",
+          "whyItMatters": "The legal case reflects the ongoing tensions between political figures and the media, and the role of law in shaping public discourse.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/one-third-of-attacks-on-children-worldwide-recorded-in-palestine?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/11/20/kansas-hosts-become-guests-as-algeria-repays-world-cup-welcome?traffic_source=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/us-news/2026/nov/19/trump-lawsuit-new-york-times"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-20T17:02:21.133Z"
+      "updatedAt": "2026-11-21T01:37:15.490Z"
     }
   }
 }
