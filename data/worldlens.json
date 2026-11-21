@@ -1,57 +1,65 @@
 {
-  "generatedAt": "2026-11-21T12:49:57.874Z",
+  "generatedAt": "2026-11-21T21:44:01.667Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of environmental, political, and social developments, including climate-related risks, international conflicts, and cultural shifts.",
+      "summary": "Today's lens covers a mix of geopolitical developments, humanitarian issues, and global crises, highlighting the complexity of international relations and the impact on various regions.",
       "stories": [
         {
-          "title": "Floods in Florida force residents to use kayaks and rafts",
-          "body": "In Florida, severe flooding has forced residents to use kayaks and rafts to evacuate affected areas. The situation highlights the increasing impact of climate change on coastal regions, with rising sea levels and extreme weather events becoming more frequent. The event underscores the vulnerability of low-lying communities and the need for improved disaster preparedness.",
-          "whyItMatters": "Climate change is exacerbating extreme weather events, making infrastructure and emergency response planning critical for vulnerable regions.",
+          "title": "Bahrain claims Iranian attack causes industrial fire",
+          "body": "Bahrain has claimed that an Iranian attack caused a fire at an industrial facility in the country. The incident has raised concerns about regional tensions and the potential for further conflict. The attack is seen as a response to broader geopolitical dynamics in the Middle East.",
+          "whyItMatters": "The incident highlights the ongoing tensions between regional powers and the potential for escalation in the Middle East.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/florida-residents-turn-to-kayaks-and-rafts-as-floods-swamp-streets?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Russia hits Poland with missiles, NATO readiness uncertain",
-          "body": "Russian missiles struck Poland, raising concerns about regional stability. While the exact target and impact are unclear, the incident highlights the ongoing tensions in the Euro-Atlantic security landscape. NATO is assessing its readiness to respond to such threats, reflecting broader concerns about regional security and the potential for escalation.",
-          "whyItMatters": "Military tensions between Russia and its Western allies underscore the complex dynamics of modern geopolitics and the need for diplomatic engagement to prevent conflict.",
+          "title": "Impunity fuels settler violence in the West Bank",
+          "body": "In the occupied West Bank, impunity has been cited as a key factor in the surge of settler violence. The lack of accountability for violent acts has led to increased tensions and a rise in confrontations between settlers and Palestinians.",
+          "whyItMatters": "The issue underscores the broader challenges of peace and security in the region, particularly in the context of ongoing conflicts and human rights concerns.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Mexico captures FBI-wanted cartel boss in military raid",
-          "body": "Mexico successfully captured an FBI-wanted cartel boss in a military operation. This development marks a significant victory in the fight against transnational crime, demonstrating the effectiveness of law enforcement in combating organized criminal networks. The operation highlights the ongoing challenges of global criminal enterprises and the importance of international cooperation.",
-          "whyItMatters": "Combating transnational crime requires coordinated efforts between nations, emphasizing the need for shared strategies and resources in the fight against organized crime.",
+          "title": "Mexican drug lord arrested in FBI's 10 most wanted list",
+          "body": "A Mexican drug lord, allegedly associated with the feared 'El Chapo' cartel, was arrested in a special forces raid. The arrest is seen as a significant development in the fight against organized crime and drug trafficking in the region.",
+          "whyItMatters": "The arrest highlights the ongoing efforts to combat drug trafficking and criminal organizations, which have long been a concern for law enforcement agencies worldwide.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss"
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-21T12:49:57.874Z"
+      "updatedAt": "2026-11-21T21:44:01.667Z"
     },
     "science": {
-      "kicker": "Climate & Space",
-      "summary": "Today's lens covers climate policy, space exploration, and scientific breakthroughs.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens covers climate talks, AI in science, space exploration, and scientific breakthroughs.",
       "stories": [
         {
-          "title": "COP26 deadlock over fossil fuel fight",
-          "body": "The BBC Science reports a fight over fossil fuels has left the COP26 climate talks in deadlock. Countries are divided on how to address climate change, with some calling for stricter emissions reductions and others arguing for economic growth. The debate highlights the tension between environmental responsibility and economic development.",
-          "whyItMatters": "The conflict over fossil fuel use underscores the global challenge of balancing climate action with economic stability.",
+          "title": "Climate Talks Stall as Fossil Fuel Fight Continues",
+          "body": "The BBC reports that fossil fuel interests have prevented progress at the COP31 climate talks, highlighting the ongoing conflict between environmental goals and energy production. The conflict reflects broader geopolitical tensions and the challenge of balancing economic interests with climate commitments.",
+          "whyItMatters": "The stalled climate talks underscore the complexity of global environmental efforts and the need for compromise in international agreements.",
           "sources": [
             {
               "name": "BBC Science",
@@ -59,92 +67,88 @@
             },
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Voyager 1 is 1 light day from Earth",
-          "body": "NASA's Voyager 1 spacecraft is now 1 light day from Earth, setting a cosmic record. The distance is so vast that light takes 24 hours to reach it, highlighting the immense scale of space travel and the challenges of interstellar communication.",
-          "whyItMatters": "This milestone demonstrates the technological and scientific achievements of space exploration and the vastness of the universe.",
+          "title": "AI in Science: Impact on Careers and Research",
+          "body": "A Nature article discusses how AI is reshaping science careers, offering new tools for research and analysis. While AI enhances efficiency, it also raises concerns about job displacement and the need for new skills in the scientific community.",
+          "whyItMatters": "The integration of AI into scientific research is transforming the field, requiring both adaptation and education for future generations.",
           "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm"
-            },
             {
               "name": "Nature",
-              "url": "https://www.nature.com/articles/d41586-026-03806-5"
+              "url": "https://www.nature.com/articles/d41586-026-03680-1"
             }
           ]
         },
         {
-          "title": "X-ray telescope opens its eyes",
-          "body": "After 8 years in space, the groundbreaking X-ray telescope finally opens its eyes, marking a significant step in astrophysics research. The telescope is designed to study high-energy cosmic events, such as black holes and neutron stars, providing new insights into the universe's most extreme environments.",
-          "whyItMatters": "This advancement could revolutionize our understanding of the universe and the processes that shape it.",
+          "title": "Spacecraft Reaches Mercury for First Time",
+          "body": "The Guardian reports that the BepiColombo spacecraft has successfully reached Mercury after an eight-year journey. This marks a significant milestone in space exploration, demonstrating the technological capabilities of modern space missions.",
+          "whyItMatters": "This achievement highlights the progress in space exploration and the potential for future missions to further our understanding of the solar system.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm"
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03803-8"
             },
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm"
+              "name": "The Guardian Science",
+              "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-21T12:49:57.874Z"
+      "updatedAt": "2026-11-21T21:44:01.667Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, including climate action, tech stock performance, and geopolitical tensions.",
+      "summary": "Today's lens covers economic developments, including a debt-laden cloud computing company's outlook on the AI boom, a UK-EU deal, and a US ban on AI data centers.",
       "stories": [
         {
-          "title": "Florida residents turn to kayaks and rafts as floods swamp streets",
-          "body": "In Florida, severe flooding has forced residents to use kayaks and rafts to evacuate affected areas. The situation highlights the growing impact of climate change on infrastructure and daily life in the region.",
-          "whyItMatters": "Climate change is increasingly affecting natural disaster preparedness and community resilience.",
+          "title": "Bahrain's industrial fire linked to Iranian attack",
+          "body": "Bahrain has reported a fire at an industrial facility, attributed to an Iranian attack. The incident highlights ongoing tensions in the region, with Al Jazeera reporting the event. The fire may have caused significant damage, raising concerns about regional stability and security.",
+          "whyItMatters": "The incident underscores the potential for conflict in the region, affecting both local and international dynamics.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/florida-residents-turn-to-kayaks-and-rafts-as-floods-swamp-streets?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/21/why-is-gta-vi-so-expensive-to-play?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Grand Theft Auto VI sales hit $3.8bn on first day of release",
-          "body": "Grand Theft Auto VI broke sales records on its first day, with the game selling over $3.8 billion. The success reflects the enduring popularity of the series and the competitive nature of the gaming industry.",
-          "whyItMatters": "The gaming industry continues to grow, driven by consumer demand and technological advancements.",
+          "title": "Tech stock sell-off impacts AI markets",
+          "body": "Global stock markets faced a sell-off as AI-related stocks dropped, with Anthropic's shares sliding amid concerns over the AI boom. The sell-off reflects broader market uncertainty and the challenges of scaling AI technologies. The situation highlights the volatility of the AI sector and its impact on financial markets.",
+          "whyItMatters": "The AI sector's performance affects global investment trends and technological innovation, influencing both business and economic strategies.",
           "sources": [
             {
               "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says"
+              "url": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom"
             },
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
             }
           ]
         },
         {
-          "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
-          "body": "Russian missiles struck Poland, raising concerns about regional security. The incident could prompt NATO to reassess its defense strategies and response protocols in the wake of ongoing geopolitical tensions.",
-          "whyItMatters": "Geopolitical tensions and military readiness remain critical for global security and stability.",
+          "title": "UK-EU deal on cost-cutting and potential price reductions",
+          "body": "The UK and EU have agreed to a cost-cutting deal, with the UK exploring closer ties with the EU. The deal aims to address concerns over trade and economic policies. However, some critics argue that the deal may not lead to lower prices, as noted by Faisal Islam. The agreement reflects ongoing negotiations on trade and economic cooperation.",
+          "whyItMatters": "The UK-EU deal highlights the complexities of trade agreements and their potential impact on consumer prices and economic policies.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-21T12:49:57.874Z"
+      "updatedAt": "2026-11-21T21:44:01.667Z"
     }
   }
 }
