@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-11-21T21:44:01.667Z",
+  "generatedAt": "2026-11-22T07:07:09.725Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of geopolitical developments, humanitarian issues, and global crises, highlighting the complexity of international relations and the impact on various regions.",
+      "kicker": "Geopolitics",
+      "summary": "Today's lens covers a mix of international developments, including climate talks, regional conflicts, and cybersecurity concerns, highlighting the complex interplay of global events.",
       "stories": [
         {
-          "title": "Bahrain claims Iranian attack causes industrial fire",
-          "body": "Bahrain has claimed that an Iranian attack caused a fire at an industrial facility in the country. The incident has raised concerns about regional tensions and the potential for further conflict. The attack is seen as a response to broader geopolitical dynamics in the Middle East.",
-          "whyItMatters": "The incident highlights the ongoing tensions between regional powers and the potential for escalation in the Middle East.",
+          "title": "Climate Summit Deadlock",
+          "body": "The BBC reports a new draft deal aims to avert collapse of climate talks at COP31, highlighting the ongoing impasse over fossil fuel use. The agreement seeks to balance environmental goals with economic realities, reflecting the global challenge of climate action.",
+          "whyItMatters": "The success of climate negotiations is critical for preventing environmental catastrophe and shaping international policy.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Impunity fuels settler violence in the West Bank",
-          "body": "In the occupied West Bank, impunity has been cited as a key factor in the surge of settler violence. The lack of accountability for violent acts has led to increased tensions and a rise in confrontations between settlers and Palestinians.",
-          "whyItMatters": "The issue underscores the broader challenges of peace and security in the region, particularly in the context of ongoing conflicts and human rights concerns.",
+          "title": "Kenya's Internet Metering Bill Sparks Concerns",
+          "body": "Al Jazeera reports Kenya's internet metering bill raises concerns about privacy and affordability, as the government seeks to regulate internet usage. The bill has sparked debate over digital rights and access in the country.",
+          "whyItMatters": "The implementation of such policies can impact digital equity and user freedoms, influencing tech development and public trust.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/22/kenyas-internet-metering-bill-raises-privacy-and-affordability-concerns?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Mexican drug lord arrested in FBI's 10 most wanted list",
-          "body": "A Mexican drug lord, allegedly associated with the feared 'El Chapo' cartel, was arrested in a special forces raid. The arrest is seen as a significant development in the fight against organized crime and drug trafficking in the region.",
-          "whyItMatters": "The arrest highlights the ongoing efforts to combat drug trafficking and criminal organizations, which have long been a concern for law enforcement agencies worldwide.",
+          "title": "Mexican Cartel Arrests and Cybersecurity Threats",
+          "body": "Both BBC World and The Guardian report on recent developments: a Mexican drug lord is arrested in a shoot-out, and the FBI is investigating a potential hack of its criminal database. These events highlight the ongoing struggle between law enforcement and organized crime, as well as cybersecurity challenges in government operations.",
+          "whyItMatters": "These incidents underscore the complexities of combating criminal networks and protecting critical infrastructure in the digital age.",
           "sources": [
             {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "BBC World",
@@ -50,31 +50,31 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-21T21:44:01.667Z"
+      "updatedAt": "2026-11-22T07:07:09.725Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers climate talks, AI in science, space exploration, and scientific breakthroughs.",
+      "kicker": "Climate & Tech",
+      "summary": "Today's lens covers climate negotiations, AI ethics, and space exploration, highlighting ongoing scientific advancements and global discussions.",
       "stories": [
         {
-          "title": "Climate Talks Stall as Fossil Fuel Fight Continues",
-          "body": "The BBC reports that fossil fuel interests have prevented progress at the COP31 climate talks, highlighting the ongoing conflict between environmental goals and energy production. The conflict reflects broader geopolitical tensions and the challenge of balancing economic interests with climate commitments.",
-          "whyItMatters": "The stalled climate talks underscore the complexity of global environmental efforts and the need for compromise in international agreements.",
+          "title": "COP31 Climate Talks on Hold",
+          "body": "The BBC Science reports that negotiations at the COP31 climate summit are stalled due to disagreements over fossil fuel reduction targets. The conflict highlights the tension between developed and developing nations on climate action, with some countries pushing for more aggressive emission cuts while others argue for economic stability. The situation underscores the complexity of global climate governance.",
+          "whyItMatters": "The stalled negotiations could shape future climate agreements and influence international cooperation on environmental policies.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "AI in Science: Impact on Careers and Research",
-          "body": "A Nature article discusses how AI is reshaping science careers, offering new tools for research and analysis. While AI enhances efficiency, it also raises concerns about job displacement and the need for new skills in the scientific community.",
-          "whyItMatters": "The integration of AI into scientific research is transforming the field, requiring both adaptation and education for future generations.",
+          "title": "AI Ethics in Science",
+          "body": "A Nature article discusses how AI is reshaping science careers, with both opportunities and challenges. Researchers are increasingly using AI for data analysis and discovery, but concerns about bias and job displacement persist. The article highlights the need for ethical frameworks to guide AI's role in scientific progress.",
+          "whyItMatters": "AI's growing influence in science raises important questions about ethics, job markets, and the future of research careers.",
           "sources": [
             {
               "name": "Nature",
@@ -83,9 +83,9 @@
           ]
         },
         {
-          "title": "Spacecraft Reaches Mercury for First Time",
-          "body": "The Guardian reports that the BepiColombo spacecraft has successfully reached Mercury after an eight-year journey. This marks a significant milestone in space exploration, demonstrating the technological capabilities of modern space missions.",
-          "whyItMatters": "This achievement highlights the progress in space exploration and the potential for future missions to further our understanding of the solar system.",
+          "title": "Space Exploration Advances",
+          "body": "The BBC Science reports that the BepiColombo spacecraft has successfully reached Mercury after an eight-year journey. This marks a significant milestone in space exploration, with scientists excited about the potential for new discoveries. The mission is expected to provide valuable data on Mercury's surface and environment.",
+          "whyItMatters": "Advances in space exploration can lead to new scientific insights and technological innovations, shaping future space missions and research.",
           "sources": [
             {
               "name": "Nature",
@@ -99,56 +99,56 @@
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-21T21:44:01.667Z"
+      "updatedAt": "2026-11-22T07:07:09.725Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including a debt-laden cloud computing company's outlook on the AI boom, a UK-EU deal, and a US ban on AI data centers.",
+      "summary": "Today's lens covers economic developments, including climate talks, tech stock performance, and political debates around AI and trade.",
       "stories": [
         {
-          "title": "Bahrain's industrial fire linked to Iranian attack",
-          "body": "Bahrain has reported a fire at an industrial facility, attributed to an Iranian attack. The incident highlights ongoing tensions in the region, with Al Jazeera reporting the event. The fire may have caused significant damage, raising concerns about regional stability and security.",
-          "whyItMatters": "The incident underscores the potential for conflict in the region, affecting both local and international dynamics.",
+          "title": "Al Jazeera reports on Sandpapergate in Australian cricket",
+          "body": "Al Jazeera reports on a controversy involving Australian cricket, where allegations of misconduct and corruption were raised. The incident highlights the complexities of sports governance and the impact of public scrutiny on athletes and institutions.",
+          "whyItMatters": "The controversy underscores the importance of transparency and accountability in sports organizations, which can affect public trust and international relations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss"
+              "url": "https://www.aljazeera.com/opinions/2026/11/22/what-sandpapergate-reveals-about-australian-cricket?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Tech stock sell-off impacts AI markets",
-          "body": "Global stock markets faced a sell-off as AI-related stocks dropped, with Anthropic's shares sliding amid concerns over the AI boom. The sell-off reflects broader market uncertainty and the challenges of scaling AI technologies. The situation highlights the volatility of the AI sector and its impact on financial markets.",
-          "whyItMatters": "The AI sector's performance affects global investment trends and technological innovation, influencing both business and economic strategies.",
+          "title": "Kenya's internet metering bill raises privacy and affordability concerns",
+          "body": "Kenya's government introduced an internet metering bill, which aims to regulate internet usage and charging. The bill has sparked debates about privacy, affordability, and the potential impact on low-income households.",
+          "whyItMatters": "The bill highlights the tension between technological advancement and user rights, emphasizing the need for balanced policies that protect consumers while promoting digital infrastructure.",
           "sources": [
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/22/kenyas-internet-metering-bill-raises-privacy-and-affordability-concerns?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+          "body": "Global stock markets faced a downturn as tech stocks declined due to an AI sell-off. Anthropic, a major AI company, saw its shares drop, reflecting broader concerns about the future of AI and its impact on the financial sector.",
+          "whyItMatters": "The market reaction underscores the volatility of AI-driven industries and the need for regulatory frameworks to manage risks associated with emerging technologies.",
+          "sources": [
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "The Guardian Business",
               "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
             }
           ]
-        },
-        {
-          "title": "UK-EU deal on cost-cutting and potential price reductions",
-          "body": "The UK and EU have agreed to a cost-cutting deal, with the UK exploring closer ties with the EU. The deal aims to address concerns over trade and economic policies. However, some critics argue that the deal may not lead to lower prices, as noted by Faisal Islam. The agreement reflects ongoing negotiations on trade and economic cooperation.",
-          "whyItMatters": "The UK-EU deal highlights the complexities of trade agreements and their potential impact on consumer prices and economic policies.",
-          "sources": [
-            {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-21T21:44:01.667Z"
+      "updatedAt": "2026-11-22T07:07:09.725Z"
     }
   }
 }
