@@ -1,154 +1,154 @@
 {
-  "generatedAt": "2026-11-22T16:27:27.072Z",
+  "generatedAt": "2026-11-23T00:59:04.056Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of geopolitical events, humanitarian crises, and international news, highlighting both regional and global developments.",
+      "kicker": "Geopolitics",
+      "summary": "Today's lens covers a mix of geopolitical developments, climate negotiations, regional conflicts, and global crises, highlighting tensions and uncertainties in international relations.",
       "stories": [
         {
-          "title": "Canada's PM Appears at Trump Impersonator Event",
-          "body": "Canadian Prime Minister Justin Trudeau attended a press dinner where an impersonator of Donald Trump spoke. The event, hosted by a British media outlet, drew attention to the political climate in Canada and the global perception of political figures.",
-          "whyItMatters": "The event highlights the intersection of politics and public perception, particularly in a region with complex political dynamics.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "Explosion on Russian Ship in Libya",
-          "body": "An explosion occurred on a Russian ship in Libya, attributed to a suspected drone attack. The incident raised concerns about maritime security and the impact of drone warfare in conflict zones.",
-          "whyItMatters": "The event underscores the evolving nature of conflict and the role of technology in modern warfare.",
+          "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+          "body": "The United Nations Climate Change Conference (COP31) failed to produce a major climate agreement, with participants highlighting deep divisions over climate goals and funding. The conference saw continued deadlock as nations struggled to reach consensus on emission reduction targets and financial support for developing countries.",
+          "whyItMatters": "The failure to produce a binding climate agreement underscores the challenges of global cooperation on environmental issues, with implications for future climate policy and international relations.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Ethical AI Future in Focus",
-          "body": "A discussion on building a more ethical AI future was held, addressing the potential risks and benefits of artificial intelligence. The event emphasized the need for global cooperation to ensure AI development aligns with human values and rights.",
-          "whyItMatters": "The debate on AI ethics highlights the importance of responsible innovation and the need for international frameworks to guide technological progress.",
+          "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+          "body": "The World Health Organization (WHO) chief called for peace in the Democratic Republic of Congo (DRC) amid heavy fighting in an Ebola outbreak. The region has been plagued by violence and instability, with the WHO emphasizing the need for coordinated efforts to control the virus and address underlying conflicts.",
+          "whyItMatters": "The ongoing conflict in the DRC highlights the intersection of public health crises and geopolitical instability, underscoring the importance of addressing both humanitarian and security challenges.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "South Korea’s stock market tumbles as AI bubble fears mount",
+          "body": "South Korea’s stock market experienced a significant drop as fears about the AI bubble intensified. Concerns over overinvestment in artificial intelligence and its potential economic impact led to a decline in investor confidence and a sharp fall in stock prices.",
+          "whyItMatters": "The stock market reaction to AI-related fears reflects broader concerns about technological innovation and its economic implications, highlighting the role of technology in shaping future economic landscapes.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss"
+            },
+            {
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-22T16:27:27.072Z"
+      "updatedAt": "2026-11-23T00:59:04.056Z"
     },
     "science": {
-      "kicker": "Space & Science",
-      "summary": "Today's lens covers space exploration, climate talks, and scientific breakthroughs.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens covers climate negotiations, astrophysics discoveries, and medical advancements, highlighting both scientific breakthroughs and ongoing global challenges.",
       "stories": [
         {
-          "title": "Mercury's first-ever orbiting mission",
-          "body": "The BepiColombo spacecraft, after an eight-year journey, successfully entered Mercury's orbit. This marks the first mission to reach the planet and provides valuable data for planetary science research.",
-          "whyItMatters": "This mission represents a significant milestone in space exploration and could lead to new insights into planetary formation and solar system dynamics.",
+          "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+          "body": "The United Nations Climate Change Conference (COP31) failed to produce a major climate agreement as nations struggled to reconcile differing priorities. The conference saw intense debate over emissions targets and financial support for developing countries, with no consensus reached. The failure to reach a deal highlights the persistent challenges in global climate governance.",
+          "whyItMatters": "The lack of a binding climate agreement underscores the difficulty of achieving consensus on environmental issues, which is critical for future climate action.",
           "sources": [
             {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/d41586-026-03803-8"
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
             },
-            {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo"
-            }
-          ]
-        },
-        {
-          "title": "Autonomous weapons regulation faces challenges",
-          "body": "The Red Cross warns that it may be too late to regulate the use of autonomous weapons, highlighting the urgent need for international cooperation and ethical guidelines in AI and robotics.",
-          "whyItMatters": "This issue underscores the growing complexity of global technology governance and the importance of addressing ethical concerns in emerging technologies.",
-          "sources": [
-            {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations"
-            },
-            {
-              "name": "The Guardian Science",
-              "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse"
-            }
-          ]
-        },
-        {
-          "title": "Climate talks at COP31 remain stalled",
-          "body": "New draft deals aim to avert a collapse in climate talks at COP31, but progress is slow due to disagreements over fossil fuel reduction targets and climate resilience strategies.",
-          "whyItMatters": "The outcome of these talks will have a major impact on global climate policy and efforts to combat climate change.",
-          "sources": [
             {
               "name": "BBC Science",
               "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "A mysterious gap hints at black holes born from stars that never exploded",
+          "body": "A recent study suggests that some black holes may have formed from stars that never exploded as expected, challenging existing theories about the life cycle of massive stars. The discovery adds to the ongoing debate about the formation and evolution of black holes in the universe.",
+          "whyItMatters": "This finding could reshape our understanding of stellar evolution and black hole formation, providing new insights into the universe's most enigmatic objects.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261121221126.htm"
             },
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm"
+            }
+          ]
+        },
+        {
+          "title": "DNA’s secret sunscreen may have helped life survive on early Earth",
+          "body": "New research suggests that DNA may have contained a natural sunscreen, which could have protected early life forms from harmful UV radiation. This discovery offers a potential explanation for how life on Earth survived in the early days of its formation.",
+          "whyItMatters": "Understanding how life adapted to early Earth's harsh conditions could provide valuable insights into the origins of life and the evolution of biological systems.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261121221128.htm"
             },
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-22T16:27:27.072Z"
+      "updatedAt": "2026-11-23T00:59:04.056Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of economic developments, political events, and technological trends impacting global markets and society.",
+      "summary": "Today's lens covers economic developments, including energy bills, AI-related concerns, and geopolitical tensions.",
       "stories": [
         {
-          "title": "Canada's PM appears next to Trump impersonator at press dinner",
-          "body": "Canadian Prime Minister Justin Trudeau attended a press dinner where he appeared next to an impersonator of Donald Trump. The event took place in a context of rising tensions between Canada and the United States, with the U.S. government facing criticism over its handling of the pandemic and foreign policy. The appearance was widely viewed as a symbolic gesture highlighting the ongoing political climate.",
-          "whyItMatters": "The event reflects the complex and often contentious relationship between Canada and the U.S., emphasizing the role of political symbolism in international affairs.",
+          "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+          "body": "The WHO chief urged peace and cooperation in the Ebola-hit DR Congo region, highlighting the ongoing conflict and its impact on public health. The call for peace comes as the region faces severe humanitarian crises and challenges in controlling the virus.",
+          "whyItMatters": "The WHO's call for peace underscores the importance of international cooperation in addressing global health crises.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "AI ethics and the future of technology",
-          "body": "Al Jazeera published an article exploring the potential for ethical AI development, focusing on the need for transparency, fairness, and accountability in artificial intelligence systems. The discussion also touched on the role of regulatory frameworks and the importance of involving diverse perspectives in AI design. The article emphasized the need for global collaboration to ensure AI technologies benefit society as a whole.",
-          "whyItMatters": "The article highlights the growing importance of ethical AI development and the need for international cooperation to address the challenges and opportunities presented by artificial intelligence.",
+          "title": "South Korea’s stock market tumbles as AI bubble fears mount",
+          "body": "South Korea’s stock market experienced a significant drop as fears about the AI bubble intensified. Investors are concerned about the potential economic impact of rapid AI adoption and the risk of overvaluation in AI-related sectors.",
+          "whyItMatters": "The market reaction highlights the growing economic concerns around AI technology and its implications for global financial stability.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Nigeria's boat capsizes and dozens drown",
-          "body": "A tragic incident occurred in Nigeria where dozens of people drowned after a boat capsized while en route to a funeral. The event occurred in a context of rising concerns about maritime safety and the impact of climate change on coastal regions. The incident raised questions about the effectiveness of safety measures and the vulnerability of communities to natural disasters.",
-          "whyItMatters": "The incident underscores the risks associated with maritime travel and the need for improved safety protocols and disaster preparedness in vulnerable regions.",
+          "title": "Energy bills will soar - here's how you can ease the pain",
+          "body": "The BBC reports that energy bills are expected to rise significantly due to increased energy demand and supply chain disruptions. The article provides practical advice on how individuals can manage the financial burden of higher energy costs.",
+          "whyItMatters": "Understanding the impact of rising energy bills is crucial for students seeking to manage personal finances and understand economic trends.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-22T16:27:27.072Z"
+      "updatedAt": "2026-11-23T00:59:04.056Z"
     }
   }
 }
