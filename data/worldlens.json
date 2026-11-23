@@ -1,154 +1,150 @@
 {
-  "generatedAt": "2026-11-23T00:59:04.056Z",
+  "generatedAt": "2026-11-23T14:57:55.866Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of geopolitical developments, climate negotiations, regional conflicts, and global crises, highlighting tensions and uncertainties in international relations.",
+      "kicker": "Global Brief",
+      "summary": "Today's lens covers a mix of geopolitical developments, including conflicts in Gaza, climate issues, and international relations, with a focus on the impact on global stability and human rights.",
       "stories": [
         {
-          "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-          "body": "The United Nations Climate Change Conference (COP31) failed to produce a major climate agreement, with participants highlighting deep divisions over climate goals and funding. The conference saw continued deadlock as nations struggled to reach consensus on emission reduction targets and financial support for developing countries.",
-          "whyItMatters": "The failure to produce a binding climate agreement underscores the challenges of global cooperation on environmental issues, with implications for future climate policy and international relations.",
+          "title": "Mexican Soldiers Attack in Response to Drug Lord's Arrest",
+          "body": "Mexican soldiers attacked in response to the arrest of a drug lord, raising concerns about security and law enforcement in the region. The incident highlights tensions between state forces and organized crime groups, which could affect regional stability and public safety.",
+          "whyItMatters": "The incident underscores the complex dynamics between law enforcement and criminal organizations, potentially influencing future conflict and security strategies in the region.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-restrictions-cut-off-vital-hearing-aid-supplies-in-gaza?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
-          "body": "The World Health Organization (WHO) chief called for peace in the Democratic Republic of Congo (DRC) amid heavy fighting in an Ebola outbreak. The region has been plagued by violence and instability, with the WHO emphasizing the need for coordinated efforts to control the virus and address underlying conflicts.",
-          "whyItMatters": "The ongoing conflict in the DRC highlights the intersection of public health crises and geopolitical instability, underscoring the importance of addressing both humanitarian and security challenges.",
+          "title": "Ukraine Uses Naval Drones to Strike Russian Ships in Libya",
+          "body": "Ukraine confirmed it used naval drones to strike two Russian warships off Libya, marking a significant escalation in the ongoing conflict. This action demonstrates the growing use of advanced military technology and the strategic importance of maritime operations in modern warfare.",
+          "whyItMatters": "The use of drones by Ukraine highlights the evolving nature of warfare and the increasing role of technology in modern conflict, which could influence future military strategies and international relations.",
           "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "title": "South Korea’s stock market tumbles as AI bubble fears mount",
-          "body": "South Korea’s stock market experienced a significant drop as fears about the AI bubble intensified. Concerns over overinvestment in artificial intelligence and its potential economic impact led to a decline in investor confidence and a sharp fall in stock prices.",
-          "whyItMatters": "The stock market reaction to AI-related fears reflects broader concerns about technological innovation and its economic implications, highlighting the role of technology in shaping future economic landscapes.",
-          "sources": [
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss"
-            },
             {
               "name": "The Guardian World",
-              "url": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba"
+              "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Russian Warship Sinks in Benghazi After Suspected Drone Attack",
+          "body": "A Russian warship sank in Benghazi after a suspected drone attack, raising concerns about the safety of military vessels and the potential for accidental conflicts. The incident highlights the risks associated with maritime operations and the importance of vigilance in preventing accidents.",
+          "whyItMatters": "The sinking of a Russian warship underscores the risks of maritime conflicts and the need for improved safety protocols to prevent such incidents, which could affect regional stability and international cooperation.",
+          "sources": [
+            {
+              "name": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-23T00:59:04.056Z"
+      "updatedAt": "2026-11-23T14:57:55.866Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers climate negotiations, astrophysics discoveries, and medical advancements, highlighting both scientific breakthroughs and ongoing global challenges.",
+      "summary": "Today's lens covers groundbreaking scientific discoveries, climate talks, and ethical debates in the field of artificial intelligence and biology.",
       "stories": [
         {
-          "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-          "body": "The United Nations Climate Change Conference (COP31) failed to produce a major climate agreement as nations struggled to reconcile differing priorities. The conference saw intense debate over emissions targets and financial support for developing countries, with no consensus reached. The failure to reach a deal highlights the persistent challenges in global climate governance.",
-          "whyItMatters": "The lack of a binding climate agreement underscores the difficulty of achieving consensus on environmental issues, which is critical for future climate action.",
+          "title": "Galactic Shock Wave Could Rewrite the Map of the Milky Way",
+          "body": "A galactic shock wave, detected by astronomers, may be reshaping the structure of the Milky Way. The event, observed in 2026, is believed to be a result of a nearby galaxy's collision with our own, which could alter the distribution of stars and gas in the region. This discovery could impact our understanding of galactic evolution and the formation of new stars.",
+          "whyItMatters": "This event may provide new insights into the dynamic nature of galaxies and the processes that shape them.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261122060329.htm"
             },
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm"
             }
           ]
         },
         {
-          "title": "A mysterious gap hints at black holes born from stars that never exploded",
-          "body": "A recent study suggests that some black holes may have formed from stars that never exploded as expected, challenging existing theories about the life cycle of massive stars. The discovery adds to the ongoing debate about the formation and evolution of black holes in the universe.",
-          "whyItMatters": "This finding could reshape our understanding of stellar evolution and black hole formation, providing new insights into the universe's most enigmatic objects.",
+          "title": "Two Monster Black Holes from the Dawn of Time Defy Explanation",
+          "body": "Scientists have identified two massive black holes from the early universe, which defy current theoretical models. These black holes, formed in the first few seconds after the Big Bang, may have played a crucial role in the formation of galaxies. The discovery could challenge existing models of black hole formation and evolution.",
+          "whyItMatters": "This finding may lead to new theories about the early universe and the role of black holes in the formation of the cosmos.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261121221126.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261122060342.htm"
             }
           ]
         },
         {
-          "title": "DNA’s secret sunscreen may have helped life survive on early Earth",
-          "body": "New research suggests that DNA may have contained a natural sunscreen, which could have protected early life forms from harmful UV radiation. This discovery offers a potential explanation for how life on Earth survived in the early days of its formation.",
-          "whyItMatters": "Understanding how life adapted to early Earth's harsh conditions could provide valuable insights into the origins of life and the evolution of biological systems.",
+          "title": "Mysterious New Viruses Reveal a Missing Link in Evolution",
+          "body": "A new study reveals the existence of mysterious viruses that may have played a key role in the evolution of life on Earth. These viruses, found in various ecosystems, could have influenced the development of complex life forms by altering genetic material in their hosts. This discovery could reshape our understanding of evolutionary biology.",
+          "whyItMatters": "This finding may provide new perspectives on the role of viruses in the evolution of life and the development of complex organisms.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261121221128.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-23T00:59:04.056Z"
+      "updatedAt": "2026-11-23T14:57:55.866Z"
     },
     "economy": {
-      "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including energy bills, AI-related concerns, and geopolitical tensions.",
+      "kicker": "Economic Brief",
+      "summary": "Today's lens covers stock market fluctuations, corporate leadership changes, and global economic concerns.",
       "stories": [
         {
-          "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
-          "body": "The WHO chief urged peace and cooperation in the Ebola-hit DR Congo region, highlighting the ongoing conflict and its impact on public health. The call for peace comes as the region faces severe humanitarian crises and challenges in controlling the virus.",
-          "whyItMatters": "The WHO's call for peace underscores the importance of international cooperation in addressing global health crises.",
+          "title": "Nvidia shares surge 30% as Jensen Huang’s return as CEO adds more than $900bn to company’s value",
+          "body": "Nvidia shares surged 30% on Monday as Jensen Huang, the founder and CEO, returned to the role following a period of uncertainty. The move was seen as a significant boost to the company's value, with analysts noting that Huang's leadership experience could drive innovation and growth. The stock market reaction was mixed, with some investors viewing the return as a positive development, while others remained cautious about the broader economic climate.",
+          "whyItMatters": "The return of a key leader can have a significant impact on a company's performance and investor confidence.",
           "sources": [
             {
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates"
+            },
+            {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss"
+              "url": "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "South Korea’s stock market tumbles as AI bubble fears mount",
-          "body": "South Korea’s stock market experienced a significant drop as fears about the AI bubble intensified. Investors are concerned about the potential economic impact of rapid AI adoption and the risk of overvaluation in AI-related sectors.",
-          "whyItMatters": "The market reaction highlights the growing economic concerns around AI technology and its implications for global financial stability.",
+          "title": "Wild stock market swings: will I lose money, and is there anything I can do?",
+          "body": "The stock market experienced significant volatility on Monday, with large swings in various sectors. Investors were advised to monitor market trends and consider diversification to manage risk. The market's unpredictability highlighted the importance of staying informed and adapting to changing conditions. While the exact impact on individual investors was unclear, the broader market movement underscored the need for careful decision-making in a volatile environment.",
+          "whyItMatters": "Market volatility can pose challenges for individual investors, emphasizing the importance of informed decision-making and risk management.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss"
+              "name": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments"
             }
           ]
         },
         {
-          "title": "Energy bills will soar - here's how you can ease the pain",
-          "body": "The BBC reports that energy bills are expected to rise significantly due to increased energy demand and supply chain disruptions. The article provides practical advice on how individuals can manage the financial burden of higher energy costs.",
-          "whyItMatters": "Understanding the impact of rising energy bills is crucial for students seeking to manage personal finances and understand economic trends.",
+          "title": "Nvidia board reinstates Jensen Huang as CEO",
+          "body": "The Nvidia board reinstated Jensen Huang as CEO following a period of leadership uncertainty. This decision was seen as a strategic move to leverage Huang's experience and expertise, particularly in the rapidly evolving tech sector. The reinstatement was accompanied by a renewed focus on innovation and long-term growth strategies. The board's decision reflected a commitment to maintaining leadership stability and driving technological advancement.",
+          "whyItMatters": "Leadership stability can influence a company's strategic direction and long-term success, making this decision significant for investors and stakeholders.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-23T00:59:04.056Z"
+      "updatedAt": "2026-11-23T14:57:55.866Z"
     }
   }
 }
