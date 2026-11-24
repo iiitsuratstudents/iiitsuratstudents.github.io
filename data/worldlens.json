@@ -1,73 +1,84 @@
 {
-  "generatedAt": "2026-11-24T02:58:26.187Z",
+  "generatedAt": "2026-11-24T14:59:59.982Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers developments in international relations, technology, and cultural events, highlighting key geopolitical and technological shifts.",
+      "summary": "Today's lens covers a mix of international events, including sports, military actions, and political developments, highlighting the complex interplay of global dynamics.",
       "stories": [
         {
-          "title": "Qatar PM seeks to revive US-Iran talks",
-          "body": "Qatar's Prime Minister, Sheikh Mohammed bin Jassim al-Ahmad, has expressed interest in restarting discussions with Iran on regional security and cooperation, following a meeting with U.S. Senator Marco Rubio. The move comes as tensions between the U.S. and Iran persist, with both sides seeking to strengthen their bilateral ties.",
-          "whyItMatters": "The potential revival of U.S.-Iran dialogue could impact regional stability and nuclear non-proliferation efforts.",
+          "title": "Senegal reinstated as 2025 Africa Cup of Nations winners over Morocco",
+          "body": "Senegal has been reinstated as the 2025 Africa Cup of Nations winners following a controversial decision by Morocco. The reinstatement comes after a dispute over the tournament's results, which has sparked debates about fairness and sportsmanship in international competitions.",
+          "whyItMatters": "The decision highlights the tension between competitive fairness and the political sensitivities of international sports events.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/11/24/senegal-reinstated-as-2025-africa-cup-of-nations-winners-over-morocco?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news-analysis/2026/11/24/could-russia-ukraine-war-threaten-libyas-fragile-reunification-process?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy",
-          "body": "Nvidia has reinstated its CEO, Jensen Huang, following a controversial affair with an alleged spy. The decision comes as the company faces scrutiny over its handling of sensitive information and its relationship with foreign entities.",
-          "whyItMatters": "The reinstatement of a high-profile executive could affect Nvidia's reputation and its dealings with international partners.",
+          "title": "Israeli air strike kills senior Hamas military official in Gaza",
+          "body": "An Israeli air strike targeted a senior Hamas military official in Gaza, marking a significant escalation in the ongoing conflict. The attack has raised concerns about the effectiveness of military operations and the potential for civilian casualties in the region.",
+          "whyItMatters": "The strike underscores the complex humanitarian and military challenges faced by conflict zones and the impact of aerial operations on local populations.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza?traffic_source=rss"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Israeli minister approves return of Flydubai flights",
-          "body": "Israel's Minister of Transport has approved the return of Flydubai flights, marking a significant step in the country's efforts to revive its aviation sector after the 2014 Gaza war. This decision is seen as a positive development for the local economy and tourism.",
-          "whyItMatters": "The revival of Flydubai flights could boost Israel's tourism and economic recovery in the post-war period.",
+          "title": "NATO chief vows defense against space threat after Russian nuclear satellite reports",
+          "body": "The NATO chief has announced a commitment to strengthening its defense capabilities in response to reports of a Russian nuclear satellite. This development highlights the growing concern over space-based threats and the need for international cooperation in space security.",
+          "whyItMatters": "The statement reflects the evolving nature of global security threats and the importance of addressing space-based risks in the context of modern warfare.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss"
-            },
-            {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-24T02:58:26.187Z"
+      "updatedAt": "2026-11-24T14:59:59.982Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers recent scientific advancements, climate talks, and discoveries in various fields, highlighting both cutting-edge research and ongoing challenges.",
+      "summary": "Today's lens covers scientific discoveries, climate discussions, and technological advancements, highlighting both recent findings and ongoing global challenges.",
       "stories": [
         {
-          "title": "COP31 failure reveals global climate division",
-          "body": "The failure of the 2026 COP31 climate talks exposed deep divisions over fossil fuel use, with nations unable to reach a consensus. The event highlighted the urgent need for global cooperation on climate action, despite differing priorities and political pressures.",
-          "whyItMatters": "The failure of COP31 underscores the challenges of global climate negotiations and the importance of sustained international collaboration.",
+          "title": "Welsh government rules out badger cull due to ecological concerns",
+          "body": "The Welsh government has ruled out a planned badger cull, citing concerns about the impact on local ecosystems and wildlife. The decision reflects a growing emphasis on conservation efforts and the need to balance human and animal welfare.",
+          "whyItMatters": "This decision underscores the importance of ecological balance and the role of government in protecting biodiversity.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cm930yjy97xyo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261123005336.htm"
+            }
+          ]
+        },
+        {
+          "title": "Himalayan disasters highlight the need for cross-border biodiversity conservation",
+          "body": "Recent Himalayan disasters have drawn attention to the urgent need for biodiversity conservation across international borders. The findings emphasize the interconnectedness of ecosystems and the importance of collaborative conservation strategies.",
+          "whyItMatters": "These events highlight the critical role of global cooperation in preserving natural habitats and mitigating climate-related risks.",
+          "sources": [
+            {
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03825-2"
             },
             {
               "name": "BBC Science",
@@ -76,83 +87,76 @@
           ]
         },
         {
-          "title": "Galactic shock wave could reshape Milky Way",
-          "body": "A recent study suggests a powerful shock wave from a distant galaxy may alter the structure of the Milky Way, potentially affecting star formation and galaxy evolution over millions of years. This discovery adds to our understanding of cosmic phenomena and the dynamic nature of the universe.",
-          "whyItMatters": "This finding could provide new insights into the evolution of galaxies and the role of cosmic events in shaping the universe.",
+          "title": "Ancient Roman shipwreck reveals innovative waterproofing techniques",
+          "body": "A 2,200-year-old Roman shipwreck has provided insights into ancient engineering and waterproofing methods. The discovery offers a glimpse into historical technological advancements and their potential modern applications.",
+          "whyItMatters": "This finding illustrates the enduring legacy of ancient innovations and their relevance to contemporary engineering practices.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261122060329.htm"
-            }
-          ]
-        },
-        {
-          "title": "Two monster black holes defy explanation",
-          "body": "Scientists have identified two massive black holes from the early universe that defy current theoretical models, offering clues about the formation of the first galaxies and the early universe's structure. These discoveries may reshape our understanding of cosmic evolution and black hole formation.",
-          "whyItMatters": "These findings could lead to new theories about the early universe and the formation of the first galaxies, advancing our knowledge of cosmology.",
-          "sources": [
+              "url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm"
+            },
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261122060342.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261123005336.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-24T02:58:26.187Z"
+      "updatedAt": "2026-11-24T14:59:59.982Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Three distinct stories from the economic domain, covering political developments, corporate news, and personal finance.",
+      "summary": "Today's lens covers a mix of sports, politics, and business news, highlighting key developments in global affairs and economic trends.",
       "stories": [
         {
-          "title": "Qatar PM seeks to revive US-Iran talks",
-          "body": "Qatar's Prime Minister, Sheikh Mohammed bin Jassim al-Ahmad al-Thani, has expressed interest in restarting discussions with Iran on regional security and trade issues. The meeting with U.S. Representative Marco Rubio marked a potential shift in diplomatic engagement between the Gulf state and the U.S., though the specifics of the talks remain unclear.",
-          "whyItMatters": "This development could influence regional stability and U.S.-Iran relations, particularly in the context of ongoing geopolitical tensions.",
+          "title": "Senegal Reinstated as 2025 Africa Cup of Nations Winners",
+          "body": "Senegal was reinstated as winners of the 2025 Africa Cup of Nations after a controversial decision by the tournament organizers to exclude them in 2024. The decision sparked debate over fairness and transparency in sports governance. This event highlights the ongoing tensions in international sports competitions.",
+          "whyItMatters": "The reinstatement of Senegal underscores the complexities of sports governance and the impact of decisions on national pride and international relations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/11/24/senegal-reinstated-as-2025-africa-cup-of-nations-winners-over-morocco?traffic_source=rss"
             },
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news-analysis/2026/11/24/could-russia-ukraine-war-threaten-libyas-fragile-reunification-process?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Nvidia reinstates CEO Jensen Huang after affair",
-          "body": "Nvidia has reinstated its CEO, Jensen Huang, following a personal affair with an alleged spy. The decision came after the U.S. government added Megaspeed, a firm involved in Nvidia's operations, to its export control list. This marks a significant shift in the company's leadership and its relationship with U.S. authorities.",
-          "whyItMatters": "The reinstatement of Jensen Huang highlights the impact of corporate decisions on U.S. export controls and the broader tech industry's compliance with international regulations.",
+          "title": "Saudi-led Coalition Condemns 'Terrorist Attack' on Tower in Riyadh",
+          "body": "The Saudi-led coalition condemned a terrorist attack on a tower in Riyadh, emphasizing the importance of security and stability in the region. The incident reflects the ongoing challenges faced by the region in maintaining peace and preventing extremism.",
+          "whyItMatters": "The condemnation of the attack highlights the critical role of regional security in maintaining stability and preventing further violence.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news-analysis/2026/11/24/could-russia-ukraine-war-threaten-libyas-fragile-reunification-process?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Nvidia value climbs by almost $1tn and tech stocks rally",
-          "body": "Nvidia's stock price surged by nearly $1 trillion following the return of CEO Jensen Huang to the company. The stock market reacted positively to the news of his return, reflecting confidence in the company's future and its role in the global tech sector.",
-          "whyItMatters": "This event underscores the influence of corporate leadership on stock prices and the broader tech industry, particularly in the context of U.S. economic policy and international trade.",
+          "title": "Russia-Ukraine War Threatens Libya's Reunification Process",
+          "body": "The Russia-Ukraine war has raised concerns about the stability of Libya's reunification efforts. The conflict has disrupted regional dynamics and created new challenges for peace and cooperation in the region.",
+          "whyItMatters": "The potential impact of the war on Libya's reunification process underscores the broader geopolitical implications of regional conflicts.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news-analysis/2026/11/24/could-russia-ukraine-war-threaten-libyas-fragile-reunification-process?traffic_source=rss"
             },
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-24T02:58:26.187Z"
+      "updatedAt": "2026-11-24T14:59:59.982Z"
     }
   }
 }
