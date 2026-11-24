@@ -1,150 +1,158 @@
 {
-  "generatedAt": "2026-11-23T14:57:55.866Z",
+  "generatedAt": "2026-11-24T02:58:26.187Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of geopolitical developments, including conflicts in Gaza, climate issues, and international relations, with a focus on the impact on global stability and human rights.",
+      "kicker": "Geopolitics",
+      "summary": "Today's lens covers developments in international relations, technology, and cultural events, highlighting key geopolitical and technological shifts.",
       "stories": [
         {
-          "title": "Mexican Soldiers Attack in Response to Drug Lord's Arrest",
-          "body": "Mexican soldiers attacked in response to the arrest of a drug lord, raising concerns about security and law enforcement in the region. The incident highlights tensions between state forces and organized crime groups, which could affect regional stability and public safety.",
-          "whyItMatters": "The incident underscores the complex dynamics between law enforcement and criminal organizations, potentially influencing future conflict and security strategies in the region.",
+          "title": "Qatar PM seeks to revive US-Iran talks",
+          "body": "Qatar's Prime Minister, Sheikh Mohammed bin Jassim al-Ahmad, has expressed interest in restarting discussions with Iran on regional security and cooperation, following a meeting with U.S. Senator Marco Rubio. The move comes as tensions between the U.S. and Iran persist, with both sides seeking to strengthen their bilateral ties.",
+          "whyItMatters": "The potential revival of U.S.-Iran dialogue could impact regional stability and nuclear non-proliferation efforts.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-restrictions-cut-off-vital-hearing-aid-supplies-in-gaza?traffic_source=rss"
+              "url": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Ukraine Uses Naval Drones to Strike Russian Ships in Libya",
-          "body": "Ukraine confirmed it used naval drones to strike two Russian warships off Libya, marking a significant escalation in the ongoing conflict. This action demonstrates the growing use of advanced military technology and the strategic importance of maritime operations in modern warfare.",
-          "whyItMatters": "The use of drones by Ukraine highlights the evolving nature of warfare and the increasing role of technology in modern conflict, which could influence future military strategies and international relations.",
+          "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy",
+          "body": "Nvidia has reinstated its CEO, Jensen Huang, following a controversial affair with an alleged spy. The decision comes as the company faces scrutiny over its handling of sensitive information and its relationship with foreign entities.",
+          "whyItMatters": "The reinstatement of a high-profile executive could affect Nvidia's reputation and its dealings with international partners.",
           "sources": [
             {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Russian Warship Sinks in Benghazi After Suspected Drone Attack",
-          "body": "A Russian warship sank in Benghazi after a suspected drone attack, raising concerns about the safety of military vessels and the potential for accidental conflicts. The incident highlights the risks associated with maritime operations and the importance of vigilance in preventing accidents.",
-          "whyItMatters": "The sinking of a Russian warship underscores the risks of maritime conflicts and the need for improved safety protocols to prevent such incidents, which could affect regional stability and international cooperation.",
+          "title": "Israeli minister approves return of Flydubai flights",
+          "body": "Israel's Minister of Transport has approved the return of Flydubai flights, marking a significant step in the country's efforts to revive its aviation sector after the 2014 Gaza war. This decision is seen as a positive development for the local economy and tourism.",
+          "whyItMatters": "The revival of Flydubai flights could boost Israel's tourism and economic recovery in the post-war period.",
           "sources": [
             {
-              "name": "The Guardian World",
-              "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss"
             },
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-23T14:57:55.866Z"
+      "updatedAt": "2026-11-24T02:58:26.187Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers groundbreaking scientific discoveries, climate talks, and ethical debates in the field of artificial intelligence and biology.",
+      "summary": "Today's lens covers recent scientific advancements, climate talks, and discoveries in various fields, highlighting both cutting-edge research and ongoing challenges.",
       "stories": [
         {
-          "title": "Galactic Shock Wave Could Rewrite the Map of the Milky Way",
-          "body": "A galactic shock wave, detected by astronomers, may be reshaping the structure of the Milky Way. The event, observed in 2026, is believed to be a result of a nearby galaxy's collision with our own, which could alter the distribution of stars and gas in the region. This discovery could impact our understanding of galactic evolution and the formation of new stars.",
-          "whyItMatters": "This event may provide new insights into the dynamic nature of galaxies and the processes that shape them.",
+          "title": "COP31 failure reveals global climate division",
+          "body": "The failure of the 2026 COP31 climate talks exposed deep divisions over fossil fuel use, with nations unable to reach a consensus. The event highlighted the urgent need for global cooperation on climate action, despite differing priorities and political pressures.",
+          "whyItMatters": "The failure of COP31 underscores the challenges of global climate negotiations and the importance of sustained international collaboration.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261122060329.htm"
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm"
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Two Monster Black Holes from the Dawn of Time Defy Explanation",
-          "body": "Scientists have identified two massive black holes from the early universe, which defy current theoretical models. These black holes, formed in the first few seconds after the Big Bang, may have played a crucial role in the formation of galaxies. The discovery could challenge existing models of black hole formation and evolution.",
-          "whyItMatters": "This finding may lead to new theories about the early universe and the role of black holes in the formation of the cosmos.",
+          "title": "Galactic shock wave could reshape Milky Way",
+          "body": "A recent study suggests a powerful shock wave from a distant galaxy may alter the structure of the Milky Way, potentially affecting star formation and galaxy evolution over millions of years. This discovery adds to our understanding of cosmic phenomena and the dynamic nature of the universe.",
+          "whyItMatters": "This finding could provide new insights into the evolution of galaxies and the role of cosmic events in shaping the universe.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261122060329.htm"
+            }
+          ]
+        },
+        {
+          "title": "Two monster black holes defy explanation",
+          "body": "Scientists have identified two massive black holes from the early universe that defy current theoretical models, offering clues about the formation of the first galaxies and the early universe's structure. These discoveries may reshape our understanding of cosmic evolution and black hole formation.",
+          "whyItMatters": "These findings could lead to new theories about the early universe and the formation of the first galaxies, advancing our knowledge of cosmology.",
           "sources": [
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/11/261122060342.htm"
             }
           ]
-        },
-        {
-          "title": "Mysterious New Viruses Reveal a Missing Link in Evolution",
-          "body": "A new study reveals the existence of mysterious viruses that may have played a key role in the evolution of life on Earth. These viruses, found in various ecosystems, could have influenced the development of complex life forms by altering genetic material in their hosts. This discovery could reshape our understanding of evolutionary biology.",
-          "whyItMatters": "This finding may provide new perspectives on the role of viruses in the evolution of life and the development of complex organisms.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm"
-            }
-          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-23T14:57:55.866Z"
+      "updatedAt": "2026-11-24T02:58:26.187Z"
     },
     "economy": {
-      "kicker": "Economic Brief",
-      "summary": "Today's lens covers stock market fluctuations, corporate leadership changes, and global economic concerns.",
+      "kicker": "Economic",
+      "summary": "Three distinct stories from the economic domain, covering political developments, corporate news, and personal finance.",
       "stories": [
         {
-          "title": "Nvidia shares surge 30% as Jensen Huang’s return as CEO adds more than $900bn to company’s value",
-          "body": "Nvidia shares surged 30% on Monday as Jensen Huang, the founder and CEO, returned to the role following a period of uncertainty. The move was seen as a significant boost to the company's value, with analysts noting that Huang's leadership experience could drive innovation and growth. The stock market reaction was mixed, with some investors viewing the return as a positive development, while others remained cautious about the broader economic climate.",
-          "whyItMatters": "The return of a key leader can have a significant impact on a company's performance and investor confidence.",
+          "title": "Qatar PM seeks to revive US-Iran talks",
+          "body": "Qatar's Prime Minister, Sheikh Mohammed bin Jassim al-Ahmad al-Thani, has expressed interest in restarting discussions with Iran on regional security and trade issues. The meeting with U.S. Representative Marco Rubio marked a potential shift in diplomatic engagement between the Gulf state and the U.S., though the specifics of the talks remain unclear.",
+          "whyItMatters": "This development could influence regional stability and U.S.-Iran relations, particularly in the context of ongoing geopolitical tensions.",
           "sources": [
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss"
+            },
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Nvidia reinstates CEO Jensen Huang after affair",
+          "body": "Nvidia has reinstated its CEO, Jensen Huang, following a personal affair with an alleged spy. The decision came after the U.S. government added Megaspeed, a firm involved in Nvidia's operations, to its export control list. This marks a significant shift in the company's leadership and its relationship with U.S. authorities.",
+          "whyItMatters": "The reinstatement of Jensen Huang highlights the impact of corporate decisions on U.S. export controls and the broader tech industry's compliance with international regulations.",
+          "sources": [
+            {
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo?traffic_source=rss"
+              "url": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Wild stock market swings: will I lose money, and is there anything I can do?",
-          "body": "The stock market experienced significant volatility on Monday, with large swings in various sectors. Investors were advised to monitor market trends and consider diversification to manage risk. The market's unpredictability highlighted the importance of staying informed and adapting to changing conditions. While the exact impact on individual investors was unclear, the broader market movement underscored the need for careful decision-making in a volatile environment.",
-          "whyItMatters": "Market volatility can pose challenges for individual investors, emphasizing the importance of informed decision-making and risk management.",
+          "title": "Nvidia value climbs by almost $1tn and tech stocks rally",
+          "body": "Nvidia's stock price surged by nearly $1 trillion following the return of CEO Jensen Huang to the company. The stock market reacted positively to the news of his return, reflecting confidence in the company's future and its role in the global tech sector.",
+          "whyItMatters": "This event underscores the influence of corporate leadership on stock prices and the broader tech industry, particularly in the context of U.S. economic policy and international trade.",
           "sources": [
             {
-              "name": "The Guardian Business",
-              "url": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments"
-            }
-          ]
-        },
-        {
-          "title": "Nvidia board reinstates Jensen Huang as CEO",
-          "body": "The Nvidia board reinstated Jensen Huang as CEO following a period of leadership uncertainty. This decision was seen as a strategic move to leverage Huang's experience and expertise, particularly in the rapidly evolving tech sector. The reinstatement was accompanied by a renewed focus on innovation and long-term growth strategies. The board's decision reflected a commitment to maintaining leadership stability and driving technological advancement.",
-          "whyItMatters": "Leadership stability can influence a company's strategic direction and long-term success, making this decision significant for investors and stakeholders.",
-          "sources": [
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss"
+            },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-23T14:57:55.866Z"
+      "updatedAt": "2026-11-24T02:58:26.187Z"
     }
   }
 }
