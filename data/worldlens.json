@@ -1,69 +1,65 @@
 {
-  "generatedAt": "2026-11-24T14:59:59.982Z",
+  "generatedAt": "2026-11-25T00:54:02.011Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Today's lens covers a mix of international events, including sports, military actions, and political developments, highlighting the complex interplay of global dynamics.",
+      "summary": "Three key geopolitical developments: Alaska ends a deal to share voter records, Iran war live with Houthis threatening Saudi ports, and a rebel group retreats in DR Congo. These events highlight ongoing tensions and conflicts in various regions.",
       "stories": [
         {
-          "title": "Senegal reinstated as 2025 Africa Cup of Nations winners over Morocco",
-          "body": "Senegal has been reinstated as the 2025 Africa Cup of Nations winners following a controversial decision by Morocco. The reinstatement comes after a dispute over the tournament's results, which has sparked debates about fairness and sportsmanship in international competitions.",
-          "whyItMatters": "The decision highlights the tension between competitive fairness and the political sensitivities of international sports events.",
+          "title": "Alaska Ends Deal to Share Voter Records",
+          "body": "Alaska has terminated a previous agreement to provide voter records to the U.S. Justice Department. The decision comes amid concerns over data privacy and access, reflecting broader tensions between states and federal authorities.",
+          "whyItMatters": "The termination of this agreement underscores the complexities of data sharing and jurisdictional disputes in the United States.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/11/24/senegal-reinstated-as-2025-africa-cup-of-nations-winners-over-morocco?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news-analysis/2026/11/24/could-russia-ukraine-war-threaten-libyas-fragile-reunification-process?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Israeli air strike kills senior Hamas military official in Gaza",
-          "body": "An Israeli air strike targeted a senior Hamas military official in Gaza, marking a significant escalation in the ongoing conflict. The attack has raised concerns about the effectiveness of military operations and the potential for civilian casualties in the region.",
-          "whyItMatters": "The strike underscores the complex humanitarian and military challenges faced by conflict zones and the impact of aerial operations on local populations.",
+          "title": "Houthis Threaten Saudi Ports Over Coalition Order",
+          "body": "In a live update, the Houthis, a Yemeni rebel group, have threatened to attack Saudi ports following the coalition's Hodeidah order. This escalation highlights the ongoing conflict in the region and the potential for increased military action.",
+          "whyItMatters": "The threat to Saudi ports could impact regional stability and energy supplies, affecting global trade and security.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza?traffic_source=rss"
-            },
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "NATO chief vows defense against space threat after Russian nuclear satellite reports",
-          "body": "The NATO chief has announced a commitment to strengthening its defense capabilities in response to reports of a Russian nuclear satellite. This development highlights the growing concern over space-based threats and the need for international cooperation in space security.",
-          "whyItMatters": "The statement reflects the evolving nature of global security threats and the importance of addressing space-based risks in the context of modern warfare.",
+          "title": "Rebel Group Retreats in DR Congo",
+          "body": "A rebel group in the Democratic Republic of Congo has retreated after heavy clashes with government forces. This development reflects the ongoing instability in the region and the challenges of maintaining control in conflict zones.",
+          "whyItMatters": "The retreat of a rebel group could lead to further instability and violence in DR Congo, affecting regional security and humanitarian efforts.",
           "sources": [
             {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-24T14:59:59.982Z"
+      "updatedAt": "2026-11-25T00:54:02.011Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers scientific discoveries, climate discussions, and technological advancements, highlighting both recent findings and ongoing global challenges.",
+      "kicker": "Science & Nature",
+      "summary": "Today's lens covers scientific breakthroughs, environmental concerns, and geopolitical issues.",
       "stories": [
         {
-          "title": "Welsh government rules out badger cull due to ecological concerns",
-          "body": "The Welsh government has ruled out a planned badger cull, citing concerns about the impact on local ecosystems and wildlife. The decision reflects a growing emphasis on conservation efforts and the need to balance human and animal welfare.",
-          "whyItMatters": "This decision underscores the importance of ecological balance and the role of government in protecting biodiversity.",
+          "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
+          "body": "A study published in ScienceDaily reveals that a new type of nose drop can restore youthful memory and combat Alzheimer’s in aging mice. The treatment works by reducing inflammation and promoting neurogenesis, offering a potential therapeutic approach for human trials.",
+          "whyItMatters": "This discovery could lead to new treatments for age-related cognitive decline and neurodegenerative diseases.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cm930yjy97xyo?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm"
             },
             {
               "name": "ScienceDaily",
@@ -72,91 +68,87 @@
           ]
         },
         {
-          "title": "Himalayan disasters highlight the need for cross-border biodiversity conservation",
-          "body": "Recent Himalayan disasters have drawn attention to the urgent need for biodiversity conservation across international borders. The findings emphasize the interconnectedness of ecosystems and the importance of collaborative conservation strategies.",
-          "whyItMatters": "These events highlight the critical role of global cooperation in preserving natural habitats and mitigating climate-related risks.",
-          "sources": [
-            {
-              "name": "Nature",
-              "url": "https://www.nature.com/articles/d41586-026-03825-2"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Ancient Roman shipwreck reveals innovative waterproofing techniques",
-          "body": "A 2,200-year-old Roman shipwreck has provided insights into ancient engineering and waterproofing methods. The discovery offers a glimpse into historical technological advancements and their potential modern applications.",
-          "whyItMatters": "This finding illustrates the enduring legacy of ancient innovations and their relevance to contemporary engineering practices.",
+          "title": "Earth's next ice age may have already begun. Global warming stopped it",
+          "body": "According to ScienceDaily, the Earth's next ice age may have already begun, despite global warming. The cooling trend suggests that the planet is entering a new ice age phase, possibly due to natural climate variability.",
+          "whyItMatters": "This finding highlights the complex interplay between global warming and natural climate cycles, emphasizing the need for continued climate research.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm"
             },
             {
               "name": "ScienceDaily",
               "url": "https://www.sciencedaily.com/releases/2026/11/261123005336.htm"
+            }
+          ]
+        },
+        {
+          "title": "Storms targeting both US coasts threaten to snarl Thanksgiving travel for millions",
+          "body": "BBC Science reports that storms targeting both the East and West coasts of the United States are expected to disrupt Thanksgiving travel. The storms could cause severe weather, including heavy rain and strong winds, affecting transportation and travel plans.",
+          "whyItMatters": "This weather event underscores the increasing frequency and intensity of extreme weather, which can have significant economic and social impacts on travel and daily life.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/weather/articles/c5742nplemnno?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-24T14:59:59.982Z"
+      "updatedAt": "2026-11-25T00:54:02.011Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of sports, politics, and business news, highlighting key developments in global affairs and economic trends.",
+      "summary": "The lens covers economic developments, including new tariffs, energy bills, and geopolitical events impacting global markets.",
       "stories": [
         {
-          "title": "Senegal Reinstated as 2025 Africa Cup of Nations Winners",
-          "body": "Senegal was reinstated as winners of the 2025 Africa Cup of Nations after a controversial decision by the tournament organizers to exclude them in 2024. The decision sparked debate over fairness and transparency in sports governance. This event highlights the ongoing tensions in international sports competitions.",
-          "whyItMatters": "The reinstatement of Senegal underscores the complexities of sports governance and the impact of decisions on national pride and international relations.",
+          "title": "US prepares to unveil new tariffs on global trading partners",
+          "body": "The US is set to announce new tariffs on goods from its top trading partners, signaling potential disruptions in global trade and supply chains. The move is expected to affect industries reliant on imported goods, raising concerns about economic impacts and trade relations.",
+          "whyItMatters": "This development could influence global trade dynamics and affect businesses and consumers worldwide.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/11/24/senegal-reinstated-as-2025-africa-cup-of-nations-winners-over-morocco?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news-analysis/2026/11/24/could-russia-ukraine-war-threaten-libyas-fragile-reunification-process?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Saudi-led Coalition Condemns 'Terrorist Attack' on Tower in Riyadh",
-          "body": "The Saudi-led coalition condemned a terrorist attack on a tower in Riyadh, emphasizing the importance of security and stability in the region. The incident reflects the ongoing challenges faced by the region in maintaining peace and preventing extremism.",
-          "whyItMatters": "The condemnation of the attack highlights the critical role of regional security in maintaining stability and preventing further violence.",
+          "title": "Energy bill changes in the UK",
+          "body": "The UK is set to introduce new price caps on energy bills, aiming to reduce costs for households. These changes are expected to impact energy consumption patterns and may encourage more sustainable practices, such as using energy-efficient appliances or reducing overall usage.",
+          "whyItMatters": "These changes could influence consumer behavior and energy policy, affecting both households and the broader energy sector.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news-analysis/2026/11/24/could-russia-ukraine-war-threaten-libyas-fragile-reunification-process?traffic_source=rss"
+              "name": "BBC Business",
+              "url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Russia-Ukraine War Threatens Libya's Reunification Process",
-          "body": "The Russia-Ukraine war has raised concerns about the stability of Libya's reunification efforts. The conflict has disrupted regional dynamics and created new challenges for peace and cooperation in the region.",
-          "whyItMatters": "The potential impact of the war on Libya's reunification process underscores the broader geopolitical implications of regional conflicts.",
+          "title": "Alaska ends deal to share voter records with US Justice Department",
+          "body": "Alaska has terminated a previous agreement to provide voter records to the U.S. Justice Department, raising concerns about data privacy and access to information. This decision may affect the transparency and efficiency of legal processes involving federal agencies.",
+          "whyItMatters": "This development highlights tensions around data privacy and the legal access to sensitive information, with implications for federal and state interactions.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news-analysis/2026/11/24/could-russia-ukraine-war-threaten-libyas-fragile-reunification-process?traffic_source=rss"
-            },
-            {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-24T14:59:59.982Z"
+      "updatedAt": "2026-11-25T00:54:02.011Z"
     }
   }
 }
