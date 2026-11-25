@@ -1,119 +1,130 @@
 {
-  "generatedAt": "2026-11-25T00:54:02.011Z",
+  "generatedAt": "2026-11-25T14:38:38.744Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Geopolitics",
-      "summary": "Three key geopolitical developments: Alaska ends a deal to share voter records, Iran war live with Houthis threatening Saudi ports, and a rebel group retreats in DR Congo. These events highlight ongoing tensions and conflicts in various regions.",
+      "summary": "Today's lens covers developments in Syria, the US-China tech conflict, Israel and Nvidia, Australia-Solomon Islands security deal, and international space and legal issues.",
       "stories": [
         {
-          "title": "Alaska Ends Deal to Share Voter Records",
-          "body": "Alaska has terminated a previous agreement to provide voter records to the U.S. Justice Department. The decision comes amid concerns over data privacy and access, reflecting broader tensions between states and federal authorities.",
-          "whyItMatters": "The termination of this agreement underscores the complexities of data sharing and jurisdictional disputes in the United States.",
+          "title": "Syrian Teams Clear Landmines After Deadly Explosion",
+          "body": "Syrian military teams have cleared landmines in a region affected by a deadly explosion, marking a significant step toward safety in the area. The operation highlights ongoing efforts to de-mines conflict zones, though the exact cause of the explosion remains under investigation.",
+          "whyItMatters": "The clearance of landmines in conflict zones underscores the importance of humanitarian efforts and the risks associated with ongoing warfare.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/syrian-teams-clear-landmines-after-deadly-explosion?traffic_source=rss"
             },
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Houthis Threaten Saudi Ports Over Coalition Order",
-          "body": "In a live update, the Houthis, a Yemeni rebel group, have threatened to attack Saudi ports following the coalition's Hodeidah order. This escalation highlights the ongoing conflict in the region and the potential for increased military action.",
-          "whyItMatters": "The threat to Saudi ports could impact regional stability and energy supplies, affecting global trade and security.",
+          "title": "US Court Convicts Huawei of Theft: A History of Chinese Firm’s Global Woes",
+          "body": "A US court has convicted Huawei of theft, citing allegations of intellectual property violations. This development reflects the ongoing tensions between the US and China, particularly in the realm of technology and trade, and raises questions about global supply chains and technological sovereignty.",
+          "whyItMatters": "The conviction of Huawei highlights the geopolitical tensions between the US and China, and the broader implications for global technology trade and intellectual property rights.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/25/us-court-convicts-huawei-of-theft-a-history-of-chinese-firms-global-woes?traffic_source=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Rebel Group Retreats in DR Congo",
-          "body": "A rebel group in the Democratic Republic of Congo has retreated after heavy clashes with government forces. This development reflects the ongoing instability in the region and the challenges of maintaining control in conflict zones.",
-          "whyItMatters": "The retreat of a rebel group could lead to further instability and violence in DR Congo, affecting regional security and humanitarian efforts.",
+          "title": "Israel Celebrates Jensen Huang’s Return to Nvidia",
+          "body": "Israel has celebrated Jensen Huang’s return to Nvidia, a major tech company, as a sign of renewed collaboration and investment. This move reflects the growing influence of Chinese technology firms in the global tech landscape and the shifting dynamics of international business relations.",
+          "whyItMatters": "The return of a key figure from a Chinese tech company to a Western firm highlights the evolving role of Chinese technology in global business and the increasing influence of Chinese tech firms in the international market.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss"
+              "url": "https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-25T00:54:02.011Z"
+      "updatedAt": "2026-11-25T14:38:38.744Z"
     },
     "science": {
-      "kicker": "Science & Nature",
-      "summary": "Today's lens covers scientific breakthroughs, environmental concerns, and geopolitical issues.",
+      "kicker": "Science & Technology",
+      "summary": "Today's lens covers groundbreaking scientific discoveries, space exploration, and global health advancements.",
       "stories": [
         {
-          "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
-          "body": "A study published in ScienceDaily reveals that a new type of nose drop can restore youthful memory and combat Alzheimer’s in aging mice. The treatment works by reducing inflammation and promoting neurogenesis, offering a potential therapeutic approach for human trials.",
-          "whyItMatters": "This discovery could lead to new treatments for age-related cognitive decline and neurodegenerative diseases.",
+          "title": "Space Telescope Discovers Unusual Cosmic Phenomenon",
+          "body": "A space telescope has detected an unexpected anomaly in the distribution of dark matter, suggesting new insights into the universe's structure and evolution. The discovery could challenge current theories about the formation and behavior of dark matter.",
+          "whyItMatters": "This finding may reshape our understanding of the universe's composition and the forces governing its structure.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm"
             },
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261123005336.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm"
             }
           ]
         },
         {
-          "title": "Earth's next ice age may have already begun. Global warming stopped it",
-          "body": "According to ScienceDaily, the Earth's next ice age may have already begun, despite global warming. The cooling trend suggests that the planet is entering a new ice age phase, possibly due to natural climate variability.",
-          "whyItMatters": "This finding highlights the complex interplay between global warming and natural climate cycles, emphasizing the need for continued climate research.",
+          "title": "Physicists Break Ground in Antimatter Research",
+          "body": "Physicists have successfully trapped antimatter in a stable state, a breakthrough that could explain the dominance of matter over antimatter in the universe. This research has implications for understanding the early universe and the fundamental forces at play.",
+          "whyItMatters": "This discovery may provide critical insights into the origins of the universe and the asymmetry between matter and antimatter.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261123005336.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm"
             }
           ]
         },
         {
-          "title": "Storms targeting both US coasts threaten to snarl Thanksgiving travel for millions",
-          "body": "BBC Science reports that storms targeting both the East and West coasts of the United States are expected to disrupt Thanksgiving travel. The storms could cause severe weather, including heavy rain and strong winds, affecting transportation and travel plans.",
-          "whyItMatters": "This weather event underscores the increasing frequency and intensity of extreme weather, which can have significant economic and social impacts on travel and daily life.",
+          "title": "HIV Vaccine Progress Makes Groundbreaking Advances",
+          "body": "A new HIV vaccine candidate has shown promising results in preclinical trials, utilizing super antibodies that target the virus more effectively than previous treatments. This development could significantly improve HIV prevention and treatment strategies.",
+          "whyItMatters": "This progress may lead to more effective HIV prevention and treatment, addressing a major public health challenge.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/weather/articles/c5742nplemnno?at_medium=RSS&at_campaign=rss"
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03718-4"
             },
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+              "name": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03513-1"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-25T00:54:02.011Z"
+      "updatedAt": "2026-11-25T14:38:38.744Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "The lens covers economic developments, including new tariffs, energy bills, and geopolitical events impacting global markets.",
+      "summary": "Today's lens covers economic developments, including energy bill increases, legal rulings, and international security agreements.",
       "stories": [
         {
-          "title": "US prepares to unveil new tariffs on global trading partners",
-          "body": "The US is set to announce new tariffs on goods from its top trading partners, signaling potential disruptions in global trade and supply chains. The move is expected to affect industries reliant on imported goods, raising concerns about economic impacts and trade relations.",
-          "whyItMatters": "This development could influence global trade dynamics and affect businesses and consumers worldwide.",
+          "title": "Syrian Teams Clear Landmines After Deadly Explosion",
+          "body": "Syrian military teams have cleared landmines in an area affected by a deadly explosion, highlighting ongoing efforts to de-mines conflict zones. The incident underscores the risks and complexities of mine clearance in war-torn regions.",
+          "whyItMatters": "The clearance of landmines in conflict zones is critical for humanitarian and military safety, reflecting the ongoing challenges in post-conflict recovery.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
-            },
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/syrian-teams-clear-landmines-after-deadly-explosion?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "Energy Bills to Rise by 26% from January After Gas Prices Surge",
+          "body": "BBC Business reports that energy bills are set to rise by 26% from January due to a surge in gas prices, affecting households and businesses across the UK. This increase is expected to impact daily living costs and energy consumption patterns.",
+          "whyItMatters": "Rising energy bills can influence consumer behavior and economic planning, particularly in countries reliant on fossil fuels, highlighting the need for energy policy adjustments.",
+          "sources": [
             {
               "name": "BBC Business",
               "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss"
@@ -121,34 +132,19 @@
           ]
         },
         {
-          "title": "Energy bill changes in the UK",
-          "body": "The UK is set to introduce new price caps on energy bills, aiming to reduce costs for households. These changes are expected to impact energy consumption patterns and may encourage more sustainable practices, such as using energy-efficient appliances or reducing overall usage.",
-          "whyItMatters": "These changes could influence consumer behavior and energy policy, affecting both households and the broader energy sector.",
-          "sources": [
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Alaska ends deal to share voter records with US Justice Department",
-          "body": "Alaska has terminated a previous agreement to provide voter records to the U.S. Justice Department, raising concerns about data privacy and access to information. This decision may affect the transparency and efficiency of legal processes involving federal agencies.",
-          "whyItMatters": "This development highlights tensions around data privacy and the legal access to sensitive information, with implications for federal and state interactions.",
+          "title": "US Court Convicts Huawei of Theft: A History of Chinese Firm’s Global Woes",
+          "body": "A US court has convicted Huawei of theft, marking a significant legal and technological development. This ruling reflects ongoing tensions between the US and China over technology and trade, impacting global tech ecosystems.",
+          "whyItMatters": "Legal actions against tech companies can influence international trade policies and technological development, shaping global competition in the tech sector.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/25/us-court-convicts-huawei-of-theft-a-history-of-chinese-firms-global-woes?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-25T00:54:02.011Z"
+      "updatedAt": "2026-11-25T14:38:38.744Z"
     }
   }
 }
