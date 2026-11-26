@@ -1,142 +1,138 @@
 {
-  "generatedAt": "2026-11-26T00:32:23.599Z",
+  "generatedAt": "2026-11-26T14:02:44.488Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of geopolitical events, natural disasters, sports updates, and economic concerns, highlighting the interconnectedness of global affairs.",
+      "summary": "Today's lens covers a mix of international incidents, human rights concerns, and geopolitical developments, highlighting the complexity of global issues affecting students.",
       "stories": [
         {
-          "title": "US Army Claims Success in Iowa Explosion",
-          "body": "The US Army reported a successful controlled blast in Iowa, marking a significant military operation. The event was described as a 'huge success' by the military command, though the exact details and context remain unclear. This incident highlights the ongoing military activities in the region.",
-          "whyItMatters": "The military operation in Iowa underscores the strategic importance of regional security and the potential for similar operations in other areas.",
+          "title": "Diesel tanker sinks near Ibiza, killing one",
+          "body": "A diesel tanker carrying up to 7,000 tonnes sank near Ibiza, killing one person. The incident occurred on November 26, 2026, and the exact cause is under investigation. The event highlights the risks of maritime transport and the potential for accidents in coastal regions.",
+          "whyItMatters": "This incident underscores the importance of maritime safety and the need for robust regulations to prevent such tragedies.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Houthi Attacks on Saudi Ports",
-          "body": "Houthi militants have targeted Saudi Arabia's Red Sea ports, escalating their military operations. The attacks are part of a broader conflict in the region, with the Saudi government responding with increased military presence. The situation reflects the ongoing tensions in the Middle East.",
-          "whyItMatters": "The escalation of military actions in the region could impact regional stability and international relations, particularly in the context of the broader conflict in Yemen.",
+          "title": "Jordan Parliament debates 'antiterror' law after deadly Karak church attack",
+          "body": "Jordan's parliament is debating an 'antiterror' law following a deadly attack on a church in Karak. The law aims to address security concerns, but its implementation and impact remain uncertain. The debate reflects ongoing tensions in the region and the challenges of balancing security with civil liberties.",
+          "whyItMatters": "The debate highlights the complex interplay between security measures and civil rights, a critical issue for students studying international relations and law.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/26/jordan-parliament-debates-antiterror-law-after-deadly-karak-church-attack?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Egypt's Transport Disasters",
-          "body": "Multiple transport-related incidents have occurred in Egypt, including a deadly truck fire and a fuel tanker crash. These events highlight the ongoing challenges in infrastructure and safety in the region. The incidents have raised concerns about the safety of public transportation systems.",
-          "whyItMatters": "Transport safety is a critical issue for countries facing economic and political pressures, and these incidents underscore the need for improved infrastructure and safety measures.",
+          "title": "FIFA says personal and business information stolen in cyberattack",
+          "body": "FIFA has confirmed that personal and business information was stolen in a cyberattack. The incident raises concerns about digital security and the vulnerability of large organizations. The breach could affect stakeholders and highlight the need for improved cybersecurity protocols.",
+          "whyItMatters": "This incident underscores the growing importance of cybersecurity in the digital age and its impact on global institutions.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss"
-            },
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.aljazeera.com/sports/2026/11/26/fifa-says-personal-and-business-information-stolen-in-cyberattack?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-26T00:32:23.599Z"
+      "updatedAt": "2026-11-26T14:02:44.488Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens covers advancements in space exploration, climate science, and cutting-edge research, highlighting both scientific discoveries and global developments.",
+      "summary": "Today's lens covers advances in science, technology, and environmental research, including new findings in astronomy, climate science, and materials science.",
       "stories": [
         {
-          "title": "US Army's Controlled Explosion in Iowa",
-          "body": "The US Army announced a successful controlled blast in Iowa, marking a milestone in explosive testing. The experiment aimed to study the effects of controlled detonations on infrastructure, with results indicating the effectiveness of modern explosives in reducing blast damage.",
-          "whyItMatters": "This development could inform future safety protocols and improve understanding of explosive technologies.",
+          "title": "Women's multitasking abilities",
+          "body": "A study published in ScienceDaily reveals that women may perform multitasking more efficiently than men, possibly due to differences in brain structure and neural pathways. The research suggests that women's brains may allocate resources differently, allowing for better performance in complex tasks.",
+          "whyItMatters": "Understanding gender differences in cognitive abilities could inform educational and workplace policies, promoting inclusivity and effective learning strategies.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261125045306.htm"
             },
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261125045307.htm"
             }
           ]
         },
         {
-          "title": "UK Climate Shifts and Weather Patterns",
-          "body": "The Met Office predicts fewer frosts and more hot days in the UK as seasons shift. This change could impact agriculture, energy use, and ecosystems, prompting adaptation strategies in response to climate variability.",
-          "whyItMatters": "Understanding these climate shifts is crucial for planning and resilience in the face of changing environmental conditions.",
+          "title": "Asteroid impact test reveals large crater",
+          "body": "A BBC Science report highlights a recent test of Earth's defences, where an asteroid was targeted to create a crater. The experiment revealed a stadium-sized crater, providing insights into asteroid impact dynamics and potential mitigation strategies.",
+          "whyItMatters": "This test could improve our understanding of planetary defense and help develop better strategies to protect Earth from future impacts.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/weather/videos/c804wd3wwqpyo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "SpaceX's Satellite Deployment Plan",
-          "body": "The US has approved SpaceX's plan to launch a million data satellites, aiming to enhance global communication and space-based internet. This initiative could revolutionize connectivity and data transmission in space.",
-          "whyItMatters": "A large number of satellites could lead to increased space traffic management and potential orbital debris concerns, highlighting the need for sustainable space infrastructure.",
+          "title": "Dark matter discovery in space telescope",
+          "body": "A space telescope detected unexpected signals that suggest the presence of dark matter. This discovery could revolutionize our understanding of the universe's composition and structure, offering new avenues for research in astrophysics.",
+          "whyItMatters": "Understanding dark matter's role in the universe is crucial for advancing cosmology and potentially revealing the fundamental nature of reality.",
           "sources": [
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss"
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-26T00:32:23.599Z"
+      "updatedAt": "2026-11-26T14:02:44.488Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including US space policy, transport disasters, stock market fluctuations, and geopolitical tensions.",
+      "summary": "Today's lens covers economic developments, including a crypto country, mortgage payments, UK-EU treaty, and other global economic and political updates.",
       "stories": [
         {
-          "title": "US approves SpaceX plan to send a million data satellites to space",
-          "body": "The United States has approved SpaceX's plan to launch a million data satellites into orbit, marking a significant step in the development of global satellite networks. The initiative aims to enhance connectivity and support various industries, including telecommunications and weather monitoring. This development could impact global communication infrastructure and satellite-based services.",
-          "whyItMatters": "The approval of this satellite launch could reshape global communication and data transmission capabilities, influencing technological and economic developments.",
+          "title": "Liberland's crypto experiment",
+          "body": "Liberland, a virtual jurisdiction in the blockchain space, has gained attention as a potential economic experiment. It allows citizens to engage in digital transactions without traditional banking systems. The project aims to create a self-governing entity with its own currency, the 'Poundland.' This could influence how digital economies function and how financial regulations are structured.",
+          "whyItMatters": "The emergence of such virtual jurisdictions may reshape financial systems and regulatory frameworks.",
           "sources": [
             {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/26/inside-liberland-the-crypto-country-few-have-heard-of?traffic_source=rss"
+            },
+            {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "US stocks fall further as fears over AI intensify",
-          "body": "US stocks declined further on Wednesday as concerns over the impact of artificial intelligence on the economy and job markets intensified. Investors worried about the long-term effects of AI on productivity, employment, and market stability. The decline in stock prices reflected broader fears about the future of technology and its economic implications.",
-          "whyItMatters": "The decline in US stocks highlights the growing concerns about the economic and social impacts of artificial intelligence, which could influence investment decisions and policy frameworks.",
+          "title": "Mortgage payments rise by £100",
+          "body": "A significant increase in average monthly mortgage payments is expected for millions of UK residents. This development highlights the growing financial pressures on households and the potential impact on consumer spending and economic stability.",
+          "whyItMatters": "The rise in mortgage payments could affect consumer behavior and economic growth in the UK.",
           "sources": [
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Poundland collapses putting 11,000 jobs at risk",
-          "body": "Poundland, a UK retail chain, faced a financial crisis that led to its collapse, putting 11,000 jobs at risk. The company's failure was attributed to poor financial management and a lack of customer retention strategies. This event underscores the challenges faced by businesses in the retail sector and the potential economic consequences of such failures.",
-          "whyItMatters": "The collapse of Poundland highlights the vulnerabilities in the retail sector and the importance of financial management and customer engagement in maintaining business stability.",
+          "title": "UK-EU treaty and termination clause",
+          "body": "The UK and EU have agreed to a new treaty with a 10-year termination clause, which could lead to a potential end to the EU-UK trade relationship. This development has implications for trade policies, economic cooperation, and future negotiations.",
+          "whyItMatters": "The termination clause may influence the future of trade relations between the UK and the EU, affecting economic cooperation and trade policies.",
           "sources": [
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-26T00:32:23.599Z"
+      "updatedAt": "2026-11-26T14:02:44.488Z"
     }
   }
 }
