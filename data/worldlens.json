@@ -1,138 +1,138 @@
 {
-  "generatedAt": "2026-11-27T00:41:17.359Z",
+  "generatedAt": "2026-11-27T14:01:10.389Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of regional events, including natural disasters, political tensions, and international news, highlighting the interconnectedness of global issues.",
+      "summary": "Today's lens covers geopolitical tensions, a UN warning about famine, and a sports match, reflecting a mix of regional and international events.",
       "stories": [
         {
-          "title": "US faces criticism for not pushing Russia hard enough",
-          "body": "US President Zelensky criticized the country's focus on the Middle East, calling for greater pressure on Russia. The criticism comes as the US continues to prioritize regional conflicts over international cooperation, raising concerns about global stability and diplomatic relations.",
-          "whyItMatters": "The US's strategic priorities may affect international alliances and conflict resolution, influencing global geopolitical dynamics.",
-          "sources": [
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "US storm hits with flooding and flight delays",
-          "body": "A major Thanksgiving storm caused widespread flooding and flight delays across the US. The storm disrupted transportation and infrastructure, highlighting the vulnerability of regions to extreme weather events and the need for improved disaster preparedness.",
-          "whyItMatters": "Natural disasters can have significant economic and social impacts, underscoring the importance of climate resilience and emergency response strategies.",
-          "sources": [
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "Iran's Araghchi calls Kuwait attack 'suspicious'",
-          "body": "Iran's military official Araghchi expressed doubt about a deadly attack on Kuwait, suggesting the incident may have been a false flag operation. The statement adds to growing tensions in the region and raises questions about the motives behind military actions.",
-          "whyItMatters": "Regional conflicts and accusations of false flag operations can escalate tensions and affect international relations, particularly in areas with complex geopolitical dynamics.",
+          "title": "Georgian Police Clash with Turkish Fans Over Palestine",
+          "body": "Georgian police clashed with Turkish football fans in a conflict over Palestine, highlighting tensions between regional powers and the impact of global issues on local communities. The incident occurred amid rising geopolitical tensions and concerns about regional stability.",
+          "whyItMatters": "The clash underscores the complex interplay between regional conflicts and global issues, affecting local populations and international relations.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss"
-            }
-          ]
-        }
-      ],
-      "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-27T00:41:17.359Z"
-    },
-    "science": {
-      "kicker": "Science & Nature",
-      "summary": "Today's lens covers recent scientific discoveries, climate impacts, and research advancements across various fields.",
-      "stories": [
-        {
-          "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-          "body": "A major Thanksgiving storm caused widespread flooding and flight delays across the United States, highlighting the increasing impact of extreme weather events. The storm, which affected multiple states, caused significant disruptions to transportation and daily life, emphasizing the need for improved climate resilience and disaster preparedness.",
-          "whyItMatters": "Extreme weather events are becoming more frequent and severe, underscoring the importance of climate adaptation strategies and infrastructure resilience.",
-          "sources": [
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.aljazeera.com/sports/2026/11/27/why-did-georgian-police-clash-with-turkish-football-fans-over-palestine?traffic_source=rss"
             },
             {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Scientists discover mysterious lakes more than a mile beneath the Red Sea",
-          "body": "Researchers have identified lakes beneath the Red Sea that are over a mile deep, revealing new insights into Earth's geological processes. These findings could have implications for understanding water cycles, tectonic activity, and the evolution of marine ecosystems.",
-          "whyItMatters": "Such discoveries contribute to our understanding of Earth's geological and hydrological systems, potentially influencing climate models and resource management strategies.",
+          "title": "UN Warns of Famine Due to Global Conflict and El Nino",
+          "body": "The UN warns that famine is expected to rise due to global conflict and El Nino, emphasizing the potential for widespread humanitarian crises. This highlights the vulnerability of food security in the face of geopolitical instability and climate change.",
+          "whyItMatters": "The UN's warning underscores the critical need for global cooperation to address climate and conflict-related food insecurity, affecting millions of people.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
-          "body": "Physicists have achieved a significant breakthrough by trapping antimatter in a state that could help explain the fundamental nature of the universe. This research could lead to new insights into the origins of matter and energy, as well as the potential for new technologies based on antimatter physics.",
-          "whyItMatters": "Advancements in fundamental physics could revolutionize our understanding of the universe and lead to breakthroughs in energy production and particle physics.",
+          "title": "England's Overton Claims 5-12 as Australia Bowled Out",
+          "body": "England's Overton took 5-12 as Australia was bowled out for a record low in a T20 match, showcasing the competitive nature of international sports and the impact of global events on local sports culture.",
+          "whyItMatters": "The match highlights the role of international sports in fostering national pride and the influence of global events on local sporting achievements.",
           "sources": [
             {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/11/27/englands-overton-takes-5-12-as-australia-bowled-out-for-record-low-in-t20?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-27T00:41:17.359Z"
+      "updatedAt": "2026-11-27T14:01:10.389Z"
+    },
+    "science": {
+      "kicker": "Science & Technology",
+      "summary": "Today's lens highlights advances in science, technology, and environmental initiatives, including new discoveries, innovations, and global efforts.",
+      "stories": [
+        {
+          "title": "Rare turtles found inside baggage at Amsterdam airport",
+          "body": "A rare species of turtles was discovered inside the baggage of an Amsterdam airport passenger. The discovery highlights the unexpected presence of wildlife in human transport and raises awareness about the importance of wildlife conservation.",
+          "whyItMatters": "This incident underscores the need for stricter security protocols to prevent the accidental transport of exotic species, which can threaten local ecosystems.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Scientists turn one of the world’s hardest-to-recycle plastics into high-performance lubricating oil",
+          "body": "A breakthrough in material science has enabled the conversion of a challenging plastic into a high-performance lubricating oil. This innovation could significantly reduce waste and improve industrial efficiency by repurposing difficult-to-recycle materials.",
+          "whyItMatters": "This development offers a sustainable solution to plastic waste management and could lead to more environmentally friendly industrial practices.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261126033501.htm"
+            }
+          ]
+        },
+        {
+          "title": "Floating nature islands installed in parks as Glasgow Games legacy",
+          "body": "Floating nature islands, designed to mimic natural ecosystems, have been installed in parks as part of the Glasgow Games legacy. These islands provide habitats for wildlife and enhance urban green spaces, promoting biodiversity and environmental awareness.",
+          "whyItMatters": "This initiative demonstrates how urban spaces can be transformed into eco-friendly environments, encouraging sustainable practices and public engagement with nature.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cwe9kxdm1k4lo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "mode": "GitHub Action · local Qwen",
+      "updatedAt": "2026-11-27T14:01:10.389Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including Argentina's financial policies, UK's participation fees, and AI-related trends.",
+      "summary": "Today's lens covers a mix of global economic developments, including a potential famine warning, a sports event, and a business-related update.",
       "stories": [
         {
-          "title": "Argentina bars Central Bank from printing money to fund government spending",
-          "body": "Argentina has barred the Central Bank from printing money to fund government spending, citing concerns over inflation and the risk of currency devaluation. The move comes amid a broader economic challenge, as the country faces high inflation and a growing fiscal deficit. This decision has sparked debate over the balance between fiscal responsibility and economic stability.",
-          "whyItMatters": "The decision highlights the tension between fiscal policy and economic stability, raising questions about the effectiveness of monetary interventions in managing inflation.",
+          "title": "Georgian Police Clash with Turkish Football Fans Over Palestine",
+          "body": "Georgian police clashed with Turkish football fans in a conflict over Palestine, with both sides reporting injuries. The incident highlights tensions in the region and the impact of geopolitical issues on local communities.",
+          "whyItMatters": "The clash underscores the complex interplay between regional conflicts and public safety concerns.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss"
+              "url": "https://www.aljazeera.com/sports/2026/11/27/why-did-georgian-police-clash-with-turkish-football-fans-over-palestine?traffic_source=rss"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "UK to pay 'participation' fee to deliver EU deals",
-          "body": "The UK is set to pay a 'participation' fee to deliver EU deals, marking a shift in the financial arrangements between the UK and the EU. This fee is intended to ensure that the UK contributes to the costs of EU initiatives, such as the European Green Deal. The move reflects the ongoing negotiations over the future of the UK's relationship with the EU.",
-          "whyItMatters": "The fee underscores the complex financial arrangements between the UK and the EU, highlighting the challenges of maintaining economic cooperation amid political tensions.",
+          "title": "England’s Overton Takes 5-12 as Australia Bowled Out for Record Low in T20",
+          "body": "England’s Adam Overton claimed five wickets in the first over as Australia was bowled out for a record low of 62 in a T20 match. The victory highlights the competitive nature of cricket and the importance of strategic batting.",
+          "whyItMatters": "The match showcases the evolving dynamics of international sports and the role of key players in determining outcomes.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/11/27/englands-overton-takes-5-12-as-australia-bowled-out-for-record-low-in-t20?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "title": "UK to Pay 'Participation' Fee to Deliver EU Deals",
+          "body": "The UK is set to pay a 'participation' fee to deliver EU deals, reflecting the ongoing negotiations and financial commitments between the UK and the EU. This development highlights the complexities of international trade and political agreements.",
+          "whyItMatters": "The fee underscores the financial and political challenges of maintaining EU cooperation and the impact of such agreements on national budgets.",
           "sources": [
             {
               "name": "BBC Business",
               "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss"
             }
           ]
-        },
-        {
-          "title": "Asia made a big AI bet on Nvidia. What happens now?",
-          "body": "Asia has made a significant investment in AI technology, with a focus on Nvidia, a leading provider of AI hardware. This investment is expected to drive innovation in AI applications across various sectors. However, the long-term impact of this investment remains uncertain, as the AI landscape is rapidly evolving and the benefits of such investments are still being realized.",
-          "whyItMatters": "The investment in AI technology by Asia highlights the growing importance of AI in economic and technological development, but also underscores the need for continued innovation and adaptation in the AI industry.",
-          "sources": [
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-27T00:41:17.359Z"
+      "updatedAt": "2026-11-27T14:01:10.389Z"
     }
   }
 }
