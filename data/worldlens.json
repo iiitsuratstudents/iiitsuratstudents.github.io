@@ -1,138 +1,138 @@
 {
-  "generatedAt": "2026-11-26T14:02:44.488Z",
+  "generatedAt": "2026-11-27T00:41:17.359Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
       "kicker": "Global Brief",
-      "summary": "Today's lens covers a mix of international incidents, human rights concerns, and geopolitical developments, highlighting the complexity of global issues affecting students.",
+      "summary": "Today's lens covers a mix of regional events, including natural disasters, political tensions, and international news, highlighting the interconnectedness of global issues.",
       "stories": [
         {
-          "title": "Diesel tanker sinks near Ibiza, killing one",
-          "body": "A diesel tanker carrying up to 7,000 tonnes sank near Ibiza, killing one person. The incident occurred on November 26, 2026, and the exact cause is under investigation. The event highlights the risks of maritime transport and the potential for accidents in coastal regions.",
-          "whyItMatters": "This incident underscores the importance of maritime safety and the need for robust regulations to prevent such tragedies.",
+          "title": "US faces criticism for not pushing Russia hard enough",
+          "body": "US President Zelensky criticized the country's focus on the Middle East, calling for greater pressure on Russia. The criticism comes as the US continues to prioritize regional conflicts over international cooperation, raising concerns about global stability and diplomatic relations.",
+          "whyItMatters": "The US's strategic priorities may affect international alliances and conflict resolution, influencing global geopolitical dynamics.",
           "sources": [
             {
               "name": "BBC World",
-              "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Jordan Parliament debates 'antiterror' law after deadly Karak church attack",
-          "body": "Jordan's parliament is debating an 'antiterror' law following a deadly attack on a church in Karak. The law aims to address security concerns, but its implementation and impact remain uncertain. The debate reflects ongoing tensions in the region and the challenges of balancing security with civil liberties.",
-          "whyItMatters": "The debate highlights the complex interplay between security measures and civil rights, a critical issue for students studying international relations and law.",
+          "title": "US storm hits with flooding and flight delays",
+          "body": "A major Thanksgiving storm caused widespread flooding and flight delays across the US. The storm disrupted transportation and infrastructure, highlighting the vulnerability of regions to extreme weather events and the need for improved disaster preparedness.",
+          "whyItMatters": "Natural disasters can have significant economic and social impacts, underscoring the importance of climate resilience and emergency response strategies.",
           "sources": [
             {
-              "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/26/jordan-parliament-debates-antiterror-law-after-deadly-karak-church-attack?traffic_source=rss"
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC World",
+              "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "FIFA says personal and business information stolen in cyberattack",
-          "body": "FIFA has confirmed that personal and business information was stolen in a cyberattack. The incident raises concerns about digital security and the vulnerability of large organizations. The breach could affect stakeholders and highlight the need for improved cybersecurity protocols.",
-          "whyItMatters": "This incident underscores the growing importance of cybersecurity in the digital age and its impact on global institutions.",
+          "title": "Iran's Araghchi calls Kuwait attack 'suspicious'",
+          "body": "Iran's military official Araghchi expressed doubt about a deadly attack on Kuwait, suggesting the incident may have been a false flag operation. The statement adds to growing tensions in the region and raises questions about the motives behind military actions.",
+          "whyItMatters": "Regional conflicts and accusations of false flag operations can escalate tensions and affect international relations, particularly in areas with complex geopolitical dynamics.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/11/26/fifa-says-personal-and-business-information-stolen-in-cyberattack?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-26T14:02:44.488Z"
+      "updatedAt": "2026-11-27T00:41:17.359Z"
     },
     "science": {
-      "kicker": "Science & Technology",
-      "summary": "Today's lens covers advances in science, technology, and environmental research, including new findings in astronomy, climate science, and materials science.",
+      "kicker": "Science & Nature",
+      "summary": "Today's lens covers recent scientific discoveries, climate impacts, and research advancements across various fields.",
       "stories": [
         {
-          "title": "Women's multitasking abilities",
-          "body": "A study published in ScienceDaily reveals that women may perform multitasking more efficiently than men, possibly due to differences in brain structure and neural pathways. The research suggests that women's brains may allocate resources differently, allowing for better performance in complex tasks.",
-          "whyItMatters": "Understanding gender differences in cognitive abilities could inform educational and workplace policies, promoting inclusivity and effective learning strategies.",
-          "sources": [
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261125045306.htm"
-            },
-            {
-              "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261125045307.htm"
-            }
-          ]
-        },
-        {
-          "title": "Asteroid impact test reveals large crater",
-          "body": "A BBC Science report highlights a recent test of Earth's defences, where an asteroid was targeted to create a crater. The experiment revealed a stadium-sized crater, providing insights into asteroid impact dynamics and potential mitigation strategies.",
-          "whyItMatters": "This test could improve our understanding of planetary defense and help develop better strategies to protect Earth from future impacts.",
+          "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+          "body": "A major Thanksgiving storm caused widespread flooding and flight delays across the United States, highlighting the increasing impact of extreme weather events. The storm, which affected multiple states, caused significant disruptions to transportation and daily life, emphasizing the need for improved climate resilience and disaster preparedness.",
+          "whyItMatters": "Extreme weather events are becoming more frequent and severe, underscoring the importance of climate adaptation strategies and infrastructure resilience.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Dark matter discovery in space telescope",
-          "body": "A space telescope detected unexpected signals that suggest the presence of dark matter. This discovery could revolutionize our understanding of the universe's composition and structure, offering new avenues for research in astrophysics.",
-          "whyItMatters": "Understanding dark matter's role in the universe is crucial for advancing cosmology and potentially revealing the fundamental nature of reality.",
+          "title": "Scientists discover mysterious lakes more than a mile beneath the Red Sea",
+          "body": "Researchers have identified lakes beneath the Red Sea that are over a mile deep, revealing new insights into Earth's geological processes. These findings could have implications for understanding water cycles, tectonic activity, and the evolution of marine ecosystems.",
+          "whyItMatters": "Such discoveries contribute to our understanding of Earth's geological and hydrological systems, potentially influencing climate models and resource management strategies.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm"
+            }
+          ]
+        },
+        {
+          "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
+          "body": "Physicists have achieved a significant breakthrough by trapping antimatter in a state that could help explain the fundamental nature of the universe. This research could lead to new insights into the origins of matter and energy, as well as the potential for new technologies based on antimatter physics.",
+          "whyItMatters": "Advancements in fundamental physics could revolutionize our understanding of the universe and lead to breakthroughs in energy production and particle physics.",
+          "sources": [
+            {
+              "name": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-26T14:02:44.488Z"
+      "updatedAt": "2026-11-27T00:41:17.359Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers economic developments, including a crypto country, mortgage payments, UK-EU treaty, and other global economic and political updates.",
+      "summary": "Today's lens covers economic developments, including Argentina's financial policies, UK's participation fees, and AI-related trends.",
       "stories": [
         {
-          "title": "Liberland's crypto experiment",
-          "body": "Liberland, a virtual jurisdiction in the blockchain space, has gained attention as a potential economic experiment. It allows citizens to engage in digital transactions without traditional banking systems. The project aims to create a self-governing entity with its own currency, the 'Poundland.' This could influence how digital economies function and how financial regulations are structured.",
-          "whyItMatters": "The emergence of such virtual jurisdictions may reshape financial systems and regulatory frameworks.",
+          "title": "Argentina bars Central Bank from printing money to fund government spending",
+          "body": "Argentina has barred the Central Bank from printing money to fund government spending, citing concerns over inflation and the risk of currency devaluation. The move comes amid a broader economic challenge, as the country faces high inflation and a growing fiscal deficit. This decision has sparked debate over the balance between fiscal responsibility and economic stability.",
+          "whyItMatters": "The decision highlights the tension between fiscal policy and economic stability, raising questions about the effectiveness of monetary interventions in managing inflation.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/26/inside-liberland-the-crypto-country-few-have-heard-of?traffic_source=rss"
-            },
-            {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "Mortgage payments rise by £100",
-          "body": "A significant increase in average monthly mortgage payments is expected for millions of UK residents. This development highlights the growing financial pressures on households and the potential impact on consumer spending and economic stability.",
-          "whyItMatters": "The rise in mortgage payments could affect consumer behavior and economic growth in the UK.",
+          "title": "UK to pay 'participation' fee to deliver EU deals",
+          "body": "The UK is set to pay a 'participation' fee to deliver EU deals, marking a shift in the financial arrangements between the UK and the EU. This fee is intended to ensure that the UK contributes to the costs of EU initiatives, such as the European Green Deal. The move reflects the ongoing negotiations over the future of the UK's relationship with the EU.",
+          "whyItMatters": "The fee underscores the complex financial arrangements between the UK and the EU, highlighting the challenges of maintaining economic cooperation amid political tensions.",
           "sources": [
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "UK-EU treaty and termination clause",
-          "body": "The UK and EU have agreed to a new treaty with a 10-year termination clause, which could lead to a potential end to the EU-UK trade relationship. This development has implications for trade policies, economic cooperation, and future negotiations.",
-          "whyItMatters": "The termination clause may influence the future of trade relations between the UK and the EU, affecting economic cooperation and trade policies.",
+          "title": "Asia made a big AI bet on Nvidia. What happens now?",
+          "body": "Asia has made a significant investment in AI technology, with a focus on Nvidia, a leading provider of AI hardware. This investment is expected to drive innovation in AI applications across various sectors. However, the long-term impact of this investment remains uncertain, as the AI landscape is rapidly evolving and the benefits of such investments are still being realized.",
+          "whyItMatters": "The investment in AI technology by Asia highlights the growing importance of AI in economic and technological development, but also underscores the need for continued innovation and adaptation in the AI industry.",
           "sources": [
             {
               "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-26T14:02:44.488Z"
+      "updatedAt": "2026-11-27T00:41:17.359Z"
     }
   }
 }
