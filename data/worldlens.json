@@ -1,138 +1,142 @@
 {
-  "generatedAt": "2026-11-27T14:01:10.389Z",
+  "generatedAt": "2026-11-28T00:07:33.423Z",
   "provider": "Local Ollama / qwen3:1.7b",
   "retrieval": "Direct publisher RSS feeds",
   "topics": {
     "geopolitics": {
-      "kicker": "Global Brief",
-      "summary": "Today's lens covers geopolitical tensions, a UN warning about famine, and a sports match, reflecting a mix of regional and international events.",
+      "kicker": "Geopolitics",
+      "summary": "Today's lens covers developments in geopolitics, including a US military action against an Iranian ship, a legal case in Kenya, and a political event in Spain.",
       "stories": [
         {
-          "title": "Georgian Police Clash with Turkish Fans Over Palestine",
-          "body": "Georgian police clashed with Turkish football fans in a conflict over Palestine, highlighting tensions between regional powers and the impact of global issues on local communities. The incident occurred amid rising geopolitical tensions and concerns about regional stability.",
-          "whyItMatters": "The clash underscores the complex interplay between regional conflicts and global issues, affecting local populations and international relations.",
+          "title": "US military disables merchant ship attempting to breach Iran blockade",
+          "body": "The US military has disabled a merchant ship attempting to breach the Iranian blockade, marking a significant escalation in the ongoing tensions between the two nations. The action highlights the growing military presence and assertiveness of the United States in the region.",
+          "whyItMatters": "This event underscores the strategic importance of the Strait of Hormuz and the potential for further military confrontation in the region.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/11/27/why-did-georgian-police-clash-with-turkish-football-fans-over-palestine?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "UN Warns of Famine Due to Global Conflict and El Nino",
-          "body": "The UN warns that famine is expected to rise due to global conflict and El Nino, emphasizing the potential for widespread humanitarian crises. This highlights the vulnerability of food security in the face of geopolitical instability and climate change.",
-          "whyItMatters": "The UN's warning underscores the critical need for global cooperation to address climate and conflict-related food insecurity, affecting millions of people.",
+          "title": "Kenyan cult leader guilty of manslaughter in starvation-related deaths",
+          "body": "A Kenyan cult leader has been found guilty of manslaughter in connection to more than 123 starvation-related deaths. The case highlights the ongoing challenges in addressing humanitarian crises and the legal complexities involved in such tragedies.",
+          "whyItMatters": "This case illustrates the intersection of law, human rights, and crisis management in regions affected by extreme poverty and conflict.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "England's Overton Claims 5-12 as Australia Bowled Out",
-          "body": "England's Overton took 5-12 as Australia was bowled out for a record low in a T20 match, showcasing the competitive nature of international sports and the impact of global events on local sports culture.",
-          "whyItMatters": "The match highlights the role of international sports in fostering national pride and the influence of global events on local sporting achievements.",
+          "title": "Spain's far-right faces activism through art",
+          "body": "Activists in Spain are using art to challenge the far-right, demonstrating the power of cultural expression in political discourse. This movement reflects the broader struggle against extremism and the role of art in shaping public opinion.",
+          "whyItMatters": "Art can serve as a powerful tool for social change, highlighting the importance of cultural engagement in political activism.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/11/27/englands-overton-takes-5-12-as-australia-bowled-out-for-record-low-in-t20?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-27T14:01:10.389Z"
+      "updatedAt": "2026-11-28T00:07:33.423Z"
     },
     "science": {
       "kicker": "Science & Technology",
-      "summary": "Today's lens highlights advances in science, technology, and environmental initiatives, including new discoveries, innovations, and global efforts.",
+      "summary": "Today's lens covers recent scientific advancements, environmental challenges, and technological innovations impacting global academia and research.",
       "stories": [
         {
-          "title": "Rare turtles found inside baggage at Amsterdam airport",
-          "body": "A rare species of turtles was discovered inside the baggage of an Amsterdam airport passenger. The discovery highlights the unexpected presence of wildlife in human transport and raises awareness about the importance of wildlife conservation.",
-          "whyItMatters": "This incident underscores the need for stricter security protocols to prevent the accidental transport of exotic species, which can threaten local ecosystems.",
+          "title": "Power outages persist in US after Thanksgiving storms",
+          "body": "Hundreds of thousands of Americans still without power a day after severe Thanksgiving storms caused widespread damage, including fallen trees and flooded roads. The storms, which struck the US on 27 November 2026, have left thousands without electricity, disrupting daily life and emergency services.",
+          "whyItMatters": "The impact of extreme weather on infrastructure and public safety highlights the need for resilient energy systems and disaster preparedness.",
           "sources": [
             {
               "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "title": "Scientists turn one of the world’s hardest-to-recycle plastics into high-performance lubricating oil",
-          "body": "A breakthrough in material science has enabled the conversion of a challenging plastic into a high-performance lubricating oil. This innovation could significantly reduce waste and improve industrial efficiency by repurposing difficult-to-recycle materials.",
-          "whyItMatters": "This development offers a sustainable solution to plastic waste management and could lead to more environmentally friendly industrial practices.",
+          "title": "New satellite data reveals rapid urban subsidence in Africa",
+          "body": "New satellite data shows that some African cities are sinking at an accelerating rate, driven by subsidence, land use changes, and inadequate water management. This raises concerns about urban planning and the long-term viability of cities in the region.",
+          "whyItMatters": "Understanding urban subsidence is critical for sustainable development and infrastructure planning in rapidly growing urban centers.",
+          "sources": [
+            {
+              "name": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "title": "Scientists discover unique engineering property in narwhal's horn",
+          "body": "A study reveals that the legendary 'unicorn horn' of the narwhal has a remarkable engineering property, allowing it to withstand extreme pressures and maintain structural integrity. This discovery could inspire new materials and technologies in various industries.",
+          "whyItMatters": "Understanding natural materials and their properties can lead to innovative solutions in engineering and material science.",
           "sources": [
             {
               "name": "ScienceDaily",
-              "url": "https://www.sciencedaily.com/releases/2026/11/261126033501.htm"
-            }
-          ]
-        },
-        {
-          "title": "Floating nature islands installed in parks as Glasgow Games legacy",
-          "body": "Floating nature islands, designed to mimic natural ecosystems, have been installed in parks as part of the Glasgow Games legacy. These islands provide habitats for wildlife and enhance urban green spaces, promoting biodiversity and environmental awareness.",
-          "whyItMatters": "This initiative demonstrates how urban spaces can be transformed into eco-friendly environments, encouraging sustainable practices and public engagement with nature.",
-          "sources": [
-            {
-              "name": "BBC Science",
-              "url": "https://www.bbc.co.uk/news/articles/cwe9kxdm1k4lo?at_medium=RSS&at_campaign=rss"
+              "url": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-27T14:01:10.389Z"
+      "updatedAt": "2026-11-28T00:07:33.423Z"
     },
     "economy": {
       "kicker": "Economic",
-      "summary": "Today's lens covers a mix of global economic developments, including a potential famine warning, a sports event, and a business-related update.",
+      "summary": "Today's lens covers international economic developments, including US military actions against Iran, Taiwan's potential nuclear power revival, and food shortages in Yemen. These events highlight complex geopolitical and humanitarian challenges.",
       "stories": [
         {
-          "title": "Georgian Police Clash with Turkish Football Fans Over Palestine",
-          "body": "Georgian police clashed with Turkish football fans in a conflict over Palestine, with both sides reporting injuries. The incident highlights tensions in the region and the impact of geopolitical issues on local communities.",
-          "whyItMatters": "The clash underscores the complex interplay between regional conflicts and public safety concerns.",
+          "title": "US disables ship attempting to breach Iran blockade",
+          "body": "The US military has disabled a merchant ship attempting to breach the Iranian blockade, signaling a heightened military presence in the region. This action is part of broader efforts to counter Iranian influence and ensure maritime security in the Persian Gulf.",
+          "whyItMatters": "This move underscores the strategic importance of the Persian Gulf and the ongoing tensions between Iran and the United States.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/11/27/why-did-georgian-police-clash-with-turkish-football-fans-over-palestine?traffic_source=rss"
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss"
             },
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "England’s Overton Takes 5-12 as Australia Bowled Out for Record Low in T20",
-          "body": "England’s Adam Overton claimed five wickets in the first over as Australia was bowled out for a record low of 62 in a T20 match. The victory highlights the competitive nature of cricket and the importance of strategic batting.",
-          "whyItMatters": "The match showcases the evolving dynamics of international sports and the role of key players in determining outcomes.",
+          "title": "Taiwan votes on nuclear power revival",
+          "body": "Taiwan is set to vote on a proposal to revive nuclear power, which could have significant implications for regional energy policy and international relations. The decision will influence Taiwan's energy strategy and its relationship with China.",
+          "whyItMatters": "The outcome of this vote could shape Taiwan's energy independence and its geopolitical position in the region.",
           "sources": [
             {
               "name": "Al Jazeera",
-              "url": "https://www.aljazeera.com/sports/2026/11/27/englands-overton-takes-5-12-as-australia-bowled-out-for-record-low-in-t20?traffic_source=rss"
+              "url": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss"
             }
           ]
         },
         {
-          "title": "UK to Pay 'Participation' Fee to Deliver EU Deals",
-          "body": "The UK is set to pay a 'participation' fee to deliver EU deals, reflecting the ongoing negotiations and financial commitments between the UK and the EU. This development highlights the complexities of international trade and political agreements.",
-          "whyItMatters": "The fee underscores the financial and political challenges of maintaining EU cooperation and the impact of such agreements on national budgets.",
+          "title": "Yemen faces food shortages despite food availability",
+          "body": "Despite food being available in some areas, families in northern Yemen are going hungry due to a combination of factors, including supply chain issues, political instability, and economic challenges. This highlights the complex interplay between local and regional economic conditions.",
+          "whyItMatters": "This situation underscores the vulnerability of food security in conflict-affected regions and the need for coordinated humanitarian and economic interventions.",
           "sources": [
             {
-              "name": "BBC Business",
-              "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss"
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss"
             }
           ]
         }
       ],
       "mode": "GitHub Action · local Qwen",
-      "updatedAt": "2026-11-27T14:01:10.389Z"
+      "updatedAt": "2026-11-28T00:07:33.423Z"
     }
   }
 }
